@@ -198,6 +198,12 @@
     "asn": "33891"
   },
   {
+    "name": "Daniel Nägele",
+    "company": "BelWü",
+    "irc": "debugloop",
+    "asn": "553"
+  },
+  {
     "name": "Daniel Sprenger",
     "company": "Niceservice",
     "irc": "nice",
@@ -324,6 +330,12 @@
     "asn": null
   },
   {
+    "name": "Franziska Lichtblau",
+    "company": "MPII",
+    "irc": "rhalina",
+    "asn": null
+  },
+  {
     "name": "Fredy Künzler",
     "company": "Init7",
     "irc": null,
@@ -370,6 +382,12 @@
     "company": "Ting Fiber",
     "irc": "vista",
     "asn": "32133"
+  },
+  {
+    "name": "Gunnar Schläfer",
+    "company": null,
+    "irc": "Gr4gul",
+    "asn": "15725"
   },
   {
     "name": "Hanno Wagner",
@@ -483,6 +501,12 @@
     "name": "Jean-Luc Penasse",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Jens Link",
+    "company": null,
+    "irc": "snej",
     "asn": null
   },
   {
@@ -676,6 +700,12 @@
     "company": "Vodafone",
     "irc": "MarcoFPO",
     "asn": "3209"
+  },
+  {
+    "name": "Marco Firsching",
+    "company": "Rechenzentrum Haßfurt GmbH",
+    "irc": null,
+    "asn": "44973"
   },
   {
     "name": "Marco Prause",
@@ -1062,6 +1092,12 @@
     "asn": null
   },
   {
+    "name": "Robert Finze",
+    "company": "DE-CIX",
+    "irc": "_marvin_",
+    "asn": null
+  },
+  {
     "name": "Robert Remenyi",
     "company": "htp GmbH",
     "irc": "robrem",
@@ -1336,6 +1372,12 @@
     "company": "LWLcom GmbH",
     "irc": "toebs",
     "asn": "50629"
+  },
+  {
+    "name": "Tobias Klingenberg",
+    "company": null,
+    "irc": "BLADE 42",
+    "asn": "15725"
   },
   {
     "name": "Tobias Krischer",
