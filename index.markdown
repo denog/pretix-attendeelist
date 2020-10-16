@@ -5,9 +5,9 @@ layout: liste
   <thead>
     <tr>
       <th>Name</th>
-      <th>Firma</th>
+      <th>Company</th>
       <th>ASN</th>
-      <th>IRC-Nickname</th>
+      <th>IRC nick</th>
     </tr>
   </thead>
   <tbody>
