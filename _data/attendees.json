@@ -186,6 +186,12 @@
     "asn": "12316"
   },
   {
+    "name": "Daniel Ettle",
+    "company": "Freistaat Bayern",
+    "irc": "DaN",
+    "asn": null
+  },
+  {
     "name": "Daniel Maresch",
     "company": "Core-Backbone GmbH",
     "irc": "Daster",
@@ -1017,7 +1023,7 @@
     "name": "Ralf Ertzinger",
     "company": "Booking.com",
     "irc": "Lalufu",
-    "asn": "AS43996/AS202196"
+    "asn": "AS43996 AS202196"
   },
   {
     "name": "Ramona Röß",
@@ -1071,7 +1077,7 @@
     "name": "Robin Weiligmann",
     "company": "Förderverein Freie Infrastruktur e. V.",
     "irc": "RobWei",
-    "asn": "209894 | 207622"
+    "asn": "209894 207622"
   },
   {
     "name": "Ronny Bösger",
