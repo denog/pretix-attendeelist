@@ -6,6 +6,12 @@
     "asn": "34953"
   },
   {
+    "name": "Alex Latzko",
+    "company": null,
+    "irc": null,
+    "asn": "23352"
+  },
+  {
     "name": "Alex Senderkin",
     "company": "BCIX Management GmbH",
     "irc": "icebreak",
@@ -1012,6 +1018,12 @@
     "company": "DFN-Verein",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Nils Winnwa",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Norbert Methe",
