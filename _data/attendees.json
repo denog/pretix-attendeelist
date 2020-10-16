@@ -330,6 +330,12 @@
     "asn": "AS208250"
   },
   {
+    "name": "Florian Frank",
+    "company": "LogMeIn",
+    "irc": null,
+    "asn": "16815"
+  },
+  {
     "name": "Florian Hibler",
     "company": "Arista Networks, Inc.",
     "irc": "florian",
