@@ -294,6 +294,12 @@
     "asn": "213162"
   },
   {
+    "name": "Florian Streibelt",
+    "company": "MPI",
+    "irc": "mutax",
+    "asn": null
+  },
+  {
     "name": "Florian Tschiedel",
     "company": "Anexia",
     "irc": null,
@@ -600,6 +606,12 @@
     "asn": "8365"
   },
   {
+    "name": "Lutz Donnerhacke",
+    "company": "IKS Service GmbH",
+    "irc": "Donner",
+    "asn": "AS15725"
+  },
+  {
     "name": "Magnus Frühling",
     "company": "Freifunk Frankfurt",
     "irc": "skorpy",
@@ -858,10 +870,22 @@
     "asn": "680"
   },
   {
+    "name": "Norbert Methe",
+    "company": null,
+    "irc": null,
+    "asn": "3257"
+  },
+  {
     "name": "Olaf Baumert",
     "company": "BFH",
     "irc": "olba",
     "asn": null
+  },
+  {
+    "name": "Oliver Herms",
+    "company": "EXARING AG",
+    "irc": "takt",
+    "asn": "51324"
   },
   {
     "name": "Oliver Krüger",
@@ -922,6 +946,12 @@
     "company": null,
     "irc": "PSI",
     "asn": null
+  },
+  {
+    "name": "Peter Thiel",
+    "company": "Thycotic",
+    "irc": null,
+    "asn": "3257"
   },
   {
     "name": "Peter Wölk",
