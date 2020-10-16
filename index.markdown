@@ -18,7 +18,11 @@ layout: liste
       <td>{{ entry.company }}</td>
       <td>
         {% if entry.asn %}
-          {% assign asns=entry.asn | split: ',' %}
+          {% if entry.asn contains ',' %}
+            {% assign asns=entry.asn | split: ',' %}
+          {% else %}
+            {% assign asns=entry.asn | split: ' ' %}
+          {% endif %}
           {% for asn in asns %}
           <a href="https://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn|strip|remove:"AS" }}&flags=r&types=AUT_NUM" target="_blank">{{ asn|remove:"AS" }}</a><br>
           {% endfor %}
