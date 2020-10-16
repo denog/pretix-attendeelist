@@ -252,6 +252,12 @@
     "asn": null
   },
   {
+    "name": "Fabian Eppig",
+    "company": null,
+    "irc": null,
+    "asn": "51745"
+  },
+  {
     "name": "Fabian Sass",
     "company": null,
     "irc": null,
@@ -594,6 +600,12 @@
     "asn": null
   },
   {
+    "name": "Leonid Sergushkin",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ludger Möller",
     "company": null,
     "irc": null,
@@ -604,6 +616,12 @@
     "company": "MANDA",
     "irc": "lukas-",
     "asn": "8365"
+  },
+  {
+    "name": "Lukas Liebig",
+    "company": "IKS Service GmbH",
+    "irc": null,
+    "asn": "AS15725"
   },
   {
     "name": "Lutz Donnerhacke",
@@ -828,6 +846,12 @@
     "asn": "12857"
   },
   {
+    "name": "Michael Fuhrer",
+    "company": "SURE Connect",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Michael Hayler",
     "company": "Fujitsu TDS GmbH",
     "irc": "raider",
@@ -940,6 +964,12 @@
     "company": "blue networks / HessenKom",
     "irc": null,
     "asn": "AS50469"
+  },
+  {
+    "name": "Peter Hansen",
+    "company": "myLoc managed IT AG",
+    "irc": "empi89",
+    "asn": "24961"
   },
   {
     "name": "Peter Sievers",
@@ -1236,6 +1266,12 @@
     "asn": "47147, 42473"
   },
   {
+    "name": "Thies Müller",
+    "company": "WOBCOM GmbH",
+    "irc": "td00",
+    "asn": "9136"
+  },
+  {
     "name": "Thomas Fragstein",
     "company": null,
     "irc": "fragstone",
@@ -1305,6 +1341,12 @@
     "name": "Tobias Viernickel",
     "company": "siticom",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tom Eichhorn",
+    "company": null,
+    "irc": "MrTux",
     "asn": null
   },
   {
