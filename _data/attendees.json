@@ -570,6 +570,12 @@
     "asn": "25279"
   },
   {
+    "name": "Jordan Borgner",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jörg Backschues",
     "company": null,
     "irc": "jbacksch",
@@ -1150,6 +1156,12 @@
     "company": "ViA-Online GmbH",
     "irc": "Panther_1",
     "asn": "62086 210198"
+  },
+  {
+    "name": "Sam Aschwanden",
+    "company": null,
+    "irc": null,
+    "asn": "35202"
   },
   {
     "name": "Sandro Bolliger",
