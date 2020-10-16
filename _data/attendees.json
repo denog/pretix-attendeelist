@@ -696,6 +696,12 @@
     "asn": "AS15725"
   },
   {
+    "name": "Lukas Rabe",
+    "company": null,
+    "irc": "l151820",
+    "asn": null
+  },
+  {
     "name": "Lutz Donnerhacke",
     "company": "IKS Service GmbH",
     "irc": "Donner",
@@ -920,6 +926,12 @@
   {
     "name": "Melchior Aelmans",
     "company": "Juniper Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "merlin wolf",
+    "company": null,
     "irc": null,
     "asn": null
   },
