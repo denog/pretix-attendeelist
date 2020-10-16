@@ -282,6 +282,12 @@
     "asn": "47147, 42473"
   },
   {
+    "name": "Falk Stern",
+    "company": null,
+    "irc": "falk",
+    "asn": null
+  },
+  {
     "name": "Felix Stolba",
     "company": "ANEXIA Internetdienstleistungs GmbH",
     "irc": null,
@@ -520,6 +526,12 @@
     "company": "NL-ix",
     "irc": null,
     "asn": "34307, 42604, 20562, 24785"
+  },
+  {
+    "name": "Joerg Jungermann",
+    "company": null,
+    "irc": "abraXxl",
+    "asn": null
   },
   {
     "name": "Joey Julian König",
