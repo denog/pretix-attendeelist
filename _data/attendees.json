@@ -290,8 +290,8 @@
   {
     "name": "Fabian Sass",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "eisenkiefer",
+    "asn": "12316"
   },
   {
     "name": "Fabrice Bendfeldt",
@@ -1372,6 +1372,12 @@
     "company": "mdex",
     "irc": "lairsdragon",
     "asn": "200567"
+  },
+  {
+    "name": "Steven Karch",
+    "company": "DB Station&Service AG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sven Ellingen",
