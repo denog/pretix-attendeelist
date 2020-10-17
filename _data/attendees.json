@@ -108,6 +108,12 @@
     "asn": "AS196714"
   },
   {
+    "name": "Bastian Blank",
+    "company": null,
+    "irc": "waldi",
+    "asn": null
+  },
+  {
     "name": "Bastian Mäuser",
     "company": "FAN Media GmbH",
     "irc": "mephisto",
@@ -946,6 +952,12 @@
     "company": "Freifunk Münsterland",
     "irc": "MPW",
     "asn": "209894"
+  },
+  {
+    "name": "Maximilian Koerkemeyer",
+    "company": null,
+    "irc": "pyramidenkoenig",
+    "asn": "213033"
   },
   {
     "name": "Maximilian Schieder",
