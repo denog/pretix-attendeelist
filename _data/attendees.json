@@ -228,6 +228,12 @@
     "asn": "12316"
   },
   {
+    "name": "Daniel Clappier",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Daniel Ettle",
     "company": "Freistaat Bayern",
     "irc": "DaN",
@@ -1078,6 +1084,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Nico Schottelius",
+    "company": "ungleich glarus ag",
+    "irc": "telmich",
+    "asn": "209898"
   },
   {
     "name": "Nils Beyrle",
