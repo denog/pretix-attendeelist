@@ -288,6 +288,12 @@
     "asn": "553"
   },
   {
+    "name": "Dennis Verbroekken",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dirk Meyer",
     "company": null,
     "irc": "dinoex",
@@ -1090,6 +1096,12 @@
     "company": "DENOG, ANEXIA, Stuttgart-IX",
     "irc": "momorientes",
     "asn": "AS47147,AS42473,AS41137"
+  },
+  {
+    "name": "Nick Wiecha",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": "203520"
   },
   {
     "name": "Nicola von Thadden",
