@@ -924,6 +924,12 @@
     "asn": null
   },
   {
+    "name": "Martin Lampl",
+    "company": "UnternehmerTUM GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Martin Panus",
     "company": null,
     "irc": null,
@@ -1284,6 +1290,12 @@
     "asn": "60955"
   },
   {
+    "name": "Raul Romero",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "René Stephan",
     "company": null,
     "irc": null,
@@ -1474,6 +1486,12 @@
     "company": "Akamai Technologies",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Sirus Peter Shahbakhti",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Stefan Dunkel",
