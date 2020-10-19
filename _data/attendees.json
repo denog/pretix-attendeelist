@@ -222,6 +222,12 @@
     "asn": "199938"
   },
   {
+    "name": "Csaba Kiss",
+    "company": "99999 Informatika",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dagobert Kellner",
     "company": "FI-TS",
     "irc": null,
@@ -1104,6 +1110,12 @@
     "asn": "209898"
   },
   {
+    "name": "Nik Noltenius",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nils Beyrle",
     "company": "DFN-Verein",
     "irc": null,
@@ -1498,6 +1510,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Steffen Gebert",
+    "company": "EMnify",
+    "irc": null,
+    "asn": "60044"
   },
   {
     "name": "Steffen Weinreich",
