@@ -234,6 +234,12 @@
     "asn": "199938"
   },
   {
+    "name": "Costas Drogos",
+    "company": "Kentik",
+    "irc": "costasd",
+    "asn": "207063"
+  },
+  {
     "name": "Csaba Kiss",
     "company": "99999 Informatika",
     "irc": null,
@@ -1090,6 +1096,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Michael Meyer",
+    "company": "SpaceNet AG",
+    "irc": "mme",
+    "asn": "5539"
   },
   {
     "name": "Michael Renzmann",
