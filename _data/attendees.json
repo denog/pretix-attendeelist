@@ -726,6 +726,12 @@
     "asn": null
   },
   {
+    "name": "Lars Brune",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Lars Bußmann",
     "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
     "irc": "LarsB",
@@ -901,6 +907,12 @@
   },
   {
     "name": "Markus Schmelter",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Martin Panus",
     "company": null,
     "irc": null,
     "asn": null
