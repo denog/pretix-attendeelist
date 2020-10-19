@@ -180,6 +180,12 @@
     "asn": null
   },
   {
+    "name": "Christian Korn",
+    "company": "Proact Deutschland GmbH",
+    "irc": "syn",
+    "asn": "33988"
+  },
+  {
     "name": "Christian Marx",
     "company": "CMITC",
     "irc": null,
@@ -808,6 +814,12 @@
     "company": null,
     "irc": "l151820",
     "asn": null
+  },
+  {
+    "name": "Lukas Schauer",
+    "company": "Lukas Schauer",
+    "irc": "lukas2511",
+    "asn": "62269"
   },
   {
     "name": "Lutz Donnerhacke",
@@ -1731,6 +1743,12 @@
     "name": "Tom Eichhorn",
     "company": null,
     "irc": "MrTux",
+    "asn": null
+  },
+  {
+    "name": "Tony Li",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
