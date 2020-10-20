@@ -1398,6 +1398,12 @@
     "asn": "15451"
   },
   {
+    "name": "Ralf Eberhard",
+    "company": "omnidat",
+    "irc": null,
+    "asn": "202707"
+  },
+  {
     "name": "Ralf Ertzinger",
     "company": "Booking.com",
     "irc": "Lalufu",
@@ -1750,6 +1756,12 @@
     "company": null,
     "irc": "fragstone",
     "asn": "203215"
+  },
+  {
+    "name": "Thomas Georg",
+    "company": "omnidat",
+    "irc": null,
+    "asn": "202707"
   },
   {
     "name": "Thomas Jessen",
