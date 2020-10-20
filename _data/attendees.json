@@ -210,6 +210,12 @@
     "asn": "50629"
   },
   {
+    "name": "Christian Scholz",
+    "company": "Netchron IT Services",
+    "irc": null,
+    "asn": "206384"
+  },
+  {
     "name": "Christian Seitz",
     "company": "system.de / IN-Berlin e.V.",
     "irc": "gizzmo",
@@ -820,6 +826,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Leon Meßner",
+    "company": null,
+    "irc": "elon",
+    "asn": "29670"
   },
   {
     "name": "Leon Weber",
