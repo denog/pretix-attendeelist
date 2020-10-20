@@ -672,6 +672,12 @@
     "asn": null
   },
   {
+    "name": "Jens Ott",
+    "company": "Opteamax GmbH",
+    "irc": "Dusty",
+    "asn": "48200"
+  },
+  {
     "name": "Jens Roesen",
     "company": null,
     "irc": "drizzt",
@@ -825,6 +831,12 @@
     "name": "Lars Steffens",
     "company": null,
     "irc": "talrasha",
+    "asn": null
+  },
+  {
+    "name": "Lars Wildemann",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
@@ -1666,6 +1678,12 @@
     "company": "ANEXIA",
     "irc": "shedenig",
     "asn": "AS47147,AS42473"
+  },
+  {
+    "name": "Stefan Himpich",
+    "company": "net-lab GmbH",
+    "irc": null,
+    "asn": "AS20755"
   },
   {
     "name": "Stefan Hofmeir",
