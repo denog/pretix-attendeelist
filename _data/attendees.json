@@ -678,6 +678,12 @@
     "asn": "553"
   },
   {
+    "name": "Johannes Jakob",
+    "company": "Datacenter One",
+    "irc": "irrwitzer",
+    "asn": "48918 59745"
+  },
+  {
     "name": "Johannes Moos",
     "company": null,
     "irc": null,
@@ -796,6 +802,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Leon Weber",
+    "company": "Datacenter One",
+    "irc": "leon",
+    "asn": "48918 59745"
   },
   {
     "name": "Leopold Schabel",
@@ -1318,6 +1330,12 @@
     "company": "PHILUNET GmbH",
     "irc": "pberndro",
     "asn": "205112, 201701"
+  },
+  {
+    "name": "Philip Deutscher",
+    "company": "Datacenter One",
+    "irc": null,
+    "asn": "48918 59745"
   },
   {
     "name": "Philipp Adam",
