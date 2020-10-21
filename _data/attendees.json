@@ -366,6 +366,12 @@
     "asn": null
   },
   {
+    "name": "Do Thanh Tong",
+    "company": "ADESTIS GmbH",
+    "irc": "dt.adestis",
+    "asn": "204053"
+  },
+  {
     "name": "Dr. Jens Harbott",
     "company": null,
     "irc": "frickler",
