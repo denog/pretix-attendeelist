@@ -42,6 +42,12 @@
     "asn": "AS20755"
   },
   {
+    "name": "Andreas la Quiante",
+    "company": "NVIDIA",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Schrägle",
     "company": "Helsinki Systems",
     "irc": "ajs124",
