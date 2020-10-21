@@ -264,6 +264,12 @@
     "asn": null
   },
   {
+    "name": "Christof Egner",
+    "company": "Configo Systems GmbH",
+    "irc": null,
+    "asn": "34154"
+  },
+  {
     "name": "Christoph Falge",
     "company": null,
     "irc": null,
@@ -430,6 +436,12 @@
     "company": "ANEXIA Internetdienstleistungs GmbH",
     "irc": null,
     "asn": "47147, 42473"
+  },
+  {
+    "name": "Fabricio Rodrigues Neves",
+    "company": null,
+    "irc": null,
+    "asn": "8767"
   },
   {
     "name": "Falk Stern",
@@ -1410,6 +1422,12 @@
     "asn": "24961"
   },
   {
+    "name": "Peter Hessler",
+    "company": "OpenBSD / KLEO Connect GmbH",
+    "irc": "phessler",
+    "asn": "57610"
+  },
+  {
     "name": "Peter Sievers",
     "company": null,
     "irc": "PSI",
@@ -1972,6 +1990,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Vladimir Damjanovic",
+    "company": null,
+    "irc": null,
+    "asn": "8767"
   },
   {
     "name": "Werner Fischer",
