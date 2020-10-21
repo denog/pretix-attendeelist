@@ -1,5 +1,11 @@
 [
   {
+    "name": "Aki Hockerts",
+    "company": "Frankfurt University of Applied Sciences",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Votteler",
     "company": "RelAix Networks",
     "irc": "v0tti",
@@ -628,6 +634,12 @@
     "company": null,
     "irc": null,
     "asn": "AS3209"
+  },
+  {
+    "name": "Ioannis Karamasiotis",
+    "company": "Frankfurt University of Applied Sciences",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Istvan Ruzman",
