@@ -66,6 +66,12 @@
     "asn": null
   },
   {
+    "name": "Andreas Sturm",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Andreas Worbs",
     "company": "Artfiles GmbH",
     "irc": "laxxie",
@@ -1278,6 +1284,12 @@
     "asn": "203520"
   },
   {
+    "name": "Nico Domino",
+    "company": "NewTelco GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nicola von Thadden",
     "company": "Pfalzkom",
     "irc": "nicoduck",
@@ -1357,7 +1369,7 @@
   },
   {
     "name": "Patrick Bussmann",
-    "company": "DENOG e.V: / Akamai Technologies",
+    "company": "Akamai Technologies / DENOG e.V.",
     "irc": "PBU",
     "asn": "20940"
   },
