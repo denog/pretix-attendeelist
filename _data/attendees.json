@@ -378,6 +378,12 @@
     "asn": null
   },
   {
+    "name": "David Kaufmann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Weber",
     "company": "Wobcom GmbH",
     "irc": "vidister",
@@ -844,6 +850,12 @@
     "company": null,
     "irc": "jbacksch",
     "asn": null
+  },
+  {
+    "name": "Jörg Kost",
+    "company": null,
+    "irc": "__le_m__",
+    "asn": "213237"
   },
   {
     "name": "Julian Lannert",
@@ -1972,6 +1984,12 @@
     "company": "GTT",
     "irc": "Toshima",
     "asn": "AS3257"
+  },
+  {
+    "name": "Thomas Kühling",
+    "company": "EWE",
+    "irc": "kraut",
+    "asn": "AS9145"
   },
   {
     "name": "Thomas Rüter",
