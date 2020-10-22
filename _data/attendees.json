@@ -240,6 +240,12 @@
     "asn": null
   },
   {
+    "name": "Christian Kaufmann",
+    "company": "Akamai Technologies",
+    "irc": "CK",
+    "asn": "20940"
+  },
+  {
     "name": "Christian Korn",
     "company": "Proact Deutschland GmbH",
     "irc": "syn",
@@ -310,6 +316,12 @@
     "company": null,
     "irc": null,
     "asn": "199938"
+  },
+  {
+    "name": "Clemens Schrimpe",
+    "company": "FMT32.Net / serve-u",
+    "irc": "csch42",
+    "asn": "204786"
   },
   {
     "name": "Costas Drogos",
@@ -1284,6 +1296,12 @@
     "asn": null
   },
   {
+    "name": "Michael Gaberdiel",
+    "company": "Gaberdiel-Datentechnik",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Michael Hayler",
     "company": "Fujitsu TDS GmbH",
     "irc": "raider",
@@ -1383,6 +1401,12 @@
     "name": "Nils Winnwa",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Norbert Auler",
+    "company": null,
+    "irc": "Bodenhaltung",
     "asn": null
   },
   {
@@ -2044,6 +2068,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Vladimir Chukov",
+    "company": "1&1 IONOS",
+    "irc": null,
+    "asn": "51862"
   },
   {
     "name": "Vladimir Damjanovic",
