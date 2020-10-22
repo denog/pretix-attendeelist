@@ -180,6 +180,12 @@
     "asn": null
   },
   {
+    "name": "Benedit Neuffer",
+    "company": "KIT",
+    "irc": "ogelpre",
+    "asn": "34878"
+  },
+  {
     "name": "Benjamin Kübler",
     "company": null,
     "irc": null,
@@ -376,6 +382,12 @@
     "company": "Niceservice",
     "irc": "nice",
     "asn": null
+  },
+  {
+    "name": "David Croft",
+    "company": "Sargasso",
+    "irc": null,
+    "asn": "39767"
   },
   {
     "name": "David Kaufmann",
@@ -1936,6 +1948,12 @@
     "company": null,
     "irc": "se",
     "asn": "8469"
+  },
+  {
+    "name": "Sven Scheres",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tamas Plugor",
