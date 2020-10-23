@@ -978,6 +978,12 @@
     "asn": null
   },
   {
+    "name": "Krzysztof Zietkiewicz",
+    "company": "Akamai",
+    "irc": null,
+    "asn": "AS20940"
+  },
+  {
     "name": "Kurt Kayser",
     "company": "Kurt Kayser Konsultation",
     "irc": null,
@@ -1668,6 +1674,12 @@
     "asn": null
   },
   {
+    "name": "René Sasse",
+    "company": "IPHH Internet Port Hamburg",
+    "irc": null,
+    "asn": "AS12731"
+  },
+  {
     "name": "René Stephan",
     "company": null,
     "irc": null,
@@ -1728,6 +1740,12 @@
     "asn": null
   },
   {
+    "name": "Ronny Belitz",
+    "company": "IPHH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Ronny Bösger",
     "company": null,
     "irc": "robo",
@@ -1774,6 +1792,12 @@
     "company": "be-solutions GmbH",
     "irc": null,
     "asn": "213300"
+  },
+  {
+    "name": "Sascha Pollok",
+    "company": "IPHH",
+    "irc": "dockmaster",
+    "asn": "12731"
   },
   {
     "name": "Sebastian Abt",
