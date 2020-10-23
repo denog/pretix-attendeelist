@@ -396,6 +396,12 @@
     "asn": "39767"
   },
   {
+    "name": "David Döpelheuer",
+    "company": "myLoc managed IT AG",
+    "irc": null,
+    "asn": "24961"
+  },
+  {
     "name": "David Kaufmann",
     "company": null,
     "irc": null,
@@ -787,6 +793,12 @@
   },
   {
     "name": "Jean-Luc Penasse",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Jean-Yves Menet",
     "company": null,
     "irc": null,
     "asn": null
@@ -1732,6 +1744,12 @@
     "company": "Freifunk Frankfurt",
     "irc": "Xu",
     "asn": "64475"
+  },
+  {
+    "name": "Sascha Hoppe",
+    "company": null,
+    "irc": "kn0rki",
+    "asn": null
   },
   {
     "name": "Sascha Lenz",
