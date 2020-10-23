@@ -312,6 +312,12 @@
     "asn": "34154"
   },
   {
+    "name": "Christoph Berkemeier",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Falge",
     "company": null,
     "irc": null,
@@ -418,6 +424,12 @@
     "company": "wilhelm.tel GmbH",
     "irc": null,
     "asn": "15943"
+  },
+  {
+    "name": "Dennis Hohmann",
+    "company": null,
+    "irc": null,
+    "asn": "20052"
   },
   {
     "name": "Dennis Körner",
