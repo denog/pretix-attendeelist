@@ -360,6 +360,12 @@
     "asn": "199938"
   },
   {
+    "name": "Clemens Riese",
+    "company": "FeM e.V.",
+    "irc": "clerie",
+    "asn": null
+  },
+  {
     "name": "Clemens Schrimpe",
     "company": "FMT32.Net / serve-u",
     "irc": "csch42",
@@ -1498,6 +1504,12 @@
     "company": "DENOG, ANEXIA, Stuttgart-IX",
     "irc": "momorientes",
     "asn": "AS47147,AS42473,AS41137"
+  },
+  {
+    "name": "Moritz Fromm",
+    "company": null,
+    "irc": "e1mo",
+    "asn": "4242420565"
   },
   {
     "name": "Nick Wiecha",
