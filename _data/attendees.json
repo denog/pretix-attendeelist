@@ -336,6 +336,12 @@
     "asn": null
   },
   {
+    "name": "Christopher Kleen",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Falge",
     "company": null,
     "irc": null,
@@ -952,6 +958,12 @@
     "company": "KIT",
     "irc": null,
     "asn": "34878, 202329, 202539"
+  },
+  {
+    "name": "Julian von Paris",
+    "company": "ennit server GmbH",
+    "irc": null,
+    "asn": "13101"
   },
   {
     "name": "Julian Voß",
