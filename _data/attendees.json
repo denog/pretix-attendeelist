@@ -1638,6 +1638,12 @@
     "asn": "31019"
   },
   {
+    "name": "Paul Michel",
+    "company": "FeM e.V.",
+    "irc": "frainz",
+    "asn": null
+  },
+  {
     "name": "Peer Kohlstetter",
     "company": "blue networks / HessenKom",
     "irc": null,
