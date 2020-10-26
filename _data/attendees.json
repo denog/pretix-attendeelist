@@ -552,6 +552,12 @@
     "asn": null
   },
   {
+    "name": "Felix Bayer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Felix Stolba",
     "company": "ANEXIA Internetdienstleistungs GmbH",
     "irc": null,
@@ -2098,6 +2104,12 @@
     "company": "omnidat",
     "irc": null,
     "asn": "202707"
+  },
+  {
+    "name": "Thomas Jahnke",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Thomas Jessen",
