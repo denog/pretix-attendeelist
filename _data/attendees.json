@@ -1,5 +1,11 @@
 [
   {
+    "name": "Adrian Schollmeyer",
+    "company": "FeM e.V.",
+    "irc": "nex",
+    "asn": null
+  },
+  {
     "name": "Aki Hockerts",
     "company": "Frankfurt University of Applied Sciences",
     "irc": null,
@@ -1384,6 +1390,12 @@
     "company": "Freifunk Münsterland",
     "irc": "MPW",
     "asn": "209894"
+  },
+  {
+    "name": "Maximilian Graul",
+    "company": "FeM e.V.",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Koerkemeyer",
