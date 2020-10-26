@@ -366,16 +366,16 @@
     "asn": "199938"
   },
   {
-    "name": "Clemens Riese",
-    "company": "FeM e.V.",
-    "irc": "clerie",
-    "asn": null
-  },
-  {
     "name": "Clemens Schrimpe",
     "company": "FMT32.Net / serve-u",
     "irc": "csch42",
     "asn": "204786"
+  },
+  {
+    "name": "Clerie Riese",
+    "company": "FeM e.V.",
+    "irc": "clerie",
+    "asn": null
   },
   {
     "name": "Costas Drogos",
@@ -1381,6 +1381,12 @@
   },
   {
     "name": "Matthias Pickel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Matthias Wählisch",
     "company": null,
     "irc": null,
     "asn": null
