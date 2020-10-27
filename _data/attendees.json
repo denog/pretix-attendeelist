@@ -828,6 +828,12 @@
     "asn": "34307"
   },
   {
+    "name": "Jakob Müller",
+    "company": "AG DSN",
+    "irc": "ibot3",
+    "asn": null
+  },
+  {
     "name": "Jana Rippberger",
     "company": "Core-Backbone GmbH",
     "irc": null,
@@ -2094,6 +2100,12 @@
     "asn": "AS196922"
   },
   {
+    "name": "Stefan Jakob",
+    "company": "DENIC eG",
+    "irc": "MiKoz",
+    "asn": "31529"
+  },
+  {
     "name": "Stefan Kloeren",
     "company": "Kühne + Nagel",
     "irc": null,
@@ -2390,7 +2402,7 @@
   {
     "name": "Willi Meißner",
     "company": null,
-    "irc": null,
+    "irc": "willimei",
     "asn": null
   },
   {
