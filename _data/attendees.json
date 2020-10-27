@@ -750,6 +750,12 @@
     "asn": null
   },
   {
+    "name": "Hendrik Wolff",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Henry Haoyun Shen",
     "company": null,
     "irc": null,
@@ -1113,6 +1119,12 @@
     "name": "Leopold Schabel",
     "company": null,
     "irc": "leoluk",
+    "asn": null
+  },
+  {
+    "name": "Lucas Hecht",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
@@ -2366,6 +2378,12 @@
   {
     "name": "Wilhelm Boeddinghaus",
     "company": "system.de  - System & Project GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Willi Meißner",
+    "company": null,
     "irc": null,
     "asn": null
   },
