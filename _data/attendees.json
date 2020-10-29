@@ -2352,6 +2352,12 @@
     "asn": "680"
   },
   {
+    "name": "Thomas Schmidt",
+    "company": "Thomas Schmidt",
+    "irc": "tcschmidt",
+    "asn": null
+  },
+  {
     "name": "Thomas von Dein",
     "company": null,
     "irc": "scip",
