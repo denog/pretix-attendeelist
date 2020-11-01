@@ -1902,6 +1902,12 @@
     "asn": null
   },
   {
+    "name": "Ralph Mayer",
+    "company": null,
+    "irc": "TabTwo",
+    "asn": null
+  },
+  {
     "name": "Ramona Röß",
     "company": "Universität Augsburg",
     "irc": null,
@@ -2574,13 +2580,13 @@
     "asn": null
   },
   {
-    "name": "Marcus Brauckmann",
+    "name": "Bussmann Patrick",
     "company": null,
     "irc": null,
     "asn": null
   },
   {
-    "name": "Bussmann Patrick",
+    "name": "Marcus Brauckmann",
     "company": null,
     "irc": null,
     "asn": null
