@@ -210,6 +210,12 @@
     "asn": "6695,43252,47228,56890,196610"
   },
   {
+    "name": "Arnold Nipper",
+    "company": "DE-CIX",
+    "irc": "clone42",
+    "asn": "6695,43252,47228,56890,196610"
+  },
+  {
     "name": "Arturo Servin",
     "company": "Google",
     "irc": null,
@@ -508,6 +514,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Daniel Spierling",
+    "company": "DE-CIX Management GmbH",
+    "irc": "dspierling",
+    "asn": "as6695"
   },
   {
     "name": "Daniel Spierling",
