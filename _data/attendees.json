@@ -66,6 +66,12 @@
     "asn": "AS16374"
   },
   {
+    "name": "Andrea Otte",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Boesen",
     "company": "BelWü",
     "irc": "Happy",
@@ -748,6 +754,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frank Menzel",
+    "company": null,
+    "irc": null,
+    "asn": "15594"
   },
   {
     "name": "frank wagener",
@@ -2058,6 +2070,12 @@
     "asn": "62086 210198"
   },
   {
+    "name": "Rudolph Bott",
+    "company": null,
+    "irc": "rbott",
+    "asn": "15594"
+  },
+  {
     "name": "Ruediger Zander",
     "company": "Ribbon",
     "irc": null,
@@ -2322,6 +2340,12 @@
     "asn": null
   },
   {
+    "name": "Steffen Dammel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Steffen Gebert",
     "company": "EMnify",
     "irc": null,
@@ -2366,6 +2390,12 @@
   {
     "name": "Sven Scheres",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sven Tron",
+    "company": "Flexoptix GmbH",
     "irc": null,
     "asn": null
   },
