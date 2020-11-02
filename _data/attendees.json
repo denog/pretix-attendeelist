@@ -157,7 +157,7 @@
   },
   {
     "name": "Anita Meyer",
-    "company": null,
+    "company": "Init7",
     "irc": null,
     "asn": "13030"
   },
@@ -1700,7 +1700,7 @@
   {
     "name": "Moritz Frenzel",
     "company": "DENOG, ANEXIA, Stuttgart-IX",
-    "irc": "momorientes",
+    "irc": "AS47147,AS42473,AS41137",
     "asn": "AS47147,AS42473,AS41137"
   },
   {
@@ -2100,6 +2100,12 @@
     "asn": null
   },
   {
+    "name": "Sarah Chen",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sara Klinkmann",
     "company": "Freifunk Frankfurt",
     "irc": "Xu",
@@ -2134,6 +2140,12 @@
     "company": "Clue24 GmbH",
     "irc": "sabt",
     "asn": "AS50068"
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "Deutsche Telekom AG",
+    "irc": "_sb_",
+    "asn": "3320"
   },
   {
     "name": "Sebastian Becker",
