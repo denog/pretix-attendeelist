@@ -864,6 +864,12 @@
     "asn": "680"
   },
   {
+    "name": "Henry Schaefer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Hermann Lienstromberg",
     "company": "GRMML Networks",
     "irc": "Nurtic-Vibe",
@@ -2592,13 +2598,13 @@
     "asn": null
   },
   {
-    "name": "Bussmann Patrick",
+    "name": "Marcus Brauckmann",
     "company": null,
     "irc": null,
     "asn": null
   },
   {
-    "name": "Marcus Brauckmann",
+    "name": "Bussmann Patrick",
     "company": null,
     "irc": null,
     "asn": null
