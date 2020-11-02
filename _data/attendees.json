@@ -67,7 +67,7 @@
   },
   {
     "name": "Andrea Otte",
-    "company": null,
+    "company": "Flexoptix GmbH",
     "irc": null,
     "asn": null
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "name": "Steffen Dammel",
-    "company": null,
+    "company": "Flexoptix",
     "irc": null,
     "asn": null
   },
@@ -2683,12 +2683,6 @@
   },
   {
     "name": "Bussmann Patrick",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "René Sasse",
     "company": null,
     "irc": null,
     "asn": null
