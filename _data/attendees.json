@@ -276,6 +276,12 @@
     "asn": null
   },
   {
+    "name": "Ben Ritter",
+    "company": null,
+    "irc": null,
+    "asn": "13335"
+  },
+  {
     "name": "Bernd Spiess",
     "company": "ip-it consult GmbH",
     "irc": null,
@@ -289,6 +295,12 @@
   },
   {
     "name": "Boban Krsic",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Brian Hampel",
     "company": null,
     "irc": null,
     "asn": null
