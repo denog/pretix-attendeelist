@@ -312,6 +312,12 @@
     "asn": "AS9136"
   },
   {
+    "name": "Carlos Romero",
+    "company": "Carlos Romero",
+    "irc": null,
+    "asn": "65000"
+  },
+  {
     "name": "Chris Cousins",
     "company": "Kentik",
     "irc": "chriscousins",
