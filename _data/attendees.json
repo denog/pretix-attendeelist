@@ -1998,6 +1998,12 @@
     "asn": "202707"
   },
   {
+    "name": "Ralf Elis",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ralf Ertzinger",
     "company": "Booking.com",
     "irc": "Lalufu",
@@ -2338,6 +2344,12 @@
     "company": "Elektronik Böcker",
     "irc": null,
     "asn": "48646"
+  },
+  {
+    "name": "Stefan Funke",
+    "company": null,
+    "irc": "stefan",
+    "asn": null
   },
   {
     "name": "Stefan Funke",
@@ -2761,12 +2773,6 @@
   },
   {
     "name": "Bussmann Patrick",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Stefan Funke",
     "company": null,
     "irc": null,
     "asn": null
