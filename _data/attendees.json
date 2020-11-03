@@ -2004,6 +2004,12 @@
     "asn": null
   },
   {
+    "name": "Q Misell",
+    "company": "AS207960 t/a Glauca Digital",
+    "irc": "TheEnbyperor",
+    "asn": "207960"
+  },
+  {
     "name": "Rainer Fuchs",
     "company": "Datev eG",
     "irc": null,
@@ -2578,6 +2584,12 @@
     "company": "EWE",
     "irc": "kraut",
     "asn": "AS9145"
+  },
+  {
+    "name": "Thomas Maurer",
+    "company": "Kapsch BusinessCom",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Thomas Rüter",
