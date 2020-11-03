@@ -654,6 +654,12 @@
     "asn": "51745"
   },
   {
+    "name": "Fabian Feierabend",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Sass",
     "company": null,
     "irc": "eisenkiefer",
@@ -2482,6 +2488,12 @@
     "company": "GTT",
     "irc": "Toshima",
     "asn": "AS3257"
+  },
+  {
+    "name": "Thomas King",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": "AS6695"
   },
   {
     "name": "Thomas Kraft",
