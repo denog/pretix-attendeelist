@@ -1704,6 +1704,12 @@
     "asn": null
   },
   {
+    "name": "Mirco Heinz",
+    "company": null,
+    "irc": "mirconnect",
+    "asn": null
+  },
+  {
     "name": "Moritz Frenzel",
     "company": "DENOG, ANEXIA, Stuttgart-IX",
     "irc": "AS47147,AS42473,AS41137",
@@ -2696,6 +2702,12 @@
   {
     "name": "Xavier Ramon Lopez",
     "company": "Arista",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Rene Fichtmueller",
+    "company": null,
     "irc": null,
     "asn": null
   },
