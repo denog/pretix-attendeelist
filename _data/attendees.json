@@ -2700,6 +2700,12 @@
     "asn": "207439"
   },
   {
+    "name": "Timo Harder",
+    "company": "CGI Deutschland B.V. & CO KG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tim Rabl",
     "company": "komro GmbH",
     "irc": null,
@@ -2758,6 +2764,12 @@
     "company": null,
     "irc": "MrTux",
     "asn": null
+  },
+  {
+    "name": "Tom Koggel",
+    "company": "team.blue",
+    "irc": null,
+    "asn": "28878"
   },
   {
     "name": "Tony Li",
