@@ -1182,6 +1182,12 @@
     "asn": null
   },
   {
+    "name": "Jörg Großmann",
+    "company": "Grossmann-Gruppe",
+    "irc": "Grossi",
+    "asn": null
+  },
+  {
     "name": "Jörg Kost",
     "company": null,
     "irc": "__le_m__",
@@ -1974,6 +1980,12 @@
     "asn": "57610"
   },
   {
+    "name": "Peter Schwindt",
+    "company": "next layer GmbH",
+    "irc": "VT100",
+    "asn": "1764"
+  },
+  {
     "name": "Peter Sievers",
     "company": null,
     "irc": "PSI",
@@ -2260,6 +2272,12 @@
     "company": null,
     "irc": "Parad0x",
     "asn": "209894"
+  },
+  {
+    "name": "Sebastian Finke",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Graf",
