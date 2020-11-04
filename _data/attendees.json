@@ -1470,6 +1470,12 @@
     "asn": null
   },
   {
+    "name": "Manuel Pirolt",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Manuel Schönlaub",
     "company": null,
     "irc": null,
@@ -2482,12 +2488,6 @@
     "company": "Elektronik Böcker",
     "irc": null,
     "asn": "48646"
-  },
-  {
-    "name": "Stefan Funke",
-    "company": null,
-    "irc": "stefan",
-    "asn": null
   },
   {
     "name": "Stefan Funke",
