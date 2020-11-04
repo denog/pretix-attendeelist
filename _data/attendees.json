@@ -480,6 +480,12 @@
     "asn": "199938"
   },
   {
+    "name": "Chriztoffer Hansen",
+    "company": null,
+    "irc": "netravnen",
+    "asn": "208391"
+  },
+  {
     "name": "Clemens Schrimpe",
     "company": "FMT32.Net / serve-u",
     "irc": "csch42",
@@ -670,6 +676,12 @@
     "company": null,
     "irc": "frickler",
     "asn": null
+  },
+  {
+    "name": "Edward Dore",
+    "company": "Freethought Internet Limited",
+    "irc": "Ed-41000",
+    "asn": "41000"
   },
   {
     "name": "Elmar K. Bins",
@@ -2752,6 +2764,12 @@
     "company": null,
     "irc": "weiti",
     "asn": null
+  },
+  {
+    "name": "Tizian Cardinal von Widdern",
+    "company": "Avira",
+    "irc": "twiddern",
+    "asn": "AS203507,AS206970,AS202003"
   },
   {
     "name": "Tobias Gruber",
