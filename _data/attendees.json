@@ -312,6 +312,12 @@
     "asn": null
   },
   {
+    "name": "Bram van de Burgt",
+    "company": null,
+    "irc": null,
+    "asn": "9150"
+  },
+  {
     "name": "Brian Hampel",
     "company": null,
     "irc": null,
@@ -1020,6 +1026,12 @@
     "asn": "34307"
   },
   {
+    "name": "jacob de Brouwer",
+    "company": null,
+    "irc": "jacob_",
+    "asn": null
+  },
+  {
     "name": "Jakob Müller",
     "company": "AG DSN",
     "irc": "ibot3",
@@ -1558,6 +1570,12 @@
     "company": "GTT",
     "irc": "FvD",
     "asn": "AS286, AS3257"
+  },
+  {
+    "name": "Martin de Vries",
+    "company": "Signet",
+    "irc": "mv^",
+    "asn": "49685 28878 21155 35470"
   },
   {
     "name": "Martin Lampl",
