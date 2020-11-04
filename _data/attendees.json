@@ -1938,6 +1938,12 @@
     "asn": null
   },
   {
+    "name": "Noel Mayr",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Norbert Auler",
     "company": null,
     "irc": "Bodenhaltung",
@@ -2764,6 +2770,12 @@
     "company": "CGI Deutschland B.V. & CO KG",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Tim Prause",
+    "company": null,
+    "irc": null,
+    "asn": "AS213031"
   },
   {
     "name": "Tim Rabl",
