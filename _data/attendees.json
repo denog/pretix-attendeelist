@@ -1098,6 +1098,12 @@
     "asn": null
   },
   {
+    "name": "Jeroen Klaver",
+    "company": null,
+    "irc": null,
+    "asn": "212472"
+  },
+  {
     "name": "Jeroen Massar",
     "company": "Massar Networking",
     "irc": "jeroen",
@@ -2632,6 +2638,12 @@
     "company": null,
     "irc": "scip",
     "asn": "12316"
+  },
+  {
+    "name": "Thomas Weible",
+    "company": "Flexoptix",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tilman Kastner",
