@@ -1110,6 +1110,12 @@
     "asn": "12337"
   },
   {
+    "name": "Janis Streib",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jan Marienfeldt",
     "company": "Wobcom GmbH",
     "irc": null,
@@ -1660,6 +1666,12 @@
     "company": "GTT",
     "irc": "FvD",
     "asn": "AS286, AS3257"
+  },
+  {
+    "name": "Martin Braun",
+    "company": "Volkswagen AG",
+    "irc": "Clown007",
+    "asn": null
   },
   {
     "name": "Martin de Vries",
