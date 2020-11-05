@@ -678,6 +678,12 @@
     "asn": null
   },
   {
+    "name": "Dominik Rimpf",
+    "company": "KIT - SCC",
+    "irc": null,
+    "asn": "34878"
+  },
+  {
     "name": "Do Thanh Tong",
     "company": "ADESTIS GmbH",
     "irc": "dt.adestis",
@@ -1852,6 +1858,12 @@
     "company": "SpaceNet AG",
     "irc": "mme",
     "asn": "5539"
+  },
+  {
+    "name": "Michael Prinzinger",
+    "company": "Port Zero",
+    "irc": "vilwarin",
+    "asn": null
   },
   {
     "name": "Michael Prokop",
