@@ -396,6 +396,12 @@
     "asn": "33988"
   },
   {
+    "name": "Christian Lertes",
+    "company": "servinga GmbH",
+    "irc": "chrisl",
+    "asn": "39378"
+  },
+  {
     "name": "Christian Marx",
     "company": "CMITC",
     "irc": null,
@@ -1164,6 +1170,12 @@
     "asn": "AS34115"
   },
   {
+    "name": "Jens Erat",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jens Link",
     "company": null,
     "irc": "snej",
@@ -1336,6 +1348,12 @@
     "company": "RETN",
     "irc": "Bappsack",
     "asn": "9002"
+  },
+  {
+    "name": "Kay Ehrlich",
+    "company": null,
+    "irc": null,
+    "asn": "21413"
   },
   {
     "name": "Kay Rechthien",
