@@ -1098,6 +1098,12 @@
     "asn": "206479"
   },
   {
+    "name": "Jan-Philipp Litza",
+    "company": "PLUTEX GmbH",
+    "irc": "jplitza",
+    "asn": "49855"
+  },
+  {
     "name": "Jan Starruß",
     "company": null,
     "irc": null,
@@ -1252,6 +1258,12 @@
     "company": "KIT",
     "irc": null,
     "asn": "34878, 202329, 202539"
+  },
+  {
+    "name": "Julian Seifert",
+    "company": "DNCC",
+    "irc": "alamar",
+    "asn": "AS28876"
   },
   {
     "name": "Julian von Paris",
