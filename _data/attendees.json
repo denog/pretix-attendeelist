@@ -1890,6 +1890,12 @@
     "asn": "4242420565"
   },
   {
+    "name": "Moritz Kaspar Rudert",
+    "company": "PLUTEX",
+    "irc": "mortzu",
+    "asn": "49855"
+  },
+  {
     "name": "Nick Wiecha",
     "company": "Xantaro Deutschland GmbH",
     "irc": null,
@@ -2175,6 +2181,12 @@
     "name": "Ramona Röß",
     "company": "Universität Augsburg",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Raphael Michel",
+    "company": "pretix",
+    "irc": "rami",
     "asn": null
   },
   {
@@ -2763,6 +2775,12 @@
     "name": "Thomas Schmidt",
     "company": "Thomas Schmidt",
     "irc": "tcschmidt",
+    "asn": null
+  },
+  {
+    "name": "Thomas Sillaber",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
