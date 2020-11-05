@@ -72,6 +72,12 @@
     "asn": "207960"
   },
   {
+    "name": "Andrae Marx",
+    "company": "AMA netwoRX GmbH",
+    "irc": null,
+    "asn": "8540, 39912, 202909, 12453, 200851, 28701, 205584, 205629, 60587"
+  },
+  {
     "name": "Andrea Otte",
     "company": "Flexoptix GmbH",
     "irc": null,
@@ -1071,6 +1077,12 @@
     "name": "Jakob-Tobias Winter",
     "company": "Landeshauptstadt Stuttgart",
     "irc": "wintix",
+    "asn": null
+  },
+  {
+    "name": "James Bensley",
+    "company": null,
+    "irc": "jwbensley",
     "asn": null
   },
   {
@@ -2434,6 +2446,12 @@
     "company": "BelWü",
     "irc": "neuner",
     "asn": "553"
+  },
+  {
+    "name": "Sebastian Pazmay",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Pohlmann",
