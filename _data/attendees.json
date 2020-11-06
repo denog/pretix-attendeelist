@@ -42,6 +42,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Beck",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Dube",
     "company": "PlusServer GmbH",
     "irc": null,
@@ -2230,6 +2236,12 @@
     "company": "blue networks / HessenKom",
     "irc": null,
     "asn": "AS50469"
+  },
+  {
+    "name": "Pergament Michael",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Peter Hansen",
