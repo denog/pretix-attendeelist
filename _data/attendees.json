@@ -1014,6 +1014,12 @@
     "asn": "21263"
   },
   {
+    "name": "Hariharan Jayaraman",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "HD Effner",
     "company": "Telia Carrier",
     "irc": "hd nick",
@@ -2836,6 +2842,12 @@
     "company": "mdex",
     "irc": "lairsdragon",
     "asn": "200567"
+  },
+  {
+    "name": "Stephan Schroeder",
+    "company": "Benocs",
+    "irc": null,
+    "asn": "3320 209039"
   },
   {
     "name": "Stephan Sedlmeier",
