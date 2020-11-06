@@ -2820,6 +2820,12 @@
     "asn": "34225"
   },
   {
+    "name": "Stefan Plug",
+    "company": "Megaport/ECIX/Peering",
+    "irc": "stoepsel",
+    "asn": "9033"
+  },
+  {
     "name": "Stefan Reinhold",
     "company": "Dataport",
     "irc": null,
