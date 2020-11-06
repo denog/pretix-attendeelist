@@ -1236,6 +1236,12 @@
     "asn": null
   },
   {
+    "name": "Jason Rokeach",
+    "company": "Juniper Networks",
+    "irc": "archigos",
+    "asn": null
+  },
+  {
     "name": "Jean-Luc Penasse",
     "company": null,
     "irc": null,
@@ -1414,6 +1420,12 @@
     "company": "WEBER.cloud",
     "irc": null,
     "asn": "AS35710"
+  },
+  {
+    "name": "Jussi Sahlberg",
+    "company": null,
+    "irc": "Jude",
+    "asn": null
   },
   {
     "name": "Justus Lampel",
