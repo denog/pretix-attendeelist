@@ -1524,6 +1524,12 @@
     "asn": null
   },
   {
+    "name": "Lea Laux",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leonid Sergushkin",
     "company": null,
     "irc": null,
@@ -2682,6 +2688,12 @@
     "asn": null
   },
   {
+    "name": "Shankar Mondal",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Shraddha Hegde",
     "company": "Juniper Networks",
     "irc": null,
@@ -3046,6 +3058,12 @@
     "company": "Korves.Net",
     "irc": "Der-Tim",
     "asn": "207439"
+  },
+  {
+    "name": "Timm Hauke",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Timo Harder",
