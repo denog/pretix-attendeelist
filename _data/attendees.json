@@ -1872,6 +1872,12 @@
     "asn": "6766"
   },
   {
+    "name": "Martynas Laugalys",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marvin Basel",
     "company": null,
     "irc": null,
@@ -2097,6 +2103,12 @@
     "name": "Mouhannad Khachfeh",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Nathalie Trenaman",
+    "company": "NLNOG",
+    "irc": "Natha",
     "asn": null
   },
   {
