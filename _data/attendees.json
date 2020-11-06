@@ -72,6 +72,12 @@
     "asn": "207960"
   },
   {
+    "name": "Almedin Donlic",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andrae Marx",
     "company": "AMA netwoRX GmbH",
     "irc": null,
@@ -1584,6 +1590,12 @@
     "asn": null
   },
   {
+    "name": "Marcel Kanovnik",
+    "company": "Anexia",
+    "irc": "Knove",
+    "asn": null
+  },
+  {
     "name": "Marc Helmus",
     "company": "DC1",
     "irc": "marcnetismus",
@@ -2718,6 +2730,12 @@
     "asn": null
   },
   {
+    "name": "Stefan Strobl",
+    "company": "Anexia",
+    "irc": null,
+    "asn": "47147, 42473"
+  },
+  {
     "name": "Stefan Wahl",
     "company": null,
     "irc": "swaio",
@@ -3061,6 +3079,12 @@
   },
   {
     "name": "Utkarsh Shah",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Valentina Schindler",
     "company": null,
     "irc": null,
     "asn": null
