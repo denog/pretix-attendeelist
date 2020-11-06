@@ -1092,6 +1092,12 @@
     "asn": "AS64475"
   },
   {
+    "name": "Ihsan Qadir",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Inga Mewes",
     "company": null,
     "irc": "poldii",
@@ -1753,7 +1759,7 @@
   },
   {
     "name": "Markus Prokein",
-    "company": null,
+    "company": "Flexoptix GmbH",
     "irc": null,
     "asn": null
   },
