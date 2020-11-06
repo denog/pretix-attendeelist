@@ -312,6 +312,12 @@
     "asn": "6695"
   },
   {
+    "name": "Bernhard Krönung",
+    "company": "regio[.NET] GmbH&Co. KG",
+    "irc": null,
+    "asn": "3.8"
+  },
+  {
     "name": "Björn Erichsen",
     "company": null,
     "irc": "[bjoern]",
@@ -2182,6 +2188,12 @@
     "company": "Meanie Heavy Industries",
     "irc": null,
     "asn": "31019"
+  },
+  {
+    "name": "Paul McGuinness",
+    "company": "Head of Solutions",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Paul Michel",
