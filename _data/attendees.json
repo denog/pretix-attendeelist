@@ -2376,6 +2376,12 @@
     "asn": null
   },
   {
+    "name": "Patrick Bussmann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Patrick Hurrelmann",
     "company": "NFON AG",
     "irc": null,
@@ -3446,12 +3452,6 @@
   {
     "name": "Xavier Ramon Lopez",
     "company": "Arista",
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Bussmann Patrick",
-    "company": null,
     "irc": null,
     "asn": null
   }
