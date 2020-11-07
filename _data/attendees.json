@@ -348,6 +348,12 @@
     "asn": null
   },
   {
+    "name": "Blake Willis",
+    "company": "Zayo France",
+    "irc": "blake-8218",
+    "asn": "6461 8218"
+  },
+  {
     "name": "Boban Krsic",
     "company": null,
     "irc": null,
@@ -979,15 +985,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
