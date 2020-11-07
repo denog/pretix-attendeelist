@@ -402,6 +402,12 @@
     "asn": "61157"
   },
   {
+    "name": "Christian Beyer",
+    "company": "Securepoint GmbH",
+    "irc": null,
+    "asn": "AS209148"
+  },
+  {
     "name": "Christian Deckelmann",
     "company": null,
     "irc": null,
@@ -786,6 +792,12 @@
     "asn": null
   },
   {
+    "name": "Erik Anders",
+    "company": "Securepoint GmbH",
+    "irc": null,
+    "asn": "AS209148"
+  },
+  {
     "name": "Eslam Hassan",
     "company": "Infradata GmbH",
     "irc": "Hassan",
@@ -958,6 +970,12 @@
     "company": null,
     "irc": "jchome",
     "asn": "36459"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -1324,6 +1342,12 @@
     "company": "NL-ix",
     "irc": null,
     "asn": "34307, 42604, 20562, 24785"
+  },
+  {
+    "name": "Joerg Dorchain",
+    "company": null,
+    "irc": "pfy",
+    "asn": null
   },
   {
     "name": "Joerg Jungermann",
@@ -1852,6 +1876,12 @@
     "company": "GTT",
     "irc": "FvD",
     "asn": "AS286, AS3257"
+  },
+  {
+    "name": "Markus Winkler",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Martin Braun",
@@ -3250,6 +3280,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Tristan Helmich",
+    "company": null,
+    "irc": "fadenb",
+    "asn": "209164"
   },
   {
     "name": "Udo Lütkemeier",
