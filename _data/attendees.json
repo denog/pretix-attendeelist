@@ -991,15 +991,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
-    "irc": null,
-    "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX",
+    "irc": null,
+    "asn": "62023"
   },
   {
     "name": "Fredy Künzler",
@@ -2734,6 +2734,12 @@
     "company": "Deutsche Telekom AG",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Sebastian Benoit",
+    "company": null,
+    "irc": "benoit",
+    "asn": null
   },
   {
     "name": "Sebastian Danek",
