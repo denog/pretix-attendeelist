@@ -1009,21 +1009,21 @@
   },
   {
     "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -2164,6 +2164,12 @@
     "company": "SpaceNet AG",
     "irc": "mme",
     "asn": "5539"
+  },
+  {
+    "name": "Michael Neumann",
+    "company": null,
+    "irc": null,
+    "asn": "38955"
   },
   {
     "name": "Michael Prinzinger",
