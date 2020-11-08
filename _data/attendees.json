@@ -1039,15 +1039,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
-    "irc": null,
-    "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX",
+    "irc": null,
+    "asn": "62023"
   },
   {
     "name": "Fredy Künzler",
@@ -1076,6 +1076,12 @@
   {
     "name": "Gerald Reutemann",
     "company": "NL-ix",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Gerd Magerhans",
+    "company": null,
     "irc": null,
     "asn": null
   },
