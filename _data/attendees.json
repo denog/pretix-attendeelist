@@ -438,6 +438,12 @@
     "asn": "61157"
   },
   {
+    "name": "Christian Baumann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Beyer",
     "company": "Securepoint GmbH",
     "irc": null,
@@ -1045,15 +1051,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
-    "irc": null,
-    "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX",
+    "irc": null,
+    "asn": "62023"
   },
   {
     "name": "Frederik Kriewitz",
@@ -2097,6 +2103,12 @@
     "name": "Matthias Kesler",
     "company": null,
     "irc": "krombel",
+    "asn": null
+  },
+  {
+    "name": "Matthias Kluth",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
