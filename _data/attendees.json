@@ -696,6 +696,12 @@
     "asn": "9136"
   },
   {
+    "name": "Denis Brenner",
+    "company": null,
+    "irc": "BrennerD",
+    "asn": null
+  },
+  {
     "name": "Denis Klimek",
     "company": "wilhelm.tel GmbH",
     "irc": null,
@@ -2098,6 +2104,12 @@
     "company": null,
     "irc": null,
     "asn": "AS204624"
+  },
+  {
+    "name": "Maximilian Stumpf",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Stumpf",
