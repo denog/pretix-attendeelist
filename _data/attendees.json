@@ -1039,15 +1039,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -2100,6 +2100,12 @@
     "asn": "209894"
   },
   {
+    "name": "Maximilian Emig",
+    "company": null,
+    "irc": null,
+    "asn": "207612"
+  },
+  {
     "name": "Maximilian Graul",
     "company": "FeM e.V.",
     "irc": null,
@@ -2430,6 +2436,12 @@
     "asn": null
   },
   {
+    "name": "Oliver Traber",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Oliver Werner",
     "company": "netcup GmbH",
     "irc": null,
@@ -2632,6 +2644,12 @@
     "company": "pretix",
     "irc": "rami",
     "asn": null
+  },
+  {
+    "name": "Raphael Peters",
+    "company": null,
+    "irc": "rappet",
+    "asn": "207968"
   },
   {
     "name": "Raphael Rosenberg",
