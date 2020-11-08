@@ -42,6 +42,12 @@
     "asn": null
   },
   {
+    "name": "Aleksander Paravac",
+    "company": null,
+    "irc": "watz",
+    "asn": null
+  },
+  {
     "name": "Aleksandr Smirnov",
     "company": null,
     "irc": null,
@@ -1015,15 +1021,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
