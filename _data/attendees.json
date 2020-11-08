@@ -2370,6 +2370,12 @@
     "asn": "25415"
   },
   {
+    "name": "Nils Steinger",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nils Winnwa",
     "company": null,
     "irc": null,
@@ -2698,6 +2704,12 @@
     "company": "htp GmbH",
     "irc": "robrem",
     "asn": "13045"
+  },
+  {
+    "name": "Robert Scheck",
+    "company": null,
+    "irc": "rsc",
+    "asn": null
   },
   {
     "name": "Robin Därmann",
