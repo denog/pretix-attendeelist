@@ -642,6 +642,12 @@
     "asn": "33891"
   },
   {
+    "name": "Daniel Molkentin",
+    "company": null,
+    "irc": "danimo",
+    "asn": null
+  },
+  {
     "name": "Daniel Nägele",
     "company": "BelWü",
     "irc": "debugloop",
