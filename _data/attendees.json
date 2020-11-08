@@ -408,6 +408,12 @@
     "asn": "65000"
   },
   {
+    "name": "Carsten Bormann",
+    "company": "Uni Bremen TZI",
+    "irc": "cabo",
+    "asn": null
+  },
+  {
     "name": "Chris Cousins",
     "company": "Kentik",
     "irc": "chriscousins",
