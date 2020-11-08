@@ -456,6 +456,12 @@
     "asn": "9136"
   },
   {
+    "name": "Christian Friedrich",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Frömmel",
     "company": "Charité Berlin",
     "irc": null,
@@ -1039,15 +1045,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
