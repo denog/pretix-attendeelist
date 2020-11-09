@@ -660,6 +660,12 @@
     "asn": null
   },
   {
+    "name": "Christopher Metter",
+    "company": "DFN-NOC",
+    "irc": null,
+    "asn": "680"
+  },
+  {
     "name": "Christoph Falge",
     "company": null,
     "irc": null,
@@ -1183,21 +1189,21 @@
   },
   {
     "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
+    "company": "NYNEX",
     "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
+    "asn": "62023"
   },
   {
     "name": "Fredy Künzler",
