@@ -1111,15 +1111,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
-    "irc": null,
-    "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX",
+    "irc": null,
+    "asn": "62023"
   },
   {
     "name": "Frederik Kriewitz",
@@ -1821,6 +1821,12 @@
     "name": "Leon Weber",
     "company": "Datacenter One",
     "irc": "leon",
+    "asn": "48918"
+  },
+  {
+    "name": "Leon Weber",
+    "company": "Datacenter One",
+    "irc": "leon",
     "asn": "48918 59745"
   },
   {
@@ -1921,6 +1927,12 @@
   },
   {
     "name": "Manuel Schönlaub",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Manuel Schwarz",
     "company": null,
     "irc": null,
     "asn": null
@@ -2602,6 +2614,12 @@
     "company": "netcup GmbH",
     "irc": null,
     "asn": "197540"
+  },
+  {
+    "name": "Ottmar Deinhart",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Pablo Acuna",
