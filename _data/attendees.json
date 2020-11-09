@@ -1183,21 +1183,21 @@
   },
   {
     "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -1849,6 +1849,12 @@
   },
   {
     "name": "Klaus-Tycho Förster",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Kochendoerfer Andreas",
     "company": null,
     "irc": null,
     "asn": null
@@ -3034,6 +3040,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Rene Avi",
+    "company": "next layer",
+    "irc": null,
+    "asn": "1764"
   },
   {
     "name": "Rene Fichtmueller",
