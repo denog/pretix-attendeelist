@@ -240,6 +240,12 @@
     "asn": null
   },
   {
+    "name": "Andri Steiner",
+    "company": "Ops One AG",
+    "irc": "stnr",
+    "asn": "198249"
+  },
+  {
     "name": "Anita Meyer",
     "company": "Init7",
     "irc": null,
@@ -1207,9 +1213,9 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
+    "company": "NYNEX",
     "irc": null,
-    "asn": null
+    "asn": "62023"
   },
   {
     "name": "Fredy Künzler",
