@@ -960,6 +960,12 @@
     "asn": null
   },
   {
+    "name": "Dominique Flemming-Schmidt",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Do Thanh Tong",
     "company": "ADESTIS GmbH",
     "irc": "dt.adestis",
@@ -1201,21 +1207,21 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
