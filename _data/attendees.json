@@ -402,6 +402,12 @@
     "asn": null
   },
   {
+    "name": "Bruno Voigt",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Bürger Bjørn",
     "company": "PENGUTRONIX",
     "irc": "motp",
@@ -1063,15 +1069,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
