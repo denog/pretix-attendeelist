@@ -1189,12 +1189,6 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
@@ -1204,6 +1198,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX",
+    "irc": null,
+    "asn": "62023"
   },
   {
     "name": "Fredy Künzler",
@@ -1402,6 +1402,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Ian Chilton",
+    "company": "LONAP",
+    "irc": "ichilton",
+    "asn": "8330"
   },
   {
     "name": "Igor Scheller",
