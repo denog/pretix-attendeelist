@@ -288,6 +288,12 @@
     "asn": "15169"
   },
   {
+    "name": "Attila Kovacs",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ava Rose Jacobsen",
     "company": "Freifunk Frankfurt",
     "irc": "Avara",
@@ -822,6 +828,12 @@
     "asn": null
   },
   {
+    "name": "Dirk Fabricius",
+    "company": null,
+    "irc": "Kyan Vent",
+    "asn": null
+  },
+  {
     "name": "Dirk Hilmer",
     "company": null,
     "irc": null,
@@ -1099,21 +1111,21 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -2310,6 +2322,12 @@
     "asn": null
   },
   {
+    "name": "Michael Garing",
+    "company": "EMnify",
+    "irc": "Maykol",
+    "asn": null
+  },
+  {
     "name": "Michael Hayler",
     "company": "Fujitsu TDS GmbH",
     "irc": "raider",
@@ -3304,6 +3322,12 @@
     "company": "Magellan Netzwerke",
     "irc": null,
     "asn": "51176"
+  },
+  {
+    "name": "Susann Böhme",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
   },
   {
     "name": "Sven Ellingen",
