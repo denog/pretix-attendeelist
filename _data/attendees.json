@@ -1207,15 +1207,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
-    "irc": null,
-    "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX",
+    "irc": null,
+    "asn": "62023"
   },
   {
     "name": "Frederik Kriewitz",
@@ -2380,6 +2380,12 @@
     "company": "firstcolo",
     "irc": null,
     "asn": "44066"
+  },
+  {
+    "name": "Mathieu Simon",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Mattheus Happe",
