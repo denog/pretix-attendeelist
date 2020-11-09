@@ -1201,9 +1201,9 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
+    "company": null,
     "irc": null,
-    "asn": "62023"
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
@@ -1696,6 +1696,12 @@
     "company": "Treml & Sturm Datentechnik GmbH",
     "irc": null,
     "asn": "25279"
+  },
+  {
+    "name": "john doe",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Jonas Schmid-Burgk",
