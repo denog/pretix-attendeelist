@@ -1195,9 +1195,9 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
+    "company": null,
     "irc": null,
-    "asn": "62023"
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
@@ -2361,6 +2361,12 @@
     "name": "Mattheus Happe",
     "company": null,
     "irc": "tioan",
+    "asn": null
+  },
+  {
+    "name": "Matthew Melbourne",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
