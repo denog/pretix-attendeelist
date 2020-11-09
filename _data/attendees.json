@@ -282,6 +282,12 @@
     "asn": "12731"
   },
   {
+    "name": "Arda Ozkal",
+    "company": "Lasagna Ltd",
+    "irc": "ave_",
+    "asn": "208590"
+  },
+  {
     "name": "Armin Jenewein",
     "company": null,
     "irc": "armin",
@@ -718,6 +724,12 @@
     "company": "FI-TS",
     "irc": null,
     "asn": "12316"
+  },
+  {
+    "name": "Daniel Brun Jorgensen",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Daniel Clappier",
@@ -1177,15 +1189,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -1396,6 +1408,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Ilteris Yagiztegin Eroglu",
+    "company": "linuxgemini",
+    "irc": "linuxgemini",
+    "asn": "208563"
   },
   {
     "name": "Inga Mewes",
@@ -1726,6 +1744,12 @@
     "company": "y0sh network",
     "irc": "y0sh",
     "asn": "AS207671"
+  },
+  {
+    "name": "Jürgen Hörmann",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Jürgen Weber",
@@ -2322,6 +2346,12 @@
     "asn": null
   },
   {
+    "name": "Matthias Flittner",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Kesler",
     "company": null,
     "irc": "krombel",
@@ -2420,6 +2450,12 @@
   {
     "name": "merlin wolf",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Michael Bareiss",
+    "company": "Infinera",
     "irc": null,
     "asn": null
   },
@@ -2838,6 +2874,12 @@
     "asn": "57610"
   },
   {
+    "name": "Peter Kowalsky",
+    "company": "next layer",
+    "irc": null,
+    "asn": "1764"
+  },
+  {
     "name": "Peter Lampe",
     "company": null,
     "irc": null,
@@ -2896,6 +2938,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Phillip Sünderhauf",
+    "company": "[serve-u] FMT32",
+    "irc": null,
+    "asn": "204786"
   },
   {
     "name": "Phillip Urbanik",
@@ -3004,6 +3052,12 @@
     "company": null,
     "irc": "mc",
     "asn": "33988 21083"
+  },
+  {
+    "name": "Robert Arrowood",
+    "company": "SpaceNet AG",
+    "irc": "LukeSiX",
+    "asn": "5539"
   },
   {
     "name": "Robert Bruhm",
