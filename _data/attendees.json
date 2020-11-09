@@ -396,6 +396,12 @@
     "asn": null
   },
   {
+    "name": "Björn Lässig",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Blake Willis",
     "company": "Zayo France",
     "irc": "blake-8218",
@@ -442,6 +448,12 @@
     "company": null,
     "irc": null,
     "asn": "AS9136"
+  },
+  {
+    "name": "Carl Griesel",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Carlos Romero",
@@ -1111,15 +1123,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
@@ -3603,6 +3615,12 @@
     "name": "Tim Weippert",
     "company": null,
     "irc": "weiti",
+    "asn": null
+  },
+  {
+    "name": "Tim Witt",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
