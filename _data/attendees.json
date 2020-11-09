@@ -1134,6 +1134,12 @@
     "asn": "13030"
   },
   {
+    "name": "Friedrich Kupfer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Gabriel Bersch",
     "company": null,
     "irc": null,
@@ -1938,6 +1944,12 @@
     "asn": null
   },
   {
+    "name": "Marcel Menzel",
+    "company": null,
+    "irc": null,
+    "asn": "207781"
+  },
+  {
     "name": "Marc Haber",
     "company": "incluesion",
     "irc": "Zugschlus",
@@ -1972,6 +1984,12 @@
     "company": "DENIC eG",
     "irc": "bitjab",
     "asn": "31529"
+  },
+  {
+    "name": "Marco Zietz",
+    "company": "PFALZKOM",
+    "irc": "Camro",
+    "asn": "21473"
   },
   {
     "name": "Marc Peters",
@@ -3060,6 +3078,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Mleczek",
+    "company": "DESY",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sebastian Neuner",
     "company": "BelWü",
     "irc": "neuner",
@@ -3160,6 +3184,12 @@
     "company": "LWLcom",
     "irc": "morpheus",
     "asn": "50629"
+  },
+  {
+    "name": "Simon Polack",
+    "company": null,
+    "irc": null,
+    "asn": "25291"
   },
   {
     "name": "Simo Radenovic",
@@ -3552,6 +3582,12 @@
     "asn": "50629"
   },
   {
+    "name": "Tobias Hannaske",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tobias Heister",
     "company": null,
     "irc": "izemaen",
@@ -3700,6 +3736,12 @@
     "company": "AG DSN",
     "irc": "willimei",
     "asn": null
+  },
+  {
+    "name": "Wolfgang Bauer",
+    "company": "EMnify",
+    "irc": null,
+    "asn": "60044"
   },
   {
     "name": "Wolfgang Stief",
