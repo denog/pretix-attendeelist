@@ -1111,15 +1111,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
-    "irc": null,
-    "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX",
+    "irc": null,
+    "asn": "62023"
   },
   {
     "name": "Frederik Kriewitz",
@@ -2418,6 +2418,12 @@
     "asn": null
   },
   {
+    "name": "Michael Richter",
+    "company": null,
+    "irc": "righter",
+    "asn": null
+  },
+  {
     "name": "Mic Szillat",
     "company": "Freifunk Düsseldorf",
     "irc": "nomaster",
@@ -3388,6 +3394,12 @@
     "company": null,
     "irc": "se",
     "asn": "8469"
+  },
+  {
+    "name": "Sven Johanßon",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sven Schade",
