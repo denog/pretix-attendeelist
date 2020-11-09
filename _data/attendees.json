@@ -72,6 +72,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Schebler",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Votteler",
     "company": "RelAix Networks",
     "irc": "v0tti",
@@ -105,6 +111,12 @@
     "name": "Almedin Donlic",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Anders Mundt Due",
+    "company": null,
+    "irc": "Kralian",
     "asn": null
   },
   {
@@ -2505,6 +2517,12 @@
     "name": "Mihai Sabadis",
     "company": "DATEV eG",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Mikkel Mondrup Kristensen",
+    "company": null,
+    "irc": "monrad",
     "asn": null
   },
   {
