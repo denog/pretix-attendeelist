@@ -576,6 +576,12 @@
     "asn": "34154"
   },
   {
+    "name": "Christof Stührmann",
+    "company": "EMnify",
+    "irc": "Gaz0",
+    "asn": null
+  },
+  {
     "name": "Christoph Berkemeier",
     "company": null,
     "irc": null,
@@ -604,6 +610,12 @@
     "company": "S-IT",
     "irc": null,
     "asn": "39702"
+  },
+  {
+    "name": "Christoph Kasser",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Christoph Knörr",
@@ -960,6 +972,12 @@
     "asn": null
   },
   {
+    "name": "Falk von Bornstaedt",
+    "company": "BENOCS",
+    "irc": null,
+    "asn": "209039"
+  },
+  {
     "name": "Felix Bayer",
     "company": null,
     "irc": null,
@@ -1039,6 +1057,12 @@
   },
   {
     "name": "Francisca Hartmann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frank Menzel",
     "company": null,
     "irc": null,
     "asn": null
@@ -1299,6 +1323,12 @@
     "name": "Inga Mewes",
     "company": null,
     "irc": "poldii",
+    "asn": null
+  },
+  {
+    "name": "Ingo Reckziegel",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
@@ -1998,6 +2028,12 @@
     "asn": "44486"
   },
   {
+    "name": "Marius Tesch",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Markus Bangerter",
     "company": "Quickline AG",
     "irc": null,
@@ -2058,6 +2094,12 @@
     "asn": "49685 28878 21155 35470"
   },
   {
+    "name": "Martin Horn",
+    "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": "NoSleep",
+    "asn": "AS42473"
+  },
+  {
     "name": "Martin Lampl",
     "company": "UnternehmerTUM GmbH",
     "irc": null,
@@ -2074,6 +2116,12 @@
     "company": "LWLcom GmbH",
     "irc": null,
     "asn": "50629"
+  },
+  {
+    "name": "Martin Schmidt",
+    "company": "Infinera",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Martin Schröder",
@@ -2527,6 +2575,12 @@
   },
   {
     "name": "Pascal Bussmann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Pascal Gloor",
     "company": null,
     "irc": null,
     "asn": null
