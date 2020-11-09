@@ -900,6 +900,12 @@
     "asn": null
   },
   {
+    "name": "Diogo Sequeira",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dirk Bossenz",
     "company": null,
     "irc": null,
@@ -1201,9 +1207,9 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": "NYNEX",
+    "company": null,
     "irc": null,
-    "asn": "62023"
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
