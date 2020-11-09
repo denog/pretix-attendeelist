@@ -1171,21 +1171,21 @@
   },
   {
     "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -1864,6 +1864,12 @@
     "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
     "irc": "LarsB",
     "asn": null
+  },
+  {
+    "name": "Lars Knudsen",
+    "company": null,
+    "irc": "spaceman",
+    "asn": "39642"
   },
   {
     "name": "Lars Steffens",
@@ -3274,6 +3280,12 @@
     "company": "noris network AG",
     "irc": "GPF",
     "asn": "12337"
+  },
+  {
+    "name": "Seraphim Strub",
+    "company": "oriented.net GmbH",
+    "irc": null,
+    "asn": "AS206484"
   },
   {
     "name": "Sergej Pioch",
