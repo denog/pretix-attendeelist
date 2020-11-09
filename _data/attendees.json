@@ -1183,15 +1183,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
@@ -2250,6 +2250,12 @@
     "asn": null
   },
   {
+    "name": "Martin Burri",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Martin de Vries",
     "company": "Signet",
     "irc": "mv^",
@@ -2374,6 +2380,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Matthias Šubik",
+    "company": null,
+    "irc": "yellow",
+    "asn": "50047"
   },
   {
     "name": "Matthias Wählisch",
