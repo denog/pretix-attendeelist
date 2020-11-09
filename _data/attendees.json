@@ -3810,6 +3810,12 @@
     "asn": null
   },
   {
+    "name": "Timo Reimann",
+    "company": null,
+    "irc": "goebelmeier",
+    "asn": null
+  },
+  {
     "name": "Tim Prause",
     "company": null,
     "irc": null,
@@ -3999,6 +4005,12 @@
     "name": "Wilhelm Boeddinghaus",
     "company": "system.de  - System & Project GmbH",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Will Hargrave",
+    "company": "LONAP",
+    "irc": "will-h",
     "asn": null
   },
   {
