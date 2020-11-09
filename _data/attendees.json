@@ -144,6 +144,12 @@
     "asn": "33891"
   },
   {
+    "name": "Andreas Habith",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Hebeisen",
     "company": null,
     "irc": null,
@@ -378,6 +384,12 @@
     "asn": "61438"
   },
   {
+    "name": "Bernd Walter",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Bernhard Hahn",
     "company": "DE-CIX Management GmbH",
     "irc": null,
@@ -548,6 +560,12 @@
   {
     "name": "Christian Marx",
     "company": "CMITC",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christian Mohr",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -1141,21 +1159,21 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -1432,6 +1450,12 @@
     "company": "Core-Backbone GmbH",
     "irc": null,
     "asn": "33891"
+  },
+  {
+    "name": "Jan Chrillesen",
+    "company": null,
+    "irc": "chrille / chrille-39642",
+    "asn": "39642"
   },
   {
     "name": "Jan Dirnberger",
@@ -2526,10 +2550,22 @@
     "asn": null
   },
   {
+    "name": "Myron Lasithiotakis",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nathalie Trenaman",
     "company": "NLNOG",
     "irc": "Natha",
     "asn": null
+  },
+  {
+    "name": "Neil McMahon",
+    "company": null,
+    "irc": null,
+    "asn": "+447769704707"
   },
   {
     "name": "Nick Wiecha",
@@ -2659,6 +2695,12 @@
   },
   {
     "name": "Oliver Mueller",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Oliver Quantz",
     "company": null,
     "irc": null,
     "asn": null
@@ -3033,6 +3075,12 @@
     "name": "Ruediger Zander",
     "company": "Ribbon",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Salim Müller",
+    "company": "1337",
+    "irc": "s-master",
     "asn": null
   },
   {
@@ -3544,6 +3592,12 @@
     "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "AS6695"
+  },
+  {
+    "name": "Thomas Kjær",
+    "company": null,
+    "irc": "lang",
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
