@@ -174,6 +174,12 @@
     "asn": null
   },
   {
+    "name": "Andreas Rammhold",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Schrägle",
     "company": "Helsinki Systems",
     "irc": "ajs124",
@@ -1135,21 +1141,21 @@
   },
   {
     "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Fredy Künzler",
@@ -1446,6 +1452,12 @@
     "asn": "9136"
   },
   {
+    "name": "jan-pascal kwiotek",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jan-Philipp Benecke",
     "company": null,
     "irc": "jpbe",
@@ -1557,6 +1569,12 @@
     "name": "Joerg Jungermann",
     "company": null,
     "irc": "abraXxl",
+    "asn": null
+  },
+  {
+    "name": "Joerg Ruhmann",
+    "company": "Infinera GmbH",
+    "irc": null,
     "asn": null
   },
   {
@@ -1702,6 +1720,12 @@
     "company": "Netnod",
     "irc": null,
     "asn": "8674"
+  },
+  {
+    "name": "Kam Sze Yeung",
+    "company": "Akamai",
+    "irc": null,
+    "asn": "20940"
   },
   {
     "name": "Karim Tubin",
@@ -2746,6 +2770,12 @@
     "company": "OpenBSD / KLEO Connect GmbH",
     "irc": "phessler",
     "asn": "57610"
+  },
+  {
+    "name": "Peter Lampe",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Peter Schwindt",
