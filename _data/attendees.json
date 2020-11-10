@@ -1146,6 +1146,12 @@
     "asn": "55064"
   },
   {
+    "name": "Florian Kass",
+    "company": null,
+    "irc": "sUbZeRo",
+    "asn": null
+  },
+  {
     "name": "Florian Köttner",
     "company": null,
     "irc": null,
@@ -1231,15 +1237,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
@@ -2070,10 +2076,22 @@
     "asn": "62269"
   },
   {
+    "name": "Lukas Stadler",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Lutz Donnerhacke",
     "company": "IKS Service GmbH",
     "irc": "Donner",
     "asn": "AS15725"
+  },
+  {
+    "name": "Maciej Matoszko",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Magnus Frühling",
@@ -3622,6 +3640,12 @@
     "company": null,
     "irc": "swaio",
     "asn": "208262"
+  },
+  {
+    "name": "Stefan Wandl",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Stefan Warsinke",
