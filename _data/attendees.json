@@ -708,6 +708,12 @@
     "asn": "29413"
   },
   {
+    "name": "Christoph Loibl",
+    "company": "next layer GmbH",
+    "irc": null,
+    "asn": "1764"
+  },
+  {
     "name": "Christoph Schreiber",
     "company": null,
     "irc": null,
@@ -1237,15 +1243,15 @@
   },
   {
     "name": "Frederik Kriewitz",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Frederik Kriewitz",
     "company": "NYNEX",
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
@@ -3174,6 +3180,12 @@
     "asn": null
   },
   {
+    "name": "Richard Hartmann",
+    "company": null,
+    "irc": "RichiH",
+    "asn": null
+  },
+  {
     "name": "Richard Schulz",
     "company": "SWN",
     "irc": "Richard",
@@ -4012,6 +4024,12 @@
     "company": null,
     "irc": null,
     "asn": "213392"
+  },
+  {
+    "name": "Tom Strickx",
+    "company": "Cloudflare",
+    "irc": null,
+    "asn": "AS13335"
   },
   {
     "name": "Tony Li",
