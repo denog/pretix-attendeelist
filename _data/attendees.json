@@ -1032,6 +1032,12 @@
     "asn": null
   },
   {
+    "name": "Eric Leung",
+    "company": null,
+    "irc": null,
+    "asn": "20940, 32787"
+  },
+  {
     "name": "Erik Anders",
     "company": "Securepoint GmbH",
     "irc": null,
@@ -2392,12 +2398,6 @@
     "company": null,
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Marvin Gaube",
-    "company": null,
-    "irc": null,
-    "asn": "213204, 64475"
   },
   {
     "name": "Marvin Gaube",
