@@ -1,5 +1,11 @@
 [
   {
+    "name": "Aaron Glenn",
+    "company": null,
+    "irc": "aag",
+    "asn": "7007"
+  },
+  {
     "name": "Abdulkadir Aslan",
     "company": null,
     "irc": null,
@@ -874,6 +880,12 @@
     "company": "Wobcom GmbH",
     "irc": "vidister",
     "asn": "9136"
+  },
+  {
+    "name": "Denesh Bhabuta",
+    "company": "UKNOF // DNS-OARC // PTNOG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Denis Brenner",
@@ -3484,6 +3496,12 @@
     "company": "noris network AG",
     "irc": "GPF",
     "asn": "12337"
+  },
+  {
+    "name": "Sebastian-Wilhelm Graf",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Seraphim Strub",
