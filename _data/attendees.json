@@ -336,6 +336,12 @@
     "asn": "6695,43252,47228,56890,196610"
   },
   {
+    "name": "Arthur Beier",
+    "company": "Exaring AG",
+    "irc": "extrem01",
+    "asn": null
+  },
+  {
     "name": "Arturo Servin",
     "company": "Google",
     "irc": null,
@@ -3268,6 +3274,12 @@
     "company": "Förderverein Freie Infrastruktur e. V.",
     "irc": "RobWei",
     "asn": "209894 207622"
+  },
+  {
+    "name": "Roelf Wichertjes",
+    "company": null,
+    "irc": null,
+    "asn": "202562"
   },
   {
     "name": "Roland Baum",
