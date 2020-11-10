@@ -96,6 +96,12 @@
     "asn": "23352"
   },
   {
+    "name": "Alex Roell",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alex Senderkin",
     "company": "BCIX Management GmbH",
     "irc": "icebreak",
@@ -706,6 +712,12 @@
     "company": null,
     "irc": null,
     "asn": "199938"
+  },
+  {
+    "name": "Chris Welti",
+    "company": null,
+    "irc": null,
+    "asn": "559"
   },
   {
     "name": "Chriztoffer Hansen",
