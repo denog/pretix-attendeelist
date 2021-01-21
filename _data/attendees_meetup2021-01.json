@@ -78,6 +78,12 @@
     "asn": "AS64475"
   },
   {
+    "name": "James Bensleu",
+    "company": "Sky",
+    "irc": "jwbensley",
+    "asn": "5607"
+  },
+  {
     "name": "Jan Czmok",
     "company": "Internet AG",
     "irc": "schmoggie",
@@ -186,6 +192,12 @@
     "asn": null
   },
   {
+    "name": "Ralf Schenk",
+    "company": "Databay AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Robert Finze",
     "company": null,
     "irc": "mar-vin",
@@ -246,6 +258,12 @@
     "asn": "553"
   },
   {
+    "name": "Stefan Hofmeir",
+    "company": "Hofmeir Media GmbH",
+    "irc": null,
+    "asn": "196922 51576"
+  },
+  {
     "name": "Stefan Neufeind",
     "company": "SpeedPartner GmbH",
     "irc": "neufeind",
@@ -289,6 +307,12 @@
   },
   {
     "name": "ulf Volmer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Veit Heller",
     "company": null,
     "irc": null,
     "asn": null
