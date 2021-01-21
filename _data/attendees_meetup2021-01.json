@@ -1,13 +1,85 @@
 [
   {
+    "name": "Bernd Buedenbender",
+    "company": "equada GmbH",
+    "irc": null,
+    "asn": "25220"
+  },
+  {
+    "name": "Christian Beyer",
+    "company": "Securepoint GmbH",
+    "irc": null,
+    "asn": "AS209148"
+  },
+  {
+    "name": "Christoph Heinecke",
+    "company": "Sparkassen-IT",
+    "irc": null,
+    "asn": "39702"
+  },
+  {
+    "name": "Christoph Knörr",
+    "company": "Komro GmbH",
+    "irc": "BurnX",
+    "asn": "29413"
+  },
+  {
+    "name": "Daniel Niewerth",
+    "company": null,
+    "irc": null,
+    "asn": "34936"
+  },
+  {
+    "name": "Fabian Cernota",
+    "company": "cernota.net",
+    "irc": "fabs",
+    "asn": null
+  },
+  {
+    "name": "Jan Czmok",
+    "company": "Internet AG",
+    "irc": "schmoggie",
+    "asn": "8495"
+  },
+  {
+    "name": "Jan Gilla",
+    "company": "level66.network UG (haftungsbeschränkt)",
+    "irc": "MrXermon",
+    "asn": "56381"
+  },
+  {
+    "name": "J. Kost",
+    "company": "Hofmeir Media GmbH",
+    "irc": null,
+    "asn": "196922 213237 51576"
+  },
+  {
+    "name": "Joerg Dorchain",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Jörg Backschues",
+    "company": null,
+    "irc": "jbacksch",
+    "asn": null
+  },
+  {
     "name": "Kay Rechthien",
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "kay",
     "asn": "20940"
   },
   {
+    "name": "Magnus Frühling",
+    "company": "German Edge Cloud",
+    "irc": "Skorpy",
+    "asn": "64475 42263"
+  },
+  {
     "name": "Moritz Frenzel",
-    "company": "DENOG/ANEXIA/Stuttgart-IX",
+    "company": "Anexia / Stuttgart-IX / DENOG e.V.",
     "irc": "momorientes",
     "asn": "47147,42473,41139"
   },
@@ -16,5 +88,77 @@
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "PBU",
     "asn": "20940"
+  },
+  {
+    "name": "Peter Hansen",
+    "company": "myLoc managed IT AG",
+    "irc": "empi89",
+    "asn": "24961"
+  },
+  {
+    "name": "Robert Remenyi",
+    "company": "htp GmbH",
+    "irc": "robrem",
+    "asn": "13045"
+  },
+  {
+    "name": "Ruben Herold",
+    "company": "ViA Online GmbH",
+    "irc": "Panther_1",
+    "asn": "62086"
+  },
+  {
+    "name": "Sandro Bolliger",
+    "company": null,
+    "irc": null,
+    "asn": "12307"
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "Deutsche Telekom AG",
+    "irc": "_sb_",
+    "asn": "3320"
+  },
+  {
+    "name": "Sebastian Pohlmann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Stefan Dunkel",
+    "company": "Freifunk Nordwest e.V",
+    "irc": "stefan6",
+    "asn": "206313"
+  },
+  {
+    "name": "Stefan Neufeind",
+    "company": "SpeedPartner GmbH",
+    "irc": "neufeind",
+    "asn": "34225"
+  },
+  {
+    "name": "Thomas Jessen",
+    "company": "GTT GmbH",
+    "irc": "Toshima",
+    "asn": "3257"
+  },
+  {
+    "name": "Thomas King",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tobias Heister",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": "izemaen",
+    "asn": "203520"
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "DE-CIX",
+    "irc": "Garf",
+    "asn": "196610"
   }
 ]
