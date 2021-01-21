@@ -72,6 +72,12 @@
     "asn": "208059"
   },
   {
+    "name": "Igor Scheller",
+    "company": null,
+    "irc": "MyIgel",
+    "asn": "AS64475"
+  },
+  {
     "name": "Jan Czmok",
     "company": "Internet AG",
     "irc": "schmoggie",
@@ -120,10 +126,28 @@
     "asn": "64475 42263"
   },
   {
+    "name": "Marcel Beyer",
+    "company": null,
+    "irc": "beyerm",
+    "asn": null
+  },
+  {
+    "name": "Marc Helmus",
+    "company": "DC1",
+    "irc": "marcnetismus",
+    "asn": "48918, 59745"
+  },
+  {
     "name": "Marco Doehler",
     "company": "Vodafone",
     "irc": null,
     "asn": "3209"
+  },
+  {
+    "name": "Markus Schmelter",
+    "company": null,
+    "irc": "fupsi42",
+    "asn": null
   },
   {
     "name": "Maximilian Wilhelm",
@@ -228,6 +252,12 @@
     "asn": "34225"
   },
   {
+    "name": "Thomas Fragstein",
+    "company": null,
+    "irc": "fragstone",
+    "asn": "203215"
+  },
+  {
     "name": "Thomas Jessen",
     "company": "GTT GmbH",
     "irc": "Toshima",
@@ -244,6 +274,12 @@
     "company": "EXARING AG / Stuttgart-IX",
     "irc": null,
     "asn": "51324"
+  },
+  {
+    "name": "Timo Reimann",
+    "company": "Cordes & Graefe KG",
+    "irc": "goebelmeier",
+    "asn": "AS204147"
   },
   {
     "name": "Tobias Heister",
