@@ -1,5 +1,11 @@
 [
   {
+    "name": "Alexander Lobodzinski",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Bernd Buedenbender",
     "company": "equada GmbH",
     "irc": null,
@@ -24,16 +30,34 @@
     "asn": "29413"
   },
   {
+    "name": "Clerie Riese",
+    "company": "FeM e.V.",
+    "irc": "clerie",
+    "asn": null
+  },
+  {
     "name": "Daniel Niewerth",
     "company": null,
     "irc": null,
     "asn": "34936"
   },
   {
+    "name": "Dominique Flemming-Schmidt",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Cernota",
     "company": "cernota.net",
     "irc": "fabs",
     "asn": null
+  },
+  {
+    "name": "Hermann Lienstromberg",
+    "company": "GRMML Networks",
+    "irc": "Nurtic-Vibe",
+    "asn": "208059"
   },
   {
     "name": "Jan Czmok",
@@ -60,6 +84,12 @@
     "asn": null
   },
   {
+    "name": "Johannes Six",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jörg Backschues",
     "company": null,
     "irc": "jbacksch",
@@ -76,6 +106,18 @@
     "company": "German Edge Cloud",
     "irc": "Skorpy",
     "asn": "64475 42263"
+  },
+  {
+    "name": "Marco Doehler",
+    "company": "Vodafone",
+    "irc": null,
+    "asn": "3209"
+  },
+  {
+    "name": "Maximilian Wilhelm",
+    "company": "Universität Paderborn / SDN.clinic",
+    "irc": "Barbarossa",
+    "asn": "41981"
   },
   {
     "name": "Moritz Frenzel",
@@ -96,10 +138,28 @@
     "asn": "24961"
   },
   {
+    "name": "Peter Sievers",
+    "company": null,
+    "irc": "PSI",
+    "asn": null
+  },
+  {
+    "name": "Robert Finze",
+    "company": null,
+    "irc": "mar-vin",
+    "asn": "60767"
+  },
+  {
     "name": "Robert Remenyi",
     "company": "htp GmbH",
     "irc": "robrem",
     "asn": "13045"
+  },
+  {
+    "name": "Ronny Boesger",
+    "company": null,
+    "irc": "rcmcronny",
+    "asn": null
   },
   {
     "name": "Ruben Herold",
@@ -150,10 +210,22 @@
     "asn": null
   },
   {
+    "name": "Tim Kleefass",
+    "company": "EXARING AG / Stuttgart-IX",
+    "irc": null,
+    "asn": "51324"
+  },
+  {
     "name": "Tobias Heister",
     "company": "Xantaro Deutschland GmbH",
     "irc": "izemaen",
     "asn": "203520"
+  },
+  {
+    "name": "ulf Volmer",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Wolfgang Tremmel",
