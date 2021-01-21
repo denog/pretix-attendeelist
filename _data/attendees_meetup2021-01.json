@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Andreas Boesen",
+    "company": "BelWü",
+    "irc": "Happy",
+    "asn": "553"
+  },
+  {
     "name": "Bernd Buedenbender",
     "company": "equada GmbH",
     "irc": null,
@@ -88,6 +94,12 @@
     "company": "Sky",
     "irc": "jwbensley",
     "asn": "5607"
+  },
+  {
+    "name": "Jan Ackerstaff",
+    "company": null,
+    "irc": null,
+    "asn": "50621, 205240"
   },
   {
     "name": "Jan Czmok",
