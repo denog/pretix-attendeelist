@@ -42,6 +42,18 @@
     "asn": "34936"
   },
   {
+    "name": "Daniel Spierling",
+    "company": "DE-CIX",
+    "irc": "dspierling",
+    "asn": "6695 43252 47228 56890"
+  },
+  {
+    "name": "Dennis Urban",
+    "company": "BelWü",
+    "irc": "dpunkturban",
+    "asn": "553"
+  },
+  {
     "name": "Dominique Flemming-Schmidt",
     "company": null,
     "irc": null,
@@ -120,6 +132,12 @@
     "asn": "41981"
   },
   {
+    "name": "Michael Hayler",
+    "company": "Fujitsu TDS GmbH",
+    "irc": "raider",
+    "asn": "12857"
+  },
+  {
     "name": "Moritz Frenzel",
     "company": "Anexia / Stuttgart-IX / DENOG e.V.",
     "irc": "momorientes",
@@ -186,10 +204,22 @@
     "asn": null
   },
   {
+    "name": "Sebastian Posner",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Stefan Dunkel",
     "company": "Freifunk Nordwest e.V",
     "irc": "stefan6",
     "asn": "206313"
+  },
+  {
+    "name": "Stefan Giera",
+    "company": "BelWü",
+    "irc": null,
+    "asn": "553"
   },
   {
     "name": "Stefan Neufeind",
