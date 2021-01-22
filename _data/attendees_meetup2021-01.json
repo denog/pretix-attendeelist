@@ -84,10 +84,22 @@
     "asn": null
   },
   {
+    "name": "Florian Hibler",
+    "company": "Arista Networks / DENOG e.V.",
+    "irc": "florian",
+    "asn": "55064"
+  },
+  {
     "name": "Frederic Jung",
     "company": "GitHub, Inc.",
     "irc": "jchome",
     "asn": "36459"
+  },
+  {
+    "name": "Hans-Christoph Deeken",
+    "company": "NFON AG",
+    "irc": "Glenlivet",
+    "asn": "8878"
   },
   {
     "name": "Hendrik Braasch",
