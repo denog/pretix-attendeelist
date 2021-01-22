@@ -186,6 +186,12 @@
     "asn": "AS35710"
   },
   {
+    "name": "Julian Lannert",
+    "company": "NTT GDC EMEA",
+    "irc": null,
+    "asn": "203329"
+  },
+  {
     "name": "Kay Rechthien",
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "kay",
@@ -274,6 +280,12 @@
     "company": "myLoc managed IT AG",
     "irc": "empi89",
     "asn": "24961"
+  },
+  {
+    "name": "Peter Koch",
+    "company": "DENIC eG",
+    "irc": null,
+    "asn": "8763 31529"
   },
   {
     "name": "Peter Sievers",
