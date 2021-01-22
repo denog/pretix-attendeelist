@@ -1,5 +1,11 @@
 [
   {
+    "name": ". .",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Lobodzinski",
     "company": null,
     "irc": null,
@@ -210,6 +216,12 @@
     "asn": "49234"
   },
   {
+    "name": "Leo \"em0lar\" Maroni",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Magnus Frühling",
     "company": "German Edge Cloud",
     "irc": "Skorpy",
@@ -246,6 +258,12 @@
     "asn": null
   },
   {
+    "name": "Marvin Gaube",
+    "company": null,
+    "irc": null,
+    "asn": "213204"
+  },
+  {
     "name": "Matthias Schlecht",
     "company": "BelWü",
     "irc": null,
@@ -268,6 +286,12 @@
     "company": "Anexia / Stuttgart-IX / DENOG e.V.",
     "irc": "momorientes",
     "asn": "47147,42473,41139"
+  },
+  {
+    "name": "Moritz Fromm",
+    "company": "FeM e.V.",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Patrick Bussmann",
@@ -442,5 +466,11 @@
     "company": "DE-CIX",
     "irc": "Garf",
     "asn": "196610"
+  },
+  {
+    "name": "Y Enss",
+    "company": null,
+    "irc": null,
+    "asn": null
   }
 ]
