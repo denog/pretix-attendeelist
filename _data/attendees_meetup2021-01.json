@@ -120,6 +120,12 @@
     "asn": "56381"
   },
   {
+    "name": "Jan Walzer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "J. Kost",
     "company": "Hofmeir Media GmbH",
     "irc": null,
@@ -148,6 +154,12 @@
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "kay",
     "asn": "20940"
+  },
+  {
+    "name": "Kurt Kayser",
+    "company": "Kurt Kayser Konsultation",
+    "irc": "Peanuts",
+    "asn": "49234"
   },
   {
     "name": "Magnus Frühling",
@@ -180,6 +192,12 @@
     "asn": null
   },
   {
+    "name": "Matthias Schlecht",
+    "company": "BelWü",
+    "irc": null,
+    "asn": "553"
+  },
+  {
     "name": "Maximilian Wilhelm",
     "company": "Universität Paderborn / SDN.clinic",
     "irc": "Barbarossa",
@@ -202,6 +220,12 @@
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "PBU",
     "asn": "20940"
+  },
+  {
+    "name": "Patrick Mueller",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Peter Hansen",
