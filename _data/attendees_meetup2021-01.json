@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Alban Fetahi",
+    "company": "DB Systel",
+    "irc": null,
+    "asn": "AS25325"
+  },
+  {
     "name": "Alexander Lobodzinski",
     "company": null,
     "irc": null,
@@ -16,6 +22,12 @@
     "company": "BelWü",
     "irc": "Happy",
     "asn": "553"
+  },
+  {
+    "name": "Andreas Habith",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Andreas Sturm",
