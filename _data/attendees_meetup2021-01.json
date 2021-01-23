@@ -42,6 +42,12 @@
     "asn": null
   },
   {
+    "name": "Benedikt Merkl",
+    "company": null,
+    "irc": "bene_",
+    "asn": null
+  },
+  {
     "name": "Bernd Buedenbender",
     "company": "equada GmbH",
     "irc": null,
@@ -118,6 +124,12 @@
     "company": "Arista Networks / DENOG e.V.",
     "irc": "florian",
     "asn": "55064"
+  },
+  {
+    "name": "Florian Streibelt",
+    "company": "Max Planck Institut für Informatik",
+    "irc": "mutax",
+    "asn": null
   },
   {
     "name": "Frederic Jung",
