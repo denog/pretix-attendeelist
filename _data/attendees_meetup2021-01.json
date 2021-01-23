@@ -36,10 +36,22 @@
     "asn": "6695"
   },
   {
+    "name": "Anita Meyer",
+    "company": "Init7 / Denog e.V.",
+    "irc": null,
+    "asn": "13030"
+  },
+  {
     "name": "Armin Jenewein",
     "company": null,
     "irc": "armin",
     "asn": null
+  },
+  {
+    "name": "Arne Böttger",
+    "company": "akquinet AG",
+    "irc": "arnotron",
+    "asn": "35258"
   },
   {
     "name": "Benedikt Merkl",
