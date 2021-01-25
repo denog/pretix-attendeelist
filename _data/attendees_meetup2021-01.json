@@ -240,6 +240,12 @@
     "asn": null
   },
   {
+    "name": "Jeroen Massar",
+    "company": null,
+    "irc": "jeroen",
+    "asn": null
+  },
+  {
     "name": "J. Kost",
     "company": "Hofmeir Media GmbH",
     "irc": null,
@@ -430,6 +436,12 @@
     "company": null,
     "irc": "PSI",
     "asn": null
+  },
+  {
+    "name": "Ralf Eberhard",
+    "company": null,
+    "irc": null,
+    "asn": "202707"
   },
   {
     "name": "Ralf Schenk",
