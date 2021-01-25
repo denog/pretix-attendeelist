@@ -138,6 +138,12 @@
     "asn": "553"
   },
   {
+    "name": "Dominic Schallert",
+    "company": null,
+    "irc": null,
+    "asn": "61150"
+  },
+  {
     "name": "Dominik Gülland",
     "company": null,
     "irc": null,
@@ -514,6 +520,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Silvan Gebhardt",
+    "company": "The Insitute for Pyrotechnical Cleaning",
+    "irc": "pcdog",
+    "asn": "41666"
   },
   {
     "name": "Stefan Dunkel",
