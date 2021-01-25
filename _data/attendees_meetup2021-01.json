@@ -108,6 +108,12 @@
     "asn": null
   },
   {
+    "name": "C St",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Daniel Nägele",
     "company": "BelWü",
     "irc": "debugloop",
@@ -422,6 +428,12 @@
   {
     "name": "Ralf Schenk",
     "company": "Databay AG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Robert Dahlhoff",
+    "company": null,
     "irc": null,
     "asn": null
   },
