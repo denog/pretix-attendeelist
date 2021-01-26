@@ -372,6 +372,12 @@
     "asn": null
   },
   {
+    "name": "Martin Kluge",
+    "company": null,
+    "irc": "Any",
+    "asn": null
+  },
+  {
     "name": "Marvin Gaube",
     "company": null,
     "irc": null,
@@ -490,6 +496,12 @@
     "company": null,
     "irc": "rcmcronny",
     "asn": null
+  },
+  {
+    "name": "Ruben Garbade",
+    "company": null,
+    "irc": null,
+    "asn": "34927"
   },
   {
     "name": "Ruben Herold",
