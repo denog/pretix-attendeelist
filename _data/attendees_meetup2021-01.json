@@ -66,6 +66,12 @@
     "asn": "35258"
   },
   {
+    "name": "Arthur Beier",
+    "company": "Exaring AG",
+    "irc": "Arthur",
+    "asn": null
+  },
+  {
     "name": "Benedikt Merkl",
     "company": null,
     "irc": "bene_",
