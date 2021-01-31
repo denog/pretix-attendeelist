@@ -66,6 +66,12 @@
     "asn": "13030"
   },
   {
+    "name": "Annika Wickert",
+    "company": null,
+    "irc": "awlnx",
+    "asn": "212567"
+  },
+  {
     "name": "Armin Jenewein",
     "company": null,
     "irc": "armin",
@@ -402,7 +408,7 @@
     "asn": null
   },
   {
-    "name": "Leo \"em0lar\" Maroni",
+    "name": "Leo Maroni",
     "company": null,
     "irc": null,
     "asn": null
@@ -664,6 +670,12 @@
     "company": "The Insitute for Pyrotechnical Cleaning",
     "irc": "pcdog",
     "asn": "41666"
+  },
+  {
+    "name": "Simeon Keske",
+    "company": null,
+    "irc": "n0emis",
+    "asn": null
   },
   {
     "name": "Simon Terzenbach",
