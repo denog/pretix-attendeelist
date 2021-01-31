@@ -234,6 +234,12 @@
     "asn": "42473"
   },
   {
+    "name": "Florian Zierer",
+    "company": "Berufsschule Freising",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Frederic Jung",
     "company": "GitHub, Inc.",
     "irc": "jchome",
@@ -484,6 +490,12 @@
     "company": "DB Fahrzeuginstandhaltung",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Matthias Kesler",
+    "company": null,
+    "irc": "krombel",
+    "asn": "212567"
   },
   {
     "name": "Matthias Schlecht",
@@ -766,6 +778,12 @@
     "company": "Xantaro Deutschland GmbH",
     "irc": "izemaen",
     "asn": "203520"
+  },
+  {
+    "name": "Tom Herbers",
+    "company": null,
+    "irc": "tomh",
+    "asn": null
   },
   {
     "name": "Ulf Fischer",
