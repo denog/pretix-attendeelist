@@ -426,6 +426,12 @@
     "asn": "49234"
   },
   {
+    "name": "Lars Bußmann",
+    "company": "arvato systems",
+    "irc": "LarsB",
+    "asn": null
+  },
+  {
     "name": "Lea Fall",
     "company": "Aliter Networks",
     "irc": null,
@@ -664,6 +670,12 @@
     "company": null,
     "irc": null,
     "asn": "12307"
+  },
+  {
+    "name": "Sascha Growe",
+    "company": "PlusServer GmH",
+    "irc": null,
+    "asn": "61157"
   },
   {
     "name": "Sebastian Becker",
