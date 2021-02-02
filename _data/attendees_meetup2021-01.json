@@ -276,6 +276,12 @@
     "asn": "36459"
   },
   {
+    "name": "Hannes Rist",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Hans-Christoph Deeken",
     "company": "NFON AG",
     "irc": "Glenlivet",
@@ -970,6 +976,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "DE-CIX",
+    "irc": "Garf",
+    "asn": "196610"
   },
   {
     "name": "Wolfgang Tremmel",
