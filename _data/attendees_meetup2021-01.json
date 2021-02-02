@@ -73,9 +73,9 @@
   },
   {
     "name": "Annika Wickert",
-    "company": null,
+    "company": "Github Inc.",
     "irc": "awlnx",
-    "asn": "212567"
+    "asn": "36459"
   },
   {
     "name": "Anton Schauer",
@@ -981,6 +981,12 @@
     "name": "Tom Herbers",
     "company": null,
     "irc": "tomh",
+    "asn": null
+  },
+  {
+    "name": "tst test",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
