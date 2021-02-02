@@ -60,6 +60,12 @@
     "asn": "6695"
   },
   {
+    "name": "andre niemann",
+    "company": null,
+    "irc": "strohalm",
+    "asn": null
+  },
+  {
     "name": "Andri Steiner",
     "company": "Ops One AG",
     "irc": "stnr",
@@ -523,6 +529,12 @@
   },
   {
     "name": "Lukas Gerhold",
+    "company": "man-da.de",
+    "irc": "lukas-",
+    "asn": "8365"
+  },
+  {
+    "name": "Lukas Gerhold",
     "company": null,
     "irc": "lukas-",
     "asn": null
@@ -576,6 +588,12 @@
     "asn": "553"
   },
   {
+    "name": "Marcus Stoegbauer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Markus Schmelter",
     "company": null,
     "irc": "fupsi42",
@@ -585,6 +603,12 @@
     "name": "Martin Kluge",
     "company": null,
     "irc": "Any",
+    "asn": null
+  },
+  {
+    "name": "Martin Weinelt",
+    "company": null,
+    "irc": "hexa-",
     "asn": null
   },
   {
@@ -604,6 +628,12 @@
     "company": null,
     "irc": "krombel",
     "asn": "212567"
+  },
+  {
+    "name": "Matthias Knoll",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Matthias Krumme",
@@ -640,6 +670,12 @@
     "company": "SpaceNet AG",
     "irc": "mme",
     "asn": "5539"
+  },
+  {
+    "name": "Moritz Fago",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Moritz Frenzel",
@@ -726,6 +762,12 @@
     "asn": null
   },
   {
+    "name": "Philipp Wolter",
+    "company": "KIT",
+    "irc": null,
+    "asn": "34878"
+  },
+  {
     "name": "Ralf Eberhard",
     "company": null,
     "irc": null,
@@ -766,6 +808,12 @@
     "company": "WWU Münster | Freifunk Münsterland",
     "irc": "RobWei",
     "asn": "207622"
+  },
+  {
+    "name": "Robyn Bachofer",
+    "company": "imos GmbH",
+    "irc": "pyco",
+    "asn": "20677"
   },
   {
     "name": "Rolf Munzlinger",
@@ -876,6 +924,12 @@
     "asn": "20647 202329"
   },
   {
+    "name": "Stefan Bühler",
+    "company": "Universität Stuttgart",
+    "irc": "stbuehler",
+    "asn": null
+  },
+  {
     "name": "Stefan Dunkel",
     "company": "Freifunk Nordwest e.V",
     "irc": "stefan6",
@@ -948,6 +1002,12 @@
     "asn": "202707"
   },
   {
+    "name": "Thomas Gloor",
+    "company": null,
+    "irc": null,
+    "asn": "15600"
+  },
+  {
     "name": "Thomas Jessen",
     "company": "GTT GmbH",
     "irc": "Toshima",
@@ -982,6 +1042,12 @@
     "company": "Cordes & Graefe KG",
     "irc": "goebelmeier",
     "asn": "AS204147"
+  },
+  {
+    "name": "Tizian Cardinal von Widdern",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tobias Heister",
