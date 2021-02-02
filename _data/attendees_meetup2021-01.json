@@ -198,6 +198,12 @@
     "asn": "6695 43252 47228 56890"
   },
   {
+    "name": "Denis Klimek",
+    "company": "wilhelm.tel GmbH",
+    "irc": null,
+    "asn": "15943"
+  },
+  {
     "name": "Dennis Urban",
     "company": "BelWü",
     "irc": "dpunkturban",
@@ -244,6 +250,12 @@
     "company": "ANEXIA Internetdienstleistungs GmbH",
     "irc": null,
     "asn": "AS47147, AS42473"
+  },
+  {
+    "name": "Florian Brenner",
+    "company": "SpaceNet AG",
+    "irc": null,
+    "asn": "5539"
   },
   {
     "name": "Florian Hibler",
@@ -622,6 +634,12 @@
     "company": "Fujitsu TDS GmbH",
     "irc": "raider",
     "asn": "12857"
+  },
+  {
+    "name": "Michael Meyer",
+    "company": "SpaceNet AG",
+    "irc": "mme",
+    "asn": "5539"
   },
   {
     "name": "Moritz Frenzel",
