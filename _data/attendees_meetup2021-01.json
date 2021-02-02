@@ -372,6 +372,12 @@
     "asn": null
   },
   {
+    "name": "Joey Julian König",
+    "company": null,
+    "irc": "NetFreak",
+    "asn": "49697"
+  },
+  {
     "name": "Johannes Erwerle",
     "company": "BelWue",
     "irc": "_992jo",
@@ -816,6 +822,12 @@
     "asn": "34225"
   },
   {
+    "name": "Stefan Wahl",
+    "company": null,
+    "irc": "swaio",
+    "asn": null
+  },
+  {
     "name": "Steffen Weinreich",
     "company": "Wireless Logic mdex GmbH",
     "irc": "lairsdragon",
@@ -854,6 +866,12 @@
   {
     "name": "Thomas King",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Thomas Schäfer",
+    "company": "Stadt Bochum",
     "irc": null,
     "asn": null
   },
