@@ -930,6 +930,12 @@
     "asn": "16374"
   },
   {
+    "name": "Theo Voss",
+    "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": "tvberlin",
+    "asn": "47147,42473"
+  },
+  {
     "name": "Thomas Fragstein",
     "company": null,
     "irc": "fragstone",
@@ -990,6 +996,12 @@
     "asn": null
   },
   {
+    "name": "Tonja Heinemann",
+    "company": "Uni Stuttgart",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "tst test",
     "company": null,
     "irc": null,
@@ -1011,6 +1023,12 @@
     "name": "Veit Heller",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Willi Meißner",
+    "company": null,
+    "irc": "willimei",
     "asn": null
   },
   {
