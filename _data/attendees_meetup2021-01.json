@@ -570,6 +570,12 @@
     "asn": "212567"
   },
   {
+    "name": "Matthias Krumme",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Schlecht",
     "company": "BelWü",
     "irc": null,
@@ -795,6 +801,12 @@
     "name": "Simeon Keske",
     "company": null,
     "irc": "n0emis",
+    "asn": null
+  },
+  {
+    "name": "Simon Schweizer",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
