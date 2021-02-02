@@ -529,15 +529,15 @@
   },
   {
     "name": "Lukas Gerhold",
-    "company": "man-da.de",
-    "irc": "lukas-",
-    "asn": "8365"
-  },
-  {
-    "name": "Lukas Gerhold",
     "company": null,
     "irc": "lukas-",
     "asn": null
+  },
+  {
+    "name": "Lukas Gerhold",
+    "company": "man-da.de",
+    "irc": "lukas-",
+    "asn": "8365"
   },
   {
     "name": "Magnus Frühling",
@@ -658,6 +658,12 @@
     "company": "Universität Paderborn / SDN.clinic",
     "irc": "Barbarossa",
     "asn": "41981"
+  },
+  {
+    "name": "Merlin Wolf",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Michael Hayler",
