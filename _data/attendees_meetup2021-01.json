@@ -156,6 +156,12 @@
     "asn": null
   },
   {
+    "name": "Daniel Halbe",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Daniel Machtolf",
     "company": "DC1",
     "irc": null,
@@ -292,6 +298,12 @@
     "company": null,
     "irc": "MyIgel",
     "asn": "AS64475"
+  },
+  {
+    "name": "Igor Tkanov",
+    "company": "AMS-IX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "James Bensleu",
