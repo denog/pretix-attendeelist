@@ -102,6 +102,12 @@
     "asn": "35258"
   },
   {
+    "name": "Arnold Nipper",
+    "company": "DE_CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Arthur Beier",
     "company": "Exaring AG",
     "irc": "Arthur",
@@ -478,6 +484,12 @@
     "company": "NTT GDC EMEA",
     "irc": null,
     "asn": "203329"
+  },
+  {
+    "name": "Julian Schuh",
+    "company": "KIT",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Kay Rechthien",
