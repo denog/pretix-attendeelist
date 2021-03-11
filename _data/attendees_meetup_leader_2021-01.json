@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Anita Meyer",
+    "company": "Init7 / DENOG e.V.",
+    "irc": null,
+    "asn": "13030"
+  },
+  {
+    "name": "Annika Wickert",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "Deutsche Telekom Global Carrier",
+    "irc": "_sb_",
+    "asn": "3320"
+  },
+  {
+    "name": "Sebastian Heidrich",
+    "company": null,
+    "irc": "tazz",
+    "asn": null
+  },
+  {
+    "name": "Theo Voss",
+    "company": "ANEXIA",
+    "irc": "tvberlin",
+    "asn": "AS47147,AS42473"
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "DENOG / EXARING AG",
+    "irc": "TimKleefass",
+    "asn": "51324"
+  }
+]
