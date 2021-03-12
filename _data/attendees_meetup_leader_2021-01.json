@@ -30,6 +30,12 @@
     "asn": "55064"
   },
   {
+    "name": "Robert Finze",
+    "company": "DE-CIX",
+    "irc": "marvin__",
+    "asn": null
+  },
+  {
     "name": "Sebastian Becker",
     "company": "Deutsche Telekom Global Carrier",
     "irc": "_sb_",
