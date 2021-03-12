@@ -30,9 +30,21 @@
     "asn": "55064"
   },
   {
+    "name": "Jan Gilla",
+    "company": "level66.network UG (haftungsbeschränkt)",
+    "irc": "MrXermon",
+    "asn": "56381"
+  },
+  {
     "name": "jan Walzer",
     "company": "Cloudical",
     "irc": "iQ",
+    "asn": null
+  },
+  {
+    "name": "Leopold Schabel",
+    "company": "Nexantic GmbH",
+    "irc": "leoluk",
     "asn": null
   },
   {
