@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Denis Klimek",
+    "company": "wilhelm.tel GmbH",
+    "irc": null,
+    "asn": "15943"
+  },
+  {
     "name": "Sebastian Becker",
     "company": "Deutsche Telekom Global Carrier",
     "irc": "_sb_",
@@ -34,5 +40,11 @@
     "company": "DENOG / EXARING AG",
     "irc": "TimKleefass",
     "asn": "51324"
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "DE-CIX",
+    "irc": "Garf",
+    "asn": "196610"
   }
 ]
