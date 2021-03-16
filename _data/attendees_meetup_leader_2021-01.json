@@ -90,6 +90,12 @@
     "asn": null
   },
   {
+    "name": "Rainer Skarke",
+    "company": "LinzNet",
+    "irc": null,
+    "asn": "28889"
+  },
+  {
     "name": "René Fichtmüller",
     "company": "Flexoptix GmbH/ Global NOG Alliance",
     "irc": null,
@@ -112,6 +118,12 @@
     "company": null,
     "irc": "tazz",
     "asn": null
+  },
+  {
+    "name": "Stefan Funke",
+    "company": "Anexia",
+    "irc": "stefan",
+    "asn": "47147 42473"
   },
   {
     "name": "Stefan Wahl",
