@@ -66,6 +66,12 @@
     "asn": null
   },
   {
+    "name": "Joerg Dorchain",
+    "company": null,
+    "irc": "pfy",
+    "asn": null
+  },
+  {
     "name": "Leopold Schabel",
     "company": "Nexantic GmbH",
     "irc": "leoluk",
@@ -138,10 +144,22 @@
     "asn": "9033"
   },
   {
+    "name": "Steven Glogger",
+    "company": "Swisscom",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Theo Voss",
     "company": "ANEXIA",
     "irc": "tvberlin",
     "asn": "AS47147,AS42473"
+  },
+  {
+    "name": "Thomas Fritz",
+    "company": "Rheintal IX",
+    "irc": null,
+    "asn": "61150"
   },
   {
     "name": "Tim Kleefass",
