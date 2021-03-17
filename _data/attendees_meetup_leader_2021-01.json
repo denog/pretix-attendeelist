@@ -144,6 +144,12 @@
     "asn": null
   },
   {
+    "name": "Malte von dem Hagen",
+    "company": "GoDaddy",
+    "irc": "Honk-20773",
+    "asn": "26496"
+  },
+  {
     "name": "Markus Fellhofer",
     "company": "Energie AG Oberösterreich Telekom GmbH",
     "irc": null,
@@ -154,6 +160,12 @@
     "company": "University Paderborn",
     "irc": "Barbarossa",
     "asn": null
+  },
+  {
+    "name": "Melanie Buck",
+    "company": "GoDaddy",
+    "irc": null,
+    "asn": "20773"
   },
   {
     "name": "Michael Hayler",
