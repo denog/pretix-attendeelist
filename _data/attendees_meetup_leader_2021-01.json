@@ -60,16 +60,34 @@
     "asn": null
   },
   {
+    "name": "Ferenc Käszdorf",
+    "company": "Rendszerinformatika Zrt",
+    "irc": null,
+    "asn": "AS206892"
+  },
+  {
     "name": "Florian Hibler",
     "company": "Arista Networks, Inc. / DENOG e.V.",
     "irc": "florian",
     "asn": "55064"
   },
   {
+    "name": "Harald Singer",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
+  },
+  {
     "name": "Henry Kluge",
     "company": "DFN",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Jan Dirnberger",
+    "company": "noris network AG",
+    "irc": "solis",
+    "asn": "12337"
   },
   {
     "name": "Jan Gilla",
