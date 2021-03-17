@@ -48,6 +48,12 @@
     "asn": "15943"
   },
   {
+    "name": "Dieter Hirt",
+    "company": "scanplus GmbH",
+    "irc": null,
+    "asn": "AS12399"
+  },
+  {
     "name": "Falk Stern",
     "company": "PROFI Engineering Systems AG",
     "irc": "falk",
@@ -98,6 +104,12 @@
   {
     "name": "Lukas Gerhold",
     "company": "man-da",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Markus Fellhofer",
+    "company": "Energie AG Oberösterreich Telekom GmbH",
     "irc": null,
     "asn": null
   },
