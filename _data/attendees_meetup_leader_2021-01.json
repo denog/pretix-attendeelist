@@ -72,6 +72,12 @@
     "asn": "55064"
   },
   {
+    "name": "Franz Abzieher",
+    "company": null,
+    "irc": null,
+    "asn": "212125"
+  },
+  {
     "name": "Harald Singer",
     "company": "TeleData GmbH",
     "irc": null,
@@ -148,6 +154,12 @@
     "company": "Fujitsu TDS GmbH",
     "irc": "raider",
     "asn": "12857"
+  },
+  {
+    "name": "Michel Renfer",
+    "company": "Quickline AG",
+    "irc": null,
+    "asn": "15600"
   },
   {
     "name": "Pascal Kube",
