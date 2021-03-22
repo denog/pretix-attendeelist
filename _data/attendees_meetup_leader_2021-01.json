@@ -192,6 +192,12 @@
     "asn": "26496"
   },
   {
+    "name": "Marc Korthaus",
+    "company": "SysEleven GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marcus Stoegbauer",
     "company": null,
     "irc": "Lysis",
@@ -316,6 +322,12 @@
     "company": null,
     "irc": "swaio",
     "asn": "9033"
+  },
+  {
+    "name": "Stephan Werner",
+    "company": "Flexoptix GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Steven Glogger",
