@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Andre Reitenbach",
+    "company": "Gcore Labs SA",
+    "irc": null,
+    "asn": "199524"
+  },
+  {
     "name": "Anita Meyer",
     "company": "Init7 / DENOG e.V.",
     "irc": null,
@@ -246,6 +252,12 @@
     "asn": "15600"
   },
   {
+    "name": "Nicola von Thadden",
+    "company": "Pfalzkom GmbH",
+    "irc": "nicoduck",
+    "asn": "21473, 15945"
+  },
+  {
     "name": "Pascal Kube",
     "company": "Mahr EDV GmbH",
     "irc": null,
@@ -388,6 +400,12 @@
     "company": "Kuehne+Nagel",
     "irc": "ulf",
     "asn": "211656"
+  },
+  {
+    "name": "Vincentz Petzholtz",
+    "company": "SysEleven GmbH",
+    "irc": "VP1",
+    "asn": "AS25291"
   },
   {
     "name": "Wolfgang Tremmel",
