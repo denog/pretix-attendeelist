@@ -21,7 +21,7 @@
     "name": "Annika Wickert",
     "company": "Github Inc. / Freifunk München",
     "irc": "awlnx",
-    "asn": "36459 / 212567"
+    "asn": "36459 212567"
   },
   {
     "name": "Arne Böttger",
@@ -428,6 +428,12 @@
   {
     "name": "Steven Glogger",
     "company": "Swisscom",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "test test",
+    "company": "test",
     "irc": null,
     "asn": null
   },
