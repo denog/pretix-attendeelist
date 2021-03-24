@@ -30,6 +30,12 @@
     "asn": "35258"
   },
   {
+    "name": "Arnold Nipper",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Bernd Büdenbender",
     "company": "equada GmbH",
     "irc": null,
@@ -136,6 +142,12 @@
     "company": "DFN",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Henry Schaefer",
+    "company": null,
+    "irc": "hs_",
+    "asn": "702"
   },
   {
     "name": "Jan Dirnberger",
@@ -382,6 +394,12 @@
     "company": null,
     "irc": "swaio",
     "asn": "9033"
+  },
+  {
+    "name": "Stephan Schroeder",
+    "company": "Benocs",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Stephan Werner",
