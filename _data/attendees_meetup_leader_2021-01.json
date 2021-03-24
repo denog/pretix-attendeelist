@@ -54,6 +54,12 @@
     "asn": "209148"
   },
   {
+    "name": "Christian Dieckhoff",
+    "company": null,
+    "irc": "chrisd",
+    "asn": "9136"
+  },
+  {
     "name": "Christoph Knörr",
     "company": "Komro GmbH",
     "irc": "BurnX",
@@ -436,6 +442,12 @@
     "company": "Kuehne+Nagel",
     "irc": "ulf",
     "asn": "211656"
+  },
+  {
+    "name": "Veit Heller",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Vincentz Petzholtz",
