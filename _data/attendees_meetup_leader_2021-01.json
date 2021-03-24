@@ -192,6 +192,12 @@
     "asn": null
   },
   {
+    "name": "Jerry Grondel",
+    "company": "NL-ix",
+    "irc": null,
+    "asn": "34307"
+  },
+  {
     "name": "Joerg Dorchain",
     "company": null,
     "irc": "pfy",
@@ -484,6 +490,12 @@
     "company": "Kuehne+Nagel",
     "irc": "ulf",
     "asn": "211656"
+  },
+  {
+    "name": "Ulf Kieber",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Veit Heller",
