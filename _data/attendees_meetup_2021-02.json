@@ -18,6 +18,12 @@
     "asn": "209148"
   },
   {
+    "name": "Daniel Niewerth",
+    "company": null,
+    "irc": null,
+    "asn": "34936"
+  },
+  {
     "name": "Kay Rechthien",
     "company": "Akamai Technologies / BCIX",
     "irc": "kay",
@@ -34,6 +40,12 @@
     "company": null,
     "irc": null,
     "asn": "AS213204, AS64475"
+  },
+  {
+    "name": "Maximilian Sesterhenn",
+    "company": "EPX Ehrhardt + Partner Xtended GmbH",
+    "irc": null,
+    "asn": "AS208206"
   },
   {
     "name": "Patrick Bussmann",
