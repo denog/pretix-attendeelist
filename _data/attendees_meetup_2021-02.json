@@ -12,6 +12,12 @@
     "asn": "20940"
   },
   {
+    "name": "Marc Helmus",
+    "company": "private",
+    "irc": "marcnetismus",
+    "asn": "none"
+  },
+  {
     "name": "Marvin Gaube",
     "company": null,
     "irc": null,
@@ -22,6 +28,12 @@
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "PBU",
     "asn": "20940"
+  },
+  {
+    "name": "Peter Hurtenbach",
+    "company": null,
+    "irc": null,
+    "asn": "211671"
   },
   {
     "name": "Sebastian Becker",
