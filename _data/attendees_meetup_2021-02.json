@@ -1,9 +1,21 @@
 [
   {
+    "name": "Annika Wickert",
+    "company": "Github Inc. / Freifunk München",
+    "irc": "awlnx",
+    "asn": "36459 212567"
+  },
+  {
     "name": "Kay Rechthien",
     "company": "Akamai Technologies / BCIX",
     "irc": "kay",
     "asn": "20940"
+  },
+  {
+    "name": "Marvin Gaube",
+    "company": null,
+    "irc": null,
+    "asn": "AS213204, AS64475"
   },
   {
     "name": "Patrick Bussmann",
@@ -16,5 +28,11 @@
     "company": "Deutsche Telekom AG",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Thomas Fragstein",
+    "company": null,
+    "irc": "Fragstone",
+    "asn": "203215"
   }
 ]
