@@ -48,6 +48,12 @@
     "asn": "AS208206"
   },
   {
+    "name": "Moritz Frenzel",
+    "company": "DENOG e.V. / ANEXIA / Stuttgart-IX",
+    "irc": "momorientes",
+    "asn": "47147, 42473, 41139"
+  },
+  {
     "name": "Patrick Bussmann",
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "PBU",
@@ -76,5 +82,11 @@
     "company": null,
     "irc": "Fragstone",
     "asn": "203215"
+  },
+  {
+    "name": "Ulf Kieber",
+    "company": null,
+    "irc": null,
+    "asn": null
   }
 ]
