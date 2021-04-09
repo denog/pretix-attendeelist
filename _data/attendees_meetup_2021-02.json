@@ -36,6 +36,12 @@
     "asn": "212125"
   },
   {
+    "name": "Fredy Künzler",
+    "company": "Init7",
+    "irc": null,
+    "asn": "13030"
+  },
+  {
     "name": "Karim Tubin",
     "company": "RETN Deutschland",
     "irc": "Bappsack",
@@ -118,5 +124,11 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "DE-CIX",
+    "irc": "Garf",
+    "asn": "196610"
   }
 ]
