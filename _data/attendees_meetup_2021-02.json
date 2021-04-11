@@ -1,5 +1,11 @@
 [
   {
+    "name": "Adrian Pistol",
+    "company": "efero GmbH / vifino Research Network",
+    "irc": "vifino",
+    "asn": "208431 213342"
+  },
+  {
     "name": "Annika Wickert",
     "company": "Github Inc. / Freifunk München",
     "irc": "awlnx",
