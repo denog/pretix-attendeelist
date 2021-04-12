@@ -66,6 +66,12 @@
     "asn": "209148"
   },
   {
+    "name": "Christoph Badura",
+    "company": "Bozotic Software Testing Labs",
+    "irc": "baduck",
+    "asn": null
+  },
+  {
     "name": "Christoph Heinecke",
     "company": "Sparkassen-IT",
     "irc": null,
@@ -148,6 +154,12 @@
     "company": "private",
     "irc": "marcnetismus",
     "asn": "none"
+  },
+  {
+    "name": "Marcus Mattern",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Martin Sofaru",
