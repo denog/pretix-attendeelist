@@ -24,10 +24,22 @@
     "asn": "47147"
   },
   {
+    "name": "Bernd Buedenbender",
+    "company": "equada GmbH",
+    "irc": null,
+    "asn": "25220"
+  },
+  {
     "name": "Christian Beyer",
     "company": "Securepoint GmbH",
     "irc": null,
     "asn": "209148"
+  },
+  {
+    "name": "Christoph Knörr",
+    "company": "Komro GmbH",
+    "irc": "BurnX",
+    "asn": "29413"
   },
   {
     "name": "Daniel Niewerth",
@@ -130,6 +142,12 @@
     "company": "BelWue",
     "irc": null,
     "asn": "553"
+  },
+  {
+    "name": "Stefan Neufeind",
+    "company": "SpeedPartner GmbH",
+    "irc": "neufeind",
+    "asn": "34225"
   },
   {
     "name": "Thomas Fragstein",
