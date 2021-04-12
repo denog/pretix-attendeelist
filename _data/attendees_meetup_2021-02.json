@@ -48,6 +48,12 @@
     "asn": "209148"
   },
   {
+    "name": "Christoph Heinecke",
+    "company": "Sparkassen-IT",
+    "irc": null,
+    "asn": "39702"
+  },
+  {
     "name": "Christoph Knörr",
     "company": "Komro GmbH",
     "irc": "BurnX",
@@ -106,6 +112,12 @@
     "company": "private",
     "irc": "marcnetismus",
     "asn": "none"
+  },
+  {
+    "name": "Martin Sofaru",
+    "company": null,
+    "irc": "nitram",
+    "asn": null
   },
   {
     "name": "Marvin Gaube",
