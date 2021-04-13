@@ -72,6 +72,12 @@
     "asn": "209148"
   },
   {
+    "name": "Christian Frost",
+    "company": "regiocom SE",
+    "irc": null,
+    "asn": "207999"
+  },
+  {
     "name": "Christoph Badura",
     "company": "Bozotic Software Testing Labs",
     "irc": "baduck",
@@ -126,6 +132,12 @@
     "asn": "680"
   },
   {
+    "name": "Jens Link",
+    "company": null,
+    "irc": "snej",
+    "asn": null
+  },
+  {
     "name": "Joerg Dorchain",
     "company": null,
     "irc": "pfy",
@@ -165,6 +177,12 @@
     "name": "Lars Brune",
     "company": "siticom GmbH",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Lars Bußmann",
+    "company": "arvato systems GmbH",
+    "irc": "LarsB",
     "asn": null
   },
   {
