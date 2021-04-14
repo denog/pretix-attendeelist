@@ -30,6 +30,12 @@
     "asn": null
   },
   {
+    "name": "Andri Steiner",
+    "company": "Ops One AG",
+    "irc": "stnr",
+    "asn": "198249"
+  },
+  {
     "name": "Anita Meyer",
     "company": "Init7/Denog e.V.",
     "irc": null,
@@ -154,6 +160,12 @@
     "company": null,
     "irc": "pfy",
     "asn": null
+  },
+  {
+    "name": "Johannes Jakob",
+    "company": "Datacenter One GmbH",
+    "irc": "irrwitzer",
+    "asn": "48918 59745"
   },
   {
     "name": "Jörg Backschues",
