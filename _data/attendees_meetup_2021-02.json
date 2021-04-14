@@ -180,6 +180,12 @@
     "asn": "48918 59745"
   },
   {
+    "name": "Jordan Borgner",
+    "company": "-",
+    "irc": null,
+    "asn": "-"
+  },
+  {
     "name": "Jörg Backschues",
     "company": null,
     "irc": null,
@@ -219,6 +225,12 @@
     "name": "Lars Bußmann",
     "company": "arvato systems GmbH",
     "irc": "LarsB",
+    "asn": null
+  },
+  {
+    "name": "Lea Fall",
+    "company": "Aliter Networks",
+    "irc": null,
     "asn": null
   },
   {
