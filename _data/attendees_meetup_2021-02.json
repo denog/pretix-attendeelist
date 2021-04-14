@@ -120,6 +120,12 @@
     "asn": "15943"
   },
   {
+    "name": "Enrico Richter",
+    "company": "BCIX",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ferenc Käszdorf",
     "company": "Rendszerinformatika Zrt",
     "irc": null,
@@ -214,6 +220,12 @@
     "company": "arvato systems GmbH",
     "irc": "LarsB",
     "asn": null
+  },
+  {
+    "name": "Leon Weber",
+    "company": "Datacenter One GmbH",
+    "irc": "leon",
+    "asn": "59745"
   },
   {
     "name": "Marc Helmus",
