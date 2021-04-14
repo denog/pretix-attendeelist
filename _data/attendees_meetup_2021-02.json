@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Alex Senderkin",
+    "company": "BCIX",
+    "irc": "icebreak",
+    "asn": "16374"
+  },
+  {
     "name": "Andreas John",
     "company": "net-lab GmbH",
     "irc": "derjohn",
@@ -298,6 +304,12 @@
     "company": "Akamai Technologies / DENOG e.V.",
     "irc": "PBU",
     "asn": "20940"
+  },
+  {
+    "name": "Patrick Mueller",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Peter Hurtenbach",
