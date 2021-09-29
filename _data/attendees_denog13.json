@@ -186,6 +186,12 @@
     "asn": null
   },
   {
+    "name": "Franziska Kunsmann",
+    "company": "//SEIBERT/MEDIA",
+    "irc": "kunsi",
+    "asn": null
+  },
+  {
     "name": "Frederic Jung",
     "company": null,
     "irc": "jchome",
@@ -388,6 +394,12 @@
     "company": null,
     "irc": "nitram",
     "asn": null
+  },
+  {
+    "name": "Martin Weinelt",
+    "company": "Chaos Computer Club Darmstadt e.V.",
+    "irc": "hexa-",
+    "asn": "6766"
   },
   {
     "name": "Maximilian Wilhelm",
