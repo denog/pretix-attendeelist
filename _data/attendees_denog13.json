@@ -330,6 +330,12 @@
     "asn": "199610"
   },
   {
+    "name": "Marc Helmus",
+    "company": null,
+    "irc": "marcnetismus",
+    "asn": null
+  },
+  {
     "name": "Marco Firsching",
     "company": "Rechenzentrum Haßfurt GmbH",
     "irc": null,
@@ -573,6 +579,12 @@
     "name": "Tim Kleefass",
     "company": "OneFiber",
     "irc": "TimKleefass",
+    "asn": null
+  },
+  {
+    "name": "Tim Witt",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
