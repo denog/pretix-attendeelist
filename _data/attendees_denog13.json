@@ -126,6 +126,12 @@
     "asn": null
   },
   {
+    "name": "Daniel Czerwonk",
+    "company": "Mauve Mailorder Software",
+    "irc": "dan_nrw",
+    "asn": "48821"
+  },
+  {
     "name": "Daniel Ebling",
     "company": null,
     "irc": null,
@@ -544,6 +550,12 @@
     "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Robin Därmann",
+    "company": "Ruhr-Uni Bochum",
+    "irc": null,
+    "asn": "29484"
   },
   {
     "name": "Sascha Hoppe",
