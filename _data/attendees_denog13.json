@@ -144,6 +144,12 @@
     "asn": "34936"
   },
   {
+    "name": "David Mehren",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Ryzik",
     "company": null,
     "irc": null,
@@ -172,6 +178,12 @@
     "company": null,
     "irc": "prophet60091",
     "asn": "9033"
+  },
+  {
+    "name": "Evi Reissmann",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fabrina Purper",
@@ -448,6 +460,12 @@
     "company": "Freifunk Regensburg e.V.",
     "irc": "MoepMan",
     "asn": "212989"
+  },
+  {
+    "name": "Markus Krieger",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Markus Schmelter",
@@ -736,6 +754,12 @@
     "company": "AS",
     "irc": "izemaen",
     "asn": "203520"
+  },
+  {
+    "name": "Tobias Kadenbach",
+    "company": "AG DSN",
+    "irc": "Spork",
+    "asn": null
   },
   {
     "name": "Tobias Krischer",
