@@ -96,6 +96,12 @@
     "asn": null
   },
   {
+    "name": "Daniel Ebling",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Ryzik",
     "company": null,
     "irc": null,
@@ -144,6 +150,12 @@
     "asn": "212125"
   },
   {
+    "name": "Franziska Butter",
+    "company": null,
+    "irc": "desperatio",
+    "asn": null
+  },
+  {
     "name": "Frederic Jung",
     "company": null,
     "irc": "jchome",
@@ -160,6 +172,12 @@
     "company": null,
     "irc": "hax404",
     "asn": "4242420428"
+  },
+  {
+    "name": "Jakob Müller",
+    "company": "AG DSN",
+    "irc": "ibot3",
+    "asn": null
   },
   {
     "name": "Jan-Eric Ortgies",
@@ -300,6 +318,12 @@
     "asn": "212989"
   },
   {
+    "name": "Markus Schmelter",
+    "company": null,
+    "irc": "fupsi42",
+    "asn": "210941"
+  },
+  {
     "name": "Martin Poppen",
     "company": "LWLcom GmbH",
     "irc": null,
@@ -376,6 +400,12 @@
     "company": "vitroconnect",
     "irc": null,
     "asn": "AS57353"
+  },
+  {
+    "name": "Philipp Adam",
+    "company": "DTAG",
+    "irc": "PhilAd",
+    "asn": "3320"
   },
   {
     "name": "Reza Shaddel",
