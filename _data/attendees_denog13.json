@@ -84,6 +84,12 @@
     "asn": "61157"
   },
   {
+    "name": "Christian Deckelmann",
+    "company": "Micro Focus",
+    "irc": null,
+    "asn": "82"
+  },
+  {
     "name": "Christian Friedrich",
     "company": null,
     "irc": null,
@@ -550,6 +556,12 @@
     "company": "aiticon GmbH",
     "irc": null,
     "asn": "203968; inactive personal ASN: 207612"
+  },
+  {
+    "name": "Maximilian Sesterhenn",
+    "company": "EPX Ehrhardt Partner Xtended GmbH",
+    "irc": null,
+    "asn": "AS208206"
   },
   {
     "name": "Maximilian Wilhelm",
