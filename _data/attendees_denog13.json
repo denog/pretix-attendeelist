@@ -228,6 +228,12 @@
     "asn": null
   },
   {
+    "name": "Kurt Kayser",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Lukas Gerhold",
     "company": "EXARING",
     "irc": "lukas",
@@ -342,6 +348,12 @@
     "asn": "AS3624"
   },
   {
+    "name": "Norbert Auler",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Patrick Bussmann",
     "company": "Akamai Technologies // DENOG",
     "irc": "PBU",
@@ -388,6 +400,12 @@
     "company": null,
     "irc": "Kn0rki",
     "asn": null
+  },
+  {
+    "name": "Sascha Lenz",
+    "company": "s-lz.net",
+    "irc": "master",
+    "asn": "29317"
   },
   {
     "name": "Sebastian Becker",
