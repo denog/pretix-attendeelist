@@ -138,6 +138,12 @@
     "asn": null
   },
   {
+    "name": "Dominik Gülland",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dominik Zajac",
     "company": "BayCIX GmbH",
     "irc": "banym",
@@ -450,6 +456,12 @@
     "asn": "AS3624"
   },
   {
+    "name": "Niels Bakker",
+    "company": "Akamai",
+    "irc": null,
+    "asn": "20940"
+  },
+  {
     "name": "Norbert Auler",
     "company": null,
     "irc": null,
@@ -598,6 +610,12 @@
     "company": "Cancom Managed Services GmbH",
     "irc": "se",
     "asn": "8469"
+  },
+  {
+    "name": "Thomas Georg",
+    "company": "omnidat",
+    "irc": null,
+    "asn": "202707"
   },
   {
     "name": "Thomas Jessen",
