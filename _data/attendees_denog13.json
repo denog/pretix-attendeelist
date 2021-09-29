@@ -540,6 +540,12 @@
     "asn": "6766"
   },
   {
+    "name": "Matthias Pickel",
+    "company": "Landeshauptstadt Stuttgart",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maximilian Emig",
     "company": "aiticon GmbH",
     "irc": null,
@@ -670,6 +676,12 @@
     "company": "Ruhr-Uni Bochum",
     "irc": null,
     "asn": "29484"
+  },
+  {
+    "name": "Sandro Bolliger",
+    "company": null,
+    "irc": null,
+    "asn": "12307"
   },
   {
     "name": "Sascha Hoppe",
@@ -838,6 +850,12 @@
     "company": "LWLcom",
     "irc": null,
     "asn": "50629"
+  },
+  {
+    "name": "Tristan Helmich",
+    "company": "Genesis Cloud",
+    "irc": "fadenb",
+    "asn": "209045"
   },
   {
     "name": "Udo Lütkemeier",
