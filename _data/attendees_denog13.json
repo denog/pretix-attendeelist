@@ -24,6 +24,12 @@
     "asn": "13030"
   },
   {
+    "name": "Arne Böttger",
+    "company": null,
+    "irc": "arnotron",
+    "asn": "35258"
+  },
+  {
     "name": "Ashar Khalid",
     "company": null,
     "irc": null,
@@ -324,6 +330,12 @@
     "asn": null
   },
   {
+    "name": "Laura Hausmann",
+    "company": "zotan experimental networks",
+    "irc": "zotan",
+    "asn": "211579"
+  },
+  {
     "name": "Lukas Gerhold",
     "company": "EXARING",
     "irc": "lukas",
@@ -340,6 +352,12 @@
     "company": "German Edge Cloud GmbH & Co. KG",
     "irc": "skorpy",
     "asn": "42263 64475 58145"
+  },
+  {
+    "name": "Maik Standtke",
+    "company": "ICT Consulting",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Manikandan Jayaraman",
