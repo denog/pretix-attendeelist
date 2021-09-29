@@ -6,6 +6,12 @@
     "asn": "7007"
   },
   {
+    "name": "Alex Senderkin",
+    "company": "BCIX",
+    "irc": "icebreak",
+    "asn": "16374"
+  },
+  {
     "name": "Andreas Sturm",
     "company": "DE-CIX",
     "irc": null,
@@ -124,6 +130,12 @@
     "company": "komro GmbH",
     "irc": "BurnX",
     "asn": "29413"
+  },
+  {
+    "name": "Christoph Loibl",
+    "company": "next layer GmbH",
+    "irc": null,
+    "asn": "1764"
   },
   {
     "name": "Costas Drogos",
@@ -340,6 +352,12 @@
     "company": "y0sh-network",
     "irc": "y0sh",
     "asn": "AS207671"
+  },
+  {
+    "name": "Julian Zehnter",
+    "company": "rockenstein AG",
+    "irc": null,
+    "asn": "8823"
   },
   {
     "name": "Jürgen Weber",
