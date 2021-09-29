@@ -108,6 +108,12 @@
     "asn": "39702"
   },
   {
+    "name": "Christoph Knörr",
+    "company": "komro GmbH",
+    "irc": "BurnX",
+    "asn": "29413"
+  },
+  {
     "name": "Costas Drogos",
     "company": null,
     "irc": "costasd",
@@ -322,6 +328,12 @@
     "company": "German Edge Cloud GmbH & Co. KG",
     "irc": "skorpy",
     "asn": "42263 64475 58145"
+  },
+  {
+    "name": "Manikandan Jayaraman",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Manuel Gomez Vadillo",
