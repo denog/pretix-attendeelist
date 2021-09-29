@@ -66,6 +66,12 @@
     "asn": "61157"
   },
   {
+    "name": "Christian Friedrich",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Frömmel",
     "company": "Charité Berlin",
     "irc": "blownaway",
@@ -124,6 +130,18 @@
     "company": "BayCIX GmbH",
     "irc": "banym",
     "asn": "12657"
+  },
+  {
+    "name": "Dustin Sanders",
+    "company": null,
+    "irc": "prophet60091",
+    "asn": "9033"
+  },
+  {
+    "name": "Fabrina Purper",
+    "company": null,
+    "irc": null,
+    "asn": "AS211445"
   },
   {
     "name": "Felix Bayer",
@@ -238,6 +256,12 @@
     "company": "KIT",
     "irc": null,
     "asn": "34878, 202329"
+  },
+  {
+    "name": "Julian Voß",
+    "company": "y0sh-network",
+    "irc": "y0sh",
+    "asn": "AS207671"
   },
   {
     "name": "Jürgen Weber",
@@ -463,6 +487,12 @@
   },
   {
     "name": "Sebastian Korte",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Müll",
     "company": null,
     "irc": null,
     "asn": null
