@@ -12,6 +12,12 @@
     "asn": "6695"
   },
   {
+    "name": "Andreas Worbs",
+    "company": "Artfiles GmbH",
+    "irc": "laxxie",
+    "asn": "8893"
+  },
+  {
     "name": "Anita Meyer",
     "company": "Init7 / Denog e.V.",
     "irc": null,
@@ -172,6 +178,12 @@
     "company": null,
     "irc": "hax404",
     "asn": "4242420428"
+  },
+  {
+    "name": "Hendrik Wolff",
+    "company": null,
+    "irc": "w0lff",
+    "asn": null
   },
   {
     "name": "Jakob Müller",
