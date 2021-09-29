@@ -324,6 +324,12 @@
     "asn": null
   },
   {
+    "name": "Jeroen Massar",
+    "company": "Massar Networking",
+    "irc": "jeroen",
+    "asn": "57777"
+  },
+  {
     "name": "Joerg Dorchain",
     "company": "MPII",
     "irc": null,
@@ -652,6 +658,12 @@
     "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Robert Remenyi",
+    "company": "htp GmbH",
+    "irc": "robrem",
+    "asn": "13045"
   },
   {
     "name": "Robin Därmann",
