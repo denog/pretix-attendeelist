@@ -60,6 +60,12 @@
     "asn": "202113"
   },
   {
+    "name": "Brian Hampel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Adler",
     "company": "Plusserver GmbH",
     "irc": null,
@@ -474,6 +480,12 @@
     "asn": null
   },
   {
+    "name": "Robert Leichssenring",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Sascha Hoppe",
     "company": null,
     "irc": "Kn0rki",
@@ -484,6 +496,12 @@
     "company": "s-lz.net",
     "irc": "master",
     "asn": "29317"
+  },
+  {
+    "name": "Sascha Pollok",
+    "company": "IPHH",
+    "irc": "dockmaster",
+    "asn": "12731"
   },
   {
     "name": "Sebastian Becker",
