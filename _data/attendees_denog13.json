@@ -288,6 +288,12 @@
     "asn": "553, 213341"
   },
   {
+    "name": "Johannes Six",
+    "company": "Yes",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jörg Backschues",
     "company": "backschues.NET",
     "irc": "jbacksch",
@@ -394,6 +400,12 @@
     "company": null,
     "irc": "marcnetismus",
     "asn": null
+  },
+  {
+    "name": "Marco Döhler",
+    "company": "Vodafone",
+    "irc": null,
+    "asn": "3209"
   },
   {
     "name": "Marco Firsching",
@@ -712,5 +724,11 @@
     "company": "LWLcom",
     "irc": null,
     "asn": "50629"
+  },
+  {
+    "name": "Udo Lütkemeier",
+    "company": null,
+    "irc": null,
+    "asn": null
   }
 ]
