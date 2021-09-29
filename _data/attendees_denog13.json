@@ -162,6 +162,12 @@
     "asn": "34936"
   },
   {
+    "name": "David Croft",
+    "company": "Sargasso/LONAP",
+    "irc": "davidc",
+    "asn": "8330/39767/42579/60079"
+  },
+  {
     "name": "David Mehren",
     "company": null,
     "irc": null,
@@ -328,6 +334,12 @@
     "company": "BelWue",
     "irc": "_992jo",
     "asn": "553, 213341"
+  },
+  {
+    "name": "Johannes Jakob",
+    "company": "Datacenter One GmbH",
+    "irc": "irrwitzer",
+    "asn": "48918 59745"
   },
   {
     "name": "Johannes Six",
@@ -520,6 +532,12 @@
     "company": "Chaos Computer Club Darmstadt e.V.",
     "irc": "hexa-",
     "asn": "6766"
+  },
+  {
+    "name": "Maximilian Emig",
+    "company": "aiticon GmbH",
+    "irc": null,
+    "asn": "203968; inactive personal ASN: 207612"
   },
   {
     "name": "Maximilian Wilhelm",
