@@ -282,6 +282,12 @@
     "asn": null
   },
   {
+    "name": "Jens Roesen",
+    "company": "Uni Wuerzburg",
+    "irc": "drizzt",
+    "asn": null
+  },
+  {
     "name": "Joerg Dorchain",
     "company": "MPII",
     "irc": null,
@@ -532,6 +538,12 @@
     "company": "myLoc",
     "irc": "empi89",
     "asn": "24961"
+  },
+  {
+    "name": "Peter Hurtenbach",
+    "company": null,
+    "irc": null,
+    "asn": "211671"
   },
   {
     "name": "Peter Sievers",
