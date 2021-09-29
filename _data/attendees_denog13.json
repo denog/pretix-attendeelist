@@ -108,6 +108,12 @@
     "asn": "15830"
   },
   {
+    "name": "Christoph Berkemeier",
+    "company": "DB Station&Service AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Heinecke",
     "company": "Sparkassen-IT AS39702",
     "irc": null,
@@ -741,6 +747,12 @@
     "name": "Tim Witt",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tizian Cardinal von Widdern",
+    "company": null,
+    "irc": "twiddern",
     "asn": null
   },
   {
