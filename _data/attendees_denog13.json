@@ -666,10 +666,22 @@
     "asn": "AS3624"
   },
   {
+    "name": "Nicolas Korten",
+    "company": null,
+    "irc": "bandit",
+    "asn": "29413"
+  },
+  {
     "name": "Niels Bakker",
     "company": "Akamai",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Nils Beyrle",
+    "company": "DFN-Verein",
+    "irc": null,
+    "asn": "680"
   },
   {
     "name": "Norbert Auler",
@@ -808,6 +820,12 @@
     "company": "Benno",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sebastian Danek",
+    "company": null,
+    "irc": "Parad0x",
+    "asn": "209894"
   },
   {
     "name": "Sebastian Finke",
