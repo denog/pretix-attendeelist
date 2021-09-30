@@ -408,6 +408,12 @@
     "asn": "206813"
   },
   {
+    "name": "Karim Tubin",
+    "company": "RETN",
+    "irc": "Kariminho",
+    "asn": "9002"
+  },
+  {
     "name": "Kay Rechthien",
     "company": null,
     "irc": "kay",
@@ -502,6 +508,12 @@
     "company": "DENIC eG",
     "irc": "bitjab",
     "asn": "31529, 8763"
+  },
+  {
+    "name": "Marc Ruberg",
+    "company": "BelWü NOC - Universität Stuttgart",
+    "irc": "ruby7",
+    "asn": "553"
   },
   {
     "name": "Marcus Brauckmann",
