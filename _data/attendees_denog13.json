@@ -1008,6 +1008,12 @@
     "asn": "AS9145"
   },
   {
+    "name": "Tilman Schäfers",
+    "company": null,
+    "irc": null,
+    "asn": "208814"
+  },
+  {
     "name": "Tim Kleefass",
     "company": "OneFiber",
     "irc": "TimKleefass",
@@ -1059,6 +1065,12 @@
     "name": "Tom Herbers",
     "company": null,
     "irc": "tomh",
+    "asn": null
+  },
+  {
+    "name": "Tom Siewert",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
