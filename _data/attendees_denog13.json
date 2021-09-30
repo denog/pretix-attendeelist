@@ -300,6 +300,12 @@
     "asn": null
   },
   {
+    "name": "Henry Kluge",
+    "company": "DFN",
+    "irc": null,
+    "asn": "680"
+  },
+  {
     "name": "Istvan Ruzman",
     "company": null,
     "irc": null,
@@ -786,6 +792,18 @@
     "asn": null
   },
   {
+    "name": "Sebastian Finke",
+    "company": "Atruvia AG",
+    "irc": null,
+    "asn": "AS15590"
+  },
+  {
+    "name": "Sebastian Heidrich",
+    "company": null,
+    "irc": "tazz",
+    "asn": null
+  },
+  {
     "name": "Sebastian Korte",
     "company": null,
     "irc": null,
@@ -832,6 +850,12 @@
     "company": "Rechenzentrum Haßfurt GmbH",
     "irc": null,
     "asn": "44973"
+  },
+  {
+    "name": "Stefan Hedenig",
+    "company": "ANEXIA",
+    "irc": "shedenig",
+    "asn": "47147"
   },
   {
     "name": "Stefan Neufeind",
@@ -891,12 +915,6 @@
     "name": "Tim Witt",
     "company": null,
     "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Tizian Cardinal von Widdern",
-    "company": null,
-    "irc": "twiddern",
     "asn": null
   },
   {
