@@ -858,6 +858,12 @@
     "asn": "47147"
   },
   {
+    "name": "Stefan Lieberth",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Stefan Neufeind",
     "company": "SpeedPartner GmbH",
     "irc": "neufeind",
@@ -976,5 +982,11 @@
     "company": "Core-Backbone GmbH",
     "irc": "Ulli",
     "asn": "AS33891"
+  },
+  {
+    "name": "Will Hargrave",
+    "company": "LONAP",
+    "irc": "Will-h",
+    "asn": "8330"
   }
 ]
