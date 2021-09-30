@@ -852,6 +852,12 @@
     "asn": "8469"
   },
   {
+    "name": "Sven Ruediger",
+    "company": "AS211684",
+    "irc": "hackacad",
+    "asn": "211684"
+  },
+  {
     "name": "Thomas Georg",
     "company": "omnidat",
     "irc": null,
@@ -885,6 +891,12 @@
     "name": "Tim Witt",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tizian Cardinal von Widdern",
+    "company": null,
+    "irc": "twiddern",
     "asn": null
   },
   {
@@ -940,5 +952,11 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Ulrich Köhler",
+    "company": "Core-Backbone GmbH",
+    "irc": "Ulli",
+    "asn": "AS33891"
   }
 ]
