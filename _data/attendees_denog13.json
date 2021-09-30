@@ -300,6 +300,12 @@
     "asn": null
   },
   {
+    "name": "Istvan Ruzman",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jakob Müller",
     "company": "AG DSN",
     "irc": "ibot3",
@@ -528,6 +534,12 @@
     "asn": "6695"
   },
   {
+    "name": "Marius Hellmann",
+    "company": "Förderverein Freie Infrastruktur e.V. / Freifunk Münsterland",
+    "irc": null,
+    "asn": "AS209894"
+  },
+  {
     "name": "Markus Berthold",
     "company": "ADESTIS",
     "irc": null,
@@ -730,6 +742,12 @@
     "company": "Ruhr-Uni Bochum",
     "irc": null,
     "asn": "29484"
+  },
+  {
+    "name": "Robin Weiligmann",
+    "company": "Förderverein Freie Infrastruktur e. V. | Westfälische Wilhelms-Universität Münster",
+    "irc": "RobWei",
+    "asn": "207622 209894"
   },
   {
     "name": "Sandro Bolliger",
