@@ -414,6 +414,12 @@
     "asn": "35710"
   },
   {
+    "name": "Juri Grabowski",
+    "company": null,
+    "irc": "gratuxri",
+    "asn": null
+  },
+  {
     "name": "Kai Siering",
     "company": "4830.org e. V.",
     "irc": "wusel",
@@ -886,6 +892,12 @@
     "company": "AS211684",
     "irc": "hackacad",
     "asn": "211684"
+  },
+  {
+    "name": "Thomas Fragstein",
+    "company": null,
+    "irc": "Fragstone",
+    "asn": "203215"
   },
   {
     "name": "Thomas Georg",
