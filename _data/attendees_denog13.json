@@ -30,6 +30,12 @@
     "asn": "13030"
   },
   {
+    "name": "Annika Wickert",
+    "company": "Github Inc.",
+    "irc": "awlnx",
+    "asn": "36459"
+  },
+  {
     "name": "Arne Böttger",
     "company": null,
     "irc": "arnotron",
@@ -516,6 +522,12 @@
     "asn": "199610"
   },
   {
+    "name": "Marcel Menzel",
+    "company": "PFALZKOM GmbH",
+    "irc": "WRMSR",
+    "asn": "21473"
+  },
+  {
     "name": "Marc Helmus",
     "company": null,
     "irc": "marcnetismus",
@@ -610,6 +622,12 @@
     "company": "Chaos Computer Club Darmstadt e.V.",
     "irc": "hexa-",
     "asn": "6766"
+  },
+  {
+    "name": "Mattheus Happe",
+    "company": null,
+    "irc": "tioan",
+    "asn": null
   },
   {
     "name": "Matthias Pickel",
