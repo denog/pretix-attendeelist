@@ -216,6 +216,12 @@
     "asn": null
   },
   {
+    "name": "David Tatlisu",
+    "company": null,
+    "irc": null,
+    "asn": "212520"
+  },
+  {
     "name": "Dennis Urban",
     "company": "FlipApp",
     "irc": "dpunkturban",
@@ -982,6 +988,12 @@
     "company": "SpeedPartner GmbH",
     "irc": "neufeind",
     "asn": "34225"
+  },
+  {
+    "name": "Stefan Plug",
+    "company": null,
+    "irc": "stoepsel",
+    "asn": "6724"
   },
   {
     "name": "Stefan Wahl",
