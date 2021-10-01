@@ -234,6 +234,12 @@
     "asn": null
   },
   {
+    "name": "Dino Rezes",
+    "company": "Landeshauptstadt Stuttgart",
+    "irc": null,
+    "asn": "AS207834"
+  },
+  {
     "name": "Dominik Gülland",
     "company": null,
     "irc": null,
@@ -262,6 +268,12 @@
     "company": null,
     "irc": null,
     "asn": "51745"
+  },
+  {
+    "name": "Fabrice Bendfeldt",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fabrina Purper",
