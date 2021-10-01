@@ -12,6 +12,12 @@
     "asn": "16374"
   },
   {
+    "name": "Andreas Stange",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Sturm",
     "company": "DE-CIX",
     "irc": null,
@@ -592,12 +598,6 @@
     "company": "DENIC eG",
     "irc": "bitjab",
     "asn": "31529, 8763"
-  },
-  {
-    "name": "Marc Peters",
-    "company": "sipgate",
-    "irc": "mapet",
-    "asn": "AS15594"
   },
   {
     "name": "Marc Peters",
