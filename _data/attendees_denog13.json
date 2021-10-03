@@ -6,6 +6,12 @@
     "asn": "7007"
   },
   {
+    "name": "Adrian Pistol",
+    "company": null,
+    "irc": null,
+    "asn": "213342"
+  },
+  {
     "name": "Alex Senderkin",
     "company": "BCIX",
     "irc": "icebreak",
@@ -916,6 +922,12 @@
     "company": null,
     "irc": null,
     "asn": "12307"
+  },
+  {
+    "name": "Sara Klinkmann",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sascha Growe",
