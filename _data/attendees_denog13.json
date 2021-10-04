@@ -252,6 +252,12 @@
     "asn": "212520"
   },
   {
+    "name": "Denis Klimek",
+    "company": "wilhelm.tel GmbH",
+    "irc": "DenisKlimek",
+    "asn": "15943"
+  },
+  {
     "name": "Dennis Urban",
     "company": "FlipApp",
     "irc": "dpunkturban",
@@ -262,6 +268,12 @@
     "company": "Landeshauptstadt Stuttgart",
     "irc": null,
     "asn": "AS207834"
+  },
+  {
+    "name": "Dirk Hilmer",
+    "company": null,
+    "irc": null,
+    "asn": "9136"
   },
   {
     "name": "Dominik Gülland",
