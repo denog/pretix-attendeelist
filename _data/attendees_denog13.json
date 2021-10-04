@@ -258,6 +258,12 @@
     "asn": "212520"
   },
   {
+    "name": "Denis Brenner",
+    "company": "Toolkit Systems",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Denis Klimek",
     "company": "wilhelm.tel GmbH",
     "irc": "DenisKlimek",
@@ -826,6 +832,12 @@
     "company": "EPX Ehrhardt Partner Xtended GmbH",
     "irc": null,
     "asn": "AS208206"
+  },
+  {
+    "name": "Maximilian Stumpf",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Wilhelm",
