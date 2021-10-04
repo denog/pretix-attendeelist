@@ -390,6 +390,12 @@
     "asn": "4242420428"
   },
   {
+    "name": "Gunnar Schläfer",
+    "company": "Thyotec",
+    "irc": "Gr4gul",
+    "asn": "15725"
+  },
+  {
     "name": "Hendrik Wolff",
     "company": null,
     "irc": "w0lff",
@@ -580,6 +586,12 @@
     "company": "Wobcom GmbH",
     "irc": "_luc",
     "asn": "9136"
+  },
+  {
+    "name": "Lukas Liebig",
+    "company": "IKS Service GmbH",
+    "irc": null,
+    "asn": "15725"
   },
   {
     "name": "Lukas Rabe",
