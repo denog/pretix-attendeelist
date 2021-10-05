@@ -624,6 +624,12 @@
     "asn": "50877"
   },
   {
+    "name": "Luiz Amaral",
+    "company": "InnoGames GmbH",
+    "irc": "luiz.amaral",
+    "asn": null
+  },
+  {
     "name": "Lukas Gerhold",
     "company": "EXARING",
     "irc": "lukas",
@@ -930,6 +936,12 @@
     "asn": null
   },
   {
+    "name": "Oliver Seufer",
+    "company": "SerNet",
+    "irc": null,
+    "asn": "41955"
+  },
+  {
     "name": "Patric Halama",
     "company": "G-FIT GmbH",
     "irc": null,
@@ -994,6 +1006,12 @@
     "company": "omnidat",
     "irc": null,
     "asn": "AS202707"
+  },
+  {
+    "name": "Ralph Mayer",
+    "company": null,
+    "irc": "TabTwo",
+    "asn": null
   },
   {
     "name": "Reza Shaddel",
