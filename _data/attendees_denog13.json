@@ -822,6 +822,12 @@
     "asn": "553"
   },
   {
+    "name": "Matthias Šubik",
+    "company": "next layer",
+    "irc": "yellow",
+    "asn": "50047"
+  },
+  {
     "name": "Matthias Walther",
     "company": "Freifunk Münsterland",
     "irc": "MPW",
@@ -1348,6 +1354,12 @@
     "company": "Core-Backbone GmbH",
     "irc": "Ulli",
     "asn": "AS33891"
+  },
+  {
+    "name": "Vincent Jumpertz",
+    "company": "Kaminot",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Will Hargrave",
