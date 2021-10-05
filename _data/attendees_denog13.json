@@ -168,6 +168,12 @@
     "asn": "AS39378"
   },
   {
+    "name": "Christian Pössinger",
+    "company": null,
+    "irc": "c-po",
+    "asn": "12817"
+  },
+  {
     "name": "Christina Muench",
     "company": "Equinix",
     "irc": null,
@@ -460,6 +466,12 @@
     "company": "AG DSN",
     "irc": "ibot3",
     "asn": null
+  },
+  {
+    "name": "Jakob-Tobias Winter",
+    "company": "Landeshauptstadt Stuttgart",
+    "irc": "wintix",
+    "asn": "AS211651"
   },
   {
     "name": "James Bensley",
