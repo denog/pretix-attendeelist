@@ -930,6 +930,12 @@
     "asn": null
   },
   {
+    "name": "Patric Halama",
+    "company": "G-FIT GmbH",
+    "irc": null,
+    "asn": "AS60169"
+  },
+  {
     "name": "Patrick Bussmann",
     "company": "Akamai Technologies // DENOG",
     "irc": "PBU",
@@ -940,6 +946,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Paul Kutzer",
+    "company": "R-KOM",
+    "irc": null,
+    "asn": "12611"
   },
   {
     "name": "Peter Hansen",
@@ -1222,6 +1234,12 @@
     "company": "AS211684",
     "irc": "hackacad",
     "asn": "211684"
+  },
+  {
+    "name": "Thomas Albersdörfer",
+    "company": "R-KOM GmbH & Co. KG",
+    "irc": null,
+    "asn": "AS12611"
   },
   {
     "name": "Thomas Fragstein",
