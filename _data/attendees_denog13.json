@@ -168,6 +168,12 @@
     "asn": "AS39378"
   },
   {
+    "name": "Christian Peter",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Pössinger",
     "company": null,
     "irc": "c-po",
@@ -534,6 +540,12 @@
     "asn": "57777"
   },
   {
+    "name": "Jesper Kuhl",
+    "company": "Nokia",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Joerg Dorchain",
     "company": "MPII",
     "irc": null,
@@ -892,12 +904,6 @@
     "company": null,
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Maximilian Wilhelm",
-    "company": "SDN.clinic",
-    "irc": "Barbarossa",
-    "asn": "41981"
   },
   {
     "name": "Maximilian Wilhelm",
