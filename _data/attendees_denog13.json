@@ -72,6 +72,12 @@
     "asn": "13030"
   },
   {
+    "name": "Annette Wilderotter",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Annika Wickert",
     "company": "Github Inc.",
     "irc": "awlnx",
@@ -592,6 +598,12 @@
     "company": "Nokia",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Jetmir Mazreku",
+    "company": "Core-Backbone GmbH",
+    "irc": "Jet",
+    "asn": "AS33891"
   },
   {
     "name": "Joerg Dorchain",
