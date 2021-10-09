@@ -528,6 +528,12 @@
     "asn": null
   },
   {
+    "name": "Jakob Lerch",
+    "company": "FeM e.V.",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jakob Müller",
     "company": "AG DSN",
     "irc": "ibot3",
@@ -567,6 +573,12 @@
     "name": "Jean-Pierre Schwickerath",
     "company": "HILOTEC Engineering + Consulting AG",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Jennifer Graul",
+    "company": "FeM e.V.",
+    "irc": "NetaliDev",
     "asn": null
   },
   {
