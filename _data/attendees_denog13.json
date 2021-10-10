@@ -924,6 +924,12 @@
     "asn": null
   },
   {
+    "name": "Matthias Detsch",
+    "company": "Forschungsgemeinschaft elektronische Medien e.V.",
+    "irc": "garionion",
+    "asn": null
+  },
+  {
     "name": "Matthias Pickel",
     "company": "Landeshauptstadt Stuttgart",
     "irc": null,
@@ -1549,13 +1555,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
