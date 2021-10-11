@@ -1579,13 +1579,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
@@ -1594,6 +1594,12 @@
     "company": "Kaminot",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Vladimir Chukov",
+    "company": "IONOS Cloud",
+    "irc": null,
+    "asn": "51862"
   },
   {
     "name": "Vladimir Damjanovic",
