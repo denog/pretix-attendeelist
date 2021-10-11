@@ -66,6 +66,12 @@
     "asn": "8893"
   },
   {
+    "name": "andrè niemann",
+    "company": "Privatier",
+    "irc": "strohalm",
+    "asn": null
+  },
+  {
     "name": "Anita Meyer",
     "company": "Init7 / Denog e.V.",
     "irc": null,
@@ -1579,13 +1585,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
