@@ -240,6 +240,12 @@
     "asn": "39702"
   },
   {
+    "name": "Christoph Klein",
+    "company": "Bisping & Bisping GmbH & Co. KG",
+    "irc": null,
+    "asn": "20686"
+  },
+  {
     "name": "Christoph Knörr",
     "company": "komro GmbH",
     "irc": "BurnX",
@@ -720,6 +726,12 @@
     "asn": null
   },
   {
+    "name": "Kilian Bock",
+    "company": "Bisping & Bisping GmbH & Co. KG",
+    "irc": null,
+    "asn": "20686"
+  },
+  {
     "name": "Klaas Mertens",
     "company": "Equinix",
     "irc": null,
@@ -802,6 +814,12 @@
     "company": "German Edge Cloud GmbH & Co. KG",
     "irc": "skorpy",
     "asn": "42263 64475 58145"
+  },
+  {
+    "name": "Magnus Schmidt",
+    "company": "Bisping & Bisping GmbH & Co. KG",
+    "irc": null,
+    "asn": "20686"
   },
   {
     "name": "Maik Standtke",
