@@ -1188,6 +1188,12 @@
     "asn": null
   },
   {
+    "name": "Patrick Prangl",
+    "company": "Arista Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Paul Kutzer",
     "company": "R-KOM",
     "irc": null,
@@ -1276,6 +1282,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Robert Finze",
+    "company": null,
+    "irc": "mar-vin",
+    "asn": "AS607676"
   },
   {
     "name": "Robert Leichssenring",
