@@ -1134,6 +1134,12 @@
     "asn": "47147, 42473, 41139"
   },
   {
+    "name": "Moritz Fromm",
+    "company": "FeM e.V.",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Moritz Kaspar Rudert",
     "company": "Freifunk Bremen",
     "irc": "mortzu",
@@ -1699,13 +1705,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
