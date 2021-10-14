@@ -306,6 +306,12 @@
     "asn": "15594"
   },
   {
+    "name": "Daniel Maresch",
+    "company": "Core-Backbone GmbH",
+    "irc": "Daniel",
+    "asn": "33891"
+  },
+  {
     "name": "Daniel Niewerth",
     "company": null,
     "irc": null,
@@ -580,6 +586,12 @@
     "company": "Sky",
     "irc": "jwbensley",
     "asn": null
+  },
+  {
+    "name": "Jana Rippberger",
+    "company": "Core-Backbone GmbH",
+    "irc": "Jana",
+    "asn": "33891"
   },
   {
     "name": "Jan-Eric Ortgies",
@@ -1669,13 +1681,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
