@@ -1704,6 +1704,12 @@
     "asn": "51324"
   },
   {
+    "name": "Tobi Grimm",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tom Herbers",
     "company": null,
     "irc": "tomh",
@@ -1747,13 +1753,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
