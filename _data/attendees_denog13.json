@@ -816,6 +816,12 @@
     "asn": "211579"
   },
   {
+    "name": "Leon Meßner",
+    "company": null,
+    "irc": "elon",
+    "asn": "29670"
+  },
+  {
     "name": "Livio Morina",
     "company": "AIRBEAM SRL",
     "irc": "A[null]",
@@ -1741,13 +1747,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
