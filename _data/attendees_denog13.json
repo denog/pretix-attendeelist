@@ -222,6 +222,12 @@
     "asn": "25291"
   },
   {
+    "name": "Christian Huber",
+    "company": "meerfarbig GmbH & Co. KG",
+    "irc": null,
+    "asn": "34549"
+  },
+  {
     "name": "Christian Lertes",
     "company": "servinga GmbH",
     "irc": null,
@@ -1738,6 +1744,12 @@
     "company": "Exaring AG",
     "irc": "tobikris",
     "asn": "51324"
+  },
+  {
+    "name": "Tobias Tröps",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tobi Grimm",
