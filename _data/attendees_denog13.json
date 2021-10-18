@@ -132,6 +132,12 @@
     "asn": "42473"
   },
   {
+    "name": "Aurelie Reymund",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Azad Sheikh Muhammad",
     "company": "Hostserver GmbH",
     "irc": null,
@@ -1336,6 +1342,12 @@
     "company": "Booking.com",
     "irc": "Lalufu",
     "asn": "AS43996 / AS202196"
+  },
+  {
+    "name": "Ralf Weber",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ralph Mayer",
