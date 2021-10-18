@@ -96,6 +96,12 @@
     "asn": "36459"
   },
   {
+    "name": "Anton Schubert",
+    "company": "Riedel Communications",
+    "irc": "ischluff",
+    "asn": null
+  },
+  {
     "name": "Arne Bäumler",
     "company": "R-KOM",
     "irc": "br0tkasten",
@@ -1759,13 +1765,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
