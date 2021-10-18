@@ -162,6 +162,12 @@
     "asn": "34878"
   },
   {
+    "name": "Benjamin Kohler",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Benjamin Saß",
     "company": null,
     "irc": null,
@@ -394,6 +400,12 @@
     "company": "wilhelm.tel GmbH",
     "irc": "DenisKlimek",
     "asn": "15943"
+  },
+  {
+    "name": "Dennis Körner",
+    "company": "Netzwerge GmbH",
+    "irc": null,
+    "asn": "199938"
   },
   {
     "name": "Dennis Urban",
@@ -1194,6 +1206,12 @@
     "asn": null
   },
   {
+    "name": "Mirsad Nadarevic",
+    "company": null,
+    "irc": "Miki",
+    "asn": null
+  },
+  {
     "name": "Moritz Frenzel",
     "company": "DENOG e.V. / Stuttgart-IX / ANEXIA Internetdienstleistungs GmbH",
     "irc": "momorientes",
@@ -1825,13 +1843,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
