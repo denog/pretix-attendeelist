@@ -756,6 +756,12 @@
     "asn": null
   },
   {
+    "name": "Jonas Burgdorf",
+    "company": "Selfnet",
+    "irc": "jonas",
+    "asn": "AS553"
+  },
+  {
     "name": "Jörg Backschues",
     "company": "backschues.NET",
     "irc": "jbacksch",
