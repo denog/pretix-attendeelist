@@ -624,6 +624,12 @@
     "asn": null
   },
   {
+    "name": "Ivan Ostojić",
+    "company": "Versa Networks Inc.",
+    "irc": "ion",
+    "asn": null
+  },
+  {
     "name": "Jakob Lerch",
     "company": "FeM e.V.",
     "irc": null,
@@ -1867,13 +1873,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
