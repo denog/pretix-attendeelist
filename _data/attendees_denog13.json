@@ -1176,6 +1176,12 @@
     "asn": "41981"
   },
   {
+    "name": "Max Rink",
+    "company": "Deutsche Telekom",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Michael Hayler",
     "company": "Fujitsu TDS GmbH",
     "irc": "raider",
@@ -1855,13 +1861,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
