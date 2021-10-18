@@ -1230,6 +1230,12 @@
     "asn": "20940"
   },
   {
+    "name": "Patrick Hurrelmann",
+    "company": "NFON AG",
+    "irc": null,
+    "asn": "8878"
+  },
+  {
     "name": "Patrick Müller",
     "company": null,
     "irc": null,
@@ -1753,13 +1759,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
