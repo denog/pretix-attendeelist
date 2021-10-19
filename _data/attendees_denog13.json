@@ -366,6 +366,12 @@
     "asn": "34936"
   },
   {
+    "name": "Daniel Radtke",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Croft",
     "company": "Sargasso/LONAP",
     "irc": "davidc",
@@ -438,6 +444,12 @@
     "asn": null
   },
   {
+    "name": "Dominik Rimpf",
+    "company": "KIT - SCC",
+    "irc": null,
+    "asn": "34878"
+  },
+  {
     "name": "Dominik Zajac",
     "company": "BayCIX GmbH",
     "irc": "banym",
@@ -502,6 +514,12 @@
     "company": "Wobcom, infra.run",
     "irc": "vidister",
     "asn": "9136, 213027"
+  },
+  {
+    "name": "Florian Jerusalem",
+    "company": null,
+    "irc": "BrainDamage23",
+    "asn": null
   },
   {
     "name": "Florian Lenzen",
@@ -1768,6 +1786,12 @@
     "company": null,
     "irc": null,
     "asn": "208814"
+  },
+  {
+    "name": "Tim Bonsels",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tim Kleefass",
