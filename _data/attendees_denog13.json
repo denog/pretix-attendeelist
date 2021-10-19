@@ -1596,6 +1596,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Neuner",
+    "company": "BelWü",
+    "irc": "neuner",
+    "asn": "553"
+  },
+  {
     "name": "Sebastian Pohlmann",
     "company": null,
     "irc": null,
@@ -1800,6 +1806,12 @@
     "asn": "AS680"
   },
   {
+    "name": "Thorsten Witt",
+    "company": "DESY",
+    "irc": "Thorsten",
+    "asn": null
+  },
+  {
     "name": "Tilman Schäfers",
     "company": null,
     "irc": null,
@@ -1912,6 +1924,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Ulf Fischer",
+    "company": "Kuehne+Nagel",
+    "irc": "ulf",
+    "asn": "211656"
   },
   {
     "name": "Ulf Kieber",
