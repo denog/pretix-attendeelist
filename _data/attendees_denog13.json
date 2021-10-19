@@ -1674,6 +1674,12 @@
     "asn": "44973"
   },
   {
+    "name": "Stefan Funke",
+    "company": "ANEXIA",
+    "irc": "stefan",
+    "asn": "47147 42473"
+  },
+  {
     "name": "Stefan Hedenig",
     "company": "ANEXIA",
     "irc": "shedenig",
@@ -1921,13 +1927,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
