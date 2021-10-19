@@ -186,6 +186,12 @@
     "asn": "202113"
   },
   {
+    "name": "Birte Schmid-Burgk",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Brian Hampel",
     "company": null,
     "irc": null,
@@ -790,6 +796,12 @@
     "company": "Selfnet",
     "irc": "jonas",
     "asn": "AS553"
+  },
+  {
+    "name": "Jonas Schmid-Burgk",
+    "company": "DESY",
+    "irc": null,
+    "asn": "1754"
   },
   {
     "name": "Jörg Backschues",
