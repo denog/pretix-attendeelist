@@ -690,6 +690,12 @@
     "asn": "56381"
   },
   {
+    "name": "Janis Streib",
+    "company": "KIT - SCC",
+    "irc": null,
+    "asn": "AS34878"
+  },
+  {
     "name": "Jan Marienfeldt",
     "company": "Wobcom GmbH",
     "irc": null,
@@ -1915,13 +1921,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
