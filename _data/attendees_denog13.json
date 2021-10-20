@@ -18,6 +18,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Blankenburg",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Mischke",
     "company": null,
     "irc": null,
@@ -226,6 +232,12 @@
     "company": "Plusserver GmbH",
     "irc": null,
     "asn": "61157"
+  },
+  {
+    "name": "Christian Baumann",
+    "company": "TNG Stadtnetz GmbH",
+    "irc": null,
+    "asn": "13101"
   },
   {
     "name": "Christian Beyer",
@@ -570,6 +582,12 @@
     "asn": "9033"
   },
   {
+    "name": "Elmar K. Bins",
+    "company": "ISC",
+    "irc": "KnockandO",
+    "asn": "3557"
+  },
+  {
     "name": "Ember Keske",
     "company": "GWDG",
     "irc": "n0emis",
@@ -900,6 +918,12 @@
     "asn": null
   },
   {
+    "name": "Jan Wilke Ackerstaff",
+    "company": null,
+    "irc": null,
+    "asn": "205240"
+  },
+  {
     "name": "Jean-Pierre Schwickerath",
     "company": "HILOTEC Engineering + Consulting AG",
     "irc": null,
@@ -964,6 +988,12 @@
     "company": "German Edge Cloud",
     "irc": "J0ju (früher abraXxl)",
     "asn": "42063"
+  },
+  {
+    "name": "Joern Meisel",
+    "company": null,
+    "irc": null,
+    "asn": "AS13101"
   },
   {
     "name": "Johannes Erwerle",
@@ -2377,13 +2407,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
