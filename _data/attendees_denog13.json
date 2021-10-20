@@ -24,6 +24,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Votteler",
+    "company": "RelAix Networks",
+    "irc": "v0tti",
+    "asn": "34953"
+  },
+  {
     "name": "Alex Senderkin",
     "company": "BCIX",
     "irc": "icebreak",
@@ -235,7 +241,7 @@
   },
   {
     "name": "Christian Harendt",
-    "company": "SysEleven GmbH",
+    "company": "SysEleven / Inter.link",
     "irc": null,
     "asn": "25291"
   },
@@ -268,6 +274,12 @@
     "company": "LWLcom GmbH",
     "irc": "chrische",
     "asn": "50629"
+  },
+  {
+    "name": "Christian Seitz",
+    "company": "IN-Berlin e.V.",
+    "irc": "gizzmo",
+    "asn": "29670"
   },
   {
     "name": "Christina Muench",
@@ -333,6 +345,12 @@
     "name": "Costas Drogos",
     "company": null,
     "irc": "costasd",
+    "asn": null
+  },
+  {
+    "name": "Daniela Pöhn",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
@@ -432,6 +450,12 @@
     "asn": null
   },
   {
+    "name": "Dieter Hirt",
+    "company": null,
+    "irc": "ppit",
+    "asn": "12399"
+  },
+  {
     "name": "Dino Rezes",
     "company": "Landeshauptstadt Stuttgart",
     "irc": null,
@@ -522,6 +546,12 @@
     "asn": null
   },
   {
+    "name": "Felix Eckhofer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fiona Weber",
     "company": "Wobcom, infra.run",
     "irc": "vidister",
@@ -582,6 +612,12 @@
     "asn": "36459"
   },
   {
+    "name": "Friedrich Kupfer",
+    "company": "SysEleven / Inter.link",
+    "irc": null,
+    "asn": "25291"
+  },
+  {
     "name": "Garry Glendown",
     "company": "NETHINKS GmbH",
     "irc": "_Garry_",
@@ -612,6 +648,12 @@
     "asn": "15725"
   },
   {
+    "name": "Hans-Christoph Deeken",
+    "company": "NFON AG",
+    "irc": "Glenlivet",
+    "asn": "8878"
+  },
+  {
     "name": "Hans-Dieter Effner",
     "company": "Telia Carrier",
     "irc": null,
@@ -640,6 +682,12 @@
     "company": "DFN",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Hermann Lienstromberg",
+    "company": null,
+    "irc": "Nurtic-Vibe",
+    "asn": "208059"
   },
   {
     "name": "Ingo Reckziegel",
@@ -890,6 +938,12 @@
   {
     "name": "Kurt Kayser",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Lars Brune",
+    "company": "siticom GmbH",
     "irc": null,
     "asn": null
   },
@@ -1261,7 +1315,7 @@
   },
   {
     "name": "Michael Rhode",
-    "company": "SysEleven",
+    "company": "SysEleven / Inter.link",
     "irc": null,
     "asn": null
   },
@@ -1324,6 +1378,12 @@
     "company": null,
     "irc": "bandit",
     "asn": "29413"
+  },
+  {
+    "name": "Nicola von Thadden",
+    "company": "Pfalzkom",
+    "irc": "nicoduck",
+    "asn": "21473"
   },
   {
     "name": "Niels Bakker",
@@ -1438,6 +1498,12 @@
     "company": "DTAG",
     "irc": "PhilAd",
     "asn": "3320"
+  },
+  {
+    "name": "Philipp Rintz",
+    "company": null,
+    "irc": "feyo",
+    "asn": "24961"
   },
   {
     "name": "Ralf Eberhard",
@@ -1668,6 +1734,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Wirth",
+    "company": "Stiegeler Internet Service GmbH",
+    "irc": null,
+    "asn": "200924"
+  },
+  {
     "name": "Simon Couball",
     "company": null,
     "irc": null,
@@ -1810,6 +1882,12 @@
     "company": "DE-CIX",
     "irc": "t-k-s",
     "asn": "6695"
+  },
+  {
+    "name": "Thomas King",
+    "company": "King EDV Service",
+    "irc": "t-k-s",
+    "asn": "31451"
   },
   {
     "name": "Thomas Kühling",
@@ -1990,6 +2068,12 @@
     "company": "Kaminot",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Vincentz Petzholtz",
+    "company": "SysEleven / Inter.link",
+    "irc": "VP1",
+    "asn": "AS25291"
   },
   {
     "name": "Vladimir Chukov",
