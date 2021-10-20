@@ -30,6 +30,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Schweder",
+    "company": "Gutcon GmbH",
+    "irc": "stage",
+    "asn": "AS12732"
+  },
+  {
     "name": "Alexander Votteler",
     "company": "RelAix Networks",
     "irc": "v0tti",
@@ -46,6 +52,12 @@
     "company": "BCIX Management GmbH",
     "irc": null,
     "asn": "16374"
+  },
+  {
+    "name": "Alfred Schweder",
+    "company": "Gutcon GmbH",
+    "irc": "alf",
+    "asn": "AS12732"
   },
   {
     "name": "Andreas Ebert",
@@ -160,6 +172,12 @@
     "company": "Hostserver GmbH",
     "irc": null,
     "asn": "AS29140"
+  },
+  {
+    "name": "Bahram Goleh",
+    "company": "Gutcon GmbH",
+    "irc": null,
+    "asn": "AS12732"
   },
   {
     "name": "Barbara Szöke-Somorjai",
@@ -736,6 +754,12 @@
     "company": null,
     "irc": null,
     "asn": "62023"
+  },
+  {
+    "name": "Fredy Künzler",
+    "company": "Init7 (Schweiz) AG",
+    "irc": null,
+    "asn": "13030"
   },
   {
     "name": "Friedrich Kupfer",
@@ -1476,6 +1500,12 @@
     "asn": "AS44066"
   },
   {
+    "name": "Mathias Weidner",
+    "company": null,
+    "irc": "mamawe",
+    "asn": null
+  },
+  {
     "name": "Mattheus Happe",
     "company": null,
     "irc": "tioan",
@@ -1572,6 +1602,12 @@
     "asn": null
   },
   {
+    "name": "Michael Baudine",
+    "company": "Gutcon GmbH",
+    "irc": "9teen",
+    "asn": "AS12732"
+  },
+  {
     "name": "Michael Hayler",
     "company": "Fujitsu TDS GmbH",
     "irc": "raider",
@@ -1636,6 +1672,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Mike Bressem",
+    "company": "Mike Bressem",
+    "irc": null,
+    "asn": "AS205423"
   },
   {
     "name": "Mirsad Nadarevic",
