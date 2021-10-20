@@ -1591,13 +1591,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2218,6 +2218,12 @@
     "company": null,
     "irc": null,
     "asn": "12307"
+  },
+  {
+    "name": "Sandro Kehrlein",
+    "company": "Kehrlein Consulting",
+    "irc": null,
+    "asn": "59474"
   },
   {
     "name": "Sara Klinkmann",
