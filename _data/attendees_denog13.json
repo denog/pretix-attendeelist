@@ -930,6 +930,12 @@
     "asn": null
   },
   {
+    "name": "Ioannis Karamasiotis",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Istvan Ruzman",
     "company": null,
     "irc": null,
@@ -1498,6 +1504,12 @@
     "company": "BelWü NOC - Universität Stuttgart",
     "irc": "ruby7",
     "asn": "553"
+  },
+  {
+    "name": "Marcus Brauckmann",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
@@ -2348,6 +2360,12 @@
   {
     "name": "Stefan Warsinke",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Stephan Burger",
+    "company": "LZPD NRW",
     "irc": null,
     "asn": null
   },
