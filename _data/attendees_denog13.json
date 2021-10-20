@@ -42,6 +42,12 @@
     "asn": "16374"
   },
   {
+    "name": "Andreas Ebert",
+    "company": "man-da.de GmbH",
+    "irc": null,
+    "asn": "8365"
+  },
+  {
     "name": "Andreas Götz",
     "company": "Core-Backbone",
     "irc": "Andreas55555",
@@ -252,6 +258,12 @@
     "asn": "34549"
   },
   {
+    "name": "Christian Korn",
+    "company": null,
+    "irc": "syn23",
+    "asn": null
+  },
+  {
     "name": "Christian Lertes",
     "company": "servinga GmbH",
     "irc": null,
@@ -282,6 +294,12 @@
     "asn": "29670"
   },
   {
+    "name": "Christian Steinhaus",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christina Muench",
     "company": "Equinix",
     "irc": null,
@@ -298,6 +316,12 @@
     "company": "Deutsche Telekom Technik GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Christopher Metter",
+    "company": "DFN",
+    "irc": null,
+    "asn": "680"
   },
   {
     "name": "Christoph Heinecke",
@@ -612,6 +636,12 @@
     "asn": "36459"
   },
   {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": "62023"
+  },
+  {
     "name": "Friedrich Kupfer",
     "company": "SysEleven / Inter.link",
     "irc": null,
@@ -868,6 +898,12 @@
     "company": "DE-CIX",
     "irc": "paktosan",
     "asn": "196610"
+  },
+  {
+    "name": "Julian Lannert",
+    "company": "NTT GDC EMEA",
+    "irc": null,
+    "asn": "203329"
   },
   {
     "name": "Julian Schuh",
@@ -1174,6 +1210,12 @@
     "company": null,
     "irc": "fupsi42",
     "asn": "210941"
+  },
+  {
+    "name": "Martin Neitzel",
+    "company": "Gaertner Datensysteme",
+    "irc": "neitzel",
+    "asn": "24956"
   },
   {
     "name": "Martin Poppen",
@@ -1602,6 +1644,12 @@
     "asn": "34927"
   },
   {
+    "name": "Rudolph Bott",
+    "company": "sipgate GmbH",
+    "irc": "rbott",
+    "asn": "15594"
+  },
+  {
     "name": "Sandro Bolliger",
     "company": null,
     "irc": null,
@@ -1636,6 +1684,12 @@
     "company": "IPHH",
     "irc": "dockmaster",
     "asn": "12731"
+  },
+  {
+    "name": "Sebastian Abt",
+    "company": "Clue24 GmbH",
+    "irc": "sabt",
+    "asn": null
   },
   {
     "name": "Sebastian Becker",
@@ -1914,6 +1968,12 @@
     "asn": "AS680"
   },
   {
+    "name": "Thore Krüss",
+    "company": "Selfnet",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Thorsten Witt",
     "company": "DESY",
     "irc": "Thorsten",
@@ -2053,13 +2113,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
