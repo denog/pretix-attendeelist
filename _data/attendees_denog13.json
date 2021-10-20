@@ -498,6 +498,12 @@
     "asn": "15594"
   },
   {
+    "name": "Daniel Machtolf",
+    "company": "Datacenter One GmbH",
+    "irc": null,
+    "asn": "48918"
+  },
+  {
     "name": "Daniel Maresch",
     "company": "Core-Backbone GmbH",
     "irc": "Daniel",
@@ -1164,6 +1170,12 @@
     "asn": "34878, 202329"
   },
   {
+    "name": "Julian Seifert",
+    "company": "DNCC GmbH",
+    "irc": "alamar",
+    "asn": "50642"
+  },
+  {
     "name": "Julian Voß",
     "company": "y0sh-network",
     "irc": "y0sh",
@@ -1428,6 +1440,12 @@
     "asn": "21473"
   },
   {
+    "name": "Marcel Noll",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marc Haber",
     "company": "incluesion",
     "irc": "Zugschlus",
@@ -1548,6 +1566,12 @@
     "asn": "210941"
   },
   {
+    "name": "Markus Weber",
+    "company": "GTT",
+    "irc": "FvD",
+    "asn": "AS286, AS3257"
+  },
+  {
     "name": "Martin Neitzel",
     "company": "Gaertner Datensysteme",
     "irc": "neitzel",
@@ -1658,14 +1682,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2599,13 +2623,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
