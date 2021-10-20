@@ -870,6 +870,12 @@
     "asn": "15725"
   },
   {
+    "name": "Hanno Wagner",
+    "company": "Rince",
+    "irc": "Rince",
+    "asn": null
+  },
+  {
     "name": "Hans-Christoph Deeken",
     "company": "NFON AG",
     "irc": "Glenlivet",
@@ -1700,14 +1706,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2521,6 +2527,12 @@
   },
   {
     "name": "Timo Harder",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tim Wattenberg",
     "company": null,
     "irc": null,
     "asn": null
