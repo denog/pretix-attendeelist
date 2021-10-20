@@ -438,6 +438,12 @@
     "asn": "1764"
   },
   {
+    "name": "Christoph Neukirch",
+    "company": "IPHH",
+    "irc": "chn",
+    "asn": "12731"
+  },
+  {
     "name": "Christoph Schreiber",
     "company": "Netzwerge",
     "irc": null,
@@ -556,6 +562,12 @@
     "company": "BWI GmbH",
     "irc": null,
     "asn": "51733"
+  },
+  {
+    "name": "David Wigezzy",
+    "company": "Via-Online GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Denis Brenner",
@@ -856,6 +868,12 @@
     "company": "Telia Carrier",
     "irc": null,
     "asn": "1299"
+  },
+  {
+    "name": "Harald Singer",
+    "company": "TeleData Gmbh",
+    "irc": null,
+    "asn": "21263"
   },
   {
     "name": "Haris Trgo",
@@ -1640,14 +1658,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2581,15 +2599,21 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
+  },
+  {
+    "name": "Victoria Kiessler",
+    "company": "IPHH",
+    "irc": "Vic",
+    "asn": "12731"
   },
   {
     "name": "Vincent Jumpertz",
@@ -2614,6 +2638,12 @@
     "company": null,
     "irc": null,
     "asn": "AS8767"
+  },
+  {
+    "name": "Wilhelm Boeddinghaus",
+    "company": "system.de GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Will Hargrave",
