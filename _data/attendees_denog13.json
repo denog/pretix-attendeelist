@@ -408,6 +408,12 @@
     "asn": "33891"
   },
   {
+    "name": "Daniel Nägele",
+    "company": "BelWü",
+    "irc": "debugloop",
+    "asn": "553"
+  },
+  {
     "name": "Daniel Niewerth",
     "company": null,
     "irc": null,
@@ -810,6 +816,12 @@
     "asn": null
   },
   {
+    "name": "Jens Harbott",
+    "company": null,
+    "irc": "frickler",
+    "asn": null
+  },
+  {
     "name": "Jens Ihnow",
     "company": null,
     "irc": null,
@@ -994,6 +1006,12 @@
     "company": "Xeonity GbR",
     "irc": null,
     "asn": "58015"
+  },
+  {
+    "name": "Lars Steffens",
+    "company": null,
+    "irc": "talrasha",
+    "asn": null
   },
   {
     "name": "Laura Hausmann",
@@ -1470,6 +1488,18 @@
     "asn": null
   },
   {
+    "name": "Oliver Werner",
+    "company": "netcup GmbH",
+    "irc": null,
+    "asn": "AS197540"
+  },
+  {
+    "name": "Ottmar Deinhart",
+    "company": null,
+    "irc": "otti0815",
+    "asn": null
+  },
+  {
     "name": "Patric Halama",
     "company": "G-FIT GmbH",
     "irc": null,
@@ -1725,6 +1755,12 @@
     "name": "Sebastian Heidrich",
     "company": null,
     "irc": "tazz",
+    "asn": null
+  },
+  {
+    "name": "Sebastian Klamt",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
@@ -2064,6 +2100,12 @@
     "asn": null
   },
   {
+    "name": "Tom Eichhorn",
+    "company": "NorthernData",
+    "irc": "SirTux",
+    "asn": null
+  },
+  {
     "name": "Tom Herbers",
     "company": null,
     "irc": "tomh",
@@ -2113,13 +2155,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
