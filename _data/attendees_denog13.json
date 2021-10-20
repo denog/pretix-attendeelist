@@ -1260,6 +1260,12 @@
     "asn": "58015"
   },
   {
+    "name": "Lars Kollstedt",
+    "company": "man-da.de GmbH",
+    "irc": null,
+    "asn": "8365"
+  },
+  {
     "name": "Lars Steffens",
     "company": null,
     "irc": "talrasha",
@@ -1474,6 +1480,12 @@
     "company": "ADESTIS GmbH",
     "irc": null,
     "asn": "204053"
+  },
+  {
+    "name": "Marian Putala",
+    "company": "Juniper",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Mario Gumprich",
@@ -2496,6 +2508,12 @@
     "asn": null
   },
   {
+    "name": "Tobias von Hebel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tobi Grimm",
     "company": null,
     "irc": null,
@@ -2563,13 +2581,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
