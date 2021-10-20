@@ -534,6 +534,12 @@
     "asn": "5401"
   },
   {
+    "name": "Daniel Sprenger",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Croft",
     "company": "Sargasso/LONAP",
     "irc": "davidc",
@@ -2647,13 +2653,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
