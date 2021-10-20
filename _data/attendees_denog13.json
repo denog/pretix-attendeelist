@@ -1446,6 +1446,12 @@
     "asn": "9136"
   },
   {
+    "name": "Lukas Joraschek",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Lukas Liebig",
     "company": "IKS Service GmbH",
     "irc": null,
@@ -1603,13 +1609,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
