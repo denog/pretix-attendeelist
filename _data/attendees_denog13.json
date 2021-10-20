@@ -210,6 +210,12 @@
     "asn": null
   },
   {
+    "name": "Bjørn Bürger",
+    "company": "Pengutronix",
+    "irc": "motp",
+    "asn": "209379, 201824"
+  },
+  {
     "name": "Brian Hampel",
     "company": null,
     "irc": null,
@@ -444,6 +450,12 @@
     "asn": null
   },
   {
+    "name": "Daniel Rösen",
+    "company": "The ClueNet Project",
+    "irc": "dr",
+    "asn": "5401"
+  },
+  {
     "name": "David Croft",
     "company": "Sargasso/LONAP",
     "irc": "davidc",
@@ -556,6 +568,12 @@
     "company": null,
     "irc": "prophet60091",
     "asn": "9033"
+  },
+  {
+    "name": "Ember Keske",
+    "company": "GWDG",
+    "irc": "n0emis",
+    "asn": "211479"
   },
   {
     "name": "Enrico Richter",
@@ -738,6 +756,12 @@
     "asn": "1299"
   },
   {
+    "name": "Haris Trgo",
+    "company": null,
+    "irc": "hixharris",
+    "asn": null
+  },
+  {
     "name": "Heiko Mehrens",
     "company": "Barrington Consulting GmbH",
     "irc": null,
@@ -760,6 +784,12 @@
     "company": "DFN",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Henry Schaefer",
+    "company": null,
+    "irc": "Haes",
+    "asn": "702"
   },
   {
     "name": "Hermann Lienstromberg",
@@ -856,6 +886,12 @@
     "company": "Wobcom GmbH",
     "irc": null,
     "asn": "9136"
+  },
+  {
+    "name": "Jan Steck",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Jan Walzer",
@@ -960,6 +996,12 @@
     "asn": "AS553"
   },
   {
+    "name": "Jonas Schäfer",
+    "company": "Link11",
+    "irc": "schfr",
+    "asn": "34309"
+  },
+  {
     "name": "Jonas Schmid-Burgk",
     "company": "DESY",
     "irc": null,
@@ -1020,10 +1062,22 @@
     "asn": "206813"
   },
   {
+    "name": "Kai Wellenberg",
+    "company": "HeLi NET Telekommunikation",
+    "irc": null,
+    "asn": "12355"
+  },
+  {
     "name": "Karim Tubin",
     "company": "RETN",
     "irc": "Kariminho",
     "asn": "9002"
+  },
+  {
+    "name": "Kay Ehrlich",
+    "company": "envia TEL GmbH",
+    "irc": null,
+    "asn": "21413"
   },
   {
     "name": "Kay Rechthien",
@@ -1069,6 +1123,12 @@
   },
   {
     "name": "Lars Diefenbach",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Lars Förster",
     "company": null,
     "irc": null,
     "asn": null
@@ -1378,6 +1438,12 @@
     "company": "Forschungsgemeinschaft elektronische Medien e.V.",
     "irc": "garionion",
     "asn": null
+  },
+  {
+    "name": "Matthias Kluth",
+    "company": "HeLi NET Telekommunikation",
+    "irc": null,
+    "asn": "12355"
   },
   {
     "name": "Matthias Ordner",
@@ -1738,6 +1804,12 @@
     "company": "N-IX ' PROACT",
     "irc": "undefined 🦄",
     "asn": "21083 33988 62313"
+  },
+  {
+    "name": "Robert Bruhm",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "44486"
   },
   {
     "name": "Robert Dahlhoff",
@@ -2242,6 +2314,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Tom Ahlert",
+    "company": "HeLi NET Telekommunikation",
+    "irc": null,
+    "asn": "12355"
   },
   {
     "name": "Tom Eichhorn",
