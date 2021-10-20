@@ -168,6 +168,12 @@
     "asn": null
   },
   {
+    "name": "Benedikt Merkl",
+    "company": null,
+    "irc": "bene_",
+    "asn": null
+  },
+  {
     "name": "Benedikt Neuffer",
     "company": "KIT / SCC",
     "irc": "ogelpre",
@@ -226,6 +232,12 @@
     "company": "Micro Focus",
     "irc": null,
     "asn": "82"
+  },
+  {
+    "name": "Christian Dieckhoff",
+    "company": "WOBCOM",
+    "irc": "ChrisD",
+    "asn": "9136"
   },
   {
     "name": "Christian Friedrich",
@@ -834,6 +846,12 @@
     "asn": "AS34878"
   },
   {
+    "name": "Jan Koppe",
+    "company": null,
+    "irc": "thunfisch",
+    "asn": null
+  },
+  {
     "name": "Jan Marienfeldt",
     "company": "Wobcom GmbH",
     "irc": null,
@@ -1260,6 +1278,12 @@
     "asn": "6695"
   },
   {
+    "name": "Marian Fischer",
+    "company": "ADESTIS GmbH",
+    "irc": null,
+    "asn": "204053"
+  },
+  {
     "name": "Mario Gumprich",
     "company": "Vodafone West",
     "irc": null,
@@ -1400,14 +1424,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -1830,6 +1854,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Bönning",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sebastian Danek",
     "company": null,
     "irc": "Parad0x",
@@ -2146,6 +2176,12 @@
     "company": "Korves.Net",
     "irc": "Der-Tim",
     "asn": "207439"
+  },
+  {
+    "name": "Tim Meusel",
+    "company": "Example42 GmbH",
+    "irc": "bastelfreak",
+    "asn": "4242423668"
   },
   {
     "name": "Tim Weippert",
