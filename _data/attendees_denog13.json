@@ -480,6 +480,12 @@
     "asn": "199938"
   },
   {
+    "name": "Dennis Thomas",
+    "company": "Amazon Web Services",
+    "irc": "dth",
+    "asn": "16509"
+  },
+  {
     "name": "Dennis Urban",
     "company": "FlipApp",
     "irc": "dpunkturban",
@@ -502,6 +508,12 @@
     "company": null,
     "irc": null,
     "asn": "9136"
+  },
+  {
+    "name": "Dominik Dausch",
+    "company": null,
+    "irc": null,
+    "asn": "34624"
   },
   {
     "name": "Dominik Gülland",
@@ -762,6 +774,12 @@
     "asn": null
   },
   {
+    "name": "Jacky Hammer",
+    "company": null,
+    "irc": "pennylane",
+    "asn": null
+  },
+  {
     "name": "Jakob Lerch",
     "company": "FeM e.V.",
     "irc": null,
@@ -886,6 +904,12 @@
     "company": "MPII",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Joerg Jungermann",
+    "company": "German Edge Cloud",
+    "irc": "J0ju (früher abraXxl)",
+    "asn": "42063"
   },
   {
     "name": "Johannes Erwerle",
@@ -1017,6 +1041,12 @@
     "name": "Lars Brune",
     "company": "siticom GmbH",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Lars Bußmann",
+    "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
+    "irc": "LarsB",
     "asn": null
   },
   {
@@ -1168,6 +1198,12 @@
     "company": "PFALZKOM GmbH",
     "irc": "WRMSR",
     "asn": "21473"
+  },
+  {
+    "name": "Marc Haber",
+    "company": "incluesion",
+    "irc": "Zugschlus",
+    "asn": null
   },
   {
     "name": "Marc Helmus",
@@ -1368,6 +1404,12 @@
     "asn": "12611"
   },
   {
+    "name": "Maximilian Schieder",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maximilian Sesterhenn",
     "company": "EPX Ehrhardt Partner Xtended GmbH",
     "irc": null,
@@ -1414,6 +1456,12 @@
     "company": null,
     "irc": "mikagrml",
     "asn": null
+  },
+  {
+    "name": "Michael Renzmann",
+    "company": "true global communications GmbH",
+    "irc": "otaku42",
+    "asn": "15844"
   },
   {
     "name": "Michael Rhode",
@@ -1716,6 +1764,12 @@
     "asn": "34927"
   },
   {
+    "name": "Ruben Herold",
+    "company": "ViA-Online GmbH",
+    "irc": "Panther_1",
+    "asn": "AS62086"
+  },
+  {
     "name": "Rudolph Bott",
     "company": "sipgate GmbH",
     "irc": "rbott",
@@ -1950,10 +2004,22 @@
     "asn": "6724"
   },
   {
+    "name": "Stefan Schmidt",
+    "company": "Wavecon GmbH",
+    "irc": "ZaphodB",
+    "asn": "60955"
+  },
+  {
     "name": "Stefan Wahl",
     "company": null,
     "irc": "swaio",
     "asn": "208262"
+  },
+  {
+    "name": "Stefan Warsinke",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Susann Böhme",
@@ -2197,13 +2263,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
