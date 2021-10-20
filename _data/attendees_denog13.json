@@ -432,6 +432,12 @@
     "asn": "29413"
   },
   {
+    "name": "Christoph Kunkel",
+    "company": null,
+    "irc": null,
+    "asn": "9063"
+  },
+  {
     "name": "Christoph Loibl",
     "company": "next layer GmbH",
     "irc": null,
@@ -754,6 +760,12 @@
     "company": null,
     "irc": null,
     "asn": "AS211445"
+  },
+  {
+    "name": "Falk Stern",
+    "company": "PROFI Engineering Systems AG",
+    "irc": "falk",
+    "asn": null
   },
   {
     "name": "Felix Bayer",
@@ -1736,14 +1748,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2130,6 +2142,12 @@
     "asn": "207622 209894"
   },
   {
+    "name": "Rolf Winter",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ronny Belitz",
     "company": "IPHH GmbH",
     "irc": null,
@@ -2436,6 +2454,12 @@
     "asn": null
   },
   {
+    "name": "Stephan Westphal",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Susann Böhme",
     "company": "BCIX Management GmbH",
     "irc": null,
@@ -2719,13 +2743,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
@@ -2770,6 +2794,12 @@
     "company": "LONAP",
     "irc": "Will-h",
     "asn": "8330"
+  },
+  {
+    "name": "Willi Meißner",
+    "company": null,
+    "irc": "willimei",
+    "asn": null
   },
   {
     "name": "Wolfgang Tremmel",
