@@ -1682,14 +1682,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2436,6 +2436,12 @@
     "asn": null
   },
   {
+    "name": "Thomas Nimmler",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Thomas Rüter",
     "company": "NFON AG",
     "irc": null,
@@ -2623,13 +2629,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
