@@ -612,6 +612,12 @@
     "asn": null
   },
   {
+    "name": "Detzen Alexander",
+    "company": null,
+    "irc": null,
+    "asn": "212737"
+  },
+  {
     "name": "Dieter Hirt",
     "company": null,
     "irc": "ppit",
@@ -697,6 +703,12 @@
   },
   {
     "name": "Erik Kooistra",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Evelyn Alicke",
     "company": null,
     "irc": null,
     "asn": null
@@ -2112,6 +2124,12 @@
     "asn": "207622 209894"
   },
   {
+    "name": "Ronny Belitz",
+    "company": "IPHH GmbH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Ronny Bösger",
     "company": null,
     "irc": null,
@@ -2322,6 +2340,12 @@
     "asn": "198913"
   },
   {
+    "name": "Stefan Brand",
+    "company": null,
+    "irc": null,
+    "asn": "29691"
+  },
+  {
     "name": "Stefan Dunkel",
     "company": "Freifunk Nordwest e.V",
     "irc": null,
@@ -2390,12 +2414,6 @@
   {
     "name": "Stefan Warsinke",
     "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Stephan Burger",
-    "company": "LZPD NRW",
     "irc": null,
     "asn": null
   },
@@ -2689,13 +2707,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
