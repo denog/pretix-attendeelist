@@ -246,6 +246,12 @@
     "asn": null
   },
   {
+    "name": "Carsten Meiburg",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Carsten Schiefner",
     "company": null,
     "irc": null,
@@ -394,6 +400,12 @@
     "company": "DFN",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Christoph Falge",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Christoph Heinecke",
@@ -1604,14 +1616,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -1738,6 +1750,12 @@
     "company": "Freifunk Bremen",
     "irc": "mortzu",
     "asn": "AS3624"
+  },
+  {
+    "name": "Nicolai von Neudeck",
+    "company": "Consulting & Software",
+    "irc": "vonneudeck",
+    "asn": null
   },
   {
     "name": "Nicolas Korten",
@@ -2521,13 +2539,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
