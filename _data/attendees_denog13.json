@@ -696,6 +696,12 @@
     "asn": "209148"
   },
   {
+    "name": "Erik Kooistra",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Evi Reissmann",
     "company": null,
     "irc": null,
@@ -1270,6 +1276,12 @@
     "company": null,
     "irc": null,
     "asn": "35258"
+  },
+  {
+    "name": "Klauke Enterprises",
+    "company": "Klauke Enterprises",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Kurt Kayser",
@@ -2022,6 +2034,12 @@
     "asn": "AS33988"
   },
   {
+    "name": "René Sasse",
+    "company": "IPHH Internet Port Hamburg GmbH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Reza Shaddel",
     "company": null,
     "irc": "Reza",
@@ -2382,6 +2400,12 @@
     "asn": null
   },
   {
+    "name": "Stephan Burger",
+    "company": "LZPD NRW",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Susann Böhme",
     "company": "BCIX Management GmbH",
     "irc": null,
@@ -2665,13 +2689,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
