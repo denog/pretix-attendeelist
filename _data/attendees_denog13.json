@@ -312,6 +312,18 @@
     "asn": null
   },
   {
+    "name": "Christian Peter",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christian Peter",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Pössinger",
     "company": null,
     "irc": "c-po",
@@ -1234,6 +1246,12 @@
     "company": null,
     "irc": "lukas2511",
     "asn": "62269"
+  },
+  {
+    "name": "Lutz Donnerhacke",
+    "company": "IKS Service",
+    "irc": "Donner",
+    "asn": "15725"
   },
   {
     "name": "Magnus Frühling",
@@ -2286,6 +2304,12 @@
     "asn": "4242423668"
   },
   {
+    "name": "Timo Harder",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tim Weippert",
     "company": null,
     "irc": "weiti",
@@ -2407,13 +2431,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
