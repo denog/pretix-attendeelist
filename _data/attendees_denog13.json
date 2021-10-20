@@ -78,6 +78,12 @@
     "asn": "33891"
   },
   {
+    "name": "Andreas la Quiante",
+    "company": "NVIDIA",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Schrägle",
     "company": null,
     "irc": "ajs124",
@@ -792,6 +798,12 @@
     "asn": null
   },
   {
+    "name": "Felix Hallaczek",
+    "company": "Selfnet",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fiona Weber",
     "company": "Wobcom, infra.run",
     "irc": "vidister",
@@ -976,6 +988,12 @@
     "company": null,
     "irc": "Nurtic-Vibe",
     "asn": "208059"
+  },
+  {
+    "name": "Holger Lechner",
+    "company": "badenIT",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ingo Reckziegel",
@@ -1573,13 +1591,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -1648,6 +1666,12 @@
     "company": "GTT",
     "irc": "FvD",
     "asn": "AS286, AS3257"
+  },
+  {
+    "name": "Markus Winkler",
+    "company": null,
+    "irc": "csmacd",
+    "asn": null
   },
   {
     "name": "Martin Neitzel",
@@ -1760,14 +1784,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2376,6 +2400,12 @@
     "asn": "20940"
   },
   {
+    "name": "Sophie Schiller",
+    "company": "c3voc",
+    "irc": "sophie",
+    "asn": null
+  },
+  {
     "name": "Stefan Behte",
     "company": "Babiel GmbH",
     "irc": "_Craig_",
@@ -2755,13 +2785,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
