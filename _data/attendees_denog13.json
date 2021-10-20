@@ -216,6 +216,12 @@
     "asn": "61157"
   },
   {
+    "name": "Christian Beyer",
+    "company": "Securepoint GmbH",
+    "irc": null,
+    "asn": "209148"
+  },
+  {
     "name": "Christian Deckelmann",
     "company": "Micro Focus",
     "irc": null,
@@ -534,6 +540,12 @@
     "asn": "16374"
   },
   {
+    "name": "Erik Anders",
+    "company": "Securepoint GmbH",
+    "irc": null,
+    "asn": "209148"
+  },
+  {
     "name": "Evi Reissmann",
     "company": null,
     "irc": null,
@@ -586,6 +598,12 @@
     "company": "Wobcom, infra.run",
     "irc": "vidister",
     "asn": "9136, 213027"
+  },
+  {
+    "name": "Florian Hibler",
+    "company": "Arista Networks",
+    "irc": "florian",
+    "asn": "55064"
   },
   {
     "name": "Florian Jerusalem",
@@ -772,6 +790,12 @@
     "company": "Core-Backbone GmbH",
     "irc": "Jana",
     "asn": "33891"
+  },
+  {
+    "name": "Jan Dirnberger",
+    "company": null,
+    "irc": "solis",
+    "asn": null
   },
   {
     "name": "Jan-Eric Ortgies",
@@ -1122,6 +1146,12 @@
     "asn": "50030"
   },
   {
+    "name": "Marc-Daniel Hess",
+    "company": "Securepoint GmbH",
+    "irc": null,
+    "asn": "209148"
+  },
+  {
     "name": "Marcel Beyer",
     "company": null,
     "irc": "beyerm",
@@ -1192,6 +1222,12 @@
     "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Mario Gumprich",
+    "company": "Vodafone West",
+    "irc": null,
+    "asn": "3209"
   },
   {
     "name": "Marius Hellmann",
@@ -1281,6 +1317,12 @@
     "name": "Matthias Detsch",
     "company": "Forschungsgemeinschaft elektronische Medien e.V.",
     "irc": "garionion",
+    "asn": null
+  },
+  {
+    "name": "Matthias Ordner",
+    "company": null,
+    "irc": "mordner",
     "asn": null
   },
   {
@@ -2200,5 +2242,11 @@
     "company": "DE-CIX",
     "irc": "Garf",
     "asn": "196610"
+  },
+  {
+    "name": "Xavier Ramon Lopez",
+    "company": null,
+    "irc": null,
+    "asn": null
   }
 ]
