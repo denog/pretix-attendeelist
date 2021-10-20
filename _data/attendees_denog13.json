@@ -528,6 +528,12 @@
     "asn": "212520"
   },
   {
+    "name": "David Thoben",
+    "company": "BWI GmbH",
+    "irc": null,
+    "asn": "51733"
+  },
+  {
     "name": "Denis Brenner",
     "company": "Toolkit Systems",
     "irc": null,
@@ -568,6 +574,12 @@
     "company": "Landeshauptstadt Stuttgart",
     "irc": null,
     "asn": "AS207834"
+  },
+  {
+    "name": "Dirk Bossenz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Dirk Hilmer",
@@ -2230,6 +2242,12 @@
     "company": "AS211684",
     "irc": "hackacad",
     "asn": "211684"
+  },
+  {
+    "name": "Sven Schade",
+    "company": "TNG Stadtnetz GmbH",
+    "irc": null,
+    "asn": "13101"
   },
   {
     "name": "Tasso Mulzer",
