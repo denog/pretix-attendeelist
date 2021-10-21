@@ -1254,6 +1254,12 @@
     "asn": null
   },
   {
+    "name": "Jörg Kost",
+    "company": null,
+    "irc": "mmac",
+    "asn": "196922 51576"
+  },
+  {
     "name": "Julian Fölsch",
     "company": "DE-CIX",
     "irc": "paktosan",
@@ -2530,6 +2536,12 @@
     "company": null,
     "irc": "stoepsel",
     "asn": "6724"
+  },
+  {
+    "name": "Stefan Reinhold",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Stefan Schmidt",
