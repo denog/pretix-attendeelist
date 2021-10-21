@@ -2622,6 +2622,12 @@
     "asn": null
   },
   {
+    "name": "Steffen Weinreich",
+    "company": null,
+    "irc": "lairsdragon",
+    "asn": "AS200567"
+  },
+  {
     "name": "Stephan Burger",
     "company": "LZPD NRW",
     "irc": null,
@@ -2941,13 +2947,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
