@@ -2544,6 +2544,12 @@
     "asn": null
   },
   {
+    "name": "Stefan Jakob",
+    "company": "DENIG eG",
+    "irc": "MiKoz",
+    "asn": null
+  },
+  {
     "name": "Stefan Klören",
     "company": "Kuehne + Nagel AG",
     "irc": null,
@@ -2911,13 +2917,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
