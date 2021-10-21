@@ -1687,13 +1687,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2382,12 +2382,6 @@
     "asn": "3320"
   },
   {
-    "name": "Sebastian Benoit",
-    "company": "Benno",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Sebastian Bönning",
     "company": null,
     "irc": null,
@@ -2953,13 +2947,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
