@@ -924,6 +924,12 @@
     "asn": "4242420428"
   },
   {
+    "name": "Gernot Nusshall",
+    "company": "Anexia",
+    "irc": null,
+    "asn": "47147"
+  },
+  {
     "name": "Gerrit Mester",
     "company": "NFON AG",
     "irc": null,
@@ -1639,13 +1645,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
