@@ -1910,14 +1910,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -1948,6 +1948,12 @@
     "company": "Gutcon GmbH",
     "irc": "9teen",
     "asn": "AS12732"
+  },
+  {
+    "name": "Michael Baumann",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": "6695"
   },
   {
     "name": "Michael Hayler",
