@@ -84,6 +84,12 @@
     "asn": "33891"
   },
   {
+    "name": "Andreas John",
+    "company": "net-lab",
+    "irc": "derjohn",
+    "asn": "AS20755"
+  },
+  {
     "name": "Andreas la Quiante",
     "company": "NVIDIA",
     "irc": null,
@@ -1153,6 +1159,12 @@
   },
   {
     "name": "Jan Steck",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Jan-Tristan Kruse",
     "company": null,
     "irc": null,
     "asn": null
