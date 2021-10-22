@@ -744,6 +744,12 @@
     "asn": "16374"
   },
   {
+    "name": "Eric Casanova",
+    "company": null,
+    "irc": "Eric",
+    "asn": null
+  },
+  {
     "name": "Erik Anders",
     "company": "Securepoint GmbH",
     "irc": null,
@@ -1886,14 +1892,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
