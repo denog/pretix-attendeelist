@@ -1735,13 +1735,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -1750,6 +1750,12 @@
     "company": "Vattenfall Eurofiber",
     "irc": null,
     "asn": "211752"
+  },
+  {
+    "name": "Marei Peischl",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Marian Fischer",
