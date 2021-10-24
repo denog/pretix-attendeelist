@@ -6,6 +6,12 @@
     "asn": "7007"
   },
   {
+    "name": "a b",
+    "company": null,
+    "irc": null,
+    "asn": "12732"
+  },
+  {
     "name": "Adrian Pistol",
     "company": null,
     "irc": null,
@@ -202,12 +208,6 @@
     "company": "Hostserver GmbH",
     "irc": null,
     "asn": "AS29140"
-  },
-  {
-    "name": "Bahram Goleh",
-    "company": "Gutcon GmbH",
-    "irc": null,
-    "asn": "AS12732"
   },
   {
     "name": "Barbara Szöke-Somorjai",
@@ -1741,13 +1741,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -1946,14 +1946,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
