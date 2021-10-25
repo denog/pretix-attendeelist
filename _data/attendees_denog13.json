@@ -1470,6 +1470,12 @@
     "asn": null
   },
   {
+    "name": "Klaus Thielking-Riechert",
+    "company": null,
+    "irc": null,
+    "asn": "12337"
+  },
+  {
     "name": "Kurt Kayser",
     "company": null,
     "irc": null,
@@ -1747,13 +1753,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
