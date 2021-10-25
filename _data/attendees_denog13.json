@@ -1747,13 +1747,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2806,6 +2806,12 @@
     "company": "King EDV Service",
     "irc": "t-k-s",
     "asn": "31451"
+  },
+  {
+    "name": "Thomas Kraft",
+    "company": null,
+    "irc": null,
+    "asn": "8365"
   },
   {
     "name": "Thomas Kühling",
