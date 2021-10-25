@@ -6,12 +6,6 @@
     "asn": "7007"
   },
   {
-    "name": "a b",
-    "company": null,
-    "irc": null,
-    "asn": "12732"
-  },
-  {
     "name": "Adrian Pistol",
     "company": null,
     "irc": null,
@@ -1288,6 +1282,12 @@
     "company": "TNG Stadtnetz GmbH",
     "irc": null,
     "asn": "AS13101"
+  },
+  {
+    "name": "Johannes Deger",
+    "company": "Ulm University",
+    "irc": null,
+    "asn": "553"
   },
   {
     "name": "Johannes Erwerle",
@@ -3133,6 +3133,12 @@
   },
   {
     "name": "Xavier Ramon Lopez",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "x y",
     "company": null,
     "irc": null,
     "asn": null
