@@ -3085,13 +3085,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
@@ -3124,6 +3124,12 @@
     "company": null,
     "irc": null,
     "asn": "AS8767"
+  },
+  {
+    "name": "Werner Fischer",
+    "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Wilhelm Boeddinghaus",
