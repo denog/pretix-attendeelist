@@ -36,6 +36,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Röll",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Schweder",
     "company": "Gutcon GmbH",
     "irc": "stage",
@@ -3115,13 +3121,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
