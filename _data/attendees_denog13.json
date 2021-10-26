@@ -1982,14 +1982,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2278,6 +2278,12 @@
     "company": "DTAG",
     "irc": "PhilAd",
     "asn": "3320"
+  },
+  {
+    "name": "Philipp Kern",
+    "company": null,
+    "irc": "pkern",
+    "asn": "210617"
   },
   {
     "name": "Philipp Rintz",
@@ -3103,13 +3109,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
