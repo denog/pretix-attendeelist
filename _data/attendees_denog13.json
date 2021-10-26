@@ -912,6 +912,12 @@
     "asn": "34309"
   },
   {
+    "name": "Francisca Hartmann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "francois dedieu",
     "company": "6wind",
     "irc": null,
@@ -1294,6 +1300,12 @@
     "company": "TNG Stadtnetz GmbH",
     "irc": null,
     "asn": "AS13101"
+  },
+  {
+    "name": "Joey Julian König",
+    "company": "Nitrado",
+    "irc": "NetFreak",
+    "asn": "199610"
   },
   {
     "name": "Johannes Deger",
@@ -1970,14 +1982,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3085,13 +3097,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
