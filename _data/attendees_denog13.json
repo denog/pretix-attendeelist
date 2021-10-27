@@ -1416,6 +1416,12 @@
     "asn": "50642"
   },
   {
+    "name": "Julian von Paris",
+    "company": "TNG",
+    "irc": null,
+    "asn": "13101"
+  },
+  {
     "name": "Julian Voß",
     "company": "y0sh-network",
     "irc": "y0sh",
@@ -1426,6 +1432,12 @@
     "company": "rockenstein AG",
     "irc": null,
     "asn": "8823"
+  },
+  {
+    "name": "Julia Sontag",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "julius l",
@@ -1795,13 +1807,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2000,14 +2012,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
