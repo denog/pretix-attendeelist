@@ -1392,6 +1392,12 @@
     "asn": "196922 51576"
   },
   {
+    "name": "JP Chamatidis",
+    "company": "NTT Global Datacenter EMEA",
+    "irc": null,
+    "asn": "AS203329"
+  },
+  {
     "name": "Julian Fölsch",
     "company": "DE-CIX",
     "irc": "paktosan",
@@ -3163,13 +3169,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
