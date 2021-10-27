@@ -1417,7 +1417,7 @@
   },
   {
     "name": "Julian von Paris",
-    "company": "TNG",
+    "company": "TNG Stadtnetz GmbH",
     "irc": null,
     "asn": "13101"
   },
@@ -2012,14 +2012,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2857,9 +2857,9 @@
   },
   {
     "name": "Theo Voss",
-    "company": null,
+    "company": "Inter.link GmbH",
     "irc": "tvberlin",
-    "asn": null
+    "asn": "AS5405"
   },
   {
     "name": "Thomas Albersdörfer",
