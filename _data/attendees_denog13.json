@@ -1446,6 +1446,12 @@
     "asn": null
   },
   {
+    "name": "Jürgen Keck",
+    "company": "Smartoptics",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jürgen Weber",
     "company": "WEBER.cloud",
     "irc": null,
@@ -1807,13 +1813,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
