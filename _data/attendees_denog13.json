@@ -306,6 +306,12 @@
     "asn": "209379, 201824"
   },
   {
+    "name": "Blake Willis",
+    "company": "Zayo Europe",
+    "irc": "blake-8218",
+    "asn": "6461 8218"
+  },
+  {
     "name": "Brian Hampel",
     "company": null,
     "irc": null,
@@ -1012,6 +1018,12 @@
     "company": null,
     "irc": "hax404",
     "asn": "4242420428"
+  },
+  {
+    "name": "Georg Schönberger",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Gernot Nusshall",
@@ -3217,13 +3229,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
