@@ -1891,13 +1891,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2550,6 +2550,12 @@
     "asn": "207622 209894"
   },
   {
+    "name": "Rolf Munzlinger",
+    "company": "Vodafone",
+    "irc": null,
+    "asn": "1273"
+  },
+  {
     "name": "Rolf Winter",
     "company": null,
     "irc": null,
@@ -2700,12 +2706,6 @@
     "asn": null
   },
   {
-    "name": "Sebastian Kulich",
-    "company": "FU/ENDA",
-    "irc": "skblnx",
-    "asn": null
-  },
-  {
     "name": "Sebastian Müll",
     "company": null,
     "irc": null,
@@ -2782,6 +2782,12 @@
     "company": "LWLcom GmbH",
     "irc": "morpheus",
     "asn": "50629"
+  },
+  {
+    "name": "Simon Helson",
+    "company": "GitHub",
+    "irc": "Simon4",
+    "asn": "36459"
   },
   {
     "name": "Simon Polack",
@@ -3301,13 +3307,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
