@@ -2604,6 +2604,12 @@
     "asn": null
   },
   {
+    "name": "Sascha Kaupp",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sascha Lenz",
     "company": "s-lz.net",
     "irc": "master",
@@ -3102,6 +3108,12 @@
     "asn": "4242423668"
   },
   {
+    "name": "Timm Eversmeyer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Timo Fleischer",
     "company": "FeM e.V.",
     "irc": null,
@@ -3259,13 +3271,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
