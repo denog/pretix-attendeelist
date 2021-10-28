@@ -1350,6 +1350,12 @@
     "asn": "AS33891"
   },
   {
+    "name": "Joachim Ernst",
+    "company": null,
+    "irc": "0x4A6F",
+    "asn": null
+  },
+  {
     "name": "Joerg Dorchain",
     "company": "MPII",
     "irc": null,
@@ -1891,13 +1897,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -3307,13 +3313,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
