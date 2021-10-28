@@ -348,6 +348,12 @@
     "asn": null
   },
   {
+    "name": "Charlotte Rupp",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Adler",
     "company": "Plusserver GmbH",
     "irc": null,
@@ -1879,13 +1885,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2085,6 +2091,12 @@
     "name": "Maximilian Fischer",
     "company": null,
     "irc": "luciusf",
+    "asn": null
+  },
+  {
+    "name": "Maximilian Rink",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
@@ -3271,13 +3283,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
