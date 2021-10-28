@@ -1825,13 +1825,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2752,6 +2752,12 @@
     "company": "ANEXIA",
     "irc": "stefan",
     "asn": "47147 42473"
+  },
+  {
+    "name": "Stefan Giera",
+    "company": "BelWü",
+    "irc": null,
+    "asn": "553"
   },
   {
     "name": "Stefan Hedenig",
