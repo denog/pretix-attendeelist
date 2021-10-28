@@ -1891,13 +1891,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -3208,6 +3208,12 @@
     "company": "Exaring AG",
     "irc": "tobikris",
     "asn": "51324"
+  },
+  {
+    "name": "Tobias Mädel",
+    "company": "Northern Data",
+    "irc": "manawyrm",
+    "asn": "59437"
   },
   {
     "name": "Tobias Tröps",
