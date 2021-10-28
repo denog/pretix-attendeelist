@@ -2700,6 +2700,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Kulich",
+    "company": "FU/ENDA",
+    "irc": "skblnx",
+    "asn": null
+  },
+  {
     "name": "Sebastian Müll",
     "company": null,
     "irc": null,
@@ -3295,13 +3301,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
