@@ -234,6 +234,12 @@
     "asn": null
   },
   {
+    "name": "Bastian Stockinger",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Benedikt Merkl",
     "company": null,
     "irc": "bene_",
@@ -1114,6 +1120,12 @@
     "company": "IT.NRW",
     "irc": "Dago",
     "asn": "43066"
+  },
+  {
+    "name": "Inga Mewes",
+    "company": null,
+    "irc": "poldii",
+    "asn": null
   },
   {
     "name": "Ingo Reckziegel",
@@ -2031,6 +2043,12 @@
     "name": "Maximilian Fischer",
     "company": null,
     "irc": "luciusf",
+    "asn": null
+  },
+  {
+    "name": "Maximilian Schädllich",
+    "company": null,
+    "irc": "DDKFM",
     "asn": null
   },
   {
@@ -3187,13 +3205,13 @@
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB",
+    "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
   },
   {
     "name": "Ute Wolf",
-    "company": "IPB / CarrierColo",
+    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
