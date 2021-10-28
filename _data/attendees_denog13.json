@@ -966,6 +966,12 @@
     "asn": null
   },
   {
+    "name": "Franz-Josef Fink",
+    "company": null,
+    "irc": null,
+    "asn": "48284"
+  },
+  {
     "name": "Frederic Jung",
     "company": null,
     "irc": "jchome",
@@ -2030,14 +2036,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
