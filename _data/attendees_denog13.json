@@ -744,6 +744,12 @@
     "asn": null
   },
   {
+    "name": "Detlef Peeters",
+    "company": null,
+    "irc": null,
+    "asn": "208927"
+  },
+  {
     "name": "Detzen Alexander",
     "company": null,
     "irc": null,
@@ -1300,6 +1306,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Jan Wagner",
+    "company": "TMT GmbH & Co. KG",
+    "irc": "spion",
+    "asn": "16316"
   },
   {
     "name": "Jan Walzer",
@@ -1945,13 +1957,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
