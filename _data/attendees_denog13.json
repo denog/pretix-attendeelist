@@ -1152,6 +1152,12 @@
     "asn": null
   },
   {
+    "name": "Holger Rogozinski",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Holger Zessel",
     "company": "IT.NRW",
     "irc": "Dago",
@@ -1903,13 +1909,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -3326,12 +3332,6 @@
   {
     "name": "Ute Wolf",
     "company": "IPB / CarrierColo",
-    "irc": null,
-    "asn": "20647"
-  },
-  {
-    "name": "Ute Wolf",
-    "company": "IPB",
     "irc": null,
     "asn": "20647"
   },
