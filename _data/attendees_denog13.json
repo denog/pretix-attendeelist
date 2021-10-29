@@ -1698,6 +1698,12 @@
     "asn": "211579"
   },
   {
+    "name": "Leonard Wagner",
+    "company": "IN-Berlin e.V. / NTT Germany",
+    "irc": "Gordon",
+    "asn": "29670,57555"
+  },
+  {
     "name": "Leon Meßner",
     "company": null,
     "irc": "elon",
@@ -1921,13 +1927,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
