@@ -336,6 +336,12 @@
     "asn": "6461 8218"
   },
   {
+    "name": "Bogdan Bazavlyak",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Brian Hampel",
     "company": null,
     "irc": null,
@@ -2138,14 +2144,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
