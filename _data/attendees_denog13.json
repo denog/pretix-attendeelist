@@ -678,6 +678,12 @@
     "asn": "8330/39767/42579/60079"
   },
   {
+    "name": "David Döpelheuer",
+    "company": "myLoc managed IT AG",
+    "irc": null,
+    "asn": "24961"
+  },
+  {
     "name": "David Kaufmann",
     "company": null,
     "irc": "Astra",
@@ -1969,13 +1975,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2198,14 +2204,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
