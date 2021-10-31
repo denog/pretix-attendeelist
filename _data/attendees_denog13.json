@@ -108,6 +108,12 @@
     "asn": "AS20755"
   },
   {
+    "name": "Andreas Kaspar",
+    "company": null,
+    "irc": "aka",
+    "asn": null
+  },
+  {
     "name": "Andreas Kimpfler",
     "company": "Kimpfler IT+TK Beratung",
     "irc": "Tiberian",
@@ -1987,13 +1993,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
