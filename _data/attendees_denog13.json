@@ -2216,14 +2216,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3454,6 +3454,12 @@
     "company": "IPB / CarrierColo",
     "irc": null,
     "asn": "20647"
+  },
+  {
+    "name": "Utkarsh Shah",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Victoria Kiessler",
