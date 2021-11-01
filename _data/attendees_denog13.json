@@ -1254,6 +1254,12 @@
     "asn": null
   },
   {
+    "name": "Ivan Delise",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ivan Ostojić",
     "company": "Versa Networks Inc.",
     "irc": "ion",
@@ -1999,13 +2005,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
