@@ -2190,6 +2190,12 @@
     "asn": null
   },
   {
+    "name": "Martin Schröder",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Martin Sofaru",
     "company": null,
     "irc": "nitram",
@@ -2300,14 +2306,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
