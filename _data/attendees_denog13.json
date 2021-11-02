@@ -1704,6 +1704,12 @@
     "asn": null
   },
   {
+    "name": "Kevin Klein",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Kevin Schmitz",
     "company": null,
     "irc": null,
@@ -3592,12 +3598,6 @@
     "company": "SysEleven / Inter.link",
     "irc": "VP1",
     "asn": "AS25291"
-  },
-  {
-    "name": "Vladimir Chukov",
-    "company": "IONOS Cloud",
-    "irc": null,
-    "asn": "51862"
   },
   {
     "name": "Vladimir Chukov",
