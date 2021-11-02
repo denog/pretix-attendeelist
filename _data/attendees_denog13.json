@@ -2035,13 +2035,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -3154,6 +3154,12 @@
     "company": "LZPD NRW",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Stephan Fuchs",
+    "company": "myLoc",
+    "irc": "Stephan_F",
+    "asn": "24961"
   },
   {
     "name": "Stephan Schroeder",
