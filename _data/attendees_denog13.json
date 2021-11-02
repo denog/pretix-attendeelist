@@ -1218,6 +1218,12 @@
     "asn": "702"
   },
   {
+    "name": "Henry Wagner",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Hermann Lienstromberg",
     "company": null,
     "irc": "Nurtic-Vibe",
@@ -2270,14 +2276,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3586,6 +3592,12 @@
     "company": "SysEleven / Inter.link",
     "irc": "VP1",
     "asn": "AS25291"
+  },
+  {
+    "name": "Vladimir Chukov",
+    "company": "IONOS Cloud",
+    "irc": null,
+    "asn": "51862"
   },
   {
     "name": "Vladimir Chukov",
