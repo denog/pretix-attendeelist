@@ -1524,6 +1524,12 @@
     "asn": "51531"
   },
   {
+    "name": "Johannes Schatz",
+    "company": "myLoc managed IT AG",
+    "irc": null,
+    "asn": "24961"
+  },
+  {
     "name": "Johannes Schmitt",
     "company": null,
     "irc": null,
@@ -2035,13 +2041,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2264,14 +2270,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2320,6 +2326,12 @@
     "company": null,
     "irc": "nibbler",
     "asn": "250"
+  },
+  {
+    "name": "Michael Meier",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Michael Meyer",
