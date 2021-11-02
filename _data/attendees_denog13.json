@@ -2071,13 +2071,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2602,6 +2602,12 @@
     "company": "R-KOM",
     "irc": null,
     "asn": "12611"
+  },
+  {
+    "name": "Paul Michel",
+    "company": "FeM",
+    "irc": "frainz",
+    "asn": null
   },
   {
     "name": "Peter Hansen",
