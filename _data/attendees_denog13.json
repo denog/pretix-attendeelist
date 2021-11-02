@@ -318,6 +318,12 @@
     "asn": null
   },
   {
+    "name": "Benjamin Waldl",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ben Lebherz",
     "company": "benleb",
     "irc": "benleb",
@@ -892,12 +898,6 @@
     "company": "Securepoint GmbH",
     "irc": null,
     "asn": "209148"
-  },
-  {
-    "name": "Erik Kooistra",
-    "company": null,
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Erik Kooistra",
