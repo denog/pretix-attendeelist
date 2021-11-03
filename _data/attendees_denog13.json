@@ -1854,6 +1854,12 @@
     "asn": "211579"
   },
   {
+    "name": "Leo Dirr",
+    "company": "Thomas-Krenn.AG",
+    "irc": "Leo",
+    "asn": null
+  },
+  {
     "name": "Leonard Wagner",
     "company": "IN-Berlin e.V. / NTT Germany",
     "irc": "Gordon",
@@ -2342,14 +2348,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
