@@ -906,6 +906,12 @@
     "asn": "9033"
   },
   {
+    "name": "Ed Shryane",
+    "company": "RIPE NCC",
+    "irc": null,
+    "asn": "AS3333"
+  },
+  {
     "name": "Elmar K. Bins",
     "company": "ISC",
     "irc": "KnockandO",
@@ -2143,13 +2149,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2384,14 +2390,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
