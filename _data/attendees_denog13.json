@@ -1980,6 +1980,12 @@
     "asn": "15725"
   },
   {
+    "name": "Lydia Steffenhagen",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": "20647"
+  },
+  {
     "name": "Magnus Frühling",
     "company": "German Edge Cloud GmbH & Co. KG",
     "irc": "skorpy",
@@ -2372,14 +2378,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3286,6 +3292,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Steffen David",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": "20647"
   },
   {
     "name": "Steffen Unger",
