@@ -444,6 +444,12 @@
     "asn": null
   },
   {
+    "name": "Charlotte Rupp",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Adler",
     "company": "Plusserver GmbH",
     "irc": null,
@@ -2462,14 +2468,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2764,6 +2770,12 @@
     "company": "Akamai Technologies // DENOG",
     "irc": "PBU",
     "asn": "20940"
+  },
+  {
+    "name": "Patrick Huels",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Patrick Hurrelmann",
@@ -3748,6 +3760,12 @@
     "company": "Northern Data",
     "irc": "manawyrm",
     "asn": "59437"
+  },
+  {
+    "name": "Tobias Merkens",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tobias Rihm",
