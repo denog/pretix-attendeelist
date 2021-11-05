@@ -72,6 +72,12 @@
     "asn": "34953"
   },
   {
+    "name": "Alex Detsch",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alex Senderkin",
     "company": "BCIX",
     "irc": "icebreak",
@@ -2191,13 +2197,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
