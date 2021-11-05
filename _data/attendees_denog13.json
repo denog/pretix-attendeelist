@@ -1698,6 +1698,12 @@
     "asn": "203329"
   },
   {
+    "name": "Julian Lucek",
+    "company": "Juniper Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Julian Schuh",
     "company": "KIT",
     "irc": null,
@@ -1810,6 +1816,12 @@
     "company": "Bisping & Bisping GmbH & Co. KG",
     "irc": null,
     "asn": "20686"
+  },
+  {
+    "name": "Kirsten Schmitz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Klaas Mertens",
