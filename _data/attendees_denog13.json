@@ -12,6 +12,12 @@
     "asn": "AS1299"
   },
   {
+    "name": "Adrian Hamm",
+    "company": "chaosvermittlung",
+    "irc": "agh",
+    "asn": null
+  },
+  {
     "name": "Adrian Pistol",
     "company": null,
     "irc": null,
@@ -2450,14 +2456,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
