@@ -2438,14 +2438,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2638,6 +2638,12 @@
     "company": "Pfalzkom",
     "irc": "nicoduck",
     "asn": "21473"
+  },
+  {
+    "name": "Nicole Johanna Hadam",
+    "company": null,
+    "irc": "joanna",
+    "asn": null
   },
   {
     "name": "Nicol Nogradi",
