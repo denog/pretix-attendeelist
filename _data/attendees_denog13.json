@@ -1248,6 +1248,12 @@
     "asn": "21263"
   },
   {
+    "name": "Hari Jayaraman",
+    "company": "Benocs",
+    "irc": null,
+    "asn": "AS209039"
+  },
+  {
     "name": "Haris Trgo",
     "company": null,
     "irc": "hixharris",
@@ -2396,14 +2402,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
