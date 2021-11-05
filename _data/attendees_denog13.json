@@ -2185,13 +2185,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2950,6 +2950,12 @@
     "company": "Förderverein Freie Infrastruktur e. V. | Westfälische Wilhelms-Universität Münster",
     "irc": "RobWei",
     "asn": "207622 209894"
+  },
+  {
+    "name": "Rob van Ooijen",
+    "company": "Delta Fiber NL",
+    "irc": null,
+    "asn": "15435"
   },
   {
     "name": "Rolf Munzlinger",
