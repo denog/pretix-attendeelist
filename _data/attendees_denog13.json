@@ -570,6 +570,12 @@
     "asn": "15830"
   },
   {
+    "name": "Christoph Badura",
+    "company": "Badura IT-Consulting",
+    "irc": "baduck",
+    "asn": null
+  },
+  {
     "name": "Christoph Berkemeier",
     "company": "DB Station&Service AG",
     "irc": null,
@@ -2456,14 +2462,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
