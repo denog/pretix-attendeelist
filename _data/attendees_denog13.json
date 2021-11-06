@@ -906,6 +906,12 @@
     "asn": "199938"
   },
   {
+    "name": "Dennis Rautenberg",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dennis Thomas",
     "company": "Amazon Web Services",
     "irc": "dth",
@@ -2323,13 +2329,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2576,14 +2582,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
