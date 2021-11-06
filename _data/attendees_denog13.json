@@ -708,6 +708,12 @@
     "asn": null
   },
   {
+    "name": "Daniel A. Maierhofer",
+    "company": "FunkFeuer Wien",
+    "irc": "damadmai",
+    "asn": "AS35492"
+  },
+  {
     "name": "Daniela Pöhn",
     "company": null,
     "irc": null,
@@ -1432,6 +1438,18 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Igor Scheller",
+    "company": null,
+    "irc": "MyIgel",
+    "asn": "AS64475"
+  },
+  {
+    "name": "Ilteris Yagiztegin Eroglu",
+    "company": "linuxgemini",
+    "irc": "linuxgemini",
+    "asn": "208563"
   },
   {
     "name": "Inga Mewes",
@@ -2534,14 +2552,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
