@@ -2275,13 +2275,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -3322,6 +3322,12 @@
     "company": "badenIT GmbH",
     "irc": "pitto_resk",
     "asn": "13054"
+  },
+  {
+    "name": "Shraddha Hegde",
+    "company": "Juniper Networks",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Simon Couball",
