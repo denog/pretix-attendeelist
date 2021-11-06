@@ -1212,6 +1212,12 @@
     "asn": null
   },
   {
+    "name": "Franziska Lichtblau",
+    "company": null,
+    "irc": "rhalina",
+    "asn": null
+  },
+  {
     "name": "Franz-Josef Fink",
     "company": null,
     "irc": null,
@@ -2251,13 +2257,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
