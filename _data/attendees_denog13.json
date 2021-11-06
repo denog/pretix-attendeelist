@@ -156,6 +156,12 @@
     "asn": null
   },
   {
+    "name": "Andreas Kochendörfer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas la Quiante",
     "company": "NVIDIA",
     "irc": null,
@@ -2305,13 +2311,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2535,6 +2541,12 @@
     "name": "Maximilian Fischer",
     "company": null,
     "irc": "luciusf",
+    "asn": null
+  },
+  {
+    "name": "Maximilian Kleinschmidt",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
