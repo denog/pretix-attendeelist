@@ -1326,6 +1326,12 @@
     "asn": "5539"
   },
   {
+    "name": "Gordon Gidófalvy",
+    "company": null,
+    "irc": "vista",
+    "asn": "AS32133"
+  },
+  {
     "name": "Gunnar Schläfer",
     "company": "Thyotec",
     "irc": "Gr4gul",
@@ -2335,13 +2341,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2632,6 +2638,12 @@
     "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Michael Fischer",
+    "company": "Fujitsu",
+    "irc": "Fischi",
+    "asn": "12857"
   },
   {
     "name": "Michael Hayler",
