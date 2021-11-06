@@ -2323,13 +2323,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -4009,6 +4009,12 @@
   },
   {
     "name": "Utkarsh Shah",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Venugopal M",
     "company": null,
     "irc": null,
     "asn": null
