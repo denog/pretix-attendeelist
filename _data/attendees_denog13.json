@@ -2275,13 +2275,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -3008,7 +3008,7 @@
   {
     "name": "Rico Glöckner",
     "company": "N-IX ' PROACT",
-    "irc": "undefined 🦄",
+    "irc": "mc 🦄",
     "asn": "21083 33988 62313"
   },
   {
