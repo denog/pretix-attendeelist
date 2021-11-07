@@ -1807,7 +1807,7 @@
   },
   {
     "name": "Johannes Moos",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "51531"
   },
@@ -2383,13 +2383,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2642,14 +2642,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2920,6 +2920,12 @@
     "company": null,
     "irc": "n-st",
     "asn": "206161"
+  },
+  {
+    "name": "Nils Trampel",
+    "company": "CSN",
+    "irc": "camelusferus",
+    "asn": null
   },
   {
     "name": "Norbert Auler",
@@ -4060,6 +4066,12 @@
     "company": "Genesis Cloud",
     "irc": "fadenb",
     "asn": "209045"
+  },
+  {
+    "name": "Tugso B",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Udo Lütkemeier",
