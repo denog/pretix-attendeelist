@@ -2070,6 +2070,12 @@
     "asn": null
   },
   {
+    "name": "Klaus Layer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Klaus Thielking-Riechert",
     "company": null,
     "irc": null,
@@ -2806,6 +2812,12 @@
     "company": "STAR",
     "irc": "Righter",
     "asn": null
+  },
+  {
+    "name": "Michael Steder",
+    "company": "DESY",
+    "irc": null,
+    "asn": "1754"
   },
   {
     "name": "Michael Wanke",
