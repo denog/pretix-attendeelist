@@ -2431,13 +2431,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -3574,6 +3574,12 @@
     "company": "Juniper Networks",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Silvan Gebhardt",
+    "company": "openfactory nordic oy",
+    "irc": "wauwuff",
+    "asn": "58299"
   },
   {
     "name": "Simon Couball",
