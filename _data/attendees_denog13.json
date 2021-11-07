@@ -624,6 +624,12 @@
     "asn": null
   },
   {
+    "name": "Christian Ulitzny",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christina Muench",
     "company": "Equinix",
     "irc": null,
@@ -2630,14 +2636,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2745,6 +2751,12 @@
     "name": "Michael Wanke",
     "company": "PUMA SE",
     "irc": "pacman",
+    "asn": null
+  },
+  {
+    "name": "Michael Wuttke",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
