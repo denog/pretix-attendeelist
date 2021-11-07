@@ -2383,13 +2383,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -3156,6 +3156,12 @@
     "asn": null
   },
   {
+    "name": "René Couball",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Rene Fichtmueller",
     "company": "Flexoptix GmbH",
     "irc": null,
@@ -3694,6 +3700,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Steffen Vogel",
+    "company": null,
+    "irc": "Stv0g",
+    "asn": "207613"
   },
   {
     "name": "Steffen Weinreich",
