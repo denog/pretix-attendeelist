@@ -2370,6 +2370,12 @@
     "asn": null
   },
   {
+    "name": "Marco nüchel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marco Prause",
     "company": "DENIC eG",
     "irc": "bitjab",
@@ -2407,13 +2413,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
