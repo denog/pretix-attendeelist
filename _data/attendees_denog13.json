@@ -1620,6 +1620,12 @@
     "asn": "33891"
   },
   {
+    "name": "Jana Steuber",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jan Dirnberger",
     "company": null,
     "irc": "solis",
@@ -2437,13 +2443,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
