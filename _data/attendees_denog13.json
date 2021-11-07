@@ -2274,6 +2274,12 @@
     "asn": "20773, 26496"
   },
   {
+    "name": "Malte Wedel",
+    "company": null,
+    "irc": null,
+    "asn": "AS212567"
+  },
+  {
     "name": "Manikandan Jayaraman",
     "company": null,
     "irc": null,
@@ -2660,14 +2666,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
