@@ -48,6 +48,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Karl",
+    "company": "DIMATA",
+    "irc": "twink0r",
+    "asn": "AS49933"
+  },
+  {
     "name": "Alexander Kiontke",
     "company": "Alexander Kiontke",
     "irc": null,
@@ -1506,6 +1512,12 @@
     "asn": "AS3209"
   },
   {
+    "name": "Horst Schlämmer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ignacio Tamayo",
     "company": null,
     "irc": null,
@@ -2383,13 +2395,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
