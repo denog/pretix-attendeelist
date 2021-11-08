@@ -876,6 +876,12 @@
     "asn": null
   },
   {
+    "name": "Dan Poltawski",
+    "company": null,
+    "irc": null,
+    "asn": "25460"
+  },
+  {
     "name": "David Croft",
     "company": "Sargasso/LONAP",
     "irc": "davidc",
@@ -2485,13 +2491,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -3960,6 +3966,12 @@
     "asn": "6461"
   },
   {
+    "name": "Teun Vink",
+    "company": "BIT",
+    "irc": "teun",
+    "asn": "AS12859"
+  },
+  {
     "name": "Theo Voss",
     "company": "Inter.link GmbH",
     "irc": "tvberlin",
@@ -4090,6 +4102,12 @@
     "company": "Korves.Net",
     "irc": "Der-Tim",
     "asn": "207439"
+  },
+  {
+    "name": "Tim Lindinger",
+    "company": "Thomas-Krenn.AG",
+    "irc": "tlindinger",
+    "asn": null
   },
   {
     "name": "Tim Lindinger",
