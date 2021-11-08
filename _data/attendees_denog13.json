@@ -2268,6 +2268,12 @@
     "asn": "204704"
   },
   {
+    "name": "Luisa Villa",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Luiz Amaral",
     "company": "InnoGames GmbH",
     "irc": null,
@@ -2954,13 +2960,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
