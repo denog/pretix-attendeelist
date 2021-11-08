@@ -1332,6 +1332,12 @@
     "asn": "34309"
   },
   {
+    "name": "Francis Begyn",
+    "company": null,
+    "irc": "fbegyn",
+    "asn": null
+  },
+  {
     "name": "Francisca Hartmann",
     "company": null,
     "irc": null,
@@ -1594,6 +1600,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Ian Chilton",
+    "company": "LONAP",
+    "irc": "ichilton",
+    "asn": "8330"
   },
   {
     "name": "Ignacio Tamayo",
@@ -2539,13 +2551,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -3012,6 +3024,12 @@
     "asn": "AS3624"
   },
   {
+    "name": "Moritz Müller",
+    "company": null,
+    "irc": null,
+    "asn": "1140"
+  },
+  {
     "name": "Moritz Speckamp",
     "company": null,
     "irc": null,
@@ -3020,13 +3038,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
@@ -3406,6 +3424,12 @@
     "company": "N-IX ' PROACT",
     "irc": "mc 🦄",
     "asn": "21083 33988 62313"
+  },
+  {
+    "name": "Rico Schumann",
+    "company": "Lumen Technolgies",
+    "irc": null,
+    "asn": "3356"
   },
   {
     "name": "Robert Arrowood",
