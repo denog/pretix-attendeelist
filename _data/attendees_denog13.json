@@ -751,14 +751,14 @@
   },
   {
     "name": "Christoph Knörr",
-    "company": null,
-    "irc": null,
+    "company": "komro GmbH",
+    "irc": "BurnX",
     "asn": "29413"
   },
   {
     "name": "Christoph Knörr",
-    "company": "komro GmbH",
-    "irc": "BurnX",
+    "company": null,
+    "irc": null,
     "asn": "29413"
   },
   {
@@ -1126,6 +1126,12 @@
     "company": "Xeonity GbR",
     "irc": null,
     "asn": "58015"
+  },
+  {
+    "name": "Dustin Frisch",
+    "company": null,
+    "irc": "fooker",
+    "asn": null
   },
   {
     "name": "Dustin Sanders",
@@ -3170,13 +3176,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
