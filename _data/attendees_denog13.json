@@ -612,6 +612,12 @@
     "asn": "AS39378"
   },
   {
+    "name": "Christian Marx",
+    "company": "CMITC",
+    "irc": "chris_joki",
+    "asn": null
+  },
+  {
     "name": "Christian Peter",
     "company": null,
     "irc": null,
@@ -1876,6 +1882,12 @@
     "company": "German Edge Cloud",
     "irc": "J0ju (früher abraXxl)",
     "asn": "42063"
+  },
+  {
+    "name": "Joerg Krohn",
+    "company": "GoDaddy",
+    "irc": null,
+    "asn": "20773"
   },
   {
     "name": "Joern Meisel",
