@@ -984,6 +984,12 @@
     "asn": "199938"
   },
   {
+    "name": "Dennis Martin",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dennis Rautenberg",
     "company": null,
     "irc": null,
@@ -2484,6 +2490,12 @@
     "asn": null
   },
   {
+    "name": "Marcel Symanzik",
+    "company": null,
+    "irc": "Mad",
+    "asn": null
+  },
+  {
     "name": "Marc Haber",
     "company": "incluesion",
     "irc": "Zugschlus",
@@ -2563,13 +2575,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -3174,6 +3186,12 @@
     "asn": null
   },
   {
+    "name": "Nina Bargisen",
+    "company": "Kentik",
+    "irc": "nihb",
+    "asn": "207063"
+  },
+  {
     "name": "Norbert Auler",
     "company": null,
     "irc": null,
@@ -3196,6 +3214,12 @@
     "company": "BTU",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Oliver Krüger",
+    "company": "Freifunk Hannover",
+    "irc": "[1977er]",
+    "asn": "AS209347"
   },
   {
     "name": "Oliver Seufer",
@@ -3298,6 +3322,12 @@
     "company": null,
     "irc": null,
     "asn": "211671"
+  },
+  {
+    "name": "Peter Oettig",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Peter Schwindt",
