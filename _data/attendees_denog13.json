@@ -1194,6 +1194,12 @@
     "asn": null
   },
   {
+    "name": "Fabian Sabitzer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Sass",
     "company": null,
     "irc": null,
@@ -3080,13 +3086,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
@@ -3682,6 +3688,12 @@
     "company": "Deutsche Telekom AG",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Sebastian Benoit",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Bönning",
