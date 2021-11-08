@@ -276,6 +276,12 @@
     "asn": null
   },
   {
+    "name": "Armin Mandl",
+    "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Arne Bäumler",
     "company": "R-KOM",
     "irc": "br0tkasten",
@@ -469,6 +475,12 @@
   },
   {
     "name": "Brian Hampel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Bruno Voigt",
     "company": null,
     "irc": null,
     "asn": null
@@ -1112,6 +1124,12 @@
   {
     "name": "Evi Reissmann",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Fabian Cernota",
+    "company": "cernota.net",
     "irc": null,
     "asn": null
   },
@@ -2461,13 +2479,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2720,14 +2738,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2928,6 +2946,12 @@
     "asn": null
   },
   {
+    "name": "Narek Babujyan",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nathalie Trenaman",
     "company": "RIPE NCC",
     "irc": "Natha",
@@ -2938,6 +2962,12 @@
     "company": null,
     "irc": "nick",
     "asn": null
+  },
+  {
+    "name": "Nick Riesle",
+    "company": "NTT GDC EMEA",
+    "irc": null,
+    "asn": "203329"
   },
   {
     "name": "Nico Glockmann",
@@ -4113,6 +4143,12 @@
     "name": "Tizian Cardinal von Widdern",
     "company": null,
     "irc": "twiddern",
+    "asn": null
+  },
+  {
+    "name": "Tobias Erdmann",
+    "company": "DE-CIX",
+    "irc": null,
     "asn": null
   },
   {
