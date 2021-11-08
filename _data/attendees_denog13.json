@@ -1248,6 +1248,12 @@
     "asn": "9136, 213027"
   },
   {
+    "name": "Florian Bauhaus",
+    "company": "portrix Systems GmbH",
+    "irc": "TraXo",
+    "asn": "52088"
+  },
+  {
     "name": "Florian Füeßl",
     "company": null,
     "irc": null,
@@ -1726,6 +1732,12 @@
     "company": "Wobcom GmbH",
     "irc": null,
     "asn": "9136"
+  },
+  {
+    "name": "Jan Marquardt",
+    "company": null,
+    "irc": "janno",
+    "asn": "8893"
   },
   {
     "name": "Jan Steck",
@@ -2984,13 +2996,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
@@ -3181,6 +3193,12 @@
   },
   {
     "name": "Patrick Wagner",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Paul Glatz",
     "company": null,
     "irc": null,
     "asn": null
