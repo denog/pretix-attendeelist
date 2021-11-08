@@ -2539,13 +2539,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2631,6 +2631,12 @@
     "name": "Markus Krieger",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Markus Lindenberg",
+    "company": null,
+    "irc": "moreentropy",
     "asn": null
   },
   {
@@ -2804,14 +2810,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3514,6 +3520,12 @@
     "company": "sipgate GmbH",
     "irc": "rbott",
     "asn": "15594"
+  },
+  {
+    "name": "Ryo Kato",
+    "company": null,
+    "irc": "ryo",
+    "asn": null
   },
   {
     "name": "Sandra Böhrs",
