@@ -294,6 +294,12 @@
     "asn": "12611"
   },
   {
+    "name": "Arne Bayer",
+    "company": null,
+    "irc": "5314",
+    "asn": "34953"
+  },
+  {
     "name": "Arne Böttger",
     "company": null,
     "irc": "arnotron",
@@ -2605,13 +2611,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2760,6 +2766,12 @@
     "asn": null
   },
   {
+    "name": "Martin Schütte",
+    "company": null,
+    "irc": "mschuett",
+    "asn": null
+  },
+  {
     "name": "Martin Sofaru",
     "company": null,
     "irc": "nitram",
@@ -2882,14 +2894,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3110,13 +3122,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
