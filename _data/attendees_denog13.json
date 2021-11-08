@@ -702,6 +702,12 @@
     "asn": "39702"
   },
   {
+    "name": "Christoph Kasser",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Klein",
     "company": "Bisping & Bisping GmbH & Co. KG",
     "irc": null,
@@ -2479,13 +2485,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2942,13 +2948,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
@@ -3796,6 +3802,12 @@
     "company": "Kuehne + Nagel AG",
     "irc": null,
     "asn": "AS211656"
+  },
+  {
+    "name": "Stefan Lankl",
+    "company": "Thomas Krenn AG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Stefan Lieberth",
