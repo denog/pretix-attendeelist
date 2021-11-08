@@ -2611,13 +2611,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2826,6 +2826,18 @@
     "asn": null
   },
   {
+    "name": "Matthias Fetzer",
+    "company": "n/a",
+    "irc": "testpil0t",
+    "asn": "205365"
+  },
+  {
+    "name": "Matthias Gleichauf",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Kluth",
     "company": "HeLi NET Telekommunikation",
     "irc": null,
@@ -2894,14 +2906,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
