@@ -108,6 +108,12 @@
     "asn": "16374"
   },
   {
+    "name": "Alfonso Golmar Martinez",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alfred Schweder",
     "company": "Gutcon GmbH",
     "irc": "alf",
@@ -1656,6 +1662,12 @@
     "asn": null
   },
   {
+    "name": "james rassool",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "JAN-AHRENT Czmok",
     "company": "Internet AS",
     "irc": "schmoggie",
@@ -2756,14 +2768,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2960,13 +2972,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
@@ -3322,6 +3334,12 @@
     "company": null,
     "irc": "Reza",
     "asn": "AS50030"
+  },
+  {
+    "name": "Ricardo Jimenez Tuero",
+    "company": "system.de",
+    "irc": null,
+    "asn": "50030"
   },
   {
     "name": "Richard Hartmann",
@@ -4200,6 +4218,12 @@
     "asn": null
   },
   {
+    "name": "Tobias Hannaske",
+    "company": "servinga",
+    "irc": null,
+    "asn": "AS39378"
+  },
+  {
     "name": "Tobias Heister",
     "company": "AS",
     "irc": "izemaen",
@@ -4346,6 +4370,12 @@
   {
     "name": "Utkarsh Shah",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Valentina Schindler",
+    "company": "Anexia",
     "irc": null,
     "asn": null
   },
