@@ -750,6 +750,12 @@
     "asn": "29413"
   },
   {
+    "name": "Christoph Knörr",
+    "company": null,
+    "irc": null,
+    "asn": "29413"
+  },
+  {
     "name": "Christoph Kunkel",
     "company": null,
     "irc": null,
@@ -2611,13 +2617,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -3134,13 +3140,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
