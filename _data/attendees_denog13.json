@@ -306,6 +306,12 @@
     "asn": "6695"
   },
   {
+    "name": "Arnoud Vermeer",
+    "company": null,
+    "irc": null,
+    "asn": "32133"
+  },
+  {
     "name": "Arthur Popa",
     "company": "ropa",
     "irc": "Arthur Popa",
@@ -1812,6 +1818,12 @@
     "asn": "205240"
   },
   {
+    "name": "Jason van der Berg",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jean BARBEZAT",
     "company": "Limelight Networks",
     "irc": null,
@@ -2286,6 +2298,12 @@
     "asn": "211579"
   },
   {
+    "name": "Leah Oswald",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leo Dirr",
     "company": "Thomas-Krenn.AG",
     "irc": "Leo",
@@ -2656,6 +2674,12 @@
     "company": "SYNLINQ",
     "irc": null,
     "asn": "AS44486"
+  },
+  {
+    "name": "Marius Tesch",
+    "company": "Anexia",
+    "irc": "Marius",
+    "asn": null
   },
   {
     "name": "Markus Arnold",
@@ -3880,6 +3904,12 @@
     "company": "GitHub",
     "irc": "Simon4",
     "asn": "36459"
+  },
+  {
+    "name": "Simon Kautz",
+    "company": null,
+    "irc": "Knot3n",
+    "asn": null
   },
   {
     "name": "Simon Polack",
