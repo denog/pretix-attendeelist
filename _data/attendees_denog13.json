@@ -600,6 +600,12 @@
     "asn": "34549"
   },
   {
+    "name": "Christian Kildau",
+    "company": "Plus.line AG",
+    "irc": null,
+    "asn": "12306"
+  },
+  {
     "name": "Christian Korn",
     "company": null,
     "irc": "syn23",
@@ -2575,13 +2581,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2846,14 +2852,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3900,6 +3906,12 @@
     "asn": null
   },
   {
+    "name": "Stefan Bayer",
+    "company": "scanplus",
+    "irc": "douzer",
+    "asn": "12399"
+  },
+  {
     "name": "Stefan Behte",
     "company": "Babiel GmbH",
     "irc": "_Craig_",
@@ -4238,6 +4250,12 @@
   {
     "name": "Thore Krüss",
     "company": "Selfnet",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Thorsten Huber",
+    "company": null,
     "irc": null,
     "asn": null
   },
