@@ -1248,6 +1248,12 @@
     "asn": "21197"
   },
   {
+    "name": "Florian Sebald",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Florian Streibelt",
     "company": "MPI f. Informatik",
     "irc": "mutax",
@@ -2714,14 +2720,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3576,8 +3582,20 @@
     "asn": null
   },
   {
+    "name": "Sebastian Sichmann",
+    "company": "Thomas-Krenn AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sebastian Speitel",
     "company": "FeM",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Strassner",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -4153,6 +4171,12 @@
   },
   {
     "name": "Tobias Tröps",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tobias Viernickel",
     "company": null,
     "irc": null,
     "asn": null
