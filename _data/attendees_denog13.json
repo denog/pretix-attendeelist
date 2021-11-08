@@ -906,6 +906,12 @@
     "asn": "24961"
   },
   {
+    "name": "David Huberman",
+    "company": "ICANN",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Kaufmann",
     "company": null,
     "irc": "Astra",
@@ -1926,6 +1932,12 @@
     "asn": "553, 213341"
   },
   {
+    "name": "Johannes Hofmann",
+    "company": null,
+    "irc": null,
+    "asn": "203329"
+  },
+  {
     "name": "Johannes Jakob",
     "company": "Datacenter One GmbH",
     "irc": "irrwitzer",
@@ -2822,14 +2834,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -2858,6 +2870,12 @@
   {
     "name": "Max Rink",
     "company": "Deutsche Telekom",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Melchior Aelmans",
+    "company": "Juniper Networks",
     "irc": null,
     "asn": null
   },
@@ -2908,6 +2926,12 @@
     "company": "mme",
     "irc": "mme",
     "asn": "5539"
+  },
+  {
+    "name": "Michael Müller",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Michael Prinzinger",
@@ -3678,6 +3702,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Mleczek",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sebastian Müll",
     "company": null,
     "irc": null,
@@ -3982,6 +4012,12 @@
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
     "asn": "20647"
+  },
+  {
+    "name": "Steffen Lange",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Steffen Unger",
