@@ -570,6 +570,12 @@
     "asn": "82"
   },
   {
+    "name": "Christian Degenkolb",
+    "company": null,
+    "irc": "cd311",
+    "asn": null
+  },
+  {
     "name": "Christian Dieckhoff",
     "company": "WOBCOM",
     "irc": "ChrisD",
@@ -745,14 +751,14 @@
   },
   {
     "name": "Christoph Knörr",
-    "company": null,
-    "irc": null,
+    "company": "komro GmbH",
+    "irc": "BurnX",
     "asn": "29413"
   },
   {
     "name": "Christoph Knörr",
-    "company": "komro GmbH",
-    "irc": "BurnX",
+    "company": null,
+    "irc": null,
     "asn": "29413"
   },
   {
@@ -1677,6 +1683,12 @@
     "name": "Inga Mewes",
     "company": null,
     "irc": "poldii",
+    "asn": null
+  },
+  {
+    "name": "Ingo Eberhardt",
+    "company": null,
+    "irc": "Ingo",
     "asn": null
   },
   {
@@ -2700,12 +2712,6 @@
     "asn": "AS44486"
   },
   {
-    "name": "Marius Höhn",
-    "company": "SYNLINQ",
-    "irc": null,
-    "asn": "AS44486"
-  },
-  {
     "name": "Marius Tesch",
     "company": "Anexia",
     "irc": "Marius",
@@ -2930,14 +2936,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
