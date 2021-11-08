@@ -745,14 +745,14 @@
   },
   {
     "name": "Christoph Knörr",
-    "company": "komro GmbH",
-    "irc": "BurnX",
+    "company": null,
+    "irc": null,
     "asn": "29413"
   },
   {
     "name": "Christoph Knörr",
-    "company": null,
-    "irc": null,
+    "company": "komro GmbH",
+    "irc": "BurnX",
     "asn": "29413"
   },
   {
@@ -1108,6 +1108,12 @@
     "company": "BayCIX GmbH",
     "irc": "banym",
     "asn": "12657"
+  },
+  {
+    "name": "Dominique Flemming-Schmidt",
+    "company": "upb",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Donald Forster",
@@ -2178,6 +2184,12 @@
     "asn": null
   },
   {
+    "name": "Kevin Fibich",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Kevin Klein",
     "company": null,
     "irc": null,
@@ -2617,13 +2629,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
@@ -2680,6 +2692,12 @@
     "company": "Förderverein Freie Infrastruktur e.V. / Freifunk Münsterland",
     "irc": null,
     "asn": "AS209894"
+  },
+  {
+    "name": "Marius Höhn",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "AS44486"
   },
   {
     "name": "Marius Höhn",
@@ -2912,14 +2930,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
