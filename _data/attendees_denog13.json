@@ -1518,6 +1518,12 @@
     "asn": null
   },
   {
+    "name": "Henrik Jensen",
+    "company": "Ciena",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Henry Kluge",
     "company": "DFN",
     "irc": null,
@@ -2520,6 +2526,12 @@
     "asn": "6695"
   },
   {
+    "name": "Marcus Schramm",
+    "company": "CBS GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marcus Stoegbauer",
     "company": "Vattenfall Eurofiber",
     "irc": null,
@@ -2768,14 +2780,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
