@@ -757,14 +757,14 @@
   },
   {
     "name": "Christoph Knörr",
-    "company": "komro GmbH",
-    "irc": "BurnX",
+    "company": null,
+    "irc": null,
     "asn": "29413"
   },
   {
     "name": "Christoph Knörr",
-    "company": null,
-    "irc": null,
+    "company": "komro GmbH",
+    "irc": "BurnX",
     "asn": "29413"
   },
   {
@@ -2948,14 +2948,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3182,13 +3182,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
@@ -4636,6 +4636,12 @@
     "company": "NL-ix / xoo networks consulting",
     "irc": null,
     "asn": "34307, 20562, 24785, 24603"
+  },
+  {
+    "name": "Uli Heilmeier",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ulrich Klein",
