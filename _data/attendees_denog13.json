@@ -763,14 +763,14 @@
   },
   {
     "name": "Christoph Knörr",
-    "company": "komro GmbH",
-    "irc": "BurnX",
+    "company": null,
+    "irc": null,
     "asn": "29413"
   },
   {
     "name": "Christoph Knörr",
-    "company": null,
-    "irc": null,
+    "company": "komro GmbH",
+    "irc": "BurnX",
     "asn": "29413"
   },
   {
@@ -3146,6 +3146,12 @@
   {
     "name": "Miguel Villada Paredes",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Mihail Pergament",
+    "company": "Arista Networks",
     "irc": null,
     "asn": null
   },
