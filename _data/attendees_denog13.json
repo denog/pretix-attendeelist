@@ -2736,6 +2736,12 @@
     "asn": "3209"
   },
   {
+    "name": "Mario Praxmarer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marius Hellmann",
     "company": "Förderverein Freie Infrastruktur e.V. / Freifunk Münsterland",
     "irc": null,
@@ -3206,13 +3212,13 @@
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": "Narek",
+    "irc": null,
     "asn": null
   },
   {
     "name": "Narek Babujyan",
     "company": null,
-    "irc": null,
+    "irc": "Narek",
     "asn": null
   },
   {
@@ -4306,6 +4312,12 @@
     "company": "TNG Stadtnetz GmbH",
     "irc": null,
     "asn": "13101"
+  },
+  {
+    "name": "Sven Schlingloff",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sven Tron",
