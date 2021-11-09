@@ -696,6 +696,12 @@
     "asn": null
   },
   {
+    "name": "Christian von der Ropp",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christina Muench",
     "company": "Equinix",
     "irc": null,
@@ -2208,6 +2214,12 @@
     "asn": "9002"
   },
   {
+    "name": "Karlheinz Mueller",
+    "company": "Controlware GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Kay Ehrlich",
     "company": "envia TEL GmbH",
     "irc": null,
@@ -2665,13 +2677,13 @@
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Marcus Brauckmann",
-    "company": "DE-CIX",
+    "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
   },
