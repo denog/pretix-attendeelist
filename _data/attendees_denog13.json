@@ -763,14 +763,14 @@
   },
   {
     "name": "Christoph Knörr",
-    "company": "komro GmbH",
-    "irc": "BurnX",
+    "company": null,
+    "irc": null,
     "asn": "29413"
   },
   {
     "name": "Christoph Knörr",
-    "company": null,
-    "irc": null,
+    "company": "komro GmbH",
+    "irc": "BurnX",
     "asn": "29413"
   },
   {
@@ -2972,14 +2972,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3714,6 +3714,12 @@
     "asn": null
   },
   {
+    "name": "Ronald Bonica",
+    "company": "Juniper Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ronny Belitz",
     "company": "IPHH GmbH",
     "irc": null,
@@ -3747,6 +3753,12 @@
     "name": "Ryo Kato",
     "company": null,
     "irc": "ryo",
+    "asn": null
+  },
+  {
+    "name": "Samuel Mueller",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
@@ -4188,6 +4200,12 @@
     "asn": null
   },
   {
+    "name": "Stefan Strobl",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Stefan Wahl",
     "company": null,
     "irc": "swaio",
@@ -4564,6 +4582,12 @@
     "company": "AG DSN",
     "irc": "Spork",
     "asn": null
+  },
+  {
+    "name": "Tobias Klingenberg",
+    "company": null,
+    "irc": "blade_42",
+    "asn": "15725"
   },
   {
     "name": "Tobias Krischer",
