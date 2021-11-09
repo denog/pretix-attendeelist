@@ -2978,14 +2978,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -4833,6 +4833,12 @@
     "name": "x y",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Zekah Zekah",
+    "company": null,
+    "irc": "Zekah",
     "asn": null
   }
 ]
