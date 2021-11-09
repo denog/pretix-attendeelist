@@ -2972,14 +2972,14 @@
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": null,
-    "asn": null
+    "irc": "raven",
+    "asn": "12611"
   },
   {
     "name": "Maximilian Schieder",
     "company": null,
-    "irc": "raven",
-    "asn": "12611"
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Sesterhenn",
@@ -3558,6 +3558,12 @@
     "asn": "AS33988"
   },
   {
+    "name": "Raphael Thaler",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "rashid hemead",
     "company": null,
     "irc": "beh",
@@ -3658,6 +3664,12 @@
     "company": null,
     "irc": "rsc",
     "asn": null
+  },
+  {
+    "name": "Robert Stoy",
+    "company": "DFN Verein",
+    "irc": "Robert",
+    "asn": "680"
   },
   {
     "name": "Robert Strehl",
