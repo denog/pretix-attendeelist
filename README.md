@@ -1,10 +1,8 @@
-denog-attendees
-===============
+# denog-attendees
 
 This repository uses GitHub Workflows to list all attendees of DENOG Events. New data is pulled every 20 minutes.
 
-Development
------------
+## Development Enviroment
 
 Run ``bundle install`` and ``bundle exec jekyll serve`` to see how the list will look like.
 
@@ -15,24 +13,22 @@ If you need to update the data manually, run the `./pull_attendee_data.sh` scrip
 be installed.
 
 
-Setup New Event
-===============
+## Setup New Event
 
 How to setup a new event:
 
-## In Pretix
+### In Pretix
 - Extend API User rights to new Event (if API User doesn't access to all events by default)
 - Find Checkin List API ID
 
-## In github secrets
+### In github secrets
 - Update Checkin List API ID
 
-## In pull_attendee_data.sh
+### In pull_attendee_data.sh
 - Update event var to current event tag event="denogmeetup21-01"
 - Update output file to new name "$datafile" > _data/attendees_meetup2021-01.json
 
-## Copy index.markdown
+### Copy index.markdown
 - Rename to e.g. denogmeetup21-01.markdown (Pretix Short)
 - Update the following line to new data file name defined in last step
 {% assign sorted = site.data.attendees_meetup2021-01 | sort_natural: 'name' %}
-
