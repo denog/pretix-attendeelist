@@ -18,7 +18,7 @@ api_token="$PRETIX_API_TOKEN"
 checkin_list="$PRETIX_CHECKIN_LIST_ID"
 instance="pretix.eu"
 organizer="denog"
-event="denog13"
+event="denogmeetup22-01"
 url="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list/positions/"
 
 tempfile="response.temp"
