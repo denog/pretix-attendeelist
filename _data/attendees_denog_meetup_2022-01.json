@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Andreas Scheuerer",
+    "company": "R-KOM GmbH & Co. KG",
+    "irc": null,
+    "asn": "12611"
+  },
+  {
+    "name": "Arne Bäumler",
+    "company": null,
+    "irc": "br0tkasten",
+    "asn": "12611"
+  },
+  {
+    "name": "Bastian Hoss",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Benjamin Pfitzner",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Bernd Strehhuber",
+    "company": null,
+    "irc": "strehi",
+    "asn": "202113"
+  },
+  {
+    "name": "Blake Willis",
+    "company": "Zayo Europe",
+    "irc": null,
+    "asn": "AS6461 AS8218"
+  },
+  {
+    "name": "Carl Michels",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Chris Lenz",
+    "company": "freelenzer.at",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christoph Heinecke",
+    "company": "Sparkassen-IT",
+    "irc": null,
+    "asn": "39702"
+  },
+  {
+    "name": "Daniel Konrad",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Daniel Niewerth",
+    "company": null,
+    "irc": null,
+    "asn": "34936"
+  },
+  {
+    "name": "Ember Keske",
+    "company": null,
+    "irc": "n0emis",
+    "asn": "AS207592"
+  },
+  {
+    "name": "Felix Stolba",
+    "company": "Anexia",
+    "irc": "fsto",
+    "asn": "47147,42473"
+  },
+  {
+    "name": "Fiona Weber",
+    "company": "Wobcom",
+    "irc": "vidister",
+    "asn": "9136"
+  },
+  {
+    "name": "Frank Nussbächer",
+    "company": "Deutsche Telekom Technik",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
+    "name": "Frederik Kriewitz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Garry Glendown",
+    "company": null,
+    "irc": "GarryG",
+    "asn": "8319"
+  },
+  {
+    "name": "Henry Schaefer",
+    "company": "Verizon",
+    "irc": "Shepherd_",
+    "asn": "702"
+  },
+  {
+    "name": "Joerg Dorchain",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Joerg Dorchain",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Johannes Jakob",
+    "company": "Datacenter One GmbH",
+    "irc": "irrwitzer",
+    "asn": "48918 59745"
+  },
+  {
+    "name": "Jörn Meisel",
+    "company": "TNG Stadtnetz GmbH",
+    "irc": "joey",
+    "asn": "13101"
+  },
+  {
+    "name": "Julian von Paris",
+    "company": "TNG Stadtnetz GmbH",
+    "irc": null,
+    "asn": "13101"
+  },
+  {
+    "name": "Kai Siering",
+    "company": "4830.org e. V.",
+    "irc": "wusel",
+    "asn": "206813"
+  },
+  {
+    "name": "Klaus Gretencord",
+    "company": "Opengear",
+    "irc": "Klaus",
+    "asn": null
+  },
+  {
+    "name": "Kurt Kayser",
+    "company": "Kurt Kayser Konsultation",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Lars Bußmann",
+    "company": null,
+    "irc": "LarsB",
+    "asn": null
+  },
+  {
+    "name": "Lukas Gerhold",
+    "company": "EXARING AB",
+    "irc": "lukas",
+    "asn": "51324"
+  },
+  {
+    "name": "Lukas Grams",
+    "company": "Wobcom GmbH",
+    "irc": "_luc",
+    "asn": "9136"
+  },
+  {
+    "name": "Lukas Tribus",
+    "company": "Netikom",
+    "irc": null,
+    "asn": "AS207146"
+  },
+  {
+    "name": "Lutz Donnerhacke",
+    "company": "IKS Service GmbH",
+    "irc": "donner",
+    "asn": "15725"
+  },
+  {
+    "name": "Marco Firsching",
+    "company": null,
+    "irc": null,
+    "asn": "44973 / 58132"
+  },
+  {
+    "name": "Marcus Brauckmann",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
+    "name": "Markus Hauschild",
+    "company": "Freifunk Regensburg e.V.",
+    "irc": "MoepMan",
+    "asn": "212989"
+  },
+  {
+    "name": "Markus Winkler",
+    "company": null,
+    "irc": "csmacd",
+    "asn": null
+  },
+  {
+    "name": "Martin Bacher",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Martin Sofaru",
+    "company": null,
+    "irc": "nitram",
+    "asn": null
+  },
+  {
+    "name": "Marvin Gaube",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Matthias Motz",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
+  },
+  {
+    "name": "Maximilian Emig",
+    "company": "aiticon GmbH",
+    "irc": null,
+    "asn": "203968"
+  },
+  {
+    "name": "Maximilian Schieder",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Maximilian Sesterhenn",
+    "company": "EPX Ehrhardt Partner GmbH",
+    "irc": null,
+    "asn": "AS208206"
+  },
+  {
+    "name": "Maximilian Wilhelm",
+    "company": "SDN.clinic",
+    "irc": "Barbarossa",
+    "asn": "41981"
+  },
+  {
+    "name": "Nico Plich",
+    "company": "TNG Stadtnetz GmbH",
+    "irc": "nptng",
+    "asn": "13101"
+  },
+  {
+    "name": "Nils Wiegand",
+    "company": "Netcom Kassel GmbH",
+    "irc": null,
+    "asn": "20810"
+  },
+  {
+    "name": "Patrick Bussmann",
+    "company": "Akamai Technologies // DENOG e.V.",
+    "irc": "PBU",
+    "asn": "20940"
+  },
+  {
+    "name": "Patrick Müller",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Peter Sievers",
+    "company": "JNPR",
+    "irc": "PSI",
+    "asn": null
+  },
+  {
+    "name": "Philip Berndroth",
+    "company": "PHILUNET GmbH",
+    "irc": "pberndro",
+    "asn": "205112"
+  },
+  {
+    "name": "Robert Remenyi",
+    "company": "htp GmbH",
+    "irc": "robrem",
+    "asn": "13045"
+  },
+  {
+    "name": "Robert Wulfert",
+    "company": "htp",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "Deutsche Telekom AG",
+    "irc": "_sb_",
+    "asn": "3320"
+  },
+  {
+    "name": "Sebastian Finke",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Graf",
+    "company": "Xantaro",
+    "irc": null,
+    "asn": "203520"
+  },
+  {
+    "name": "Sebastian Heidrich",
+    "company": null,
+    "irc": "tazz",
+    "asn": null
+  },
+  {
+    "name": "Sebastian Kulich",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Müll",
+    "company": null,
+    "irc": null,
+    "asn": "15894"
+  },
+  {
+    "name": "Sebastian Posner",
+    "company": null,
+    "irc": "snaeqe",
+    "asn": null
+  },
+  {
+    "name": "Sebastian Wiesinger",
+    "company": "noris network AG",
+    "irc": "GPF",
+    "asn": "12337"
+  },
+  {
+    "name": "Sebastian Wiesinger",
+    "company": "noris network AG",
+    "irc": "GPF",
+    "asn": "12337"
+  },
+  {
+    "name": "Sebastian Wirth",
+    "company": "Stiegeler Internet Service GmbH",
+    "irc": null,
+    "asn": "200924"
+  },
+  {
+    "name": "Simon Frerichs",
+    "company": "LWLcom",
+    "irc": "morpheus",
+    "asn": "50629"
+  },
+  {
+    "name": "Simon Schweizer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Stefan Neufeind",
+    "company": "SpeedPartner GmbH",
+    "irc": "neufeind",
+    "asn": "34225"
+  },
+  {
+    "name": "Stefan Wahl",
+    "company": "Megaport / ECIX / Privat",
+    "irc": "swaio",
+    "asn": "208262"
+  },
+  {
+    "name": "Stephan Kabisius",
+    "company": "aquilius research GmbH",
+    "irc": null,
+    "asn": "AS51492"
+  },
+  {
+    "name": "Sven Budde",
+    "company": "ITgration GmbH",
+    "irc": null,
+    "asn": "209014"
+  },
+  {
+    "name": "Thomas Jessen",
+    "company": "EXA Infrastructure",
+    "irc": "Toshima",
+    "asn": null
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "OneFiber",
+    "irc": "TimKleefass",
+    "asn": null
+  },
+  {
+    "name": "Timo Remann",
+    "company": "CTS Eventim Solutions GmbH",
+    "irc": "goebelmeier",
+    "asn": "AS204253"
+  },
+  {
+    "name": "Tizian Cardinal von Widdern",
+    "company": "TeleData GmbH",
+    "irc": "twiddern",
+    "asn": "21263"
+  },
+  {
+    "name": "Tobias Gruber",
+    "company": "LWLcom",
+    "irc": "toebs",
+    "asn": "50629"
+  },
+  {
+    "name": "Tristan Bruns",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
+  },
+  {
+    "name": "Ulf Kieber",
+    "company": "NL-ix / xoo networks consulting",
+    "irc": "kieber",
+    "asn": "34307, 20562, 24785, 42604, 24603"
+  },
+  {
+    "name": "Vincentz Petzholtz",
+    "company": "Inter.link GmbH",
+    "irc": "VP1",
+    "asn": "5405"
+  },
+  {
+    "name": "Werner Brand",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
+  }
+]
