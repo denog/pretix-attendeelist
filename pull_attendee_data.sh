@@ -39,6 +39,6 @@ jq -s 'map(.results[]) | map({
     company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
     irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
     asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
-})' "$datafile" > _data/attendees_denog13.json
+})' "$datafile" > _data/attendees_denog_meetup_2022-01.json
 
 rm $datafile
