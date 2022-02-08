@@ -72,6 +72,12 @@
     "asn": "50629"
   },
   {
+    "name": "Christoph Badura",
+    "company": null,
+    "irc": "baduck",
+    "asn": null
+  },
+  {
     "name": "Christoph Heinecke",
     "company": "Sparkassen-IT",
     "irc": null,
@@ -90,6 +96,12 @@
     "asn": "34936"
   },
   {
+    "name": "Dominik Zajac",
+    "company": null,
+    "irc": "banym",
+    "asn": "AS12657"
+  },
+  {
     "name": "Ember Keske",
     "company": null,
     "irc": "n0emis",
@@ -106,6 +118,12 @@
     "company": "Wobcom",
     "irc": "vidister",
     "asn": "9136"
+  },
+  {
+    "name": "Florian Hibler",
+    "company": "Arista Networks / DENOG e.V.",
+    "irc": "florian",
+    "asn": "55064"
   },
   {
     "name": "Frank Nussbächer",
@@ -136,6 +154,12 @@
     "company": "Sky",
     "irc": "jwbensley",
     "asn": "5607"
+  },
+  {
+    "name": "Jan Walzer",
+    "company": null,
+    "irc": "iQ",
+    "asn": null
   },
   {
     "name": "Jean-Pierre Schwickerath",
@@ -216,6 +240,12 @@
     "asn": null
   },
   {
+    "name": "Luiz Amaral",
+    "company": null,
+    "irc": null,
+    "asn": "209114"
+  },
+  {
     "name": "Lukas Gerhold",
     "company": "EXARING AB",
     "irc": "lukas",
@@ -286,6 +316,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Martin Neitzel",
+    "company": "Gaertner Datensysteme",
+    "irc": "neitzel",
+    "asn": "24956"
   },
   {
     "name": "Martin Oemke",
@@ -406,6 +442,12 @@
     "company": "htp GmbH",
     "irc": "robrem",
     "asn": "13045"
+  },
+  {
+    "name": "Robert Scheck",
+    "company": null,
+    "irc": "rsc",
+    "asn": null
   },
   {
     "name": "Robert Wulfert",
@@ -574,6 +616,12 @@
     "company": "CTS Eventim Solutions GmbH",
     "irc": "goebelmeier",
     "asn": "AS204253"
+  },
+  {
+    "name": "Tim Test",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tizian Cardinal von Widdern",
