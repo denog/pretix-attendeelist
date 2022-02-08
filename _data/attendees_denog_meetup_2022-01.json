@@ -66,6 +66,12 @@
     "asn": null
   },
   {
+    "name": "Christian Schmidt",
+    "company": "LWLcom GmbH",
+    "irc": "chrische",
+    "asn": "50629"
+  },
+  {
     "name": "Christoph Heinecke",
     "company": "Sparkassen-IT",
     "irc": null,
@@ -142,6 +148,12 @@
     "company": "BCIX Management GmbH",
     "irc": null,
     "asn": "16374, 62193"
+  },
+  {
+    "name": "Jens Link",
+    "company": null,
+    "irc": "snej",
+    "asn": null
   },
   {
     "name": "Joerg Dorchain",
@@ -228,6 +240,12 @@
     "asn": "15725"
   },
   {
+    "name": "Magnus Frühling",
+    "company": "German Edge Cloud",
+    "irc": "Skorpy",
+    "asn": "42263"
+  },
+  {
     "name": "Marco Firsching",
     "company": null,
     "irc": null,
@@ -238,6 +256,12 @@
     "company": "DENIC eG",
     "irc": "bitjab",
     "asn": "31529"
+  },
+  {
+    "name": "Marco Zietz",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Marcus Brauckmann",
@@ -280,6 +304,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Matthias Kluth",
+    "company": "HeLi NET Telekommunikation",
+    "irc": null,
+    "asn": "12355"
   },
   {
     "name": "Matthias Motz",
@@ -390,6 +420,12 @@
     "asn": "20677"
   },
   {
+    "name": "Sascha Lenz",
+    "company": "s-lz.net - System- und Netzwerkberatung Sascha Lenz",
+    "irc": "master*",
+    "asn": "29317"
+  },
+  {
     "name": "Sebastian Becker",
     "company": "Deutsche Telekom AG",
     "irc": "_sb_",
@@ -409,15 +445,15 @@
   },
   {
     "name": "Sebastian Graf",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Sebastian Graf",
     "company": "Xantaro",
     "irc": null,
     "asn": "203520"
+  },
+  {
+    "name": "Sebastian Graf",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Heidrich",
