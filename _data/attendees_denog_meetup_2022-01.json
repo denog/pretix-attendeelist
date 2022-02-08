@@ -37,6 +37,12 @@
   },
   {
     "name": "Bastian Hoss",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Bastian Hoss",
     "company": null,
     "irc": null,
     "asn": null
@@ -108,6 +114,12 @@
     "asn": "34936"
   },
   {
+    "name": "Dirk Schuma",
+    "company": "Opengear",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dirk Steinberg",
     "company": "Lapishills Consulting Limited",
     "irc": null,
@@ -148,6 +160,12 @@
     "company": "Deutsche Telekom Technik",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Franziska Kunsmann",
+    "company": "//SEIBERT/MEDIA",
+    "irc": "kunsi",
+    "asn": null
   },
   {
     "name": "Frederik Kriewitz",
@@ -246,6 +264,12 @@
     "asn": "206813"
   },
   {
+    "name": "Kay R",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Klaus Gretencord",
     "company": "Opengear",
     "irc": "Klaus",
@@ -261,6 +285,12 @@
     "name": "Lars Bußmann",
     "company": null,
     "irc": "LarsB",
+    "asn": null
+  },
+  {
+    "name": "Leo Kirchner",
+    "company": "Network to Code",
+    "irc": null,
     "asn": null
   },
   {
@@ -304,6 +334,12 @@
     "company": "German Edge Cloud",
     "irc": "Skorpy",
     "asn": "42263"
+  },
+  {
+    "name": "Marcel Menzel",
+    "company": "PFALZKOM GmbH",
+    "irc": "WRMSR",
+    "asn": "21473"
   },
   {
     "name": "Marc Haber",
@@ -424,6 +460,12 @@
     "company": "noscito network GmbH, Stuttgart-IX, DENOG e.V.",
     "irc": "momorientes",
     "asn": "41139"
+  },
+  {
+    "name": "Nicola von Thadden",
+    "company": "Pfalzkom",
+    "irc": "nicoduck",
+    "asn": "21473"
   },
   {
     "name": "Nico Plich",
@@ -694,6 +736,12 @@
     "company": "NL-ix / xoo networks consulting",
     "irc": "kieber",
     "asn": "34307, 20562, 24785, 42604, 24603"
+  },
+  {
+    "name": "Vincentz Petzholtz",
+    "company": "Inter.link GmbH",
+    "irc": "VP1",
+    "asn": "5405"
   },
   {
     "name": "Vincentz Petzholtz",
