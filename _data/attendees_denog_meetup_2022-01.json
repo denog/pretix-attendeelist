@@ -546,6 +546,12 @@
     "asn": "20677"
   },
   {
+    "name": "Ronny Bösger",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sascha Lenz",
     "company": "s-lz.net - System- und Netzwerkberatung Sascha Lenz",
     "irc": "master*",
@@ -571,15 +577,15 @@
   },
   {
     "name": "Sebastian Graf",
-    "company": "Xantaro",
-    "irc": null,
-    "asn": "203520"
-  },
-  {
-    "name": "Sebastian Graf",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sebastian Graf",
+    "company": "Xantaro",
+    "irc": null,
+    "asn": "203520"
   },
   {
     "name": "Sebastian Heidrich",
