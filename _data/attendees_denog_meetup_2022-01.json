@@ -12,10 +12,22 @@
     "asn": "20755"
   },
   {
+    "name": "Andreas Kimpfler",
+    "company": "Kimpfler IT+TK Beratung",
+    "irc": "Tiberian",
+    "asn": null
+  },
+  {
     "name": "Andreas Scheuerer",
     "company": "R-KOM GmbH & Co. KG",
     "irc": null,
     "asn": "12611"
+  },
+  {
+    "name": "Annika Wickert",
+    "company": "Github Inc. / Freifunk München",
+    "irc": "awlnx",
+    "asn": "36459 / 212567"
   },
   {
     "name": "Arne Bäumler",
@@ -96,6 +108,12 @@
     "asn": "34936"
   },
   {
+    "name": "Dirk Steinberg",
+    "company": "Lapishills Consulting Limited",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
     "name": "Dominik Zajac",
     "company": null,
     "irc": "banym",
@@ -142,6 +160,12 @@
     "company": null,
     "irc": "GarryG",
     "asn": "8319"
+  },
+  {
+    "name": "Hannes Gredler",
+    "company": "RtBrick Inc.",
+    "irc": null,
+    "asn": "23456"
   },
   {
     "name": "Henry Schaefer",
@@ -240,6 +264,12 @@
     "asn": null
   },
   {
+    "name": "Leon Weber",
+    "company": "Vattenfall Eurofiber",
+    "irc": "leon",
+    "asn": "211752"
+  },
+  {
     "name": "Luiz Amaral",
     "company": null,
     "irc": null,
@@ -274,6 +304,12 @@
     "company": "German Edge Cloud",
     "irc": "Skorpy",
     "asn": "42263"
+  },
+  {
+    "name": "Marc Haber",
+    "company": "incluesion",
+    "irc": "Zugschlus",
+    "asn": null
   },
   {
     "name": "Marco Firsching",
@@ -487,15 +523,15 @@
   },
   {
     "name": "Sebastian Graf",
-    "company": "Xantaro",
-    "irc": null,
-    "asn": "203520"
-  },
-  {
-    "name": "Sebastian Graf",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sebastian Graf",
+    "company": "Xantaro",
+    "irc": null,
+    "asn": "203520"
   },
   {
     "name": "Sebastian Heidrich",
@@ -556,6 +592,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Stefan Funke",
+    "company": "ANEXIA",
+    "irc": "stefan",
+    "asn": "42473 47147"
   },
   {
     "name": "Stefan Giera",
