@@ -36,6 +36,12 @@
     "asn": null
   },
   {
+    "name": "Bernd Buedenbender",
+    "company": "equada GmbH",
+    "irc": null,
+    "asn": "25220"
+  },
+  {
     "name": "Bernd Strehhuber",
     "company": null,
     "irc": "strehi",
@@ -124,6 +130,12 @@
     "company": "Sky",
     "irc": "jwbensley",
     "asn": "5607"
+  },
+  {
+    "name": "Jean-Pierre Schwickerath",
+    "company": "HILOTEC E+C AG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Jens Lietzmann",
