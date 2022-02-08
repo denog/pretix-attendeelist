@@ -306,6 +306,12 @@
     "asn": "12857"
   },
   {
+    "name": "Moritz Frenzel",
+    "company": "noscito network GmbH, Stuttgart-IX, DENOG e.V.",
+    "irc": "momorientes",
+    "asn": "41139"
+  },
+  {
     "name": "Nico Plich",
     "company": "TNG Stadtnetz GmbH",
     "irc": "nptng",
@@ -385,6 +391,12 @@
   },
   {
     "name": "Sebastian Finke",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Graf",
     "company": null,
     "irc": null,
     "asn": null
