@@ -37,13 +37,13 @@
   },
   {
     "name": "Bastian Hoss",
-    "company": "Xantaro Deutschland GmbH",
+    "company": null,
     "irc": null,
     "asn": null
   },
   {
     "name": "Bastian Hoss",
-    "company": null,
+    "company": "Xantaro Deutschland GmbH",
     "irc": null,
     "asn": null
   },
@@ -577,15 +577,15 @@
   },
   {
     "name": "Sebastian Graf",
-    "company": "Xantaro",
-    "irc": null,
-    "asn": "203520"
-  },
-  {
-    "name": "Sebastian Graf",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sebastian Graf",
+    "company": "Xantaro",
+    "irc": null,
+    "asn": "203520"
   },
   {
     "name": "Sebastian Heidrich",
