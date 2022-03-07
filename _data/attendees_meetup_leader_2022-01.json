@@ -156,6 +156,12 @@
     "asn": "AS6695, AS60767"
   },
   {
+    "name": "Robert Leichssenring",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Sebastian Becker",
     "company": "Deutsche Telekom AG",
     "irc": "_sb_",
