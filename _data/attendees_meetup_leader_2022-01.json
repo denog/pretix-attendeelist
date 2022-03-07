@@ -60,6 +60,12 @@
     "asn": "12337"
   },
   {
+    "name": "Jan Gilla",
+    "company": "level66.network",
+    "irc": "MrXermon",
+    "asn": "56381"
+  },
+  {
     "name": "Jan Marquardt",
     "company": "Artfiles New Media GmbH",
     "irc": "janno",
@@ -112,6 +118,12 @@
     "company": "ADVA Optical Networking",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Moritz Frenzel",
+    "company": "noscito network GmbH / Stuttgart-IX / DENOG e.V.",
+    "irc": "momorientes",
+    "asn": "41139"
   },
   {
     "name": "Nicol Nogradi",
