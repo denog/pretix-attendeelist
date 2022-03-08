@@ -24,6 +24,12 @@
     "asn": null
   },
   {
+    "name": "Basis Bit",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Bernd Buedenbender",
     "company": "equada GmbH",
     "irc": null,
@@ -258,6 +264,12 @@
     "asn": "29317"
   },
   {
+    "name": "Sean Flack",
+    "company": "Arista",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sebastian Becker",
     "company": "Deutsche Telekom AG",
     "irc": "_sb_",
@@ -334,5 +346,11 @@
     "company": "Inter.link GmbH",
     "irc": "VP1",
     "asn": "5405 & 25291"
+  },
+  {
+    "name": "Xavier Ramon Lopez",
+    "company": null,
+    "irc": null,
+    "asn": null
   }
 ]
