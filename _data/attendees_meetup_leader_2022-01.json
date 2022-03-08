@@ -1,5 +1,11 @@
 [
   {
+    "name": "Andreas Johnn",
+    "company": "net-lab GmbH",
+    "irc": "derjohn",
+    "asn": "AS20755"
+  },
+  {
     "name": "Andreas Kimpfler",
     "company": "Kimpfler IT+TK Beratung",
     "irc": "Tiberian",
@@ -210,6 +216,12 @@
     "asn": null
   },
   {
+    "name": "Peter Woelk",
+    "company": null,
+    "irc": null,
+    "asn": "AS57353"
+  },
+  {
     "name": "Petr Marciniak",
     "company": "NS1",
     "irc": null,
@@ -304,6 +316,12 @@
     "company": "omnidat GmbH",
     "irc": null,
     "asn": "202707"
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "OneFiber",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ulf Fischer",
