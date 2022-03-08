@@ -18,6 +18,12 @@
     "asn": null
   },
   {
+    "name": "Christian Beyer",
+    "company": "Securepoint GmbH",
+    "irc": null,
+    "asn": "209148"
+  },
+  {
     "name": "Dieter Hirt",
     "company": "scanplus GmbH",
     "irc": "ppit",
@@ -34,6 +40,12 @@
     "company": "Arista Networks / DENOG e.V.",
     "irc": "florian",
     "asn": "55064"
+  },
+  {
+    "name": "Harald Singer",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
   },
   {
     "name": "Hendrik Braasch",
