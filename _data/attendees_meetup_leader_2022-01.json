@@ -42,6 +42,12 @@
     "asn": "55064"
   },
   {
+    "name": "Florian Lenzen",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Harald Singer",
     "company": "TeleData GmbH",
     "irc": null,
@@ -172,6 +178,12 @@
     "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Ronny Boesger",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Becker",
