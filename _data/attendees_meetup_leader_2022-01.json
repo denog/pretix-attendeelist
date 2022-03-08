@@ -276,6 +276,12 @@
     "asn": null
   },
   {
+    "name": "Test User",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Theo Voss",
     "company": "DENOG Event Team",
     "irc": "tvberlin",
