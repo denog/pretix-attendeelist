@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        ./pull_attendee_data.sh
+        ./pull_attendee_data2.sh
       env:
         PRETIX_API_TOKEN: ${{ secrets.PRETIX_API_TOKEN }}
         PRETIX_CHECKIN_LIST_ID: ${{ secrets.PRETIX_CHECKIN_LIST_ID2 }}
