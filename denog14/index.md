@@ -1,6 +1,7 @@
 ---
 layout: liste
 ---
+TEST ONSITE
 <table>
   <thead>
     <tr>
@@ -48,3 +49,5 @@ document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() =
         .forEach(tr => table.appendChild(tr) );
 })));
 </script>
+
+TEST REMOTE / ONLINE
