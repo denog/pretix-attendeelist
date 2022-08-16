@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Adrian Bönde",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "ALISON JAINA",
+    "company": "PACKETFABRIC",
+    "irc": null,
+    "asn": "0"
+  },
+  {
+    "name": "Andreas Fleck",
+    "company": "Equinix",
+    "irc": "spot",
+    "asn": "15380"
+  },
+  {
+    "name": "Andreas Pfeifer",
+    "company": "Equinix",
+    "irc": null,
+    "asn": "15830"
+  },
+  {
+    "name": "Anita Meyer",
+    "company": "Init7",
+    "irc": null,
+    "asn": "13030"
+  },
+  {
+    "name": "Annika Hannig",
+    "company": "Alice Looking Glass",
+    "irc": null,
+    "asn": "208230"
+  },
+  {
+    "name": "Christoph Knörr",
+    "company": "komro GmbH",
+    "irc": null,
+    "asn": "29413"
+  },
+  {
+    "name": "Daniel Niewerth",
+    "company": null,
+    "irc": null,
+    "asn": "34936"
+  },
+  {
+    "name": "Dragan Trailovic",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Fiona Weber",
+    "company": "Wobcom / DENOG",
+    "irc": "vidister",
+    "asn": "9136"
+  },
+  {
+    "name": "Florian Hibler",
+    "company": "Arista Networks / DENOG e.V.",
+    "irc": "florian",
+    "asn": "55064"
+  },
+  {
+    "name": "Florian Tschiedel",
+    "company": "Anexia Deutschland GmbH",
+    "irc": null,
+    "asn": "42473.47147"
+  },
+  {
+    "name": "Frank Holmes",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
+  },
+  {
+    "name": "Franziska Kunsmann",
+    "company": "//SEIBERT/MEDIA",
+    "irc": "kunsi",
+    "asn": null
+  },
+  {
+    "name": "Heiner ALDAG",
+    "company": "Arista Networks GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Inga Mewes",
+    "company": null,
+    "irc": "poldii",
+    "asn": null
+  },
+  {
+    "name": "Jan Gilla",
+    "company": "level66.network",
+    "irc": "MrXermon",
+    "asn": "56381"
+  },
+  {
+    "name": "Johannes Jakob",
+    "company": null,
+    "irc": "irrwitzer",
+    "asn": "56997"
+  },
+  {
+    "name": "Luiz Amaral",
+    "company": "InnoGames",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Marcel Beyer",
+    "company": null,
+    "irc": "beyerm",
+    "asn": null
+  },
+  {
+    "name": "Marc Haber",
+    "company": "incluesion",
+    "irc": "Zugschlus",
+    "asn": null
+  },
+  {
+    "name": "Marco Firsching",
+    "company": "Rechenzentrum Haßfurt GmbH",
+    "irc": null,
+    "asn": "44973"
+  },
+  {
+    "name": "Michael Hayler",
+    "company": "Fujitsu Services GmbH",
+    "irc": "raider",
+    "asn": "12857"
+  },
+  {
+    "name": "Nicolas Korten",
+    "company": "komro GmbH",
+    "irc": null,
+    "asn": "29413"
+  },
+  {
+    "name": "Patrick Bussmann",
+    "company": "DENOG e.V. // Akamai Technologies",
+    "irc": "PBU",
+    "asn": "20940"
+  },
+  {
+    "name": "Philip Berndroth",
+    "company": "PHILUNET GmbH",
+    "irc": "pberndro",
+    "asn": "205112"
+  },
+  {
+    "name": "Sascha Growe",
+    "company": "Plusserver GmbH",
+    "irc": null,
+    "asn": "61157"
+  },
+  {
+    "name": "Sascha Lenz",
+    "company": "s-lz.net",
+    "irc": "master",
+    "asn": "29317"
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "Deutsche Telekom AG / DENOG",
+    "irc": "_sb_",
+    "asn": "3320"
+  },
+  {
+    "name": "Sebastian Kulich",
+    "company": "FU Berlin / ENDA",
+    "irc": "skblnx",
+    "asn": null
+  },
+  {
+    "name": "Sebastian Spies",
+    "company": "nextPacket",
+    "irc": null,
+    "asn": "15701"
+  },
+  {
+    "name": "Simon Frerichs",
+    "company": "LWLcom GmbH",
+    "irc": "morpheus",
+    "asn": "50629"
+  },
+  {
+    "name": "Stefan Klören",
+    "company": "Kühne & Nagel AG",
+    "irc": null,
+    "asn": "211656"
+  },
+  {
+    "name": "Thomas Jessen",
+    "company": "EXA Infrastructure",
+    "irc": "Toshima",
+    "asn": null
+  },
+  {
+    "name": "Thomas King",
+    "company": "DE-CIX",
+    "irc": "t-k-s",
+    "asn": "6695"
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "OneFiber Interconnect Germany GmbH",
+    "irc": "TimKleefass",
+    "asn": null
+  },
+  {
+    "name": "Tobias Gruber",
+    "company": "LWLcom",
+    "irc": "toebs",
+    "asn": "50629"
+  }
+]
