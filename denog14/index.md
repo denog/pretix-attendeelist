@@ -1,7 +1,8 @@
 ---
 layout: liste
 ---
-TEST ONSITE
+<b>Attendees ONSITE</b><br>
+<i>Find remote attendees below</i>
 <table>
   <thead>
     <tr>
@@ -50,7 +51,7 @@ document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() =
 })));
 </script>
 
-TEST REMOTE / ONLINE
+<b>Attendees REMOTE / ONLINE</b>
 
 <table>
   <thead>
