@@ -1,4 +1,4 @@
-name: Pull latest attendee data
+name: Pull latest attendee data - List2
 
 on:
   push:
