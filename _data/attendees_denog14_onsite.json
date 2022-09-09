@@ -18,6 +18,12 @@
     "asn": null
   },
   {
+    "name": "Christoph Falge",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Costas Drogos",
     "company": "DigitalOcean",
     "irc": null,
@@ -136,6 +142,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Markus Hauschild",
+    "company": "Freifunk Regensburg e.V.",
+    "irc": "MoepMan",
+    "asn": "212989"
   },
   {
     "name": "Markus Schmelter",
