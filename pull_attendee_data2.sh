@@ -29,6 +29,9 @@ rm $datafile
 while [[ $url != "null" ]]; do
     curl -H "Authorization: Token ${api_token}" "${url}" > ${tempfile}
     url=$(jq -r .next ${tempfile})
+    echo "------"
+    echo $url
+    echo "------"
     jq . ${tempfile} >> $datafile
 done
 
