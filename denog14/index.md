@@ -1,8 +1,9 @@
 ---
 layout: liste
 ---
-<b>Attendees ONSITE</b><br>
-<i>Remote attendees will be published additionally in a next release</i>
+
+# ONSITE<br>
+<i>Remote attendees can be found below</i>
 <table>
   <thead>
     <tr>
@@ -51,3 +52,4 @@ document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() =
 })));
 </script>
 
+# Attendees REMOTE<br>
