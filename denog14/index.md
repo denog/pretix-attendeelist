@@ -2,7 +2,7 @@
 layout: liste
 ---
 <b>Attendees ONSITE</b><br>
-<i>Find remote attendees below</i>
+<i>Remote attendees will be published additionally in a next release</i>
 <table>
   <thead>
     <tr>
