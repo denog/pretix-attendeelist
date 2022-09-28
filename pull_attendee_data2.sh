@@ -26,6 +26,8 @@ datafile="attendees.full"
 
 rm $datafile
 
+echo $url
+
 while [[ $url != "null" ]]; do
     curl -H "Authorization: Token ${api_token}" "${url}" > ${tempfile}
     url=$(jq -r .next ${tempfile})
