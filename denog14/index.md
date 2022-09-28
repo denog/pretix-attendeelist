@@ -2,8 +2,6 @@
 layout: liste
 ---
 
-DENOG14 Attendees that have registered for Attendance: [ ONSITE ]() | [ REMOTE ]()  
-
 # ONSITE<br>
 <i>Remote attendees can be found below</i>
 <table>
