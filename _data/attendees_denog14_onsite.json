@@ -150,6 +150,12 @@
     "asn": "33988"
   },
   {
+    "name": "Ester Paal",
+    "company": "Flexoptix GmbH",
+    "irc": null,
+    "asn": "199121"
+  },
+  {
     "name": "Felix Hallaczek",
     "company": "Robert Bosch GmbH",
     "irc": null,
@@ -534,6 +540,12 @@
     "asn": null
   },
   {
+    "name": "Phanindra Yellapu",
+    "company": "Flexoptix GmbH",
+    "irc": null,
+    "asn": "199121"
+  },
+  {
     "name": "Philip Berndroth",
     "company": "PHILUNET GmbH",
     "irc": "pberndro",
@@ -544,6 +556,12 @@
     "company": "Proact Deutschland GmbH",
     "irc": "clockwork",
     "asn": "33988"
+  },
+  {
+    "name": "Rene Fichtmueller",
+    "company": "Flexoptix GmbH",
+    "irc": null,
+    "asn": "199121"
   },
   {
     "name": "Richard Mueller",
