@@ -343,6 +343,12 @@
   },
   {
     "name": "Robert Leichssenring",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
+    "name": "Robert Leichssenring",
     "company": null,
     "irc": null,
     "asn": "6695"
