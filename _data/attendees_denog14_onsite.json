@@ -456,6 +456,12 @@
     "asn": "50629"
   },
   {
+    "name": "Mathias Eggers",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Kayser",
     "company": "SmartOptics AS",
     "irc": null,
@@ -688,6 +694,12 @@
     "company": "Proact Deutschland GmbH",
     "irc": null,
     "asn": "33988"
+  },
+  {
+    "name": "Sven Ruediger",
+    "company": null,
+    "irc": "hackacad",
+    "asn": "211684"
   },
   {
     "name": "Sven Schade",
