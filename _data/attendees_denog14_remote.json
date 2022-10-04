@@ -466,5 +466,11 @@
     "company": "Thomas-Krenn.AG",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Wulf-Burkhard Göhmann",
+    "company": "Freie Universität Berlin",
+    "irc": "wbg",
+    "asn": null
   }
 ]
