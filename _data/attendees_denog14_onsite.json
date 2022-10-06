@@ -528,6 +528,12 @@
     "asn": null
   },
   {
+    "name": "Norbert Surowy",
+    "company": "EWETEL GmbH",
+    "irc": null,
+    "asn": "9145"
+  },
+  {
     "name": "Patrick Bussmann",
     "company": "DENOG e.V. // Akamai Technologies",
     "irc": "PBU",
@@ -684,6 +690,12 @@
     "asn": "211656"
   },
   {
+    "name": "Stefan Plug",
+    "company": "STRATO AG",
+    "irc": "Stöpsel",
+    "asn": "6724"
+  },
+  {
     "name": "Stefan Wahl",
     "company": "open7",
     "irc": "swaio",
@@ -754,6 +766,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Thomas Schrank",
+    "company": "STRATO AG",
+    "irc": null,
+    "asn": "6724"
   },
   {
     "name": "Tilman Buggenhagen",
