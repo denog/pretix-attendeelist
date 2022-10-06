@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Herpich",
+    "company": "Buchholz Digital GmbH",
+    "irc": null,
+    "asn": "208988"
+  },
+  {
     "name": "Alexander Olejnicki",
     "company": "DE-CIX",
     "irc": null,
@@ -340,6 +346,12 @@
     "company": "myLoc",
     "irc": null,
     "asn": "24961"
+  },
+  {
+    "name": "Jörn Weigand",
+    "company": "Buchholz Digital GmbH",
+    "irc": null,
+    "asn": "208988"
   },
   {
     "name": "Julian Fölsch",
