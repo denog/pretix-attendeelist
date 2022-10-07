@@ -246,6 +246,12 @@
     "asn": null
   },
   {
+    "name": "Gerrit Mester",
+    "company": "NFON AG",
+    "irc": null,
+    "asn": "8878"
+  },
+  {
     "name": "Hans-Christoph Deeken",
     "company": "NFON AG",
     "irc": "Glenlivet",
@@ -796,6 +802,12 @@
     "company": "DE-CIX",
     "irc": "t-k-s",
     "asn": "6695"
+  },
+  {
+    "name": "Thomas Rüter",
+    "company": "NFON AG",
+    "irc": null,
+    "asn": "8878"
   },
   {
     "name": "Thomas Schmid",
