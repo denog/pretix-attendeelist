@@ -90,6 +90,12 @@
     "asn": null
   },
   {
+    "name": "Dirk Hilmer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Eppig",
     "company": null,
     "irc": null,
@@ -364,6 +370,12 @@
     "company": null,
     "irc": "rsc",
     "asn": null
+  },
+  {
+    "name": "Rudolph Bott",
+    "company": "sipgate GmbH",
+    "irc": "rbott",
+    "asn": "15594"
   },
   {
     "name": "Sandro Bolliger",
