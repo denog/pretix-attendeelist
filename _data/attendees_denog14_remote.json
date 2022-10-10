@@ -372,6 +372,12 @@
     "asn": null
   },
   {
+    "name": "Ralf Ertzinger",
+    "company": "Booking.com",
+    "irc": "Lalufu",
+    "asn": "43996"
+  },
+  {
     "name": "René Couball",
     "company": null,
     "irc": null,
@@ -385,13 +391,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
