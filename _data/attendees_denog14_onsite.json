@@ -168,6 +168,12 @@
     "asn": null
   },
   {
+    "name": "Dominik Rimpf",
+    "company": "KIT",
+    "irc": "@ha2931:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Dragan Trailovic",
     "company": null,
     "irc": null,
@@ -342,6 +348,12 @@
     "asn": "3320"
   },
   {
+    "name": "Janis Streib",
+    "company": "KIT",
+    "irc": "@xe4704:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Jan Walzer",
     "company": null,
     "irc": null,
@@ -392,7 +404,7 @@
   {
     "name": "Julian Schuh",
     "company": "KIT",
-    "irc": null,
+    "irc": "julez",
     "asn": "34878"
   },
   {
