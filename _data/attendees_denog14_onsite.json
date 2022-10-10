@@ -192,6 +192,12 @@
     "asn": "199121"
   },
   {
+    "name": "Falk Stern",
+    "company": "Northern Data Software GmbH",
+    "irc": "falk",
+    "asn": null
+  },
+  {
     "name": "Felix Hallaczek",
     "company": "Robert Bosch GmbH",
     "irc": null,
@@ -382,6 +388,12 @@
     "company": "DE-CIX Academy",
     "irc": "paktosan",
     "asn": "196610"
+  },
+  {
+    "name": "Julian Schuh",
+    "company": "KIT",
+    "irc": null,
+    "asn": "34878"
   },
   {
     "name": "Julia Sontag",
