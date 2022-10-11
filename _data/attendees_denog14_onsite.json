@@ -42,6 +42,12 @@
     "asn": "15380"
   },
   {
+    "name": "Andreas Goetz",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Pfeifer",
     "company": "Equinix",
     "irc": null,
@@ -76,6 +82,12 @@
     "company": "Anexia Internetdienstleistungs GmbH",
     "irc": null,
     "asn": "47147"
+  },
+  {
+    "name": "Barbara Szöke",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Benedikt Merkl",
@@ -958,6 +970,12 @@
     "company": "Kuehne+Nagel",
     "irc": "ulf",
     "asn": "211656"
+  },
+  {
+    "name": "Ulrich Köhler",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ute Wolf",
