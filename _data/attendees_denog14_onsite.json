@@ -324,6 +324,12 @@
     "asn": "8878"
   },
   {
+    "name": "Gregor von Stangen",
+    "company": "CANCOM Managed Services GmbH",
+    "irc": null,
+    "asn": "8469"
+  },
+  {
     "name": "Hans-Christoph Deeken",
     "company": "NFON AG",
     "irc": "Glenlivet",
@@ -904,6 +910,12 @@
     "company": "BENOCS",
     "irc": null,
     "asn": "3320.209039"
+  },
+  {
+    "name": "Sven Ellingen",
+    "company": "CANCOM Managed Services GmbH",
+    "irc": "se",
+    "asn": "8469"
   },
   {
     "name": "Sven Prediger",
