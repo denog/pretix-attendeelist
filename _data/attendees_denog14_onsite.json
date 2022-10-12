@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Dube",
+    "company": "Plusserver GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Herpich",
     "company": "Buchholz Digital GmbH",
     "irc": null,
@@ -274,6 +280,12 @@
     "company": "Anexia Deutschland GmbH",
     "irc": null,
     "asn": "42473.47147"
+  },
+  {
+    "name": "Florian Wrage",
+    "company": "akquinet",
+    "irc": null,
+    "asn": "35258"
   },
   {
     "name": "Frank Holmes",
