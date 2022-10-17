@@ -210,6 +210,12 @@
     "asn": "62075"
   },
   {
+    "name": "Julian Voß",
+    "company": null,
+    "irc": null,
+    "asn": "207671"
+  },
+  {
     "name": "Julius Wolff",
     "company": null,
     "irc": null,
@@ -415,13 +421,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
@@ -508,6 +514,12 @@
     "company": "Stiegeler Internet Service GmbH",
     "irc": null,
     "asn": "200924"
+  },
+  {
+    "name": "Simon Pein",
+    "company": "Metacyber",
+    "irc": "Stirling",
+    "asn": null
   },
   {
     "name": "Siyuan Miao",
