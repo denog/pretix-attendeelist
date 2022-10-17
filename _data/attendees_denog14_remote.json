@@ -96,6 +96,12 @@
     "asn": null
   },
   {
+    "name": "Edwin Verwoerd",
+    "company": "i3D.net",
+    "irc": null,
+    "asn": "49544"
+  },
+  {
     "name": "Fabian Eppig",
     "company": null,
     "irc": null,
@@ -409,13 +415,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
