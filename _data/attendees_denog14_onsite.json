@@ -516,6 +516,12 @@
     "asn": "211752"
   },
   {
+    "name": "Jürgen Keck",
+    "company": "SmartOptics AS",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Karim TUBIN",
     "company": "RETN",
     "irc": null,
@@ -568,6 +574,12 @@
     "company": "IKS Service GmbH",
     "irc": "Donner",
     "asn": "15725"
+  },
+  {
+    "name": "Lx Renner",
+    "company": "DriveNets",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Malte Nagel",
@@ -662,12 +674,6 @@
   {
     "name": "Mathieu Sueters",
     "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Matthias Kayser",
-    "company": "SmartOptics AS",
     "irc": null,
     "asn": null
   },
