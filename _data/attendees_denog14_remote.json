@@ -354,6 +354,12 @@
     "asn": "204624"
   },
   {
+    "name": "Moritz Wörmann",
+    "company": null,
+    "irc": null,
+    "asn": "213127"
+  },
+  {
     "name": "Nils Steinger",
     "company": null,
     "irc": "n-st",
@@ -421,13 +427,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
