@@ -558,6 +558,12 @@
     "asn": null
   },
   {
+    "name": "Leo Kirchner",
+    "company": "Network to Code",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leonard Wagner",
     "company": "IN-Berlin e.V. / Community-IX",
     "irc": "Gordon",
@@ -754,6 +760,12 @@
     "company": "Inter.link GmbH",
     "irc": null,
     "asn": "5405"
+  },
+  {
+    "name": "Nikos Kallergis",
+    "company": "Network to Code",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Nils Beyrle",
