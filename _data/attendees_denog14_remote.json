@@ -433,13 +433,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
@@ -538,6 +538,12 @@
     "company": "Misaka Network, Inc.",
     "irc": null,
     "asn": "917"
+  },
+  {
+    "name": "Stefan Neufeind",
+    "company": "SpeedPartner GmbH",
+    "irc": "neufeind",
+    "asn": "34225"
   },
   {
     "name": "Svenja Sibbes",
