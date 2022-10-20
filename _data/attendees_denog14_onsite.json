@@ -576,6 +576,12 @@
     "asn": "29670"
   },
   {
+    "name": "Leon Kramer",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
+  },
+  {
     "name": "Leon Weber",
     "company": "Vattenfall Eurofiber GmbH",
     "irc": "leon",
@@ -694,6 +700,12 @@
     "company": "Exaring",
     "irc": "margau",
     "asn": "51324"
+  },
+  {
+    "name": "Marvin Haerdtlein",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
   },
   {
     "name": "Mathias Eggers",
