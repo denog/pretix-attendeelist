@@ -102,6 +102,12 @@
     "asn": null
   },
   {
+    "name": "Dino Rezes",
+    "company": "Landeshauptstadt Stuttgart",
+    "irc": null,
+    "asn": "211651"
+  },
+  {
     "name": "Dirk Hilmer",
     "company": null,
     "irc": null,
@@ -166,6 +172,12 @@
     "company": null,
     "irc": "Nurtic-Vibe",
     "asn": "208059"
+  },
+  {
+    "name": "Jakob-Tobias Winter",
+    "company": null,
+    "irc": "wintix",
+    "asn": "211651"
   },
   {
     "name": "Jan Koppe",
@@ -481,13 +493,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
