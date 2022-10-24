@@ -84,6 +84,12 @@
     "asn": "34936"
   },
   {
+    "name": "Daniel Schwarz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Ryzik",
     "company": null,
     "irc": null,
@@ -475,13 +481,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
