@@ -216,6 +216,12 @@
     "asn": "29413"
   },
   {
+    "name": "Christoph Neukirch",
+    "company": "IPHH",
+    "irc": "chn",
+    "asn": "12731"
+  },
+  {
     "name": "Christoph Streit",
     "company": "ScaleUp Technologies",
     "irc": null,
@@ -936,6 +942,12 @@
     "asn": null
   },
   {
+    "name": "Peter Weyers",
+    "company": "IPHH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Phanindra Yellapu",
     "company": "Flexoptix GmbH",
     "irc": null,
@@ -1020,6 +1032,12 @@
     "asn": null
   },
   {
+    "name": "Ronny Belitz",
+    "company": "IPHH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Rose Jacobsen",
     "company": null,
     "irc": "avara",
@@ -1048,6 +1066,12 @@
     "company": "s-lz.net",
     "irc": "master",
     "asn": "29317"
+  },
+  {
+    "name": "Sascha Pollok",
+    "company": "IPHH",
+    "irc": "Dockmaster",
+    "asn": "12731"
   },
   {
     "name": "Sebastian Becker",
@@ -1342,6 +1366,12 @@
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
     "asn": "20647"
+  },
+  {
+    "name": "Victoria Kießler",
+    "company": "IPHH",
+    "irc": null,
+    "asn": "12731"
   },
   {
     "name": "Vincent Jumpertz",
