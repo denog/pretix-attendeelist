@@ -342,6 +342,12 @@
     "asn": "15725"
   },
   {
+    "name": "Lukas Schauer",
+    "company": null,
+    "irc": "lukas2511",
+    "asn": "62269"
+  },
+  {
     "name": "Marcel Menzel",
     "company": "PFALZKOM GmbH",
     "irc": "WRMSR",
@@ -402,6 +408,12 @@
     "asn": null
   },
   {
+    "name": "Martin Kedziora",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Martin Schmidt",
     "company": null,
     "irc": null,
@@ -411,6 +423,12 @@
     "name": "Martin Schwarz",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Martin Sofaru",
+    "company": null,
+    "irc": "nitram",
     "asn": null
   },
   {
@@ -523,13 +541,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
