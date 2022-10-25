@@ -348,6 +348,12 @@
     "asn": null
   },
   {
+    "name": "Felix Menge",
+    "company": "INWX GmbH",
+    "irc": null,
+    "asn": "48596"
+  },
+  {
     "name": "Fiona Weber",
     "company": "Wobcom / DENOG",
     "irc": "vidister",
@@ -394,6 +400,12 @@
     "company": "akquinet",
     "irc": null,
     "asn": "35258"
+  },
+  {
+    "name": "Frank Hebold",
+    "company": "INWX GmbH",
+    "irc": null,
+    "asn": "48596"
   },
   {
     "name": "Frank Holmes",
