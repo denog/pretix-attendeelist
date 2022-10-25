@@ -180,6 +180,12 @@
     "asn": null
   },
   {
+    "name": "Christian Harendt",
+    "company": "Inter.link GmbH",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Christian Schmidt",
     "company": "LWLcom GmbH",
     "irc": "chrische",
@@ -1084,6 +1090,12 @@
     "company": "nextPacket",
     "irc": null,
     "asn": "15701"
+  },
+  {
+    "name": "Sebastian Wagner",
+    "company": "Inter.link GmbH",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Sebastian Wiesinger",
