@@ -690,6 +690,12 @@
     "asn": null
   },
   {
+    "name": "Magnus Frühling",
+    "company": "German Edge Cloud // Freifunk Frankfurt",
+    "irc": "skorpy",
+    "asn": "42263"
+  },
+  {
     "name": "Malte Nagel",
     "company": "Nitrado",
     "irc": null,
