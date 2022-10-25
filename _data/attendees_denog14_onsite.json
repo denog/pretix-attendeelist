@@ -138,6 +138,12 @@
     "asn": "211488"
   },
   {
+    "name": "Benedikt Neuffer",
+    "company": "KIT",
+    "irc": "ogelpre",
+    "asn": "34878"
+  },
+  {
     "name": "Carolyn Allebrodt",
     "company": "Inter.link GmbH",
     "irc": null,
@@ -154,6 +160,12 @@
     "company": "Akamai Technologies",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Christian Backe",
+    "company": "Inter.link GmbH",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Christian Baumann",
@@ -1138,6 +1150,12 @@
     "company": "BENOCS",
     "irc": null,
     "asn": "3320.209039"
+  },
+  {
+    "name": "Struppi Strobl",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Susanne Bauer",
