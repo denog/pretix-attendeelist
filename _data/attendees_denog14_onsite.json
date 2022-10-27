@@ -906,6 +906,12 @@
     "asn": null
   },
   {
+    "name": "Matthias Kail",
+    "company": "Alturna Networks N.V.",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maximilian Emig",
     "company": "UNIBERG GmbH",
     "irc": null,
@@ -1498,6 +1504,12 @@
     "company": "Northern Data AG",
     "irc": "Manawyrm",
     "asn": "59437"
+  },
+  {
+    "name": "Tobias Stumer",
+    "company": "Alturna Networks N.V.",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tom Eichhorn",
