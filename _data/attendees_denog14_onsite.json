@@ -306,6 +306,12 @@
     "asn": null
   },
   {
+    "name": "Dennis Hohmann",
+    "company": "NETSCOUT / Arbor Networks",
+    "irc": null,
+    "asn": "20052"
+  },
+  {
     "name": "Dirk Achenbach",
     "company": "Rahi Systems",
     "irc": "devlog",
