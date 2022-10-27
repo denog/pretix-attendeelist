@@ -1392,6 +1392,12 @@
     "asn": "50629"
   },
   {
+    "name": "Tobias Heister",
+    "company": "Xantaro",
+    "irc": "izemaen",
+    "asn": "203520"
+  },
+  {
     "name": "Tobias Löhnert",
     "company": "BelWü-Koordination",
     "irc": null,
@@ -1477,7 +1483,7 @@
   },
   {
     "name": "Wolfgang Nagele",
-    "company": "inter.link",
+    "company": "Inter.link GmbH",
     "irc": null,
     "asn": "5405"
   },
