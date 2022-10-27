@@ -918,6 +918,12 @@
     "asn": "29413"
   },
   {
+    "name": "Nicola von Thadden",
+    "company": "Pfalzkom",
+    "irc": "nicoduck",
+    "asn": "21473"
+  },
+  {
     "name": "Nico Linde",
     "company": "Gerresheimer Glas GmbH",
     "irc": null,
@@ -946,6 +952,12 @@
     "company": "Flexoptix GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Nina Bargisen",
+    "company": "Kentik",
+    "irc": "nihb",
+    "asn": "6169"
   },
   {
     "name": "Noelle Massar",
