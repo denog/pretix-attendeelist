@@ -942,6 +942,12 @@
     "asn": "13335"
   },
   {
+    "name": "merlin wolf",
+    "company": "vattenfall eurofiber",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Michael Hayler",
     "company": "Fujitsu Services GmbH",
     "irc": "raider",
