@@ -138,6 +138,12 @@
     "asn": null
   },
   {
+    "name": "Dirk Meyer",
+    "company": "Dinoex",
+    "irc": "dinoex",
+    "asn": "20805"
+  },
+  {
     "name": "Edwin Verwoerd",
     "company": "i3D.net",
     "irc": null,
@@ -559,13 +565,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
