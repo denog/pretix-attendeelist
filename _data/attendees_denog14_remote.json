@@ -90,6 +90,12 @@
     "asn": "42388"
   },
   {
+    "name": "Daniel Czerwonk",
+    "company": "Mauve Software",
+    "irc": "@dan_nrw",
+    "asn": "48821"
+  },
+  {
     "name": "Daniel Niewerth",
     "company": null,
     "irc": null,
@@ -547,13 +553,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
