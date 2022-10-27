@@ -54,6 +54,12 @@
     "asn": "34953"
   },
   {
+    "name": "Alex Senderkin",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
+  },
+  {
     "name": "ALISON JAINA",
     "company": "PACKETFABRIC",
     "irc": null,
@@ -336,6 +342,12 @@
     "asn": null
   },
   {
+    "name": "Enrico Richter",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
+  },
+  {
     "name": "Erik Kooistra",
     "company": "NIKHEF",
     "irc": "Erik",
@@ -598,6 +610,12 @@
     "company": "FeM e.V.",
     "irc": null,
     "asn": "202729"
+  },
+  {
+    "name": "Jens Lietzmann",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
   },
   {
     "name": "Jens Link",
