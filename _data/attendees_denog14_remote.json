@@ -216,6 +216,12 @@
     "asn": "208059"
   },
   {
+    "name": "Holger Zessel",
+    "company": "IT.NRW / Freifunk Ddorf",
+    "irc": "dago",
+    "asn": "207871"
+  },
+  {
     "name": "Igor Scheller",
     "company": "Freifunk Frankfurt am main e.V.",
     "irc": null,
@@ -583,13 +589,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
