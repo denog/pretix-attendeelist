@@ -192,6 +192,12 @@
     "asn": "20940"
   },
   {
+    "name": "Christian Adler",
+    "company": "Plusserver GmbH",
+    "irc": null,
+    "asn": "61157"
+  },
+  {
     "name": "Christian Backe",
     "company": "Inter.link GmbH",
     "irc": null,
@@ -538,12 +544,6 @@
     "company": null,
     "irc": "dr3x",
     "asn": "60926"
-  },
-  {
-    "name": "Holger Zessel",
-    "company": "IT.NRW / Freifunk Ddorf",
-    "irc": "dago",
-    "asn": "207871"
   },
   {
     "name": "Inga Mewes",
