@@ -354,12 +354,6 @@
     "asn": "9145"
   },
   {
-    "name": "Dominik Rimpf",
-    "company": "KIT",
-    "irc": "@ha2931:kit.edu",
-    "asn": "34878"
-  },
-  {
     "name": "Dragan Trailovic",
     "company": null,
     "irc": null,
@@ -1096,12 +1090,6 @@
     "company": "EWETEL GmbH",
     "irc": null,
     "asn": "9145"
-  },
-  {
-    "name": "Oliver Geiselhardt-Herms",
-    "company": "Cloudflare",
-    "irc": "takt",
-    "asn": "13335"
   },
   {
     "name": "Oliver Horscht",
