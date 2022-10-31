@@ -1,5 +1,11 @@
 [
   {
+    "name": "Adolfo Sicre Artalejo",
+    "company": "Arelion (formerly Telia Carrier)",
+    "irc": null,
+    "asn": "1299"
+  },
+  {
     "name": "Adrian Bönde",
     "company": null,
     "irc": null,
@@ -862,6 +868,12 @@
     "company": "incluesion",
     "irc": "Zugschlus",
     "asn": null
+  },
+  {
+    "name": "Marc Korthaus",
+    "company": "Inter.link GmbH",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Marco Firsching",
