@@ -534,6 +534,12 @@
     "asn": "204624"
   },
   {
+    "name": "Max Püschel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Mischa Diehm",
     "company": null,
     "irc": null,
@@ -643,13 +649,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
