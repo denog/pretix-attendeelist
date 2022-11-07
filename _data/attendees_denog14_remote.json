@@ -270,6 +270,12 @@
     "asn": "64475"
   },
   {
+    "name": "Ingo Reckziegel",
+    "company": "Klinikum der Universität Regensburg",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jakob-Tobias Winter",
     "company": null,
     "irc": "wintix",
@@ -307,6 +313,12 @@
   },
   {
     "name": "Joachim Ernst",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Johannes Münch",
     "company": null,
     "irc": null,
     "asn": null
