@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Aida Poljak",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Aleksandar Milutinovic-Währisch",
     "company": "Datacenter One GmbH",
     "irc": null,
@@ -1068,6 +1074,12 @@
     "asn": null
   },
   {
+    "name": "Mathieu Sueters",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Kail",
     "company": "Alturna Networks N.V.",
     "irc": null,
@@ -1138,6 +1150,12 @@
     "company": "DENOG e.V. / noscito network GmbH / Stuttgart-IX",
     "irc": "momorientes",
     "asn": "41139.48918"
+  },
+  {
+    "name": "Moritz Weinzierl",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Nicolas Korten",
