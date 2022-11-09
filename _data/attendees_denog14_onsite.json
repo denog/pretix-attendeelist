@@ -858,6 +858,12 @@
     "asn": "44066"
   },
   {
+    "name": "Leon Meßner",
+    "company": "IN-Berlin",
+    "irc": "elon",
+    "asn": "29670"
+  },
+  {
     "name": "Leon Weber",
     "company": "Vattenfall Eurofiber GmbH",
     "irc": "leon",
@@ -904,6 +910,12 @@
     "company": "German Edge Cloud // Freifunk Frankfurt",
     "irc": "skorpy",
     "asn": "42263"
+  },
+  {
+    "name": "Malte Jan Kaffenberger",
+    "company": null,
+    "irc": null,
+    "asn": "60799"
   },
   {
     "name": "Malte Luhmann",
