@@ -480,6 +480,12 @@
     "asn": "8366"
   },
   {
+    "name": "Lea Fall",
+    "company": "Aliter Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leandra Eberle",
     "company": null,
     "irc": null,
@@ -739,13 +745,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -844,6 +850,12 @@
     "company": "Stiegeler Internet Service GmbH",
     "irc": null,
     "asn": "200924"
+  },
+  {
+    "name": "Sefa Cako",
+    "company": "Vodafone Germany",
+    "irc": null,
+    "asn": "3209"
   },
   {
     "name": "Sergej Pioch",
