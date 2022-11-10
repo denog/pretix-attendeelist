@@ -216,6 +216,12 @@
     "asn": "49544"
   },
   {
+    "name": "Fabian Cernota",
+    "company": "cernota.net",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Eppig",
     "company": null,
     "irc": null,
@@ -757,13 +763,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
@@ -784,6 +790,12 @@
     "company": "Vodafone",
     "irc": null,
     "asn": "1273"
+  },
+  {
+    "name": "Ronny Bösger",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Rudolph Bott",
