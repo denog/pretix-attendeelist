@@ -294,6 +294,12 @@
     "asn": "207871"
   },
   {
+    "name": "Holger Zuleger",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "ibrahim Eser",
     "company": "Vodafone",
     "irc": null,
@@ -442,6 +448,12 @@
     "company": "EWE TEL",
     "irc": null,
     "asn": "9145"
+  },
+  {
+    "name": "Kay Rechthien",
+    "company": "Fastly",
+    "irc": "kay",
+    "asn": "54113"
   },
   {
     "name": "Klara Mall",
