@@ -258,6 +258,12 @@
     "asn": null
   },
   {
+    "name": "Hendrik Wolff",
+    "company": "AG DSN",
+    "irc": "w0lff",
+    "asn": "680"
+  },
+  {
     "name": "Henry Kluge",
     "company": "Deutsches Forschungsnetz",
     "irc": null,
@@ -715,13 +721,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -854,12 +860,6 @@
   {
     "name": "Stephan Werner",
     "company": "FLEXOPTIX",
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Susann Böhme",
-    "company": "I/P/B/ Internet Provider in Berlin",
     "irc": null,
     "asn": null
   },
