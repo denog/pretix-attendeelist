@@ -336,6 +336,12 @@
     "asn": null
   },
   {
+    "name": "Jasmin Music",
+    "company": "Vodafone GmbH",
+    "irc": null,
+    "asn": "3209"
+  },
+  {
     "name": "Jens Brey",
     "company": "AllCloud",
     "irc": "Sinnohd",
@@ -727,13 +733,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
