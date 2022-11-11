@@ -78,6 +78,12 @@
     "asn": null
   },
   {
+    "name": "Christian Friedrich",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Frömmel",
     "company": "Charité Berlin",
     "irc": "blownaway",
@@ -705,6 +711,18 @@
     "name": "Nils Trampel",
     "company": "CSN",
     "irc": "camelusferus",
+    "asn": null
+  },
+  {
+    "name": "Olaf Baumert",
+    "company": "OBNH",
+    "irc": "olba",
+    "asn": "203496"
+  },
+  {
+    "name": "Ottmar Deinhart",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
