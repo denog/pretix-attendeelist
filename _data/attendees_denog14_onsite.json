@@ -858,6 +858,12 @@
     "asn": "9002"
   },
   {
+    "name": "Karl Kolumne",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Katja Baisch",
     "company": "UNIBERG GmbH",
     "irc": null,
@@ -1154,6 +1160,12 @@
   {
     "name": "Matthias Kail",
     "company": "Alturna Networks N.V.",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Matthias Mehldau",
+    "company": null,
     "irc": null,
     "asn": null
   },
