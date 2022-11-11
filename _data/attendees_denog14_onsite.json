@@ -1122,6 +1122,12 @@
     "asn": "204704"
   },
   {
+    "name": "Markus Arnold",
+    "company": "FLEXOPTIX",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Martin Poppen",
     "company": "LWLcom GmbH",
     "irc": null,
@@ -1804,6 +1810,12 @@
     "company": "STRATO AG",
     "irc": null,
     "asn": "6724"
+  },
+  {
+    "name": "Thomas Weible",
+    "company": "FLEXOPTIX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Till Peuker",
