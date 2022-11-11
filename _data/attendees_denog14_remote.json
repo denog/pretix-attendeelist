@@ -582,6 +582,12 @@
     "asn": null
   },
   {
+    "name": "Marcus Kommnick",
+    "company": "dogado GmbH",
+    "irc": null,
+    "asn": "45012"
+  },
+  {
     "name": "Markus Hauschild",
     "company": "Freifunk Regensburg e.V.",
     "irc": "MoepMan",
@@ -957,13 +963,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
