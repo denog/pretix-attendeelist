@@ -108,6 +108,12 @@
     "asn": "12306"
   },
   {
+    "name": "Christoph Berkemeier",
+    "company": "DB Station&Service AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christopher Metter",
     "company": null,
     "irc": null,
@@ -975,13 +981,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
