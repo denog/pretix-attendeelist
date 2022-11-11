@@ -114,12 +114,6 @@
     "asn": "8893"
   },
   {
-    "name": "André Grüneberg",
-    "company": "BCIX",
-    "irc": "green525",
-    "asn": "16374"
-  },
-  {
     "name": "André Niemann",
     "company": "IT Ingenieur André Niemann",
     "irc": null,
@@ -732,12 +726,6 @@
     "asn": "0"
   },
   {
-    "name": "Jean Ekstein",
-    "company": "NL-ix",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Jean-Pierre Schwickerath",
     "company": "HILOTEC E+C AG",
     "irc": null,
@@ -748,12 +736,6 @@
     "company": "FeM e.V.",
     "irc": null,
     "asn": "202729"
-  },
-  {
-    "name": "Jens Lietzmann",
-    "company": "BCIX Management GmbH",
-    "irc": null,
-    "asn": "16374"
   },
   {
     "name": "Jens Link",
@@ -920,12 +902,6 @@
   {
     "name": "Laura Kalb",
     "company": "noris network AG",
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Lea Fall",
-    "company": "Aliter Networks",
     "irc": null,
     "asn": null
   },
@@ -1416,12 +1392,6 @@
     "asn": null
   },
   {
-    "name": "Philippa Cheer",
-    "company": "Opengear",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Philipp Rehs",
     "company": "Heinrich-Heine-Universtität Düsseldorf",
     "irc": null,
@@ -1474,12 +1444,6 @@
     "company": "BelWü",
     "irc": "harald",
     "asn": "553"
-  },
-  {
-    "name": "Robert Leichssenring",
-    "company": "DE-CIX",
-    "irc": null,
-    "asn": "6695"
   },
   {
     "name": "Robert Remenyi",
@@ -1708,12 +1672,6 @@
     "company": "BENOCS",
     "irc": null,
     "asn": "3320.209039"
-  },
-  {
-    "name": "Stephan Werner",
-    "company": "FLEXOPTIX",
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Struppi Strobl",
@@ -1972,11 +1930,5 @@
     "company": "DE-CIX Academy",
     "irc": "Garf",
     "asn": "196610"
-  },
-  {
-    "name": "Youri van der Perk",
-    "company": "NL-ix",
-    "irc": null,
-    "asn": null
   }
 ]
