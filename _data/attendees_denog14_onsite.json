@@ -192,6 +192,12 @@
     "asn": "34878"
   },
   {
+    "name": "Bijal Sanghani",
+    "company": "Euro-IX",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Brian Martin",
     "company": "FZI Forschungszentrum Informatik",
     "irc": null,
@@ -1472,12 +1478,6 @@
   {
     "name": "Robert Leichssenring",
     "company": "DE-CIX",
-    "irc": null,
-    "asn": "6695"
-  },
-  {
-    "name": "Robert Leichssenring",
-    "company": null,
     "irc": null,
     "asn": "6695"
   },
