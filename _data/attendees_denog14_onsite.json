@@ -882,6 +882,12 @@
     "asn": null
   },
   {
+    "name": "Lea Fall",
+    "company": "Aliter Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leo Kirchner",
     "company": "Network to Code",
     "irc": null,
@@ -1630,6 +1636,12 @@
     "company": "BENOCS",
     "irc": null,
     "asn": "3320.209039"
+  },
+  {
+    "name": "Stephan Werner",
+    "company": "FLEXOPTIX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Struppi Strobl",
