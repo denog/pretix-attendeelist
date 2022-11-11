@@ -102,10 +102,22 @@
     "asn": "15830"
   },
   {
+    "name": "Andreas Sturm",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Andreas Worbs",
     "company": "Artfiles GmbH",
     "irc": "laxxie",
     "asn": "8893"
+  },
+  {
+    "name": "André Grüneberg",
+    "company": "BCIX",
+    "irc": "green525",
+    "asn": "16374"
   },
   {
     "name": "André Niemann",
@@ -1384,6 +1396,18 @@
     "company": "BelWü",
     "irc": "harald",
     "asn": "553"
+  },
+  {
+    "name": "Robert Leichssenring",
+    "company": null,
+    "irc": null,
+    "asn": "6695"
+  },
+  {
+    "name": "Robert Leichssenring",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
   },
   {
     "name": "Robert Remenyi",
