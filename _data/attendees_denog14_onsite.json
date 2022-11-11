@@ -306,6 +306,12 @@
     "asn": "3320"
   },
   {
+    "name": "Claus Cleber",
+    "company": "CTSB",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dáire O'Driscoll",
     "company": "EPS Global",
     "irc": null,
@@ -628,6 +634,12 @@
     "company": null,
     "irc": "dr3x",
     "asn": "60926"
+  },
+  {
+    "name": "Hugo Habicht",
+    "company": "CTSB",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Inga Mewes",
@@ -978,12 +990,6 @@
     "asn": null
   },
   {
-    "name": "Magnus Frühling",
-    "company": "German Edge Cloud // Freifunk Frankfurt",
-    "irc": "skorpy",
-    "asn": "42263"
-  },
-  {
     "name": "Malte Jan Kaffenberger",
     "company": null,
     "irc": null,
@@ -1148,6 +1154,12 @@
   {
     "name": "Matthias Kail",
     "company": "Alturna Networks N.V.",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Matthias Stieler",
+    "company": "CTSB",
     "irc": null,
     "asn": null
   },
@@ -1874,6 +1886,12 @@
   {
     "name": "Ulrich Köhler",
     "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Ulrich Stieler",
+    "company": "CTSB",
     "irc": null,
     "asn": null
   },
