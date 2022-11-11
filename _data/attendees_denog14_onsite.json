@@ -300,6 +300,12 @@
     "asn": "3320"
   },
   {
+    "name": "Dáire O'Driscoll",
+    "company": "EPS Global",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Daniel Konrad",
     "company": null,
     "irc": "dakonr",
@@ -532,6 +538,12 @@
     "company": "LWLcom GmbH",
     "irc": null,
     "asn": "50629"
+  },
+  {
+    "name": "Frank Krämer",
+    "company": "EPS Global",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frank Ribeiro",
@@ -874,6 +886,12 @@
     "company": null,
     "irc": "pi",
     "asn": "12502"
+  },
+  {
+    "name": "Lalit Kumar",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Laura Kalb",
@@ -1264,6 +1282,12 @@
     "company": "EWETEL GmbH",
     "irc": null,
     "asn": "9145"
+  },
+  {
+    "name": "Olesja Klauser",
+    "company": "Zayo Group",
+    "irc": null,
+    "asn": "6461"
   },
   {
     "name": "Oliver Geiselhardt-Herms",
