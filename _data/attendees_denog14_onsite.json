@@ -1465,13 +1465,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -1528,6 +1528,12 @@
     "company": "ViA-Online GmbH",
     "irc": "Panther_1",
     "asn": "62086"
+  },
+  {
+    "name": "Samuel Mueller",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sara Abulajras",
@@ -1842,6 +1848,12 @@
     "asn": null
   },
   {
+    "name": "Tobias Erdmann",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Tobias Gruber",
     "company": "LWLcom",
     "irc": "toebs",
@@ -1861,9 +1873,9 @@
   },
   {
     "name": "Tobias Mädel",
-    "company": "Northern Data AG",
+    "company": "tbspace.de",
     "irc": "Manawyrm",
-    "asn": "59437"
+    "asn": "203478"
   },
   {
     "name": "Tobias Stumer",
@@ -1873,9 +1885,9 @@
   },
   {
     "name": "Tom Eichhorn",
-    "company": "Northern Data AG",
+    "company": "wirkbetrieb.net",
     "irc": "MrTux",
-    "asn": "59437"
+    "asn": "43911"
   },
   {
     "name": "Tristan Bruns",
