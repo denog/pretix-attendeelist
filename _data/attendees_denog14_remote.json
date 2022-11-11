@@ -30,12 +30,6 @@
     "asn": null
   },
   {
-    "name": "André Grüneberg",
-    "company": "BCIX",
-    "irc": "green525",
-    "asn": "16374"
-  },
-  {
     "name": "Andrei Cebotareanu",
     "company": "euNetworks",
     "irc": null,
@@ -802,18 +796,6 @@
     "company": null,
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Robert Leichssenring",
-    "company": null,
-    "irc": null,
-    "asn": "6695"
-  },
-  {
-    "name": "Robert Leichssenring",
-    "company": "DE-CIX",
-    "irc": null,
-    "asn": "6695"
   },
   {
     "name": "Robert Scheck",
