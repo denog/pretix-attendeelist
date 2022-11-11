@@ -348,6 +348,12 @@
     "asn": "211651"
   },
   {
+    "name": "Jan Czmok",
+    "company": "Internet AG",
+    "irc": "JanCzmok",
+    "asn": "31025"
+  },
+  {
     "name": "Jan Koppe",
     "company": null,
     "irc": "thunfisch",
@@ -514,12 +520,6 @@
     "company": "man-da.de GmbH",
     "irc": null,
     "asn": "8366"
-  },
-  {
-    "name": "Lea Fall",
-    "company": "Aliter Networks",
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Leandra Eberle",
@@ -936,12 +936,6 @@
     "asn": "34225"
   },
   {
-    "name": "Stephan Werner",
-    "company": "FLEXOPTIX",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Svenja Sibbes",
     "company": "NTT Limited",
     "irc": null,
@@ -963,13 +957,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
