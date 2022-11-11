@@ -192,6 +192,12 @@
     "asn": "34878"
   },
   {
+    "name": "Brian Martin",
+    "company": "FZI Forschungszentrum Informatik",
+    "irc": null,
+    "asn": "205046"
+  },
+  {
     "name": "Carl Michels",
     "company": "MPI-DS",
     "irc": null,
@@ -720,6 +726,12 @@
     "asn": "0"
   },
   {
+    "name": "Jean Ekstein",
+    "company": "NL-ix",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jean-Pierre Schwickerath",
     "company": "HILOTEC E+C AG",
     "irc": null,
@@ -958,6 +970,12 @@
     "company": "Wobcom",
     "irc": null,
     "asn": "9136"
+  },
+  {
+    "name": "Lukas Hofmann",
+    "company": "FZI Forschungszentrum Informatik",
+    "irc": null,
+    "asn": "205046"
   },
   {
     "name": "Lutz Donnerhacke",
@@ -1912,5 +1930,11 @@
     "company": "DE-CIX Academy",
     "irc": "Garf",
     "asn": "196610"
+  },
+  {
+    "name": "Youri van der Perk",
+    "company": "NL-ix",
+    "irc": null,
+    "asn": null
   }
 ]
