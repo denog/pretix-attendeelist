@@ -192,6 +192,12 @@
     "asn": null
   },
   {
+    "name": "Dhaval Desai",
+    "company": null,
+    "irc": null,
+    "asn": "3209"
+  },
+  {
     "name": "Dino Rezes",
     "company": "Landeshauptstadt Stuttgart",
     "irc": null,
@@ -775,13 +781,13 @@
   },
   {
     "name": "Robert Leichssenring",
-    "company": "DE-CIX",
+    "company": null,
     "irc": null,
     "asn": "6695"
   },
   {
     "name": "Robert Leichssenring",
-    "company": null,
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
