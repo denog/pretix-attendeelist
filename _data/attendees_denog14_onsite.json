@@ -204,6 +204,12 @@
     "asn": null
   },
   {
+    "name": "Carsten Schiefner",
+    "company": "All Things Internet. And Internet of Things.",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Cedric Kienzler",
     "company": "Microsoft",
     "irc": null,
@@ -310,6 +316,12 @@
     "company": "CTSB",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Clemens Riese",
+    "company": "NETHINKS",
+    "irc": "clerie",
+    "asn": "8319"
   },
   {
     "name": "Dáire O'Driscoll",
