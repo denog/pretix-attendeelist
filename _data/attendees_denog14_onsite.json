@@ -138,6 +138,12 @@
     "asn": null
   },
   {
+    "name": "Anton Weidlich",
+    "company": "Catering",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Arnold Nipper",
     "company": "DE-CIX",
     "irc": null,
@@ -190,6 +196,12 @@
     "company": "FZI Forschungszentrum Informatik",
     "irc": null,
     "asn": "205046"
+  },
+  {
+    "name": "Camilla Ernst",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Carl Michels",
@@ -474,7 +486,19 @@
     "asn": "34878"
   },
   {
+    "name": "Donald Kevin Nanga Mbianda",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dragan Trailovic",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Ekaterina Eylin",
     "company": null,
     "irc": null,
     "asn": null
@@ -1014,6 +1038,12 @@
     "asn": "211752"
   },
   {
+    "name": "Lilliane Rolfg",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Lisa Grziwok",
     "company": "LWLcom GmbH",
     "irc": null,
@@ -1404,6 +1434,12 @@
     "asn": "9145"
   },
   {
+    "name": "Od-Erdem Yambajamts",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Olesja Klauser",
     "company": "Zayo Group",
     "irc": null,
@@ -1520,6 +1556,12 @@
   {
     "name": "Prathap Thammanna",
     "company": "Radisys",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Quang Minh Dang",
+    "company": null,
     "irc": null,
     "asn": null
   },
