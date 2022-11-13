@@ -528,12 +528,6 @@
     "asn": "9145"
   },
   {
-    "name": "Kay Rechthien",
-    "company": "Fastly",
-    "irc": "kay",
-    "asn": "54113"
-  },
-  {
     "name": "Klara Mall",
     "company": "Karlsruher Institut für Technologie",
     "irc": null,
@@ -1065,13 +1059,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
