@@ -114,6 +114,12 @@
     "asn": "12306"
   },
   {
+    "name": "Christian Ulitzny",
+    "company": null,
+    "irc": "wurmi",
+    "asn": null
+  },
+  {
     "name": "Christoph Berkemeier",
     "company": "DB Station&Service AG",
     "irc": null,
@@ -822,6 +828,12 @@
     "asn": "57353"
   },
   {
+    "name": "Philipp Rehs",
+    "company": "Heinrich-Heine-Universität Düsseldorf",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Philipp Rintz",
     "company": null,
     "irc": null,
@@ -1041,19 +1053,25 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
     "company": "MANDA / TU Darmstadt",
     "irc": null,
     "asn": "8365"
+  },
+  {
+    "name": "Thomas Kühling",
+    "company": "EWE TEL GmbH",
+    "irc": "kraut",
+    "asn": "9145"
   },
   {
     "name": "Thomas Verschuren",
