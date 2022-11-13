@@ -516,6 +516,12 @@
     "asn": "207939"
   },
   {
+    "name": "Kai Kriegel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Kai Siering",
     "company": "4830.org e. V.",
     "irc": "wusel",
@@ -1059,13 +1065,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
