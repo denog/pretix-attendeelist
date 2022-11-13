@@ -48,12 +48,6 @@
     "asn": "208988"
   },
   {
-    "name": "Alexander Kwast",
-    "company": null,
-    "irc": "nakustik",
-    "asn": null
-  },
-  {
     "name": "Alexander Olejnicki",
     "company": "DE-CIX",
     "irc": null,
@@ -1317,6 +1311,12 @@
     "name": "Moritz Weinzierl",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Nadja Kwast",
+    "company": null,
+    "irc": "nakustik",
     "asn": null
   },
   {
