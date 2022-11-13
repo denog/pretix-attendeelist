@@ -276,6 +276,12 @@
     "asn": "206892"
   },
   {
+    "name": "Florian Bauhaus",
+    "company": "portrix Systems GmbH",
+    "irc": "TraXo",
+    "asn": "52088"
+  },
+  {
     "name": "Frank Bergknecht",
     "company": ".XNC GmbH",
     "irc": "Nr5_",
@@ -1035,13 +1041,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
