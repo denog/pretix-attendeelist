@@ -954,6 +954,12 @@
     "asn": null
   },
   {
+    "name": "Kay Rechthien",
+    "company": "Fastly",
+    "irc": "kay",
+    "asn": "54113"
+  },
+  {
     "name": "Kevin Richardson",
     "company": "NTT",
     "irc": null,
@@ -1416,7 +1422,7 @@
     "asn": "6169"
   },
   {
-    "name": "Nivedeta Ashri",
+    "name": "Nivedita Ashri",
     "company": "UNIBERG GmbH",
     "irc": null,
     "asn": null
