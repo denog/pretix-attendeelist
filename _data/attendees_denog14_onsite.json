@@ -1182,12 +1182,6 @@
     "asn": null
   },
   {
-    "name": "Marc Hoof",
-    "company": "Thomas-Krenn.AG",
-    "irc": null,
-    "asn": "0"
-  },
-  {
     "name": "Marc Korthaus",
     "company": "Inter.link GmbH",
     "irc": null,
@@ -2068,6 +2062,12 @@
     "company": "wirkbetrieb.net",
     "irc": "MrTux",
     "asn": "43911"
+  },
+  {
+    "name": "Tom Heppner",
+    "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": "0"
   },
   {
     "name": "Tristan Bruns",
