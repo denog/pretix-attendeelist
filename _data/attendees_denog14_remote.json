@@ -432,6 +432,12 @@
     "asn": "208059"
   },
   {
+    "name": "Holger Lechner",
+    "company": "badenIT GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Holger Zessel",
     "company": "IT.NRW / Freifunk Ddorf",
     "irc": "dago",
@@ -936,6 +942,12 @@
     "asn": "203496"
   },
   {
+    "name": "Oliver Seufer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ottmar Deinhart",
     "company": null,
     "irc": null,
@@ -1239,13 +1251,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
