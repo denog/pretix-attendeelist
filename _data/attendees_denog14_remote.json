@@ -876,6 +876,12 @@
     "asn": null
   },
   {
+    "name": "Mayank Arora",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Michael Steder",
     "company": null,
     "irc": null,
@@ -1170,6 +1176,12 @@
     "asn": null
   },
   {
+    "name": "Simon Schmitz",
+    "company": null,
+    "irc": null,
+    "asn": "48927"
+  },
+  {
     "name": "Siyuan Miao",
     "company": "Misaka Network, Inc.",
     "irc": null,
@@ -1227,13 +1239,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
