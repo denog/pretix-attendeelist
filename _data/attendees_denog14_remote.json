@@ -66,6 +66,12 @@
     "asn": null
   },
   {
+    "name": "Beat Graf",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Benedikt Heine",
     "company": null,
     "irc": "bebehei",
@@ -112,6 +118,12 @@
     "company": "Plus.line AG",
     "irc": null,
     "asn": "12306"
+  },
+  {
+    "name": "Christian Schulz",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Christian Ulitzny",
@@ -402,6 +414,12 @@
     "asn": null
   },
   {
+    "name": "Ian Chilton",
+    "company": "LONAP",
+    "irc": "ichilton",
+    "asn": "8330"
+  },
+  {
     "name": "ibrahim Eser",
     "company": "Vodafone",
     "irc": null,
@@ -598,6 +616,12 @@
     "company": "Karlsruher Institut für Technologie",
     "irc": null,
     "asn": "34878"
+  },
+  {
+    "name": "Klaus Bohndorf",
+    "company": "Vodafone",
+    "irc": "Klaus_84",
+    "asn": "3209"
   },
   {
     "name": "Klaus Thielking-Riechert",
@@ -1155,13 +1179,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
