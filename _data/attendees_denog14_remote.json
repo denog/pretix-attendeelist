@@ -1188,6 +1188,12 @@
     "asn": null
   },
   {
+    "name": "Stephan Westphal",
+    "company": null,
+    "irc": null,
+    "asn": "7522759233"
+  },
+  {
     "name": "Svenja Sibbes",
     "company": "NTT Limited",
     "irc": null,
@@ -1255,6 +1261,12 @@
   },
   {
     "name": "Timo Stamm",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tim Senn",
     "company": null,
     "irc": null,
     "asn": null
