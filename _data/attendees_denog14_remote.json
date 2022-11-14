@@ -384,6 +384,12 @@
     "asn": "212125"
   },
   {
+    "name": "Frederik Kriewitz",
+    "company": "NYNEX satellite OHG",
+    "irc": null,
+    "asn": "62023"
+  },
+  {
     "name": "frickler na",
     "company": null,
     "irc": "frickler",
@@ -1263,13 +1269,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
