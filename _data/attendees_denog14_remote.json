@@ -186,6 +186,12 @@
     "asn": null
   },
   {
+    "name": "Dan Peachey",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Albert",
     "company": null,
     "irc": null,
@@ -414,6 +420,12 @@
     "asn": null
   },
   {
+    "name": "Jannik Grube",
+    "company": "Norlys",
+    "irc": "jannik.grube",
+    "asn": "39642"
+  },
+  {
     "name": "Jan-Philipp Litza",
     "company": "PLUTEX GmbH",
     "irc": "jplitza",
@@ -472,6 +484,12 @@
     "company": "IXNT",
     "irc": null,
     "asn": "60345"
+  },
+  {
+    "name": "Jonas Schmid-Burgk",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Jonas Schmid-Burgk",
@@ -1120,6 +1138,12 @@
     "company": "IP Visie Networking B.V.",
     "irc": null,
     "asn": "198089"
+  },
+  {
+    "name": "Thorsten Witt",
+    "company": "DESY",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tilman Schäfers",
