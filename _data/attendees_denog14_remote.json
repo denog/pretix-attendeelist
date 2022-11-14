@@ -318,6 +318,12 @@
     "asn": "212125"
   },
   {
+    "name": "frickler na",
+    "company": null,
+    "irc": "frickler",
+    "asn": null
+  },
+  {
     "name": "Garry Glendown",
     "company": null,
     "irc": null,
@@ -1077,13 +1083,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
