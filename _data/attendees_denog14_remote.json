@@ -186,6 +186,12 @@
     "asn": "48821"
   },
   {
+    "name": "Daniel Galvao",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Daniel Horwedel",
     "company": null,
     "irc": null,
@@ -256,6 +262,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Dennis Körner",
+    "company": "Netzwerge GmbH",
+    "irc": null,
+    "asn": "199938"
   },
   {
     "name": "Dhaval Desai",
@@ -334,6 +346,12 @@
     "company": "portrix Systems GmbH",
     "irc": "TraXo",
     "asn": "52088"
+  },
+  {
+    "name": "Florian Köttner",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frank Bergknecht",
@@ -1185,13 +1203,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
