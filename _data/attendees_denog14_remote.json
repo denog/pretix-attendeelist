@@ -900,6 +900,12 @@
     "asn": "213127"
   },
   {
+    "name": "Nico Plich",
+    "company": null,
+    "irc": "nplich",
+    "asn": null
+  },
+  {
     "name": "Niels Bakker",
     "company": "Akamai Technologies",
     "irc": null,
@@ -1152,6 +1158,12 @@
     "asn": "13054"
   },
   {
+    "name": "Simon Kautz",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": "51524"
+  },
+  {
     "name": "Simon Pein",
     "company": "Metacyber",
     "irc": "Stirling",
@@ -1215,13 +1227,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
