@@ -1275,13 +1275,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
@@ -1358,6 +1358,12 @@
   {
     "name": "Werner Fischer",
     "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Wilhelm Boeddinghaus",
+    "company": null,
     "irc": null,
     "asn": null
   },
