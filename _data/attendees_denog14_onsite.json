@@ -912,6 +912,12 @@
     "asn": "208988"
   },
   {
+    "name": "Julian Buccerius",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Julian Fölsch",
     "company": "DE-CIX Academy",
     "irc": "paktosan",
@@ -1020,6 +1026,12 @@
     "asn": null
   },
   {
+    "name": "Leonard Dieckow",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leonard Wagner",
     "company": "IN-Berlin e.V. / Community-IX",
     "irc": "Gordon",
@@ -1078,6 +1090,12 @@
     "company": "FZI Forschungszentrum Informatik",
     "irc": null,
     "asn": "205046"
+  },
+  {
+    "name": "Lukas Kraft",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Lutz Donnerhacke",
@@ -1342,6 +1360,12 @@
     "company": "Inter.link GmbH",
     "irc": null,
     "asn": "5405"
+  },
+  {
+    "name": "Miriam Jobst",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Moritz Frenzel",
@@ -1786,6 +1810,12 @@
     "company": "Akamai",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Sophie de la Forge",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Stefan Behte",
