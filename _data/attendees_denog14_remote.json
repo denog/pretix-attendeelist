@@ -336,6 +336,12 @@
     "asn": null
   },
   {
+    "name": "Hannes Rist",
+    "company": null,
+    "irc": "qybl",
+    "asn": null
+  },
+  {
     "name": "Haris Trgo",
     "company": null,
     "irc": "HarisDotParis",
@@ -1113,13 +1119,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Kraft",
