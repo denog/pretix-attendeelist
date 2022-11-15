@@ -120,6 +120,12 @@
     "asn": "13030"
   },
   {
+    "name": "Anna Bui",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Annika Hannig",
     "company": "Alice Looking Glass",
     "irc": null,
@@ -1050,6 +1056,12 @@
     "asn": "44066"
   },
   {
+    "name": "Leon Lodemann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leon Meßner",
     "company": "IN-Berlin",
     "irc": "elon",
@@ -1112,6 +1124,12 @@
   {
     "name": "Lx Renner",
     "company": "DriveNets",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Mailand Ayoubi",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -1942,6 +1960,12 @@
     "company": "German Edge Cloud",
     "irc": "thies",
     "asn": "42263"
+  },
+  {
+    "name": "Thies Wolers",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Thomas Fritz",
