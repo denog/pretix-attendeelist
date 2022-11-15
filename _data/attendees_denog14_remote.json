@@ -162,6 +162,12 @@
     "asn": "9002"
   },
   {
+    "name": "Christoph Loibl",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Vedder",
     "company": null,
     "irc": null,
@@ -1272,6 +1278,12 @@
     "asn": "2914"
   },
   {
+    "name": "Sylvia Pudimat",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Thomas Fragstein",
     "company": null,
     "irc": "fragstone",
@@ -1287,13 +1299,13 @@
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": "3209"
+    "asn": null
   },
   {
     "name": "Thomas Grahnert",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "3209"
   },
   {
     "name": "Thomas Kraft",
