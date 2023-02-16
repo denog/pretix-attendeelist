@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Carsten Schöne",
+    "company": "InterNetX GmbH",
+    "irc": null,
+    "asn": "15456"
+  },
+  {
+    "name": "Christoph Knörr",
+    "company": "Komro",
+    "irc": null,
+    "asn": "29413"
+  },
+  {
+    "name": "Florian Hibler",
+    "company": "Arista Networks",
+    "irc": "florian",
+    "asn": "55604"
+  },
+  {
+    "name": "Gert Döring",
+    "company": "SpaceNet AG",
+    "irc": "cron2",
+    "asn": "5539"
+  },
+  {
+    "name": "James Bensley",
+    "company": "Inter.link",
+    "irc": "jwbensley",
+    "asn": "5405"
+  },
+  {
+    "name": "Kilian Ries",
+    "company": "InterNetX GmbH",
+    "irc": null,
+    "asn": "15456"
+  },
+  {
+    "name": "Klara Grziwok",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Marc Helmus",
+    "company": "Vattenfall Eurofiber",
+    "irc": "marcnetismus",
+    "asn": "211752"
+  },
+  {
+    "name": "Maximilian Emig",
+    "company": "UNIBERG GmbH / Vodafone",
+    "irc": null,
+    "asn": "3209"
+  },
+  {
+    "name": "Merlin Wolf",
+    "company": "Vattenfall Eurofiber",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Nicolas Korten",
+    "company": "Komro",
+    "irc": null,
+    "asn": "29413"
+  },
+  {
+    "name": "Ottmar Deinhart",
+    "company": "Genesis Cloud GmbH",
+    "irc": null,
+    "asn": "209045"
+  },
+  {
+    "name": "Patrick Bussmann",
+    "company": "Akamai Technologies // DENOG e.V.",
+    "irc": "PBU",
+    "asn": "20940"
+  },
+  {
+    "name": "Robert Blechinger",
+    "company": "Genesis Cloud GmbH",
+    "irc": "LukeSiX",
+    "asn": "209045"
+  },
+  {
+    "name": "Tom Eichhorn",
+    "company": "DE-CIX",
+    "irc": "SirTux",
+    "asn": "6695"
+  },
+  {
+    "name": "Tristan Helmich",
+    "company": "Genesis Cloud",
+    "irc": "fadenb",
+    "asn": "209045"
+  }
+]
