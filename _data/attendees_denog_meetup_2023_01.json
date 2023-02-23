@@ -6,10 +6,22 @@
     "asn": null
   },
   {
+    "name": "Caglar Dabanoglu",
+    "company": "Akamai",
+    "irc": null,
+    "asn": "20940"
+  },
+  {
     "name": "Carsten Schöne",
     "company": "InterNetX GmbH",
     "irc": null,
     "asn": "15456"
+  },
+  {
+    "name": "Charles Brown",
+    "company": "Akamai Technologies",
+    "irc": null,
+    "asn": "20940"
   },
   {
     "name": "Christoph Knörr",
