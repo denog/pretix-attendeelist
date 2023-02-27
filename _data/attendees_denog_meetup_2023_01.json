@@ -1,5 +1,11 @@
 [
   {
+    "name": "Andreas Götz",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
     "name": "Andreas Kimpfler",
     "company": "Kimpfler IT+TK Beratung",
     "irc": "Tiberian",
@@ -102,6 +108,12 @@
     "asn": "48918.41139"
   },
   {
+    "name": "Nicolas Grebe",
+    "company": "EGT-Kommunikationstechnik",
+    "irc": null,
+    "asn": "211069"
+  },
+  {
     "name": "Nicolas Korten",
     "company": "Komro",
     "irc": null,
@@ -118,6 +130,12 @@
     "company": "Akamai Technologies // DENOG e.V.",
     "irc": "PBU",
     "asn": "20940"
+  },
+  {
+    "name": "Philipp Renner",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Robert Blechinger",
