@@ -1,5 +1,11 @@
 [
   {
+    "name": "Alex Senderkin",
+    "company": "BCIX Management GmbH",
+    "irc": "icebreak",
+    "asn": "16374"
+  },
+  {
     "name": "Christian Frömmel",
     "company": "Charité Berlin",
     "irc": "blownaway",
@@ -12,6 +18,18 @@
     "asn": "29670"
   },
   {
+    "name": "Jens Link",
+    "company": "-",
+    "irc": "snej",
+    "asn": null
+  },
+  {
+    "name": "Marc Helmus",
+    "company": "Vattenfall Eurofiber GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Moritz Frenzel",
     "company": "DENOG e.V. / Globalways GmbH",
     "irc": "momorientes",
@@ -22,5 +40,11 @@
     "company": "open 7 / LU-CIX",
     "irc": "swaio",
     "asn": "208262"
+  },
+  {
+    "name": "Tobias Just",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
   }
 ]
