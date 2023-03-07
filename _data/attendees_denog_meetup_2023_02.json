@@ -6,6 +6,12 @@
     "asn": "16374"
   },
   {
+    "name": "Alice Boeddinghaus",
+    "company": "Studentin HTW Berlin",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Frömmel",
     "company": "Charité Berlin",
     "irc": "blownaway",
@@ -46,5 +52,11 @@
     "company": "BCIX Management GmbH",
     "irc": null,
     "asn": "16374"
+  },
+  {
+    "name": "Wilhelm Boeddinghaus",
+    "company": "System.de",
+    "irc": null,
+    "asn": null
   }
 ]
