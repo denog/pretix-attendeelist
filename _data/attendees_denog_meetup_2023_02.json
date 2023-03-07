@@ -1,8 +1,26 @@
 [
   {
+    "name": "Christian Frömmel",
+    "company": "Charité Berlin",
+    "irc": "blownaway",
+    "asn": null
+  },
+  {
+    "name": "Christian Seitz",
+    "company": "IN-Berlin e.V. / system.de GmbH",
+    "irc": "gizzmo",
+    "asn": "29670"
+  },
+  {
     "name": "Moritz Frenzel",
     "company": "DENOG e.V. / Globalways GmbH",
     "irc": "momorientes",
     "asn": "48918"
+  },
+  {
+    "name": "Stefan Wahl",
+    "company": "open 7 / LU-CIX",
+    "irc": "swaio",
+    "asn": "208262"
   }
 ]
