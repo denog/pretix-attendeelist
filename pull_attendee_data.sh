@@ -18,13 +18,15 @@ api_token="$PRETIX_API_TOKEN"
 checkin_list="$PRETIX_CHECKIN_LIST_ID"
 instance="pretix.eu"
 organizer="denog"
-event="denogmeetup23-02"
+event="denogmeetup23-2"
 url="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list/positions/"
 
 tempfile="response.temp"
 datafile="attendees.full"
 
 rm $datafile
+
+echo $url
 
 while [[ $url != "null" ]]; do
     curl -H "Authorization: Token ${api_token}" "${url}" > ${tempfile}
