@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "andre niemann",
+    "company": "-",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Frömmel",
     "company": "Charité Berlin",
     "irc": "blownaway",
@@ -34,6 +40,12 @@
     "company": "Vattenfall Eurofiber GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Marcus Stoegbauer",
+    "company": "Vattenfall Eurofiber GmbH",
+    "irc": null,
+    "asn": "211752"
   },
   {
     "name": "Moritz Frenzel",
