@@ -102,6 +102,12 @@
     "asn": "20940"
   },
   {
+    "name": "Peter Hessler",
+    "company": "OpenBSD",
+    "irc": "phessler",
+    "asn": null
+  },
+  {
     "name": "Stefan Wahl",
     "company": "open 7 / LU-CIX",
     "irc": "swaio",
