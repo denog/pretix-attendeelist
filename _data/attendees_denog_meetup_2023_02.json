@@ -54,6 +54,12 @@
     "asn": null
   },
   {
+    "name": "Jan Walzer",
+    "company": null,
+    "irc": "iQ",
+    "asn": null
+  },
+  {
     "name": "Jens Link",
     "company": "-",
     "irc": "snej",
@@ -172,6 +178,12 @@
     "company": "Inter.link GmbH",
     "irc": "VP1",
     "asn": "5405"
+  },
+  {
+    "name": "Werner Heuser",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Wilhelm Boeddinghaus",
