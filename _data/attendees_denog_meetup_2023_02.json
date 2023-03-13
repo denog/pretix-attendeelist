@@ -172,5 +172,11 @@
     "company": "System.de",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Wulf-Burkhard Göhmann",
+    "company": "FU Berlin",
+    "irc": "wbg",
+    "asn": null
   }
 ]
