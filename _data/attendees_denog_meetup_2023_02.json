@@ -60,6 +60,12 @@
     "asn": "29670"
   },
   {
+    "name": "Erik Grun",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Jahr",
     "company": null,
     "irc": null,
@@ -171,6 +177,12 @@
     "name": "Peter Hessler",
     "company": "OpenBSD",
     "irc": "phessler",
+    "asn": null
+  },
+  {
+    "name": "Sebastian Posner",
+    "company": null,
+    "irc": "snaeqe",
     "asn": null
   },
   {
