@@ -162,6 +162,12 @@
     "asn": null
   },
   {
+    "name": "Stefan Plug",
+    "company": "STRATO",
+    "irc": "Stöpsel",
+    "asn": "6724"
+  },
+  {
     "name": "Stefan Wahl",
     "company": "open 7 / LU-CIX",
     "irc": "swaio",
@@ -172,6 +178,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Stephan Schroeder",
+    "company": "BENOCS",
+    "irc": null,
+    "asn": "209039"
   },
   {
     "name": "Steven Karch",
