@@ -6,10 +6,22 @@
     "asn": "202329"
   },
   {
+    "name": "Janik Haag",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Johannes Erwerle",
     "company": "KIT",
     "irc": "_992jo",
     "asn": "34878"
+  },
+  {
+    "name": "Lara Hallaczek",
+    "company": "Selfnet e.V.",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Marvin Gaube",
