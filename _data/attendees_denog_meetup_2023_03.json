@@ -24,6 +24,12 @@
     "asn": "5405"
   },
   {
+    "name": "Harald Singer",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
+  },
+  {
     "name": "Janik Haag",
     "company": null,
     "irc": null,
@@ -100,5 +106,11 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Tizian Cardinal von Widdern",
+    "company": "TeleData GmbH",
+    "irc": "twiddern",
+    "asn": "21263"
   }
 ]
