@@ -130,5 +130,11 @@
     "company": "TeleData GmbH",
     "irc": "twiddern",
     "asn": "21263"
+  },
+  {
+    "name": "Tobias Tröps",
+    "company": "Selfnet e.V.",
+    "irc": null,
+    "asn": null
   }
 ]
