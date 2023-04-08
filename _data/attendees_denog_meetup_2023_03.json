@@ -30,6 +30,12 @@
     "asn": "5405"
   },
   {
+    "name": "Daniel Nägele",
+    "company": "Selfnet e.V.",
+    "irc": "debugloop",
+    "asn": null
+  },
+  {
     "name": "Harald Singer",
     "company": "TeleData GmbH",
     "irc": null,
