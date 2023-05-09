@@ -6,6 +6,18 @@
     "asn": "3320"
   },
   {
+    "name": "Frank Kraemer",
+    "company": "EPS Global",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Lukas Gerhold",
+    "company": "EXARING AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Magnus Frühling",
     "company": "Freie Netze Südhessen e.V.",
     "irc": "skorpy",
@@ -22,6 +34,12 @@
     "company": "DENOG",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Tobias Krischer",
+    "company": "Exaring AG",
+    "irc": "tobikris",
+    "asn": "51324"
   },
   {
     "name": "Tom Herbers",
