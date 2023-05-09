@@ -1,8 +1,20 @@
 [
   {
+    "name": "Magnus Frühling",
+    "company": "Freie Netze Südhessen e.V.",
+    "irc": "skorpy",
+    "asn": "64475"
+  },
+  {
     "name": "Tim Kleefass",
     "company": "DENOG",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tom Herbers",
+    "company": "Freie Netze Südhessen e.V.",
+    "irc": "tomh",
     "asn": null
   }
 ]
