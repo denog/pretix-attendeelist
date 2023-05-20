@@ -1,5 +1,11 @@
 [
   {
+    "name": "Adrian Nöthlich",
+    "company": "VZFFNRMO e.V.",
+    "irc": "promasu",
+    "asn": "202329"
+  },
+  {
     "name": "Andreas Sturm",
     "company": "DE-CIX",
     "irc": null,
@@ -88,6 +94,12 @@
     "company": "Cloudflare",
     "irc": "takt",
     "asn": "13335"
+  },
+  {
+    "name": "Rose Jacobsen",
+    "company": null,
+    "irc": "avara",
+    "asn": "47368"
   },
   {
     "name": "Simon Terzenbach",
