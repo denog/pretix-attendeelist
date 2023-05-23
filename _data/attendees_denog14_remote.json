@@ -1,5 +1,11 @@
 [
   {
+    "name": "Moritz Kaspar Rudert",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Ahmed Moshref Aboutaleb",
     "company": "Ciena",
     "irc": null,
@@ -943,12 +949,6 @@
   },
   {
     "name": "Mischa Diehm",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Moritz Kaspar Rudert",
     "company": null,
     "irc": null,
     "asn": null
