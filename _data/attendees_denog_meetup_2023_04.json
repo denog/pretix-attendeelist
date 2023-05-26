@@ -30,6 +30,12 @@
     "asn": null
   },
   {
+    "name": "Christian Scheele",
+    "company": "embeDD GmbH",
+    "irc": null,
+    "asn": "201155"
+  },
+  {
     "name": "Christoph Grössl",
     "company": "RETN GmbH",
     "irc": null,
@@ -94,6 +100,12 @@
     "company": "Cloudflare",
     "irc": "takt",
     "asn": "13335"
+  },
+  {
+    "name": "Peter Wehrle",
+    "company": "TelemaxX",
+    "irc": null,
+    "asn": "12843"
   },
   {
     "name": "Rose Jacobsen",
