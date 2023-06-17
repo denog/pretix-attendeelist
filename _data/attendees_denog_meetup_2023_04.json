@@ -1,11 +1,5 @@
 [
   {
-    "name": "Adrian Nöthlich",
-    "company": "VZFFNRMO e.V.",
-    "irc": "promasu",
-    "asn": "202329"
-  },
-  {
     "name": "Alex Peltzer",
     "company": "Freie Netze Südhessen e.V.",
     "irc": null,
@@ -142,12 +136,6 @@
     "company": "TelemaxX",
     "irc": null,
     "asn": "12843"
-  },
-  {
-    "name": "Rose Jacobsen",
-    "company": null,
-    "irc": "avara",
-    "asn": "47368"
   },
   {
     "name": "Sejal Bhesania",
