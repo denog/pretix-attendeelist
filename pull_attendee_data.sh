@@ -18,29 +18,30 @@ api_token="$PRETIX_API_TOKEN"
 checkin_list="$PRETIX_CHECKIN_LIST_ID"
 instance="pretix.eu"
 organizer="denog"
-event="denogmeetup23-04"
+event="denogmeetup23-05"
+output="attendees_denog_meetup_2023_05.json"
 url="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list/positions/"
 
 tempfile="response.temp"
 datafile="attendees.full"
 
-rm $datafile
+rm "$datafile"
 
-echo $url
+echo "$url"
 
 while [[ $url != "null" ]]; do
     curl -H "Authorization: Token ${api_token}" "${url}" > ${tempfile}
     url=$(jq -r .next ${tempfile})
-    jq . ${tempfile} >> $datafile
+    jq . "$tempfile" >> "$datafile"
 done
 
-rm $tempfile
+rm "$tempfile"
 
 jq -s 'map(.results[]) | map({
     name: .attendee_name,
     company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
     irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
     asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
-})' "$datafile" > _data/attendees_denog_meetup_2023_04.json
+})' "$datafile" > "_data/$output"
 
-rm $datafile
+rm "$datafile"
