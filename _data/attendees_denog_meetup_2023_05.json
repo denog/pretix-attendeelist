@@ -30,6 +30,12 @@
     "asn": null
   },
   {
+    "name": "Kurt Kayser",
+    "company": "Kurt Kayser Konsultation",
+    "irc": "Peanuts",
+    "asn": "65535"
+  },
+  {
     "name": "Matthias Ordner",
     "company": "EXARING AG",
     "irc": "mordner",
