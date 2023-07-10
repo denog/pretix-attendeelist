@@ -64,7 +64,7 @@ document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() =
     </tr>
   </thead>
   <tbody>
-  {% assign sorted = site.data.attendees_denog15_remote | sort_natural: 'name' %}
+  {% assign sorted = site.data.attendees_denog15_online | sort_natural: 'name' %}
   {% for entry in sorted %}
     <tr>
       <td>{{ entry.name }}</td>
