@@ -17,8 +17,8 @@
 event="denog15"
 
 api_token="$PRETIX_API_TOKEN"
-checkin_list_onsite="$PRETIX_CHECKIN_LIST_ID_onsite"
-checkin_list_online="$PRETIX_CHECKIN_LIST_ID_online"
+checkin_list_onsite="$PRETIX_CHECKIN_LIST_ID_ONSITE"
+checkin_list_online="$PRETIX_CHECKIN_LIST_ID_ONLINE"
 
 instance="pretix.eu"
 organizer="denog"
