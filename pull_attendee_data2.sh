@@ -35,6 +35,7 @@ rm -f "$tempfile"
 rm -f "$datafile"
 
 # Attendees onsite
+echo "DEBUG: ${url_onsite}"
 while [[ $url_onsite != "null" ]]; do
     curl -H "Authorization: Token ${api_token}" "${url_onsite}" > ${tempfile}
     url_onsite=$(jq -r .next ${tempfile})
@@ -51,11 +52,12 @@ jq -s 'map(.results[]) | map({
 rm -f "$datafile"
 
 # Attendees online
-while [[ $url_online != "null" ]]; do                                           
+echo "DEBUG: ${url_online}"
+while [[ $url_online != "null" ]]; do
     curl -H "Authorization: Token ${api_token}" "${url_online}" > ${tempfile}
     url_online=$(jq -r .next ${tempfile})                                              
     jq . ${tempfile} >> $datafile                                               
-done                                                                            
+done
 rm -f "$tempfile"
     
 jq -s 'map(.results[]) | map({
