@@ -60,6 +60,12 @@
     "asn": "65535"
   },
   {
+    "name": "Markus Berthold",
+    "company": "ADESTIS",
+    "irc": null,
+    "asn": "204053"
+  },
+  {
     "name": "Matthias Ordner",
     "company": "EXARING AG",
     "irc": "mordner",
