@@ -14,36 +14,55 @@
 # - instance, organizer and event identify your pretix event
 ####
 
+event="denog15"
+
 api_token="$PRETIX_API_TOKEN"
-checkin_list="$PRETIX_CHECKIN_LIST_ID2"
+checkin_list_onsite="$PRETIX_CHECKIN_LIST_ID_onsite"
+checkin_list_online="$PRETIX_CHECKIN_LIST_ID_online"
+
 instance="pretix.eu"
 organizer="denog"
-event="denog15"
-url="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list/positions/"
+output_onsite="attendees_${event}_onsite.json"
+output_online="attendees_${event}_online.json"
+
+url_onsite="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list_onsite/positions/"
+url_online="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list_online/positions/"
 
 tempfile="response.temp"
 datafile="attendees.full"
 
-rm $datafile
+rm -f "$tempfile"
+rm -f "$datafile"
 
-echo $url
-
-while [[ $url != "null" ]]; do
-    curl -H "Authorization: Token ${api_token}" "${url}" > ${tempfile}
-    url=$(jq -r .next ${tempfile})
-    echo "------"
-    echo $url
-    echo "------"
+# Attendees onsite
+while [[ $url_onsite != "null" ]]; do
+    curl -H "Authorization: Token ${api_token}" "${url_onsite}" > ${tempfile}
+    url_onsite=$(jq -r .next ${tempfile})
     jq . ${tempfile} >> $datafile
 done
-
-rm $tempfile
+rm -f "$tempfile"
 
 jq -s 'map(.results[]) | map({
     name: .attendee_name,
     company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
     irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
     asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
-})' "$datafile" > _data/attendees_denog15_onsite.json
+})' "$datafile" > "_data/$output_onsite"
+rm -f "$datafile"
 
-rm $datafile
+# Attendees online
+while [[ $url_online != "null" ]]; do                                           
+    curl -H "Authorization: Token ${api_token}" "${url_online}" > ${tempfile}
+    url_online=$(jq -r .next ${tempfile})                                              
+    jq . ${tempfile} >> $datafile                                               
+done                                                                            
+rm -f "$tempfile"
+    
+jq -s 'map(.results[]) | map({
+    name: .attendee_name,                                                       
+    company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null), 
+    irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),     
+    asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),     
+})' "$datafile" > "_data/$output_online"                                        
+rm -f "$datafile"
+
