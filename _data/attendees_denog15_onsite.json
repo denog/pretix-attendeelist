@@ -1,5 +1,17 @@
 [
   {
+    "name": "Christopher Dziomba",
+    "company": "Deutsche Telekom AG",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
+    "name": "Dirk Dreikandt",
+    "company": "EWE TEL GmbH",
+    "irc": null,
+    "asn": "9145"
+  },
+  {
     "name": "Dominik Bay",
     "company": "rrbone",
     "irc": "eimann",
@@ -48,6 +60,12 @@
     "asn": null
   },
   {
+    "name": "Oliver Graf",
+    "company": "KEVAG Telekom GmbH",
+    "irc": null,
+    "asn": "12360"
+  },
+  {
     "name": "Patrick Bussmann",
     "company": "DENOG e.V. // Akamai Technologies",
     "irc": "PBU",
@@ -70,6 +88,12 @@
     "company": "Babiel GmbH",
     "irc": "_Craig_",
     "asn": "198913"
+  },
+  {
+    "name": "Stefan Schmidt",
+    "company": "Wavecon GmbH",
+    "irc": "ZaphodB",
+    "asn": "60955"
   },
   {
     "name": "Stephan Jäkel",

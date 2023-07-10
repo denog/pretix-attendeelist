@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Arne Bäumler",
+    "company": null,
+    "irc": "br0tkasten",
+    "asn": "12611"
+  },
+  {
+    "name": "Luca Lutz",
+    "company": "Luca Lutz Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Maximilian Schieder",
+    "company": null,
+    "irc": null,
+    "asn": "208893"
+  },
+  {
+    "name": "Patrick Müller",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Peter Hurtenbach",
+    "company": null,
+    "irc": null,
+    "asn": "211671"
+  },
+  {
+    "name": "Thomas Albersdörfer",
+    "company": null,
+    "irc": null,
+    "asn": "12611"
+  }
+]
