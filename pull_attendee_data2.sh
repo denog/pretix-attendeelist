@@ -18,7 +18,7 @@ api_token="$PRETIX_API_TOKEN"
 checkin_list="$PRETIX_CHECKIN_LIST_ID2"
 instance="pretix.eu"
 organizer="denog"
-event="denog14"
+event="denog15"
 url="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list/positions/"
 
 tempfile="response.temp"
@@ -44,6 +44,6 @@ jq -s 'map(.results[]) | map({
     company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
     irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
     asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
-})' "$datafile" > _data/attendees_denog14_remote.json
+})' "$datafile" > _data/attendees_denog15_remote.json
 
 rm $datafile
