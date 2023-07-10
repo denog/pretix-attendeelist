@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Dominik Bay",
+    "company": "rrbone",
+    "irc": "eimann",
+    "asn": "39138"
+  },
+  {
+    "name": "Jan Gilla",
+    "company": "level66.network",
+    "irc": "netaviator",
+    "asn": "56381"
+  },
+  {
+    "name": "Janik Haag",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Lara Hallaczek",
+    "company": "Robert Bosch GmbH",
+    "irc": "Error",
+    "asn": null
+  },
+  {
+    "name": "Luca Appel",
+    "company": "rrbone",
+    "irc": "luca",
+    "asn": "39138"
+  },
+  {
+    "name": "Marco Firsching",
+    "company": "Rechenzentrum Haßfurt",
+    "irc": null,
+    "asn": "44971"
+  },
+  {
+    "name": "Michael Hayler",
+    "company": null,
+    "irc": "raider",
+    "asn": null
+  },
+  {
+    "name": "Patrick Bussmann",
+    "company": "DENOG e.V. // Akamai Technologies",
+    "irc": "PBU",
+    "asn": "20940.63949"
+  },
+  {
+    "name": "Peter Hansen",
+    "company": "myLoc managed IT AG",
+    "irc": null,
+    "asn": "24961"
+  },
+  {
+    "name": "Siyuan Miao",
+    "company": null,
+    "irc": null,
+    "asn": "917"
+  },
+  {
+    "name": "Stefan Behte",
+    "company": "Babiel GmbH",
+    "irc": "_Craig_",
+    "asn": "198913"
+  },
+  {
+    "name": "Stephan Jäkel",
+    "company": "rrbone",
+    "irc": "stephrdev",
+    "asn": "39138"
+  },
+  {
+    "name": "Torsten Sommer",
+    "company": "rrbone",
+    "irc": "toso",
+    "asn": "39138"
+  }
+]
