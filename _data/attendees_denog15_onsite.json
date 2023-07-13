@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Arnold Nipper",
+    "company": "DE-CIX",
+    "irc": "clone42",
+    "asn": "6695"
+  },
+  {
     "name": "Björn Dobe",
     "company": "Freifunk Hamburg",
     "irc": null,
