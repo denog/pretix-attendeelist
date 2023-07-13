@@ -48,6 +48,12 @@
     "asn": "50324"
   },
   {
+    "name": "HEINER Aldag",
+    "company": "Arista Networks GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jan Gilla",
     "company": "level66.network",
     "irc": "netaviator",
