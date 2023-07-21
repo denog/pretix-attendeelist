@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Alexander Beck",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
+    "name": "Alexander Konviser",
+    "company": "ANETSIS Net AG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Andreas Goetz",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
+    "name": "Barbara Szöke",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
+    "name": "Birk Schröder",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
+    "name": "Daniel Konrad",
+    "company": "DT Technik GmbH / derBit.de",
+    "irc": "dakonr",
+    "asn": null
+  },
+  {
+    "name": "Enis Yorulmaz",
+    "company": "IP Infusion",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Florian Hibler",
+    "company": "Arista Networks / DENOG e.V.",
+    "irc": "florian",
+    "asn": "55064"
+  },
+  {
+    "name": "Janik Haag",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Klaus Thielking-Riechert",
+    "company": "noris network AG",
+    "irc": "ktr22",
+    "asn": "12337"
+  },
+  {
+    "name": "Kurt Kayser",
+    "company": "Kurt Kayser Konsultation",
+    "irc": "Peanuts",
+    "asn": "65535"
+  },
+  {
+    "name": "Markus Berthold",
+    "company": "ADESTIS",
+    "irc": null,
+    "asn": "204053"
+  },
+  {
+    "name": "Matthias Ordner",
+    "company": "EXARING AG",
+    "irc": "mordner",
+    "asn": "51324"
+  },
+  {
+    "name": "Raphael Rosenberg",
+    "company": "Proact",
+    "irc": "clockwork",
+    "asn": "33988"
+  },
+  {
+    "name": "Sebastian Abt",
+    "company": "Clue24 GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Steffen Zimmermann",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "DENOG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tobias Frenz",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
+    "name": "Waschdy Kandy",
+    "company": "noris network AG",
+    "irc": null,
+    "asn": "12337"
+  }
+]
