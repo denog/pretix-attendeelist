@@ -72,8 +72,14 @@
     "asn": "9136"
   },
   {
-    "name": "HEINER Aldag",
-    "company": "Arista Networks GmbH",
+    "name": "Florian Hibler",
+    "company": "Arista Networks / DENOG e.V.",
+    "irc": "florian",
+    "asn": "55064"
+  },
+  {
+    "name": "Heiner Aldag",
+    "company": "Arista Networks",
     "irc": null,
     "asn": null
   },
