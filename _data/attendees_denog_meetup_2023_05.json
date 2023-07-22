@@ -36,6 +36,12 @@
     "asn": null
   },
   {
+    "name": "Dennis Diehm",
+    "company": "Hetzner online",
+    "irc": null,
+    "asn": "24940"
+  },
+  {
     "name": "Enis Yorulmaz",
     "company": "IP Infusion",
     "irc": null,
@@ -70,6 +76,12 @@
     "company": "ADESTIS",
     "irc": null,
     "asn": "204053"
+  },
+  {
+    "name": "Martin Fritzsche",
+    "company": "Hetzner Online",
+    "irc": null,
+    "asn": "24940"
   },
   {
     "name": "Matthias Ordner",
