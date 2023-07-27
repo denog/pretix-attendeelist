@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Votteler",
+    "company": "RelAix Networks",
+    "irc": "v0tti",
+    "asn": "34953"
+  },
+  {
     "name": "Antonius Frie",
     "company": null,
     "irc": null,
@@ -232,6 +238,12 @@
     "company": "Freifunk Hamburg",
     "irc": null,
     "asn": "49009"
+  },
+  {
+    "name": "Nikolaos Kourgiantakis",
+    "company": "RelAix Networks",
+    "irc": null,
+    "asn": "34954"
   },
   {
     "name": "Nils Beyrle",
