@@ -340,5 +340,11 @@
     "company": "rrbone",
     "irc": "toso",
     "asn": "39138"
+  },
+  {
+    "name": "Ute Wolf",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": "20647"
   }
 ]
