@@ -192,6 +192,12 @@
     "asn": "56381"
   },
   {
+    "name": "Maarten Gaarthuis",
+    "company": "Alturna Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marco Firsching",
     "company": "Rechenzentrum Haßfurt GmbH",
     "irc": null,
@@ -356,6 +362,12 @@
   {
     "name": "Tim Kleefass",
     "company": "DENOG e.V.",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Torsten Peuckert",
+    "company": "Alturna Networks",
     "irc": null,
     "asn": null
   },
