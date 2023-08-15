@@ -144,6 +144,12 @@
     "asn": "55064"
   },
   {
+    "name": "Hans-Christoph Deeken",
+    "company": "NFON AG",
+    "irc": "Glenlivet",
+    "asn": "8878"
+  },
+  {
     "name": "Heiner Aldag",
     "company": "Arista Networks",
     "irc": null,
@@ -334,6 +340,12 @@
     "company": "DENOG e.V. // Akamai Technologies",
     "irc": "PBU",
     "asn": "20940.63949"
+  },
+  {
+    "name": "Patrick Hurrelmann",
+    "company": "NFON AG",
+    "irc": null,
+    "asn": "8878"
   },
   {
     "name": "Peter Davies",
