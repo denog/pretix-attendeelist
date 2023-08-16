@@ -294,6 +294,12 @@
     "asn": null
   },
   {
+    "name": "Michael Meyer",
+    "company": "Globalways GmbH",
+    "irc": "mme",
+    "asn": "48918"
+  },
+  {
     "name": "Michael Prinzinger",
     "company": "Port Zero",
     "irc": null,
@@ -370,6 +376,12 @@
     "company": "Ruhr-Universität Bochum",
     "irc": "schrorg",
     "asn": "29484"
+  },
+  {
+    "name": "Sascha Heinemann",
+    "company": "Globalways GmbH",
+    "irc": null,
+    "asn": "48918"
   },
   {
     "name": "Sebastian Becker",
