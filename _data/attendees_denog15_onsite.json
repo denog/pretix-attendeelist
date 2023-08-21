@@ -426,6 +426,12 @@
     "asn": "24961"
   },
   {
+    "name": "Peter Sievers",
+    "company": "Juniper Networks",
+    "irc": "PSI",
+    "asn": null
+  },
+  {
     "name": "Robert Remenyi",
     "company": "htp GmbH",
     "irc": "robrem",
