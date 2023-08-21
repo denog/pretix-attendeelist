@@ -252,10 +252,22 @@
     "asn": "39138"
   },
   {
+    "name": "Luca Vornheder",
+    "company": "primeLine Systemhaus GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Luiz Amaral",
     "company": "InnoGames",
     "irc": null,
     "asn": "208058"
+  },
+  {
+    "name": "Lukas Hackel",
+    "company": "partimus GmbH",
+    "irc": null,
+    "asn": "204704"
   },
   {
     "name": "Lukas Michaels",
@@ -274,6 +286,12 @@
     "company": "Rechenzentrum Haßfurt GmbH",
     "irc": null,
     "asn": "44973"
+  },
+  {
+    "name": "Marius Höhn",
+    "company": "partimus GmbH",
+    "irc": null,
+    "asn": "204704"
   },
   {
     "name": "Markus Berthold",
