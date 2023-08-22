@@ -30,6 +30,12 @@
     "asn": "15380"
   },
   {
+    "name": "André Niemann",
+    "company": null,
+    "irc": "strohalm",
+    "asn": null
+  },
+  {
     "name": "Annika Wickert",
     "company": "Github Inc. / DENOG / Freifunk München",
     "irc": "awlnx",
