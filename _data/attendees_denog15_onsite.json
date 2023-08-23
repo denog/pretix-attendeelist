@@ -306,6 +306,12 @@
     "asn": "44973"
   },
   {
+    "name": "Marius Hellmann",
+    "company": "Kluteq OHG | Freifunk Münsterland",
+    "irc": null,
+    "asn": "209894"
+  },
+  {
     "name": "Marius Höhn",
     "company": "partimus GmbH",
     "irc": null,
@@ -340,6 +346,12 @@
     "company": "HeLi NET Telekommunikation",
     "irc": null,
     "asn": "12355"
+  },
+  {
+    "name": "Matthias Walther",
+    "company": "Kluteq OHG | Freifunk Münsterland",
+    "irc": null,
+    "asn": "209894"
   },
   {
     "name": "Maximilian Krohn",
@@ -484,6 +496,12 @@
     "company": "Deutsche Telekom AG / DENOG e.V.",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Sebastian Danek",
+    "company": "Kluteq OHG | Freifunk Münsterland",
+    "irc": null,
+    "asn": "209894"
   },
   {
     "name": "Simo Radenovic",
