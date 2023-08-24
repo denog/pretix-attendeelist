@@ -180,6 +180,12 @@
     "asn": null
   },
   {
+    "name": "Jan Dirnberger",
+    "company": "noris network AG",
+    "irc": "solis",
+    "asn": "12337"
+  },
+  {
     "name": "Jan Gilla",
     "company": "level66.network",
     "irc": "netaviator",
@@ -514,6 +520,12 @@
     "company": "Kluteq OHG | Freifunk Münsterland",
     "irc": null,
     "asn": "209894"
+  },
+  {
+    "name": "Sebastian Wiesinger",
+    "company": "noris network AG",
+    "irc": "GPF",
+    "asn": "12337"
   },
   {
     "name": "Simo Radenovic",
