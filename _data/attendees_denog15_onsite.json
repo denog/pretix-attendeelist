@@ -658,5 +658,11 @@
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
     "asn": "20647"
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "Wolfgang Tremmel",
+    "irc": "Garf",
+    "asn": "196610"
   }
 ]
