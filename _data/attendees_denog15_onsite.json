@@ -630,6 +630,12 @@
     "asn": null
   },
   {
+    "name": "Sven Schade",
+    "company": "TNG Stadtnetz GmbH",
+    "irc": "svens",
+    "asn": "13101"
+  },
+  {
     "name": "Theo Voss",
     "company": null,
     "irc": "tvberlin",
