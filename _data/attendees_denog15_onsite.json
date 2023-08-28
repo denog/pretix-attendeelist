@@ -114,6 +114,12 @@
     "asn": "50030"
   },
   {
+    "name": "Christian Theune",
+    "company": "Flying Circus Internet Operations GmbH",
+    "irc": "theuni",
+    "asn": null
+  },
+  {
     "name": "Christoph Badura",
     "company": null,
     "irc": "baduck",
