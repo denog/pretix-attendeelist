@@ -144,6 +144,12 @@
     "asn": "3320"
   },
   {
+    "name": "Christopher Hirschmann",
+    "company": "InterNetworX",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Grössl",
     "company": "RETN GmbH",
     "irc": null,
@@ -204,6 +210,12 @@
     "asn": "50324"
   },
   {
+    "name": "Felix Menge",
+    "company": "InterNetworX",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fiona Weber",
     "company": "Wobcom / WDZ / DENOG",
     "irc": "vidister",
@@ -214,6 +226,12 @@
     "company": "Arista Networks / DENOG e.V.",
     "irc": "florian",
     "asn": "55064"
+  },
+  {
+    "name": "Frank Hebold",
+    "company": "InterNetworX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Franziska Kunsmann",
