@@ -354,6 +354,12 @@
     "asn": "39138"
   },
   {
+    "name": "Luca Klier",
+    "company": "Mann+Hummel GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Luca Vornheder",
     "company": "primeLine Systemhaus GmbH",
     "irc": null,
@@ -592,6 +598,12 @@
     "company": "PHILUNET GmbH / Freifunk",
     "irc": "pberndro",
     "asn": "205112"
+  },
+  {
+    "name": "Philip Deutscher",
+    "company": "Mann + Hummel GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Robert Remenyi",
