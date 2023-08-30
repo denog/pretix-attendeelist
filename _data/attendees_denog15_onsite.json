@@ -252,6 +252,12 @@
     "asn": null
   },
   {
+    "name": "Henry Schaefer",
+    "company": "Verizon",
+    "irc": "hs",
+    "asn": "702"
+  },
+  {
     "name": "Jacek Topolski",
     "company": "Netflix",
     "irc": null,
