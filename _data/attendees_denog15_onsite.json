@@ -108,6 +108,12 @@
     "asn": null
   },
   {
+    "name": "Carsten Schiefner",
+    "company": "All Things Internet. And Internet of Things.",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Charles Brown",
     "company": "Akamai Technologies",
     "irc": null,
@@ -466,6 +472,12 @@
     "company": "partimus GmbH",
     "irc": null,
     "asn": "204704"
+  },
+  {
+    "name": "Lukas Liebig",
+    "company": "IKS Service GmbH",
+    "irc": null,
+    "asn": "15725"
   },
   {
     "name": "Lukas Michaels",
