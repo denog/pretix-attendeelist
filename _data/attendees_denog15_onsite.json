@@ -12,6 +12,12 @@
     "asn": "34878"
   },
   {
+    "name": "Alexander Kiontke",
+    "company": "Technische Universität Dresden",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Lobodzinski",
     "company": "Deutsche Telekom AG",
     "irc": null,
@@ -244,6 +250,12 @@
     "company": null,
     "irc": "kunsi",
     "asn": null
+  },
+  {
+    "name": "Gerrit Mester",
+    "company": "NFON AG",
+    "irc": null,
+    "asn": "8878"
   },
   {
     "name": "Hans-Christoph Deeken",
