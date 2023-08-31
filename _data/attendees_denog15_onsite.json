@@ -36,6 +36,12 @@
     "asn": "15380"
   },
   {
+    "name": "Andreas John",
+    "company": "net-lab GmbH",
+    "irc": "derjohn",
+    "asn": "20755"
+  },
+  {
     "name": "Andreas Kimpfler",
     "company": "Kimpfler IT+TK Beratung",
     "irc": "Tiberian",
@@ -574,6 +580,12 @@
     "company": "Deutsche Telekom",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Martin Sofaru",
+    "company": null,
+    "irc": "nitram",
+    "asn": null
   },
   {
     "name": "Marvin Gaube",
