@@ -558,6 +558,12 @@
     "asn": "24940"
   },
   {
+    "name": "Mario Marinelli",
+    "company": "questnet GmbH",
+    "irc": null,
+    "asn": "202566"
+  },
+  {
     "name": "Marius Hellmann",
     "company": "Kluteq OHG | Freifunk Münsterland",
     "irc": null,
@@ -804,6 +810,12 @@
     "asn": null
   },
   {
+    "name": "René Kockisch",
+    "company": "questnet GmbH",
+    "irc": null,
+    "asn": "202566"
+  },
+  {
     "name": "Robert Remenyi",
     "company": "htp GmbH",
     "irc": "robrem",
@@ -832,6 +844,12 @@
     "company": "Deutsche Telekom AG / DENOG e.V.",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Sebastian Bülth",
+    "company": "questnet GmbH",
+    "irc": null,
+    "asn": "202566"
   },
   {
     "name": "Sebastian Danek",
@@ -940,6 +958,12 @@
     "company": "CANCOM Managed Services GmbH",
     "irc": "SE",
     "asn": "8469"
+  },
+  {
+    "name": "Sven Prötel",
+    "company": "questnet GmbH",
+    "irc": null,
+    "asn": "202566"
   },
   {
     "name": "Sven Schade",
