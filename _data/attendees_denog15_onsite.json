@@ -432,6 +432,12 @@
     "asn": "0"
   },
   {
+    "name": "Leon Kramer",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
+  },
+  {
     "name": "Leon Weber",
     "company": "Vattenfall Eurofiber GmbH",
     "irc": "leon",
@@ -574,6 +580,12 @@
     "company": "Exaring AG",
     "irc": null,
     "asn": "51324"
+  },
+  {
+    "name": "Marvin Haerdtlein",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
   },
   {
     "name": "Matthias Kluth",
@@ -768,6 +780,12 @@
     "asn": "29484"
   },
   {
+    "name": "Ruben Garbade",
+    "company": "IFOG GMBH",
+    "irc": null,
+    "asn": "34927"
+  },
+  {
     "name": "Sascha Heinemann",
     "company": "Globalways GmbH",
     "irc": null,
@@ -784,6 +802,12 @@
     "company": "Kluteq OHG | Freifunk Münsterland",
     "irc": null,
     "asn": "209894"
+  },
+  {
+    "name": "Sebastian Gerner",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
   },
   {
     "name": "Sebastian Kulich",
