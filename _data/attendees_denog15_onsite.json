@@ -48,6 +48,12 @@
     "asn": "15380"
   },
   {
+    "name": "Andreas Worbs",
+    "company": "Artfiles GmbH",
+    "irc": "laxxie",
+    "asn": "8893"
+  },
+  {
     "name": "André Niemann",
     "company": null,
     "irc": "strohalm",
@@ -472,6 +478,12 @@
     "company": "Alturna Networks",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Magnus Frühling",
+    "company": "Freifunk Frankfurt am Main e.V.",
+    "irc": "skorpy",
+    "asn": "64475"
   },
   {
     "name": "Maik Schwamberger",
