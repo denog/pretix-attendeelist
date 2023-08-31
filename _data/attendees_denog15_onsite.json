@@ -132,6 +132,12 @@
     "asn": "36459"
   },
   {
+    "name": "Charlotte Rupp",
+    "company": "Hornbach",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Chris Bridle",
     "company": "ASK4",
     "irc": null,
@@ -624,6 +630,12 @@
     "asn": null
   },
   {
+    "name": "Maximilian Rink",
+    "company": "DT Technik",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maximilian Sesterhenn",
     "company": "EPX Ehrhardt + Partner Xtended GmbH",
     "irc": null,
@@ -820,6 +832,12 @@
     "company": "firstcolo",
     "irc": null,
     "asn": "44066"
+  },
+  {
+    "name": "Sebastian Heidrich",
+    "company": "IBM Research GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Kulich",
