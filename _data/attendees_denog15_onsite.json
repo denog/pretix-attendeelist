@@ -114,6 +114,12 @@
     "asn": "36459"
   },
   {
+    "name": "Chris Bridle",
+    "company": "ASK4",
+    "irc": null,
+    "asn": "41230"
+  },
+  {
     "name": "Christian Baumann",
     "company": "TNG Stadtnetz GmbH",
     "irc": null,
@@ -172,6 +178,12 @@
     "company": "Deutsche Telekom AG",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "David Croft",
+    "company": "ASK4",
+    "irc": "davidc",
+    "asn": "41230"
   },
   {
     "name": "David Döpelheuer",
@@ -292,6 +304,12 @@
     "company": "Verizon",
     "irc": "hs",
     "asn": "702"
+  },
+  {
+    "name": "Istvan Ruzman",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Jacek Topolski",
@@ -532,6 +550,12 @@
     "company": "wilhelm.tel GmbH",
     "irc": null,
     "asn": "15943"
+  },
+  {
+    "name": "Maximilian Müller",
+    "company": "DFN-Verein",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Wilhelm",
