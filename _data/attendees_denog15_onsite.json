@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Beck",
+    "company": "Core-Backbone GmbH",
+    "irc": "Alex",
+    "asn": "33891"
+  },
+  {
     "name": "Alexander Fabian",
     "company": "Karlsruhe Institute of Technology (KIT)",
     "irc": "@ao2437:kit.edu",
@@ -46,6 +52,12 @@
     "company": "Equinix",
     "irc": null,
     "asn": "15380"
+  },
+  {
+    "name": "Andreas Götz",
+    "company": "Core-Backbone GmbH",
+    "irc": "Andy",
+    "asn": "33891"
   },
   {
     "name": "Andreas John",
@@ -112,6 +124,12 @@
     "company": "Hostserver GmbH",
     "irc": null,
     "asn": "29140"
+  },
+  {
+    "name": "Barbara Szöke",
+    "company": "Core-Backbone GmbH",
+    "irc": "Babsi",
+    "asn": "33891"
   },
   {
     "name": "Benedikt Merkl",
@@ -1144,6 +1162,12 @@
     "company": "Kuehne + Nagel",
     "irc": "ulf",
     "asn": "211656"
+  },
+  {
+    "name": "Ulrich Köhler",
+    "company": "Core-Backbone GmbH",
+    "irc": "Ulli",
+    "asn": "33891"
   },
   {
     "name": "Ute Wolf",
