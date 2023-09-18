@@ -390,6 +390,12 @@
     "asn": "1299"
   },
   {
+    "name": "Harald Singer",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
+  },
+  {
     "name": "Heiner Aldag",
     "company": "Arista Networks",
     "irc": null,
@@ -499,7 +505,7 @@
   },
   {
     "name": "Julian von Paris",
-    "company": "TNG",
+    "company": "TNG Stadtnetz GmbH",
     "irc": null,
     "asn": "13101"
   },
