@@ -90,6 +90,12 @@
     "asn": null
   },
   {
+    "name": "Andy Schaper",
+    "company": "WOBCOM GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Annika Wickert",
     "company": "Github Inc. / DENOG / Freifunk München",
     "irc": "awlnx",
@@ -196,6 +202,12 @@
     "company": "TNG Stadtnetz GmbH",
     "irc": null,
     "asn": "13101"
+  },
+  {
+    "name": "Christian Dieckhoff",
+    "company": "WDZ GmbH",
+    "irc": "chrisd",
+    "asn": "9136"
   },
   {
     "name": "Christian Frömmel",
@@ -310,6 +322,12 @@
     "company": null,
     "irc": "prophet60091",
     "asn": "50324"
+  },
+  {
+    "name": "Ember Keske",
+    "company": "WDZ GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Erik Kooistra",
@@ -546,6 +564,12 @@
     "asn": null
   },
   {
+    "name": "Laura Kalb",
+    "company": "DATEV eG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Leo Kirchner",
     "company": "Network to Code",
     "irc": null,
@@ -592,6 +616,12 @@
     "company": "EXARING AG",
     "irc": "lukas-",
     "asn": "51324"
+  },
+  {
+    "name": "Lukas Grams",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Lukas Hackel",
@@ -1044,6 +1074,12 @@
     "asn": "12337"
   },
   {
+    "name": "Simon Terzenbach",
+    "company": "WOBCOM GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Simo Radenovic",
     "company": "Akamai",
     "irc": null,
@@ -1216,5 +1252,11 @@
     "company": "Wolfgang Tremmel",
     "irc": "Garf",
     "asn": "196610"
+  },
+  {
+    "name": "Yureka Lilian",
+    "company": "WDZ GmbH",
+    "irc": null,
+    "asn": null
   }
 ]
