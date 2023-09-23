@@ -672,6 +672,12 @@
     "asn": null
   },
   {
+    "name": "Marcel Koch",
+    "company": "DD-IX",
+    "irc": null,
+    "asn": "57328"
+  },
+  {
     "name": "Marc Haber",
     "company": "incluesion",
     "irc": "Zugschlus",
@@ -838,6 +844,12 @@
     "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Melody Sofia Eroshevich",
+    "company": "DD-IX",
+    "irc": null,
+    "asn": "57328"
   },
   {
     "name": "Michael Fischer",
@@ -1168,6 +1180,12 @@
     "company": "TNG Stadtnetz GmbH",
     "irc": "svens",
     "asn": "13101"
+  },
+  {
+    "name": "Tassilo Tanneberger",
+    "company": "DD-IX",
+    "irc": null,
+    "asn": "57328"
   },
   {
     "name": "Theo Voss",
