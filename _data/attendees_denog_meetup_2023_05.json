@@ -90,10 +90,10 @@
     "asn": "65535"
   },
   {
-    "name": "Magnus Frühling",
-    "company": "Freifunk Frankfurt am Main e.V.",
-    "irc": "skorpy",
-    "asn": "64475"
+    "name": "Lorenz Kästle",
+    "company": "Netwas Professional Services",
+    "irc": "rincewind",
+    "asn": null
   },
   {
     "name": "Malte Rosenberger",
