@@ -108,12 +108,6 @@
     "asn": null
   },
   {
-    "name": "ARISTA Gerbig",
-    "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Arnold Nipper",
     "company": "DE-CIX",
     "irc": "clone42",
@@ -956,6 +950,12 @@
   {
     "name": "Peter Davies",
     "company": "ISC",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Peter Gerbig",
+    "company": "Arista Networks",
     "irc": null,
     "asn": null
   },
