@@ -438,6 +438,12 @@
     "asn": "702"
   },
   {
+    "name": "Holger Metschulat",
+    "company": "Deutsche Telekom",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
     "name": "Istvan Ruzman",
     "company": null,
     "irc": null,
@@ -490,6 +496,12 @@
     "company": "FeM e.V.",
     "irc": "netali",
     "asn": "202729"
+  },
+  {
+    "name": "Jens Jetzork",
+    "company": "Deutsche Telekom AG",
+    "irc": null,
+    "asn": "3320"
   },
   {
     "name": "Jens Link",
@@ -1270,6 +1282,12 @@
     "company": "Core-Backbone GmbH",
     "irc": "Ulli",
     "asn": "33891"
+  },
+  {
+    "name": "Ulrich Plate",
+    "company": "nGENn GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ute Wolf",
