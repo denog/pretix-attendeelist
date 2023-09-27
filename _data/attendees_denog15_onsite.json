@@ -570,6 +570,12 @@
     "asn": "211752"
   },
   {
+    "name": "Kai Kriegel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "keyvan ghadimi",
     "company": "NFON AG",
     "irc": null,
@@ -730,6 +736,12 @@
     "company": "Rechenzentrum Haßfurt GmbH",
     "irc": null,
     "asn": "44973"
+  },
+  {
+    "name": "Marco Herrmann",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Marc Peters",
@@ -1150,6 +1162,12 @@
     "company": "noris network AG",
     "irc": "GPF",
     "asn": "12337"
+  },
+  {
+    "name": "Simon Marquardt",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Simon Terzenbach",
