@@ -624,6 +624,12 @@
     "asn": "211752"
   },
   {
+    "name": "Lian Duan",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Luca Appel",
     "company": "rrbone",
     "irc": "luca",
@@ -1180,12 +1186,6 @@
     "company": "Akamai",
     "irc": null,
     "asn": "20940"
-  },
-  {
-    "name": "Siyuan Miao",
-    "company": null,
-    "irc": null,
-    "asn": "917"
   },
   {
     "name": "Sören Busse",
