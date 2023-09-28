@@ -142,5 +142,11 @@
     "company": null,
     "irc": null,
     "asn": "39902"
+  },
+  {
+    "name": "Wulf-Burkhard Göhmann",
+    "company": "Freie Universität Berlin",
+    "irc": "wbg",
+    "asn": null
   }
 ]
