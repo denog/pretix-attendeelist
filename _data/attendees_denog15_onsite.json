@@ -114,6 +114,12 @@
     "asn": null
   },
   {
+    "name": "Armin Fisslthaler",
+    "company": "conova communication GmbH.",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Arnold Nipper",
     "company": "DE-CIX",
     "irc": "clone42",
@@ -1088,6 +1094,12 @@
   {
     "name": "Philipp Kern",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Philipp Krivanec",
+    "company": "conova communications GmbH",
     "irc": null,
     "asn": null
   },
