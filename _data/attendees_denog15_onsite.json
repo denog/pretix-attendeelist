@@ -306,6 +306,12 @@
     "asn": "8319"
   },
   {
+    "name": "Daniel Klug",
+    "company": "Frankfurt University of Applied Sciences",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Croft",
     "company": "ASK4",
     "irc": "davidc",
@@ -490,6 +496,12 @@
     "company": "Deutsche Telekom",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Ioannis Karamasiotis",
+    "company": "Frankfurt University of Applied Sciences",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Istvan Ruzman",
@@ -1236,6 +1248,12 @@
     "asn": "209894"
   },
   {
+    "name": "Sebastian Eimer",
+    "company": "Frankfurt University of Applied Sciences",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sebastian Gerner",
     "company": "firstcolo",
     "irc": null,
@@ -1492,6 +1510,12 @@
     "company": "noris network AG",
     "irc": null,
     "asn": "12337"
+  },
+  {
+    "name": "Wolfgang Kubisch",
+    "company": "Frankfurt University of Applied Sciences",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Wolfgang Tremmel",
