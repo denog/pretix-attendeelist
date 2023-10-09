@@ -408,6 +408,12 @@
     "asn": null
   },
   {
+    "name": "Florian Lenzen",
+    "company": "SVA GmbH",
+    "irc": "flotu",
+    "asn": "213162"
+  },
+  {
     "name": "Florian Schürfeld",
     "company": "trivago",
     "irc": null,
@@ -1090,6 +1096,12 @@
     "company": "KEVAG Telekom GmbH",
     "irc": null,
     "asn": "12360"
+  },
+  {
+    "name": "Patrick Bestek",
+    "company": "SVA GmbH",
+    "irc": "pabe",
+    "asn": "213162"
   },
   {
     "name": "Patrick Bussmann",
