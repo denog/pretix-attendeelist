@@ -6,6 +6,12 @@
     "asn": "1299"
   },
   {
+    "name": "Adora Laura Kalb",
+    "company": "DATEV eG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Adrian Bönde",
     "company": null,
     "irc": null,
@@ -106,6 +112,12 @@
     "company": "WOBCOM GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Anita Meyer",
+    "company": "Init7",
+    "irc": null,
+    "asn": "13030"
   },
   {
     "name": "Annika Wickert",
@@ -669,12 +681,6 @@
     "name": "Lara Hallaczek",
     "company": "Robert Bosch GmbH",
     "irc": "error",
-    "asn": null
-  },
-  {
-    "name": "Laura Kalb",
-    "company": "DATEV eG",
-    "irc": null,
     "asn": null
   },
   {
@@ -1432,6 +1438,12 @@
     "company": null,
     "irc": "tvberlin",
     "asn": "5405"
+  },
+  {
+    "name": "Thomas Fritz",
+    "company": "Init7",
+    "irc": null,
+    "asn": "13030"
   },
   {
     "name": "Thomas Jessen",
