@@ -1338,6 +1338,12 @@
     "asn": "211752"
   },
   {
+    "name": "Sebastian Schrader",
+    "company": "TU Dresden",
+    "irc": "shreyder",
+    "asn": null
+  },
+  {
     "name": "Sebastian Schubert",
     "company": "Grafana Labs",
     "irc": "bastischubert",
