@@ -1170,6 +1170,12 @@
     "asn": null
   },
   {
+    "name": "Peter György",
+    "company": "BENOCS GmbH",
+    "irc": null,
+    "asn": "209039"
+  },
+  {
     "name": "Peter Hansen",
     "company": "myLoc managed IT AG",
     "irc": null,
@@ -1330,6 +1336,12 @@
     "company": "Vattenfall Eurofiber",
     "irc": null,
     "asn": "211752"
+  },
+  {
+    "name": "Sebastian Schubert",
+    "company": "Grafana Labs",
+    "irc": "bastischubert",
+    "asn": "62392"
   },
   {
     "name": "Sebastian Wiesinger",
