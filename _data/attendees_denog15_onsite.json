@@ -144,12 +144,6 @@
     "asn": null
   },
   {
-    "name": "Arnold Nipper",
-    "company": "DE-CIX",
-    "irc": "clone42",
-    "asn": "6695"
-  },
-  {
     "name": "Arvid Picciani",
     "company": "Kraud.cloud",
     "irc": "aep",
@@ -1582,6 +1576,12 @@
     "company": "noris network AG",
     "irc": null,
     "asn": "12337"
+  },
+  {
+    "name": "Willi Meißner",
+    "company": "AG DSN",
+    "irc": "willimei",
+    "asn": null
   },
   {
     "name": "Wolfgang Kubisch",
