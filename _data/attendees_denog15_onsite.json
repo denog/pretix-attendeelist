@@ -312,6 +312,12 @@
     "asn": "9002"
   },
   {
+    "name": "Christoph Knörr",
+    "company": "komro GmbH",
+    "irc": null,
+    "asn": "29413"
+  },
+  {
     "name": "Claudia Uhlich",
     "company": "Deutsche Telekom AG",
     "irc": null,
@@ -1072,6 +1078,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Nicolas Korten",
+    "company": "komro GmbH",
+    "irc": null,
+    "asn": "29413"
   },
   {
     "name": "Nico Plich",
