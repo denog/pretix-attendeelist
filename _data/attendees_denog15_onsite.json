@@ -306,6 +306,12 @@
     "asn": null
   },
   {
+    "name": "Christopher Rössler",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
+  },
+  {
     "name": "Christoph Grössl",
     "company": "RETN GmbH",
     "irc": null,
@@ -1552,6 +1558,12 @@
     "company": "Xantaro",
     "irc": "izemaen",
     "asn": "203520"
+  },
+  {
+    "name": "Tobias Just",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
   },
   {
     "name": "Tobias Krischer",
