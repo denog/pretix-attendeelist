@@ -294,6 +294,12 @@
     "asn": null
   },
   {
+    "name": "Christoph Berkemeier",
+    "company": "DB Station&Service AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christopher Dziomba",
     "company": "Deutsche Telekom AG",
     "irc": null,
@@ -1011,6 +1017,12 @@
     "name": "Maximilian Wilhelm",
     "company": "SDN.clinic, Freifunk Hochstift, Freifunk Rheinland",
     "irc": "BarbarossaTM",
+    "asn": null
+  },
+  {
+    "name": "Maximilian Wilhelm",
+    "company": "SDN.clinic, Freifunk Hochstift",
+    "irc": "Barbarossa",
     "asn": null
   },
   {
