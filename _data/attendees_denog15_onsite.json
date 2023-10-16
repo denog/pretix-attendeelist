@@ -612,6 +612,12 @@
     "asn": "3320"
   },
   {
+    "name": "Jens Lietzmann",
+    "company": "BCIX Management GmbH",
+    "irc": null,
+    "asn": "16374"
+  },
+  {
     "name": "Jens Link",
     "company": null,
     "irc": "snej",
@@ -1192,12 +1198,6 @@
     "company": "DENOG e.V. // Akamai Technologies",
     "irc": "PBU",
     "asn": "20940.63949"
-  },
-  {
-    "name": "Patrick Hurrelmann",
-    "company": "NFON AG",
-    "irc": null,
-    "asn": "8878"
   },
   {
     "name": "Patrick Hurrelmann",
