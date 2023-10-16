@@ -186,6 +186,12 @@
     "asn": "34878"
   },
   {
+    "name": "Benjamin Herzog",
+    "company": "system.de – System & Project GmbH",
+    "irc": null,
+    "asn": "50030"
+  },
+  {
     "name": "Björn Dobe",
     "company": "Freifunk Hamburg",
     "irc": null,
@@ -1264,6 +1270,12 @@
     "company": "Mann + Hummel GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Philip Grosser",
+    "company": "Globalways GmbH",
+    "irc": "dritter",
+    "asn": "48918"
   },
   {
     "name": "Philipp Kern",
