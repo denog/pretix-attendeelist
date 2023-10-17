@@ -402,6 +402,12 @@
     "asn": "34878"
   },
   {
+    "name": "Dustin Lampe",
+    "company": "Aliter Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dustin Sanders",
     "company": null,
     "irc": "prophet60091",
@@ -862,6 +868,12 @@
     "company": null,
     "irc": "beyerm",
     "asn": null
+  },
+  {
+    "name": "Marcel Brozek",
+    "company": "Aliter Networks",
+    "irc": null,
+    "asn": "0"
   },
   {
     "name": "Marcel Fest",
