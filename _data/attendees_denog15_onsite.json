@@ -1332,6 +1332,12 @@
     "asn": null
   },
   {
+    "name": "Philipp Vogtmann",
+    "company": "ViA-Online GmbH",
+    "irc": null,
+    "asn": "62086"
+  },
+  {
     "name": "Philipp Wasser",
     "company": "Karlsruher Institut für Technologie - SCC",
     "irc": null,
@@ -1372,6 +1378,12 @@
     "company": "IFOG GMBH",
     "irc": null,
     "asn": "34927"
+  },
+  {
+    "name": "Ruben Herold",
+    "company": "ViA-Online GmbH",
+    "irc": "Panther:_1",
+    "asn": "62086"
   },
   {
     "name": "Sascha Growe",
