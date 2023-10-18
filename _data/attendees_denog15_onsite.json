@@ -72,6 +72,12 @@
     "asn": null
   },
   {
+    "name": "Amy Chudalla",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Deml",
     "company": "Baader Bank AG",
     "irc": null,
@@ -430,6 +436,12 @@
     "company": "WDZ GmbH",
     "irc": null,
     "asn": "9136"
+  },
+  {
+    "name": "Enis Yorulmaz",
+    "company": "IP Infusion",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Enno Gröper",
