@@ -117,7 +117,7 @@
     "name": "Andy Schaper",
     "company": "WOBCOM GmbH",
     "irc": null,
-    "asn": null
+    "asn": "9136"
   },
   {
     "name": "Anita Meyer",
@@ -135,6 +135,12 @@
     "name": "Antonius Frie",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Anton Schubert",
+    "company": "Riedel Communications",
+    "irc": "ischluff",
     "asn": null
   },
   {
@@ -417,7 +423,7 @@
     "name": "Ember Keske",
     "company": "WDZ GmbH",
     "irc": null,
-    "asn": null
+    "asn": "9136"
   },
   {
     "name": "Enno Gröper",
@@ -813,7 +819,7 @@
     "name": "Lukas Grams",
     "company": null,
     "irc": null,
-    "asn": null
+    "asn": "9136"
   },
   {
     "name": "Lukas Hackel",
@@ -1497,7 +1503,7 @@
     "name": "Simon Terzenbach",
     "company": "WOBCOM GmbH",
     "irc": null,
-    "asn": null
+    "asn": "9136"
   },
   {
     "name": "Simon Ziehnert",
@@ -1773,6 +1779,6 @@
     "name": "Yureka Lilian",
     "company": "WDZ GmbH",
     "irc": null,
-    "asn": null
+    "asn": "9136"
   }
 ]
