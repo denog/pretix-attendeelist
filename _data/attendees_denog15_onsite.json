@@ -145,7 +145,7 @@
   },
   {
     "name": "Anja Staufenberg",
-    "company": null,
+    "company": "Arista Networks",
     "irc": null,
     "asn": null
   },
@@ -312,6 +312,12 @@
     "asn": null
   },
   {
+    "name": "Christian Schmidt",
+    "company": "LWLcom GmbH",
+    "irc": "chrische",
+    "asn": "50629"
+  },
+  {
     "name": "Christian Seitz",
     "company": "system.de / Route128 / IN-Berlin / Community-IX",
     "irc": "gizzmo",
@@ -382,6 +388,12 @@
     "company": "Frankfurt University of Applied Sciences",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Dario Rugani",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
   },
   {
     "name": "David Croft",
@@ -538,6 +550,12 @@
     "company": "NFON AG",
     "irc": null,
     "asn": "8878"
+  },
+  {
+    "name": "Hamzeh Baker",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
   },
   {
     "name": "Hans-Christoph Deeken",
@@ -1744,6 +1762,12 @@
     "company": "TeleData GmbH",
     "irc": "twiddern",
     "asn": "21263"
+  },
+  {
+    "name": "Tobias Gruber",
+    "company": "LWLcom GmbH",
+    "irc": "toebs",
+    "asn": "50629"
   },
   {
     "name": "Tobias Heister",
