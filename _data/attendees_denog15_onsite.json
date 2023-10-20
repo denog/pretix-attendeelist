@@ -318,6 +318,12 @@
     "asn": null
   },
   {
+    "name": "Christian Lehmann",
+    "company": "HCD Consulting",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Schmidt",
     "company": "LWLcom GmbH",
     "irc": "chrische",
@@ -488,6 +494,12 @@
   {
     "name": "Enno Gröper",
     "company": "Charité - Universitätsmedizin Berlin",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Enrico Aderhold",
+    "company": "HCD Consulting",
     "irc": null,
     "asn": null
   },
@@ -1888,6 +1900,12 @@
     "company": "Inter.link GmbH",
     "irc": "Vincentz",
     "asn": "5405"
+  },
+  {
+    "name": "Vithu Eikemper",
+    "company": "HCD Consulting",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Waschdy Kandy",
