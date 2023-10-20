@@ -402,6 +402,12 @@
     "asn": "50629"
   },
   {
+    "name": "David Abel",
+    "company": "TelemaxX Telekommunikation GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Croft",
     "company": "ASK4",
     "irc": "davidc",
@@ -898,6 +904,12 @@
     "company": "level66.network",
     "irc": null,
     "asn": "56381"
+  },
+  {
+    "name": "Lukas Rabe",
+    "company": "TelemaxX Telekommunikation GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Lutz Donnerhacke",
