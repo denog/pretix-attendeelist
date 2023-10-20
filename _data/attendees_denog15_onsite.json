@@ -228,6 +228,12 @@
     "asn": "49009"
   },
   {
+    "name": "Blair Wood",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
+  },
+  {
     "name": "Carl Michels",
     "company": "MPI-DS",
     "irc": null,
@@ -526,6 +532,12 @@
     "company": "InterNetworX",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Frank Holmes",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
   },
   {
     "name": "Franziska Kunsmann",
