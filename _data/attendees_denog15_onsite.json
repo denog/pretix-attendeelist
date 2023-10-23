@@ -66,6 +66,12 @@
     "asn": "34953"
   },
   {
+    "name": "Alexander Zagler",
+    "company": "Green IT Solution",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alex Senderkin",
     "company": "BCIX Management GmbH",
     "irc": "icebreak",
@@ -856,6 +862,12 @@
     "company": "RETN",
     "irc": null,
     "asn": "9002"
+  },
+  {
+    "name": "Katharina Hupe",
+    "company": "Green IT Solution",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Kay Rechthien",
@@ -1678,6 +1690,12 @@
     "company": "Grafana Labs",
     "irc": "bastischubert",
     "asn": "62392"
+  },
+  {
+    "name": "Sebastian Wiedemann",
+    "company": "Green IT Solution",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Wiesinger",
