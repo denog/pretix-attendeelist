@@ -246,6 +246,12 @@
     "asn": null
   },
   {
+    "name": "Carolyn Allebrodt",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Carsten Michel",
     "company": null,
     "irc": null,
@@ -280,6 +286,12 @@
     "company": "ASK4",
     "irc": null,
     "asn": "41230"
+  },
+  {
+    "name": "Christian Backe",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Christian Baumann",
@@ -594,6 +606,12 @@
     "asn": "36459"
   },
   {
+    "name": "Gabor Reich",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Gerrit Mester",
     "company": "NFON AG",
     "irc": null,
@@ -682,6 +700,12 @@
     "company": "Netflix",
     "irc": null,
     "asn": "2906"
+  },
+  {
+    "name": "James Bensley",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Jan-Ahrent Czmok",
@@ -1260,6 +1284,12 @@
     "asn": null
   },
   {
+    "name": "Michael Rhode",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Michael Schneider",
     "company": "BaaderBank AG",
     "irc": null,
@@ -1780,6 +1810,12 @@
     "company": "TNG Stadtnetz GmbH",
     "irc": "svens",
     "asn": "13101"
+  },
+  {
+    "name": "Sven Schlingloff",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Tassilo Tanneberger",
