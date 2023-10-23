@@ -192,6 +192,12 @@
     "asn": "29140"
   },
   {
+    "name": "Balàzs Vigh",
+    "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Barbara Szöke",
     "company": "Core-Backbone GmbH",
     "irc": "Babsi",
@@ -320,6 +326,12 @@
   {
     "name": "Christian Lehmann",
     "company": "HCD Consulting",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christian Minichshofer",
+    "company": "ANEXIA Internetdienstlesitungs GmbH",
     "irc": null,
     "asn": null
   },
@@ -1134,6 +1146,12 @@
     "asn": null
   },
   {
+    "name": "Mathias Mueller",
+    "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Fredebohm",
     "company": "Stadtwerke Neustrelitz GmbH",
     "irc": null,
@@ -1246,6 +1264,12 @@
     "company": "BaaderBank AG",
     "irc": null,
     "asn": "60799"
+  },
+  {
+    "name": "Michael Zussner",
+    "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Molly Miller",
