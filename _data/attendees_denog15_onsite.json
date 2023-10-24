@@ -1446,6 +1446,12 @@
     "asn": "31500.50952"
   },
   {
+    "name": "Noelle Massar",
+    "company": "RPTU Kaiserslautern-Landau",
+    "irc": "Hotaru",
+    "asn": null
+  },
+  {
     "name": "Norbert Surowy",
     "company": "EWETEL GmbH",
     "irc": null,
@@ -1978,6 +1984,12 @@
     "company": "TeleData GmbH",
     "irc": "twiddern",
     "asn": "21263"
+  },
+  {
+    "name": "Tobias Erdmann",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": "6695"
   },
   {
     "name": "Tobias Gruber",
