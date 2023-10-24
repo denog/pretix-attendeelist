@@ -612,6 +612,12 @@
     "asn": null
   },
   {
+    "name": "Florian Wrage",
+    "company": "akquinet",
+    "irc": null,
+    "asn": "35258"
+  },
+  {
     "name": "Frank Hebold",
     "company": "InterNetworX",
     "irc": null,
@@ -1744,6 +1750,12 @@
     "company": "noris network AG",
     "irc": "GPF",
     "asn": "12337"
+  },
+  {
+    "name": "Simon Couball",
+    "company": "akquinet",
+    "irc": null,
+    "asn": "35258"
   },
   {
     "name": "Simon Frerichs",
