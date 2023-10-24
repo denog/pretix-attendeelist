@@ -582,6 +582,12 @@
     "asn": null
   },
   {
+    "name": "Florian Tschiedel",
+    "company": "ANEXIA",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Frank Hebold",
     "company": "InterNetworX",
     "irc": null,
@@ -1016,6 +1022,12 @@
   {
     "name": "Malte Rosenberger",
     "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Malte Von dem Hagen",
+    "company": "ANEXIA",
     "irc": null,
     "asn": null
   },
@@ -1542,6 +1554,12 @@
     "asn": "1299"
   },
   {
+    "name": "Raiko Wielk",
+    "company": "ANEXIA",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "René Kockisch",
     "company": "questnet GmbH",
     "irc": null,
@@ -1776,6 +1794,12 @@
     "asn": "60955"
   },
   {
+    "name": "Stefan Schmitz",
+    "company": "ANEXIA",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Stefan Watermann",
     "company": "Baader Bank AG",
     "irc": null,
@@ -1857,6 +1881,12 @@
     "name": "Thomas Jessen",
     "company": "EXA Infrastructure",
     "irc": "Toshima",
+    "asn": null
+  },
+  {
+    "name": "Thomas Rüter",
+    "company": "ANEXIA",
+    "irc": null,
     "asn": null
   },
   {
