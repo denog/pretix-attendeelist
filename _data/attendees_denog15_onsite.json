@@ -192,6 +192,12 @@
     "asn": "212440"
   },
   {
+    "name": "Atilla Kovacs",
+    "company": "ANEXIA",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Azad Sheikh Muhammad",
     "company": "Hostserver GmbH",
     "irc": null,
@@ -462,6 +468,12 @@
     "asn": "15943"
   },
   {
+    "name": "Dennis Diehm",
+    "company": "Hetzner Online GmbH",
+    "irc": "dendie",
+    "asn": "24940"
+  },
+  {
     "name": "Dirk Achenbach",
     "company": "Wesco / Rahi / Anixter",
     "irc": "DevLog",
@@ -478,6 +490,12 @@
     "company": "rrbone",
     "irc": "eimann",
     "asn": "39138"
+  },
+  {
+    "name": "Dominik Grüber",
+    "company": "Hetzner Online GmbH",
+    "irc": null,
+    "asn": "24940"
   },
   {
     "name": "Dominik Pataky",
@@ -548,6 +566,12 @@
   {
     "name": "Felix Menge",
     "company": "InterNetworX",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Felix Stolba",
+    "company": "ANEXIA",
     "irc": null,
     "asn": null
   },
@@ -1027,6 +1051,12 @@
   },
   {
     "name": "Malte Von dem Hagen",
+    "company": "ANEXIA",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Manuel Pirolt",
     "company": "ANEXIA",
     "irc": null,
     "asn": null
@@ -2001,6 +2031,12 @@
     "name": "Valentin Aurich",
     "company": null,
     "irc": "vinet",
+    "asn": null
+  },
+  {
+    "name": "Viktor Lennert",
+    "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": null,
     "asn": null
   },
   {
