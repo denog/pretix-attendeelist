@@ -84,6 +84,12 @@
     "asn": null
   },
   {
+    "name": "Amanda Östlund",
+    "company": "Amazon Web Services",
+    "irc": null,
+    "asn": "16509"
+  },
+  {
     "name": "Amy Chudalla",
     "company": null,
     "irc": null,
@@ -1825,8 +1831,8 @@
   },
   {
     "name": "Stefan Funke",
-    "company": null,
-    "irc": "stefan",
+    "company": "Inter.link",
+    "irc": null,
     "asn": "5405"
   },
   {
