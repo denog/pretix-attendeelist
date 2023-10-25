@@ -504,6 +504,12 @@
     "asn": "9145"
   },
   {
+    "name": "Dmitry Rudometkin",
+    "company": "NL-ix",
+    "irc": null,
+    "asn": "34307"
+  },
+  {
     "name": "Dominik Bay",
     "company": "rrbone",
     "irc": "eimann",
@@ -1692,6 +1698,12 @@
     "asn": "62086"
   },
   {
+    "name": "Sara Abulajras",
+    "company": null,
+    "irc": null,
+    "asn": "34307"
+  },
+  {
     "name": "Sarah Hammer",
     "company": "XENIA Systems GmbH",
     "irc": null,
@@ -2092,6 +2104,12 @@
     "company": "Kuehne + Nagel",
     "irc": "ulf",
     "asn": "211656"
+  },
+  {
+    "name": "Ulf Kieber",
+    "company": "NL-ix",
+    "irc": "kieber",
+    "asn": "34307"
   },
   {
     "name": "Ulrich Köhler",
