@@ -150,12 +150,6 @@
     "asn": "208893"
   },
   {
-    "name": "Nils Steinger",
-    "company": null,
-    "irc": null,
-    "asn": "206161"
-  },
-  {
     "name": "Patrick Müller",
     "company": null,
     "irc": null,
@@ -196,6 +190,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Rolf Munzlinger",
+    "company": "Vodafone",
+    "irc": null,
+    "asn": "1273"
   },
   {
     "name": "Sebastian J",
