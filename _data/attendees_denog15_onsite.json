@@ -1099,7 +1099,7 @@
   },
   {
     "name": "Marcel Beyer",
-    "company": null,
+    "company": "M. Beyer / DE-CIX / AG DSN",
     "irc": "beyerm",
     "asn": null
   },
@@ -1474,6 +1474,12 @@
     "company": "TELTA Citynetz GmbH",
     "irc": null,
     "asn": "21032"
+  },
+  {
+    "name": "Niels Loewe",
+    "company": "Nomios Germany GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Nikolaos Kourgiantakis",
