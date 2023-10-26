@@ -822,6 +822,12 @@
     "asn": "34878"
   },
   {
+    "name": "Jannik Berges",
+    "company": "WEBDISCOUNT",
+    "irc": null,
+    "asn": "24637"
+  },
+  {
     "name": "Jean-Pierre Schwickerath",
     "company": "HILOTEC E+C AG",
     "irc": null,
@@ -1384,6 +1390,12 @@
     "company": "DD-IX",
     "irc": null,
     "asn": "57328"
+  },
+  {
+    "name": "Michael Böhme",
+    "company": "WEBDISCOUNT",
+    "irc": null,
+    "asn": "24637"
   },
   {
     "name": "Michael Fischer",
@@ -2056,6 +2068,12 @@
     "company": null,
     "irc": "tvberlin",
     "asn": "5405"
+  },
+  {
+    "name": "Thomas Forster",
+    "company": "Telefónica Germany GmbH & Co. OHG",
+    "irc": null,
+    "asn": "6805"
   },
   {
     "name": "Thomas Fritz",
