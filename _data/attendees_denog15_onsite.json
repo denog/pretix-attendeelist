@@ -1788,6 +1788,12 @@
     "asn": "62086"
   },
   {
+    "name": "Sabrina Mikolon",
+    "company": "IPHH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Sara Abulajras",
     "company": "NL-ix",
     "irc": null,
@@ -1918,6 +1924,12 @@
     "company": "noris network AG",
     "irc": "GPF",
     "asn": "12337"
+  },
+  {
+    "name": "Serge Bazanski",
+    "company": "Monogon SE",
+    "irc": "q3k",
+    "asn": null
   },
   {
     "name": "Simon Couball",
@@ -2134,12 +2146,6 @@
     "company": "Nokia",
     "irc": null,
     "asn": "8983"
-  },
-  {
-    "name": "Tim Windelchmidt",
-    "company": "Monogon SE",
-    "irc": "fionera",
-    "asn": null
   },
   {
     "name": "Tim Windelschmidt",
