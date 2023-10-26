@@ -480,6 +480,12 @@
     "asn": null
   },
   {
+    "name": "Debora Risch",
+    "company": "NWP Services GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Denis Klimek",
     "company": "wilhelm.tel GmbH",
     "irc": null,
@@ -990,6 +996,12 @@
     "asn": null
   },
   {
+    "name": "Lino Moragon",
+    "company": "Init7 (Schweiz) AG",
+    "irc": null,
+    "asn": "13030"
+  },
+  {
     "name": "Luca Appel",
     "company": "rrbone",
     "irc": "luca",
@@ -1292,8 +1304,8 @@
   {
     "name": "Matthias Müller",
     "company": "IONOS SE",
-    "irc": null,
-    "asn": null
+    "irc": "KeefR",
+    "asn": "8560"
   },
   {
     "name": "Matthias Walther",
@@ -1528,6 +1540,12 @@
     "company": "KEVAG Telekom GmbH",
     "irc": null,
     "asn": "12360"
+  },
+  {
+    "name": "Oliver Krüger",
+    "company": null,
+    "irc": "1977er",
+    "asn": "209347"
   },
   {
     "name": "Pascal Knoll",
