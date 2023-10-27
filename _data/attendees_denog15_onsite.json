@@ -60,6 +60,12 @@
     "asn": "3320"
   },
   {
+    "name": "Alexander Sauer",
+    "company": "EWERK Digital GmbH",
+    "irc": null,
+    "asn": "204924"
+  },
+  {
     "name": "Alexander Votteler",
     "company": "RelAix Networks",
     "irc": "v0tti",
@@ -286,6 +292,12 @@
     "company": "All Things Internet. And Internet of Things.",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Carsten Tardi",
+    "company": "EWERK Digital GmbH",
+    "irc": null,
+    "asn": "204924"
   },
   {
     "name": "Charles Brown",
@@ -985,9 +997,9 @@
   },
   {
     "name": "Klaus Thielking-Riechert",
-    "company": null,
+    "company": "EWERK Digital GmbH",
     "irc": "ktr22",
-    "asn": null
+    "asn": "204924"
   },
   {
     "name": "Konstantin Jeske",
