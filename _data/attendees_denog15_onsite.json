@@ -462,10 +462,22 @@
     "asn": null
   },
   {
+    "name": "Daniel Ponten",
+    "company": "Arista Networks GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dario Rugani",
     "company": "LWLcom GmbH",
     "irc": null,
     "asn": "50629"
+  },
+  {
+    "name": "Darwin Schrader",
+    "company": "TU Berlin",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "David Abel",
