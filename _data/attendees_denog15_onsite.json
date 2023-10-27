@@ -942,6 +942,12 @@
     "asn": "13101"
   },
   {
+    "name": "Julia Fahrenbach",
+    "company": "Flexoptix GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Julian Schuh",
     "company": "KIT",
     "irc": null,
@@ -2200,6 +2206,12 @@
     "company": "LWLcom GmbH",
     "irc": "toebs",
     "asn": "50629"
+  },
+  {
+    "name": "Tobias Grützmacher",
+    "company": "Flexoptix GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tobias Heister",
