@@ -1242,6 +1242,12 @@
     "asn": null
   },
   {
+    "name": "Marco Zietz",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Marc Peters",
     "company": "sipgate GmbH",
     "irc": "mapet",
