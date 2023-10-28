@@ -1824,6 +1824,12 @@
     "asn": "202566"
   },
   {
+    "name": "Richard Hartmann",
+    "company": "Grafana Labs",
+    "irc": "RichiH",
+    "asn": null
+  },
+  {
     "name": "Richard Mueller",
     "company": "Xantaro Deutschland",
     "irc": "tiffy",
