@@ -354,6 +354,12 @@
     "asn": "13101"
   },
   {
+    "name": "Christian Burk",
+    "company": "Waystream Deutschland GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Dieckhoff",
     "company": "WOBCOM & WDZ",
     "irc": "chrisd",
@@ -1012,6 +1018,12 @@
     "company": "Akamai Technologies",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Jörg Lauwigi",
+    "company": "Telefonica Germany",
+    "irc": null,
+    "asn": "6805"
   },
   {
     "name": "Jörn Meisel",
