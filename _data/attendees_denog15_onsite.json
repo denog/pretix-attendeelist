@@ -355,7 +355,7 @@
   },
   {
     "name": "Christian Dieckhoff",
-    "company": "WDZ GmbH",
+    "company": "WOBCOM & WDZ",
     "irc": "chrisd",
     "asn": "9136"
   },
@@ -474,16 +474,16 @@
     "asn": "29413"
   },
   {
+    "name": "Clara Riese",
+    "company": "NETHINKS",
+    "irc": "clerie",
+    "asn": "8319"
+  },
+  {
     "name": "Claudia Uhlich",
     "company": "Deutsche Telekom AG",
     "irc": null,
     "asn": "3320"
-  },
-  {
-    "name": "Clemens Riese",
-    "company": "NETHINKS",
-    "irc": null,
-    "asn": "8319"
   },
   {
     "name": "Colin Boekhout",
@@ -931,9 +931,9 @@
   },
   {
     "name": "Jennifer Graul",
-    "company": "FeM e.V.",
+    "company": "RelAix Networks GmbH",
     "irc": "netali",
-    "asn": "202729"
+    "asn": "34953"
   },
   {
     "name": "Jens Jetzork",
