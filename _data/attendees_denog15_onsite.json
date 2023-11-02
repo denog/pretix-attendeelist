@@ -1392,6 +1392,12 @@
     "asn": null
   },
   {
+    "name": "Markus Witt",
+    "company": "sipgate GmbH",
+    "irc": "feuerrot",
+    "asn": "15594"
+  },
+  {
     "name": "Martina Dresbach",
     "company": "EXA Infrastructure Germany GmbH",
     "irc": null,
@@ -2281,7 +2287,7 @@
   },
   {
     "name": "Theo Voss",
-    "company": null,
+    "company": "Inter.link",
     "irc": "tvberlin",
     "asn": "5405"
   },
