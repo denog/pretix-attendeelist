@@ -1527,7 +1527,7 @@
     "name": "Maximilian Müller",
     "company": "DFN-Verein",
     "irc": null,
-    "asn": null
+    "asn": "680"
   },
   {
     "name": "Maximiliano Estudies",
@@ -1634,6 +1634,12 @@
   {
     "name": "Michael Zussner",
     "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Mohibullah Utmankhil",
+    "company": "Afghanistan Network Operators Group",
     "irc": null,
     "asn": null
   },
