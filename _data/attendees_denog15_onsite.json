@@ -193,7 +193,7 @@
   },
   {
     "name": "Anton Rieger",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": "inrin",
     "asn": "6695"
   },
@@ -223,7 +223,7 @@
   },
   {
     "name": "Atakan Yegen",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -271,7 +271,7 @@
   },
   {
     "name": "Benjamin Herzog",
-    "company": "system.de – System & Project GmbH",
+    "company": "system.de - System & Project GmbH",
     "irc": null,
     "asn": "50030"
   },
@@ -685,7 +685,7 @@
   },
   {
     "name": "Falk Storkebaum",
-    "company": "Uniberg GmbH/ Vodafone DE",
+    "company": "Uniberg / Vodafone DE",
     "irc": null,
     "asn": "3209"
   },
@@ -949,7 +949,7 @@
   },
   {
     "name": "Jennifer Graul",
-    "company": "RelAix Networks GmbH",
+    "company": "RelAix Networks",
     "irc": "netali",
     "asn": "34953"
   },
@@ -1195,7 +1195,7 @@
   },
   {
     "name": "Lukas Grams",
-    "company": "WOBCOM",
+    "company": "WOBCOM GmbH",
     "irc": null,
     "asn": "9136"
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "name": "Maximilian Emig",
-    "company": "Uniberg GmbH/ Vodafone DE",
+    "company": "Uniberg / Vodafone DE",
     "irc": null,
     "asn": "3209"
   },
@@ -1687,7 +1687,7 @@
   },
   {
     "name": "Nicolaas Adrianus van der Ven",
-    "company": "NOKIA",
+    "company": "Nokia",
     "irc": null,
     "asn": null
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "name": "Tobias Erdmann",
-    "company": "DE-CIX Management GmbH",
+    "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
   },
@@ -2443,7 +2443,7 @@
   },
   {
     "name": "Tobias Krischer",
-    "company": "Exaring AG",
+    "company": "EXARING AG",
     "irc": "tobikris",
     "asn": "51324"
   },
