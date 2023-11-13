@@ -42,6 +42,12 @@
     "asn": "12611"
   },
   {
+    "name": "Bastian Hoss",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Benjamin Kübler",
     "company": null,
     "irc": null,
@@ -84,6 +90,12 @@
     "asn": null
   },
   {
+    "name": "Erik G.",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Lenker",
     "company": "Erdenreich Datentechnik GmbH",
     "irc": "kn",
@@ -96,9 +108,21 @@
     "asn": null
   },
   {
+    "name": "Girishkumar Patoliya",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Holger Zuleger",
     "company": "Vodafone",
     "irc": null,
+    "asn": "3209"
+  },
+  {
+    "name": "Ibrahim Eser",
+    "company": "Vodafone",
+    "irc": "Ibo",
     "asn": "3209"
   },
   {
@@ -124,6 +148,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Julian Zehnter",
+    "company": "rockenstein AG",
+    "irc": null,
+    "asn": "8823"
   },
   {
     "name": "Julia Schmidt",
@@ -168,6 +198,12 @@
     "asn": null
   },
   {
+    "name": "Marc Korthaus",
+    "company": "Inter.link GmbH",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Marco Döhler",
     "company": "Vodafone",
     "irc": null,
@@ -186,16 +222,34 @@
     "asn": null
   },
   {
+    "name": "Maxim Andronenkov",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maximilian Schieder",
     "company": null,
     "irc": null,
     "asn": "208893"
   },
   {
+    "name": "Michael Kieser",
+    "company": "Hochschule für Technik Stuttgart",
+    "irc": null,
+    "asn": "198016"
+  },
+  {
     "name": "Niels Bakker",
     "company": "Akamai Technologies",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Oliver Seufer",
+    "company": "SerNet GmbH",
+    "irc": null,
+    "asn": "41955"
   },
   {
     "name": "Patrick Müller",
@@ -264,6 +318,12 @@
     "asn": null
   },
   {
+    "name": "Sejal Bhesania",
+    "company": null,
+    "irc": null,
+    "asn": "15785316042"
+  },
+  {
     "name": "Sven Kalkbrenner",
     "company": null,
     "irc": null,
@@ -289,6 +349,18 @@
   },
   {
     "name": "Timber Qu",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tim Deuchler",
+    "company": "LEITWERK AG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Timo Stamm",
     "company": null,
     "irc": null,
     "asn": null
