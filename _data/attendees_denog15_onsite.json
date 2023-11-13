@@ -750,12 +750,6 @@
     "asn": null
   },
   {
-    "name": "Filiz Hunold",
-    "company": "init AG",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Fiona Weber",
     "company": "Wobcom / WDZ / DENOG",
     "irc": "vidister",
@@ -2692,5 +2686,11 @@
     "company": "WDZ GmbH",
     "irc": null,
     "asn": "9136"
+  },
+  {
+    "name": "Zuderell Stephan",
+    "company": null,
+    "irc": null,
+    "asn": null
   }
 ]
