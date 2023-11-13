@@ -1590,6 +1590,12 @@
     "asn": "8560"
   },
   {
+    "name": "Matthias Wählisch",
+    "company": "TU Dresden",
+    "irc": null,
+    "asn": "51224"
+  },
+  {
     "name": "Matthias Walther",
     "company": "Kluteq OHG | Freifunk Münsterland",
     "irc": null,
@@ -2494,6 +2500,12 @@
     "company": "DFN-Verein",
     "irc": "TS680",
     "asn": "680"
+  },
+  {
+    "name": "Thomas Schmidt",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Thomas Schrank",
