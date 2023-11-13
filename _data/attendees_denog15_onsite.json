@@ -54,6 +54,12 @@
     "asn": "34878"
   },
   {
+    "name": "Alexander Hanke",
+    "company": "NETMOUNTAINS Group GmbH",
+    "irc": null,
+    "asn": "57575"
+  },
+  {
     "name": "Alexander Kiontke",
     "company": "Technische Universität Dresden",
     "irc": null,
@@ -2410,6 +2416,12 @@
     "company": "rrbone",
     "irc": "stephrdev",
     "asn": "39138"
+  },
+  {
+    "name": "Stephan Reugels",
+    "company": "NETMOUNTAINS Group GmbH",
+    "irc": "stereu",
+    "asn": "57575"
   },
   {
     "name": "Susann Böhme",

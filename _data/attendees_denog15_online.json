@@ -228,6 +228,12 @@
     "asn": null
   },
   {
+    "name": "Marvin Bänkel",
+    "company": "NETMOUNTAINS Datacenter",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maxim Andronenkov",
     "company": null,
     "irc": null,
@@ -328,6 +334,12 @@
     "company": null,
     "irc": null,
     "asn": "15785316042"
+  },
+  {
+    "name": "Silas Scholz",
+    "company": "NETMOUNTAINS Datacenter",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sven Kalkbrenner",
