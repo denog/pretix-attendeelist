@@ -48,7 +48,8 @@ jq -s 'map(.results[]) | map({
     company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
     irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
     asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
-})' "$datafile" > "_data/$output_onsite"
+    notpublic: ((.answers[] | select(.question_identifier=="NOTPUBLIC").answer)//null),
+})' "$datafile" | jq '[ .[] | select(.notpublic != "True") | {name: .name, company: .company, irc: .irc, asn: .asn} ]' > "_data/${output_onsite}"
 rm -f "$datafile"
 
 # Attendees online
