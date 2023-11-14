@@ -480,6 +480,12 @@
     "asn": "209894"
   },
   {
+    "name": "Christina Muench",
+    "company": "Equinix",
+    "irc": null,
+    "asn": "15830"
+  },
+  {
     "name": "Christoph Badura",
     "company": null,
     "irc": "baduck",
@@ -758,6 +764,12 @@
   {
     "name": "Felix Menge",
     "company": "InterNetworX",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Felix Schüren",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -1318,6 +1330,12 @@
     "company": "IKS Service GmbH",
     "irc": "Donner",
     "asn": "15725"
+  },
+  {
+    "name": "Lydia Steffenhagen",
+    "company": "BCIX",
+    "irc": null,
+    "asn": "16374"
   },
   {
     "name": "Maarten Gaarthuis",
