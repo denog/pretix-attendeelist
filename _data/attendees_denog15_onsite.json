@@ -72,6 +72,12 @@
     "asn": "3320"
   },
   {
+    "name": "Alexander Lukas",
+    "company": "Hofnetz und IT Services GmbH",
+    "irc": null,
+    "asn": "50324"
+  },
+  {
     "name": "Alexander Sauer",
     "company": "EWERK Digital GmbH",
     "irc": null,
@@ -1174,6 +1180,12 @@
     "company": "NFON AG",
     "irc": null,
     "asn": "8878"
+  },
+  {
+    "name": "Klaas Mertens",
+    "company": "Equinix",
+    "irc": null,
+    "asn": "15830"
   },
   {
     "name": "Klara Grziwok",
