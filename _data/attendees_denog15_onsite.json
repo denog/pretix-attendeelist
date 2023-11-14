@@ -1110,6 +1110,12 @@
     "asn": null
   },
   {
+    "name": "John Hill",
+    "company": "DE-CIX Management GmbH",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Jonas Mutschler",
     "company": "system.de - System & Project GmbH",
     "irc": null,
@@ -1928,7 +1934,7 @@
   {
     "name": "Pascal Knoll",
     "company": "TelemaxX Telekommunikation GmbH",
-    "irc": null,
+    "irc": "Pepe",
     "asn": "12843"
   },
   {
