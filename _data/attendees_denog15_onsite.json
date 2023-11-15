@@ -146,7 +146,7 @@
   {
     "name": "Andreas Fleck",
     "company": "Equinix",
-    "irc": null,
+    "irc": "Andy",
     "asn": "15380"
   },
   {
@@ -282,7 +282,7 @@
     "asn": "33891"
   },
   {
-    "name": "BEHNAM SHARIATI",
+    "name": "Behnam Shariati",
     "company": null,
     "irc": null,
     "asn": null
@@ -319,7 +319,7 @@
   },
   {
     "name": "Birgit Schönborn",
-    "company": "IPB Internet Provider in Berlin",
+    "company": "I/P/B/",
     "irc": null,
     "asn": null
   },
@@ -1200,7 +1200,7 @@
     "asn": "54113"
   },
   {
-    "name": "keyvan ghadimi",
+    "name": "Keyvan Ghadimi",
     "company": "NFON AG",
     "irc": null,
     "asn": "8878"
