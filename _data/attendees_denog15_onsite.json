@@ -870,6 +870,12 @@
     "asn": "36459"
   },
   {
+    "name": "Friedrich Kupfer",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Gabor Reich",
     "company": "Inter.link",
     "irc": null,
@@ -982,12 +988,6 @@
     "company": "Netflix",
     "irc": null,
     "asn": "2906"
-  },
-  {
-    "name": "James Bensley",
-    "company": "Inter.link",
-    "irc": null,
-    "asn": "5405"
   },
   {
     "name": "Jan-Ahrent Czmok",
