@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Adrian Hamm",
+    "company": "cvmtl",
+    "irc": "agh",
+    "asn": null
+  },
+  {
     "name": "Ahmed Moshref Aboutaleb",
     "company": "Ciena",
     "irc": null,
@@ -238,6 +244,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Evgenii Peregudov",
+    "company": "Cloudflare",
+    "irc": null,
+    "asn": "13335"
   },
   {
     "name": "Fabian Eppig",
