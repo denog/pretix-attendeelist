@@ -924,6 +924,12 @@
     "asn": "8648"
   },
   {
+    "name": "Tom Herbers",
+    "company": "Freie Netze Südhessen e.V.",
+    "irc": "tomh",
+    "asn": null
+  },
+  {
     "name": "Torsten Alt",
     "company": null,
     "irc": null,
