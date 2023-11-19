@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Ahmed Moshref Aboutaleb",
+    "company": "Ciena",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "A K",
     "company": null,
     "irc": null,
@@ -14,6 +20,18 @@
   {
     "name": "Alexander Dethof",
     "company": "AVEQ GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Alexander Detzen",
+    "company": "VSE NET GmbH",
+    "irc": null,
+    "asn": "9063"
+  },
+  {
+    "name": "Alex Augustin-Bugg",
+    "company": "DT Technik",
     "irc": null,
     "asn": null
   },
@@ -49,6 +67,12 @@
   },
   {
     "name": "Andreas Kochendörfer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Andreas Wittkemper",
     "company": null,
     "irc": null,
     "asn": null
@@ -96,6 +120,12 @@
     "asn": null
   },
   {
+    "name": "Ben Lebherz",
+    "company": "benleb",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Bernd Büdenbender",
     "company": "equada GmbH",
     "irc": null,
@@ -112,6 +142,12 @@
     "company": "GeFoekoM e.V.",
     "irc": "c-po",
     "asn": "12817"
+  },
+  {
+    "name": "Christian Deckelmann",
+    "company": "OpenText",
+    "irc": null,
+    "asn": "82"
   },
   {
     "name": "Christian Friedrich",
@@ -132,6 +168,60 @@
     "asn": null
   },
   {
+    "name": "Christoph Kunkel",
+    "company": "VSE NET",
+    "irc": null,
+    "asn": "9063"
+  },
+  {
+    "name": "Christoph Kunkel",
+    "company": null,
+    "irc": null,
+    "asn": "9063"
+  },
+  {
+    "name": "Costas Drogos",
+    "company": "Inter.link GmbH",
+    "irc": "costasd",
+    "asn": "5405"
+  },
+  {
+    "name": "Daniel Meyer",
+    "company": "Fraunhofer IEM",
+    "irc": "IronEagle",
+    "asn": null
+  },
+  {
+    "name": "Dan Nistor",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Dirk Hilmer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Dirk Meyer",
+    "company": "Dinoex",
+    "irc": "dinoex",
+    "asn": "205376"
+  },
+  {
+    "name": "Dmitri Fedotov",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Dominik Zajac",
+    "company": "BayCIX GmbH",
+    "irc": "banym",
+    "asn": "12657"
+  },
+  {
     "name": "Elmar Bins",
     "company": "ISC",
     "irc": "KnockandO",
@@ -150,10 +240,22 @@
     "asn": null
   },
   {
+    "name": "Fabian Eppig",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fabian Lenker",
     "company": "Erdenreich Datentechnik GmbH",
     "irc": "kn",
     "asn": "13247"
+  },
+  {
+    "name": "Fabricio Rodrigues Neves",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Felix Klauke",
@@ -168,7 +270,25 @@
     "asn": null
   },
   {
+    "name": "Ferenc Käszdorf",
+    "company": "Rendszerinformatika Zrt",
+    "irc": null,
+    "asn": "206892"
+  },
+  {
+    "name": "Florian Bauhaus",
+    "company": "portrix Systems GmbH",
+    "irc": "TraXo",
+    "asn": "52088"
+  },
+  {
     "name": "Florian Jerusalem",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Florian Köttner",
     "company": null,
     "irc": null,
     "asn": null
@@ -178,6 +298,12 @@
     "company": "ONENEO GmbH",
     "irc": null,
     "asn": "212509"
+  },
+  {
+    "name": "Florian Zinke",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frank Menzel",
@@ -192,6 +318,12 @@
     "asn": null
   },
   {
+    "name": "Hermann Lienstromberg",
+    "company": "AS208059",
+    "irc": "Nurtic-Vibe",
+    "asn": "208059"
+  },
+  {
     "name": "Holger Zuleger",
     "company": "Vodafone",
     "irc": null,
@@ -202,6 +334,12 @@
     "company": "Vodafone",
     "irc": "Ibo",
     "asn": "3209"
+  },
+  {
+    "name": "Ihsan Isik",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Inga Mewes",
@@ -240,6 +378,12 @@
     "asn": null
   },
   {
+    "name": "Jens Roesen",
+    "company": "Universität Würzburg",
+    "irc": "drizzt",
+    "asn": "1275"
+  },
+  {
     "name": "Jeron Mehl",
     "company": "FZI Forschungszentrum Informatik",
     "irc": null,
@@ -258,10 +402,22 @@
     "asn": "196922"
   },
   {
+    "name": "Jonas Schäfer",
+    "company": "Link11 GmbH",
+    "irc": null,
+    "asn": "34309"
+  },
+  {
     "name": "Jörg Backschues",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Julian Lannert",
+    "company": null,
+    "irc": null,
+    "asn": "62075"
   },
   {
     "name": "Julian Zehnter",
@@ -312,6 +468,12 @@
     "asn": "112"
   },
   {
+    "name": "Lars Bußmann",
+    "company": "arvato systems GmbH",
+    "irc": "LarsB",
+    "asn": null
+  },
+  {
     "name": "Leif Hoppe",
     "company": null,
     "irc": null,
@@ -354,8 +516,32 @@
     "asn": null
   },
   {
+    "name": "Markus Hauschild",
+    "company": "Freifunk Regensburg e.V.",
+    "irc": "MoepMan",
+    "asn": "212989"
+  },
+  {
+    "name": "Markus Schmelter",
+    "company": null,
+    "irc": null,
+    "asn": "210941"
+  },
+  {
     "name": "Markus Speer",
     "company": "Universität Münster",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Markus Winkler",
+    "company": null,
+    "irc": "csmacd",
+    "asn": null
+  },
+  {
+    "name": "Martin Fritzsche",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -364,6 +550,12 @@
     "company": "NETMOUNTAINS Datacenter",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Matthias Ordner",
+    "company": "EXARING AG",
+    "irc": "mordner",
+    "asn": "51324"
   },
   {
     "name": "Maxim Andronenkov",
@@ -378,6 +570,18 @@
     "asn": "208893"
   },
   {
+    "name": "Maximilian Schieder",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Max Püschel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Michael Kieser",
     "company": "Hochschule für Technik Stuttgart",
     "irc": null,
@@ -390,16 +594,46 @@
     "asn": null
   },
   {
+    "name": "Moritz Wörmann",
+    "company": null,
+    "irc": null,
+    "asn": "213127"
+  },
+  {
+    "name": "Morris Görke",
+    "company": "iternas GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "M. Schramm",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nacy Nacy",
     "company": null,
     "irc": null,
     "asn": null
   },
   {
+    "name": "Nicolai Leymann",
+    "company": "Deutsche Telekom AG",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
     "name": "Niels Bakker",
     "company": "Akamai Technologies",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Nils Steinger",
+    "company": null,
+    "irc": null,
+    "asn": "206161"
   },
   {
     "name": "Oliver Seufer",
@@ -409,6 +643,12 @@
   },
   {
     "name": "Patrick Müller",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Paul Sütterlin",
     "company": null,
     "irc": null,
     "asn": null
@@ -432,6 +672,12 @@
     "asn": "211671"
   },
   {
+    "name": "Peter Metz",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Philipp Schach",
     "company": null,
     "irc": null,
@@ -450,9 +696,21 @@
     "asn": null
   },
   {
+    "name": "René Couball",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Rick Dunsford",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Robert Alsdorff",
+    "company": null,
+    "irc": "magnus",
     "asn": null
   },
   {
@@ -474,10 +732,40 @@
     "asn": "50263"
   },
   {
+    "name": "Ronny Bösger",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Rose Jacobsen",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Rudolph Bott",
+    "company": "sipgate GmbH",
+    "irc": "rbott",
+    "asn": "15594"
+  },
+  {
+    "name": "Sascha Lenz",
+    "company": "s-lz.net",
+    "irc": "master",
+    "asn": "29317"
+  },
+  {
     "name": "Sebastian J",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sebastian Müll",
+    "company": "LEITWERK AG",
+    "irc": null,
+    "asn": "15894"
   },
   {
     "name": "Sebastian Neuner",
@@ -522,8 +810,26 @@
     "asn": null
   },
   {
+    "name": "Siyuan Miao",
+    "company": null,
+    "irc": null,
+    "asn": "917"
+  },
+  {
+    "name": "Steffen Unger",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Stephan Schreiber",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Stephan Werner",
+    "company": "Flexoptix GmbH",
     "irc": null,
     "asn": null
   },
@@ -534,8 +840,20 @@
     "asn": "24679"
   },
   {
+    "name": "Sylvia Pudimat",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tatiana Kozhina",
     "company": "NewTelco GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tayfun Ozaltin",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -556,6 +874,12 @@
     "company": null,
     "irc": null,
     "asn": "12611"
+  },
+  {
+    "name": "Thomas Fragstein",
+    "company": null,
+    "irc": "fragstone",
+    "asn": "203215"
   },
   {
     "name": "Thomas Kraft",
@@ -588,10 +912,22 @@
     "asn": null
   },
   {
+    "name": "Tobias Schmidt",
+    "company": "KAMP Netzwerkdienste GmbH",
+    "irc": null,
+    "asn": "8648"
+  },
+  {
     "name": "Torsten Alt",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Ursin Filli",
+    "company": null,
+    "irc": null,
+    "asn": "202427"
   },
   {
     "name": "Viacheslav Adamanov",
