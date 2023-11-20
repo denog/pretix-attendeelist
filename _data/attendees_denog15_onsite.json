@@ -900,6 +900,12 @@
     "asn": "12337"
   },
   {
+    "name": "Jan-Erik Rediger",
+    "company": "rrbone",
+    "irc": null,
+    "asn": "39138"
+  },
+  {
     "name": "Jan Gilla",
     "company": "level66.network",
     "irc": "netaviator",
@@ -2434,12 +2440,6 @@
     "company": "Alturna Networks",
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Torsten Sommer",
-    "company": "rrbone",
-    "irc": "toso",
-    "asn": "39138"
   },
   {
     "name": "Ulf Fischer",
