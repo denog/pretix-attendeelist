@@ -648,6 +648,12 @@
     "asn": "1104"
   },
   {
+    "name": "Eslam Hassan",
+    "company": "Nomios",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Etienne Khan",
     "company": "University of Twente",
     "irc": "etienne",
@@ -1162,6 +1168,12 @@
     "company": "Init7 (Schweiz) AG",
     "irc": null,
     "asn": "13030"
+  },
+  {
+    "name": "Lisa Kowalsky",
+    "company": "next layer",
+    "irc": "acheloos",
+    "asn": "1764"
   },
   {
     "name": "Luca Appel",
@@ -1846,12 +1858,6 @@
     "company": "Globalways GmbH",
     "irc": "phessler",
     "asn": "48918"
-  },
-  {
-    "name": "Peter Kowalsky",
-    "company": "next layer",
-    "irc": "acheloos",
-    "asn": "1764"
   },
   {
     "name": "Peter Sievers",

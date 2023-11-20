@@ -264,6 +264,12 @@
     "asn": "12657"
   },
   {
+    "name": "Elias Ruetz",
+    "company": null,
+    "irc": null,
+    "asn": "5404"
+  },
+  {
     "name": "Elmar Bins",
     "company": "ISC",
     "irc": "KnockandO",
@@ -346,6 +352,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Florian Mai",
+    "company": "sipgate",
+    "irc": null,
+    "asn": "15594"
   },
   {
     "name": "Florian Schoedel",
@@ -856,6 +868,12 @@
     "company": "sipgate GmbH",
     "irc": "rbott",
     "asn": "15594"
+  },
+  {
+    "name": "said ayoujil",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sascha Lenz",
