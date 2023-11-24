@@ -1,5 +1,17 @@
 [
   {
+    "name": "David Bauer",
+    "company": "FNSH e.V. / FFFFM e.V.",
+    "irc": "blocktrron",
+    "asn": "64475"
+  },
+  {
+    "name": "Magnus Frühling",
+    "company": "Freifunk Frankfurt am Main e.V.",
+    "irc": "skorpy",
+    "asn": "64475"
+  },
+  {
     "name": "Tim Kleefass",
     "company": "DENOG e.V.",
     "irc": "TimKleefass",
