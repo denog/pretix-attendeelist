@@ -1,5 +1,11 @@
 [
   {
+    "name": "Andreas John",
+    "company": "net-lab GmbH",
+    "irc": "derjohn",
+    "asn": "20755"
+  },
+  {
     "name": "David Bauer",
     "company": "FNSH e.V. / FFFFM e.V.",
     "irc": "blocktrron",
