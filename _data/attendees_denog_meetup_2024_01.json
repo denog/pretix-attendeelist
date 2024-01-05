@@ -36,6 +36,12 @@
     "asn": "64475"
   },
   {
+    "name": "Johannes Brauch",
+    "company": "TWL-KOM",
+    "irc": null,
+    "asn": "9022"
+  },
+  {
     "name": "Korcan Ataman",
     "company": "M&L Systems GmbH",
     "irc": null,
@@ -76,6 +82,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sara Fink",
+    "company": "TWL-KOM",
+    "irc": null,
+    "asn": "9022"
   },
   {
     "name": "Sebastian Graf",
