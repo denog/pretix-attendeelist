@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Adrian Nöthlich",
+    "company": "Verein zur Förderung freier Netze Region mittlerer Oberrhein e.V.",
+    "irc": "promasu",
+    "asn": "202329"
+  },
+  {
     "name": "Andreas John",
     "company": "net-lab GmbH",
     "irc": "derjohn",
@@ -103,6 +109,12 @@
   },
   {
     "name": "Philipp Glaser",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Rose Jacobsen",
     "company": null,
     "irc": null,
     "asn": null
