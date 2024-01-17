@@ -36,6 +36,12 @@
     "asn": null
   },
   {
+    "name": "Christian Giese",
+    "company": "RtBrick",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Groessl",
     "company": "RETN GmbH",
     "irc": null,
@@ -46,6 +52,18 @@
     "company": "FNSH e.V. / FFFFM e.V.",
     "irc": "blocktrron",
     "asn": "64475"
+  },
+  {
+    "name": "Fiona Weber",
+    "company": "Wobcom / WDZ / DENOG",
+    "irc": "vidister",
+    "asn": "9136"
+  },
+  {
+    "name": "Henry Schäfer",
+    "company": "Verizon",
+    "irc": "hs",
+    "asn": "702"
   },
   {
     "name": "Johannes Brauch",
@@ -100,6 +118,12 @@
     "company": null,
     "irc": null,
     "asn": "213204"
+  },
+  {
+    "name": "Maximilan Wilhelm",
+    "company": null,
+    "irc": "Barbarossa",
+    "asn": null
   },
   {
     "name": "Mohibullah Utmankhil",
