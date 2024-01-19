@@ -55,5 +55,9 @@ cat ${tempfileslug} | while read event; do
   
   rm -f "$datafile"
 
+  # Create html page
+  mkdir "${event}"
+  cat template.index.markdown | sed "s/EVENT/attendees_${event}/" > "${event}/index.markdown"
+
 done
 rm -f "$tempfileslug"
