@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Adrian Bönde",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Adrian Nöthlich",
+    "company": "Verein zur Förderung freier Netze Region mittlerer Oberrhein e.V.",
+    "irc": "promasu",
+    "asn": "202329"
+  },
+  {
+    "name": "Andreas John",
+    "company": "net-lab GmbH",
+    "irc": "derjohn",
+    "asn": "20755"
+  },
+  {
+    "name": "Andrew Molloy",
+    "company": "Telstra",
+    "irc": null,
+    "asn": "4637"
+  },
+  {
+    "name": "Aron Eiermann",
+    "company": "FNSH e.V. / FFFFM e.V.",
+    "irc": null,
+    "asn": "64475"
+  },
+  {
+    "name": "Bernhard Adam",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christian Giese",
+    "company": "RtBrick",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christoph Groessl",
+    "company": "RETN GmbH",
+    "irc": null,
+    "asn": "9002"
+  },
+  {
+    "name": "David Bauer",
+    "company": "FNSH e.V. / FFFFM e.V.",
+    "irc": "blocktrron",
+    "asn": "64475"
+  },
+  {
+    "name": "Fiona Weber",
+    "company": "Wobcom / WDZ / DENOG",
+    "irc": "vidister",
+    "asn": "9136"
+  },
+  {
+    "name": "Henry Schäfer",
+    "company": "Verizon",
+    "irc": "hs",
+    "asn": "702"
+  },
+  {
+    "name": "Johannes Brauch",
+    "company": "TWL-KOM",
+    "irc": null,
+    "asn": "9022"
+  },
+  {
+    "name": "Korcan Ataman",
+    "company": "M&L Systems GmbH",
+    "irc": null,
+    "asn": "20653"
+  },
+  {
+    "name": "latif bashota",
+    "company": "M&L Systems GmbH",
+    "irc": null,
+    "asn": "20653"
+  },
+  {
+    "name": "Magnus Frühling",
+    "company": "Freifunk Frankfurt am Main e.V.",
+    "irc": "skorpy",
+    "asn": "64475"
+  },
+  {
+    "name": "Maik Schwamberger",
+    "company": "NTT Global IP Network",
+    "irc": null,
+    "asn": "2914"
+  },
+  {
+    "name": "Marco Firsching",
+    "company": "Rechenzentrum Haßfurt GmbH",
+    "irc": null,
+    "asn": "44973"
+  },
+  {
+    "name": "Marie Brücher-Herpel",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Martin Sofaru",
+    "company": null,
+    "irc": "nitram",
+    "asn": null
+  },
+  {
+    "name": "Marvin Gaube",
+    "company": null,
+    "irc": null,
+    "asn": "213204"
+  },
+  {
+    "name": "Maximilan Wilhelm",
+    "company": null,
+    "irc": "Barbarossa",
+    "asn": null
+  },
+  {
+    "name": "Mohibullah Utmankhil",
+    "company": "Afghanistan Network Operators Group",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Nicolas Geets",
+    "company": "Nexgen A/S",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Nina Saidi",
+    "company": "GlobalNet",
+    "irc": null,
+    "asn": "50952.31500"
+  },
+  {
+    "name": "Oliver Lang",
+    "company": "TI Sparkle Germany GmbH",
+    "irc": null,
+    "asn": "1"
+  },
+  {
+    "name": "Philipp Glaser",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Rose Jacobsen",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sara Fink",
+    "company": "TWL-KOM",
+    "irc": null,
+    "asn": "9022"
+  },
+  {
+    "name": "Sebastian Graf",
+    "company": "Xantaro",
+    "irc": null,
+    "asn": "203520"
+  },
+  {
+    "name": "Simon Terzenbach",
+    "company": "Wobcom",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "DENOG e.V.",
+    "irc": "TimKleefass",
+    "asn": null
+  },
+  {
+    "name": "Tomas Krajc",
+    "company": "euNetworks",
+    "irc": null,
+    "asn": "1"
+  },
+  {
+    "name": "Tom Herbers",
+    "company": "Freie Netze Südhessen e.V.",
+    "irc": "tomh",
+    "asn": null
+  },
+  {
+    "name": "Vincentz Petzholtz",
+    "company": "DENOG e.V.",
+    "irc": "Vincentz",
+    "asn": null
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "DE-CIX Academy",
+    "irc": "Garf",
+    "asn": "196610"
+  }
+]
