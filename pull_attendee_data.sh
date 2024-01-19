@@ -15,33 +15,45 @@
 ####
 
 api_token="$PRETIX_API_TOKEN"
-checkin_list="$PRETIX_CHECKIN_LIST_ID"
 instance="pretix.eu"
 organizer="denog"
-event="denogmeetup24-01"
-output="attendees_denog_meetup_2024_01.json"
-url="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list/positions/"
-
+tempfileslug="slugs.temp"
+rm -f "$tempfile"
 tempfile="response.temp"
+rm -f "$tempfile"
 datafile="attendees.full"
+rm -f "$datafile"
 
-rm "$datafile"
+url="https://pretix.eu/api/v1/organizers/denog/events/"
+echo "DEBUG: url: $url"
+curl -H "Authorization: Token ${api_token}" "${url}" | jq '.results[] | select(.live == true) | .slug' | sed 's/"//g'> ${tempfileslug}
 
-echo "$url"
+cat ${tempfileslug} | while read event; do 
+  url="https://pretix.eu/api/v1/organizers/denog/events/${event}/checkinlists/"
+  echo "DEBUG: url: $url"
+  curl -H "Authorization: Token ${api_token}" "${url}" | jq '.results[] | select(.name == "Attendees") | .id' > ${tempfile}
+  checkin_list="`cat ${tempfile}`"
+  rm -f ${tempfile}
+  #echo "checkin_list: $checkin_list"
+  url="https://$instance/api/v1/organizers/$organizer/events/$event/checkinlists/$checkin_list/positions/"
 
-while [[ $url != "null" ]]; do
-    curl -H "Authorization: Token ${api_token}" "${url}" > ${tempfile}
-    url=$(jq -r .next ${tempfile})
-    jq . "$tempfile" >> "$datafile"
+  echo "DEBUG: event: $event, checkinlist: $checkin_list, url: $url"
+  while [[ $url != "null" ]]; do
+      curl -H "Authorization: Token ${api_token}" "${url}" > ${tempfile}
+      url=$(jq -r .next ${tempfile})
+      jq . "$tempfile" >> "$datafile"
+  done
+  rm -f "$tempfile"
+
+  output="attendees_${event}.json"
+  jq -s 'map(.results[]) | map({
+      name: .attendee_name,
+      company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
+      irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
+      asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
+  })' "$datafile" > "_data/$output"
+  
+  rm -f "$datafile"
+
 done
-
-rm "$tempfile"
-
-jq -s 'map(.results[]) | map({
-    name: .attendee_name,
-    company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
-    irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
-    asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
-})' "$datafile" > "_data/$output"
-
-rm "$datafile"
+rm -f "$tempfileslug"
