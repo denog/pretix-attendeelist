@@ -13,6 +13,18 @@ If you need to update the data manually, run the `./pull_attendee_data.sh` scrip
 be installed.
 
 
+## pull_attendee_data.sh
+
+This script gets from pretix API all live events from DENOG. 
+For all live events find checkin_list "Public Attendees List", get all attendees and expose them via 
+  https://www.denog.de/pretix-attendeelist/slugname/
+
+
+## pull_attendee_data2.sh
+
+This is used for the conference with onsite and online participants. 
+
+
 ## Setup New Event
 
 How to setup a new event:
@@ -24,7 +36,7 @@ How to setup a new event:
 ### In github secrets
 - Update Checkin List API ID
 
-### In pull_attendee_data.sh
+### In pull_attendee_data2.sh
 - Update event var to current event tag event="denogmeetup21-01"
 - Update output file to new name "$datafile" > _data/attendees_meetup2021-01.json
 

@@ -31,7 +31,7 @@ curl -H "Authorization: Token ${api_token}" "${url}" | jq '.results[] | select(.
 cat ${tempfileslug} | while read event; do 
   url="https://pretix.eu/api/v1/organizers/denog/events/${event}/checkinlists/"
   echo "DEBUG: url: $url"
-  curl -H "Authorization: Token ${api_token}" "${url}" | jq '.results[] | select(.name == "Attendees") | .id' > ${tempfile}
+  curl -H "Authorization: Token ${api_token}" "${url}" | jq '.results[] | select(.name == "Public Attendees List") | .id' > ${tempfile}
   checkin_list="`cat ${tempfile}`"
   rm -f ${tempfile}
   #echo "checkin_list: $checkin_list"
@@ -56,7 +56,7 @@ cat ${tempfileslug} | while read event; do
   rm -f "$datafile"
 
   # Create html page
-  mkdir "${event}"
+  mkdir -p "${event}"
   cat template.index.markdown | sed "s/EVENT/attendees_${event}/" > "${event}/index.markdown"
 
 done
