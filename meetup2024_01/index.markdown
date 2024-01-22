@@ -24,7 +24,7 @@ layout: liste
             {% assign asns=entry.asn | split: ' ' %}
           {% endif %}
           {% for asn in asns %}
-          <a href="https://apps.db.ripe.net/search/query.html?searchtext=AS{{ asn|strip|remove:"AS" }}&flags=r&types=AUT_NUM" target="_blank">{{ asn|remove:"AS" }}</a><br>
+          <a href="https://apps.db.ripe.net/db-web-ui/query?searchtext=AS{{ asn|strip|remove:"AS" }}&rflag=true&types=aut-num" target="_blank">{{ asn|remove:"AS" }}</a><br>
           {% endfor %}
         {% endif %}
       </td>
