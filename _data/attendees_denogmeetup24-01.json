@@ -108,6 +108,12 @@
     "asn": "208206"
   },
   {
+    "name": "Julian Fölsch",
+    "company": "DE-CIX Management GmbH",
+    "irc": "paktosan",
+    "asn": "196610"
+  },
+  {
     "name": "Korcan Ataman",
     "company": "M&L Systems GmbH",
     "irc": null,
@@ -250,6 +256,12 @@
     "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Tilman Schäfers",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tim Kleefass",
