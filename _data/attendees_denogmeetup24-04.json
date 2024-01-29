@@ -12,6 +12,12 @@
     "asn": "9002"
   },
   {
+    "name": "Dean Grove",
+    "company": null,
+    "irc": "SrRaven",
+    "asn": null
+  },
+  {
     "name": "Magnus Frühling",
     "company": "Freie Netze Südhessen e.V.",
     "irc": "skorpy",
