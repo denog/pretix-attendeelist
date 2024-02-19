@@ -36,6 +36,12 @@
     "asn": null
   },
   {
+    "name": "Johannes Brauch",
+    "company": "TWL-KOM GmbH",
+    "irc": null,
+    "asn": "9022"
+  },
+  {
     "name": "Johannes Erwerle",
     "company": "BelWü",
     "irc": "_992jo|m",
@@ -136,6 +142,12 @@
     "company": "PFALZKOM",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sara Fink",
+    "company": "TWl-KOM GmbH",
+    "irc": null,
+    "asn": "9022"
   },
   {
     "name": "Sebastian Gerner",
