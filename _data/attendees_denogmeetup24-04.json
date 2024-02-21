@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Charlotte Rupp",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Giese",
     "company": "RtBrick",
     "irc": null,
@@ -106,6 +112,12 @@
     "company": "firstcolo",
     "irc": null,
     "asn": "44066"
+  },
+  {
+    "name": "Max Rink",
+    "company": "DT Technik",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Michael Fischer",
