@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Claudia Uhlich",
+    "company": "Deutsche Telekom AG",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
+    "name": "Janina Faßbender",
+    "company": "DENOG e.V. / DTAG",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "DENOG e.V. / DTAG",
+    "irc": "_sb_",
+    "asn": "3320"
+  },
+  {
+    "name": "Tarranum Kamal",
+    "company": "Akamai Technologies",
+    "irc": null,
+    "asn": "20940"
+  }
+]
