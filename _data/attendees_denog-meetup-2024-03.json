@@ -24,6 +24,12 @@
     "asn": "208500"
   },
   {
+    "name": "Marc Peters",
+    "company": null,
+    "irc": "mapet",
+    "asn": null
+  },
+  {
     "name": "Peter Hansen",
     "company": "myLoc",
     "irc": null,
