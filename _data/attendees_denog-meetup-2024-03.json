@@ -6,6 +6,12 @@
     "asn": "34953"
   },
   {
+    "name": "Arne Bayer",
+    "company": "RelAix Networks",
+    "irc": null,
+    "asn": "34953"
+  },
+  {
     "name": "Christopher Dziomba",
     "company": "Deutsche Telekom AG",
     "irc": null,
@@ -70,6 +76,12 @@
     "company": "sipgate",
     "irc": "feuerrot",
     "asn": "15594"
+  },
+  {
+    "name": "Nick Erdmann",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Peter Hansen",
