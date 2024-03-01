@@ -60,6 +60,12 @@
     "asn": null
   },
   {
+    "name": "Markus Witt",
+    "company": "sipgate",
+    "irc": "feuerrot",
+    "asn": "15594"
+  },
+  {
     "name": "Peter Hansen",
     "company": "myLoc",
     "irc": null,
