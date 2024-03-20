@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Florian Hibler",
+    "company": "DENOG e.V. / Arista Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "James Bensley",
     "company": "Inter.link",
     "irc": null,
@@ -32,6 +38,12 @@
   {
     "name": "Robyn Bachofer",
     "company": "imos GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tasso Mulzer",
+    "company": "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS)",
     "irc": null,
     "asn": null
   }
