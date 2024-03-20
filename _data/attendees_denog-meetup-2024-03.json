@@ -208,5 +208,11 @@
     "company": "Akamai Technologies",
     "irc": null,
     "asn": "20940"
+  },
+  {
+    "name": "Tim Korves",
+    "company": "Korves.Net USA LLC",
+    "irc": "DerTim",
+    "asn": "207439"
   }
 ]
