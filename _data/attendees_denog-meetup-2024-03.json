@@ -292,5 +292,11 @@
     "company": "Korves.Net USA LLC",
     "irc": "DerTim",
     "asn": "207439"
+  },
+  {
+    "name": "Tim Windelschmidt",
+    "company": "Monogon SE",
+    "irc": "fionera",
+    "asn": null
   }
 ]
