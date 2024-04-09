@@ -186,10 +186,22 @@
     "asn": "15594"
   },
   {
+    "name": "Matvii Berner",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maximiliano Estudies",
     "company": "DeepL SE",
     "irc": null,
     "asn": "60550"
+  },
+  {
+    "name": "Mic Szillat",
+    "company": "Freifunk Düsseldorf e.V.",
+    "irc": "nomaster",
+    "asn": "207871"
   },
   {
     "name": "Nick Erdmann",
