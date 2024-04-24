@@ -234,6 +234,12 @@
     "asn": "44066"
   },
   {
+    "name": "Sebastian Posner",
+    "company": "Deutsche Telekom AG",
+    "irc": "snaeqe",
+    "asn": null
+  },
+  {
     "name": "Simon Terzenbach",
     "company": "Wobcom",
     "irc": "herrbett",
