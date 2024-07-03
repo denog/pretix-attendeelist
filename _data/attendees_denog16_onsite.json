@@ -1,5 +1,11 @@
 [
   {
+    "name": "Dustin Sanders",
+    "company": "Hofnetz",
+    "irc": null,
+    "asn": "50324"
+  },
+  {
     "name": "Janek Gál",
     "company": "freescale.de",
     "irc": "janek",
@@ -52,6 +58,12 @@
     "company": "DENOG e.V.",
     "irc": "TimKleefass",
     "asn": null
+  },
+  {
+    "name": "Tom Siewert",
+    "company": "Hetzner Cloud GmbH",
+    "irc": "@tom:siewert.io",
+    "asn": "24940"
   },
   {
     "name": "Ursin Filli",
