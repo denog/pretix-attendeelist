@@ -1,5 +1,11 @@
 [
   {
+    "name": "Janek Gál",
+    "company": null,
+    "irc": "janek",
+    "asn": null
+  },
+  {
     "name": "Sebastian Becker",
     "company": "DENOG e.V. / Deutsche Telekom AG",
     "irc": "_sb_",
@@ -16,5 +22,11 @@
     "company": "DENOG e.V.",
     "irc": "TimKleefass",
     "asn": null
+  },
+  {
+    "name": "Ursin Filli",
+    "company": null,
+    "irc": "ursinn",
+    "asn": "202427"
   }
 ]
