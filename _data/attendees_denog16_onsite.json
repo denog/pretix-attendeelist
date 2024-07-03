@@ -1,7 +1,13 @@
 [
   {
+    "name": "Sebastian Becker",
+    "company": "DENOG e.V. / Deutsche Telekom AG",
+    "irc": "_sb_",
+    "asn": "3320"
+  },
+  {
     "name": "Tim Kleefass",
-    "company": "DENOG",
+    "company": "DENOG e.V.",
     "irc": "TimKleefass",
     "asn": null
   }
