@@ -1,5 +1,11 @@
 [
   {
+    "name": "Bernhard Steinert",
+    "company": "Brandl Services",
+    "irc": null,
+    "asn": "39090"
+  },
+  {
     "name": "Dustin Sanders",
     "company": "Hofnetz",
     "irc": null,
@@ -60,6 +66,12 @@
     "asn": null
   },
   {
+    "name": "Richard Mueller",
+    "company": "Brandl Services",
+    "irc": "tiffy",
+    "asn": "39090"
+  },
+  {
     "name": "Robin Därmann",
     "company": "Ruhr-Universität Bochum",
     "irc": "schrorg",
@@ -70,6 +82,12 @@
     "company": "DENOG e.V. / Deutsche Telekom AG",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Stefan Behte",
+    "company": "Babiel GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tasso Mulzer",
