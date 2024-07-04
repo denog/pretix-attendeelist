@@ -36,10 +36,22 @@
     "asn": "210941"
   },
   {
+    "name": "Michael Hayler",
+    "company": "noris networks",
+    "irc": "raider",
+    "asn": "12337"
+  },
+  {
     "name": "Niels Häußler",
     "company": "Student HTWK Leipzig",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Robin Därmann",
+    "company": "Ruhr-Universität Bochum",
+    "irc": "schrorg",
+    "asn": "29484"
   },
   {
     "name": "Sebastian Becker",
