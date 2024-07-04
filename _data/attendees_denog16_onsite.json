@@ -42,10 +42,22 @@
     "asn": null
   },
   {
+    "name": "Julia Sontag",
+    "company": "Eurofiber Netz GmbH",
+    "irc": null,
+    "asn": "211752"
+  },
+  {
     "name": "Lara Hallaczek",
     "company": "Robert Bosch GmbH",
     "irc": "error",
     "asn": null
+  },
+  {
+    "name": "Leon Weber",
+    "company": "Eurofiber Netz GmbH",
+    "irc": "leon",
+    "asn": "211762"
   },
   {
     "name": "Markus Berthold",
