@@ -150,6 +150,12 @@
     "asn": "12337"
   },
   {
+    "name": "Molly Miller",
+    "company": "Flying Circus Internet Operations GmbH",
+    "irc": "molly / @molly:matrix.flyingcircus.io",
+    "asn": null
+  },
+  {
     "name": "Moritz Frenzel",
     "company": "DENOG e.V. / Zayo Europe / Stuttgart-IX",
     "irc": "momorientes",
