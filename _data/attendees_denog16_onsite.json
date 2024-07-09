@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Andreas Beck",
+    "company": "ROETH & BECK",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Boesen",
     "company": "BelWü",
     "irc": "Happy",
@@ -180,10 +186,22 @@
     "asn": null
   },
   {
+    "name": "Oliver Horscht",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "44486"
+  },
+  {
     "name": "Richard Mueller",
     "company": "Brandl Services",
     "irc": "tiffy",
     "asn": "39090"
+  },
+  {
+    "name": "Robert Bruhm",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "44486"
   },
   {
     "name": "Robin Därmann",
