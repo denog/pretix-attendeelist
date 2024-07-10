@@ -108,6 +108,12 @@
     "asn": "56997"
   },
   {
+    "name": "Johannes Rohde",
+    "company": "MOA Group GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Julia Sontag",
     "company": "Eurofiber Netz GmbH",
     "irc": null,
@@ -262,5 +268,11 @@
     "company": null,
     "irc": "ursinn",
     "asn": "202427"
+  },
+  {
+    "name": "Wilhelm Verho",
+    "company": "MOA Group GmbH",
+    "irc": null,
+    "asn": null
   }
 ]
