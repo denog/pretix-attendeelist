@@ -1,5 +1,305 @@
 [
   {
+    "name": "Adrian Bönde",
+    "company": "HELDELE GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Andreas Beck",
+    "company": "ROETH & BECK",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Andreas Boesen",
+    "company": "BelWü",
+    "irc": "Happy",
+    "asn": "553"
+  },
+  {
+    "name": "Andreas Fleck",
+    "company": "Equinix",
+    "irc": null,
+    "asn": "15830"
+  },
+  {
+    "name": "Andreas Pfeifer",
+    "company": "Equinix",
+    "irc": null,
+    "asn": "15830"
+  },
+  {
+    "name": "Bernhard Steinert",
+    "company": "Brandl Services",
+    "irc": null,
+    "asn": "39090"
+  },
+  {
+    "name": "Christian Theune",
+    "company": "Flying Circus Internet Operations GmbH",
+    "irc": "theuni",
+    "asn": "41981"
+  },
+  {
+    "name": "Clara Riese",
+    "company": "sipgate GmbH",
+    "irc": "clerie",
+    "asn": "15594"
+  },
+  {
+    "name": "Darwin Schrader",
+    "company": "TU Berlin",
+    "irc": null,
+    "asn": "680"
+  },
+  {
+    "name": "Dustin Sanders",
+    "company": "Hofnetz",
+    "irc": null,
+    "asn": "50324"
+  },
+  {
+    "name": "Emily Kooistra",
+    "company": "NIKHEF",
+    "irc": "Evey",
+    "asn": "1104"
+  },
+  {
+    "name": "Emily Seebeck",
+    "company": "TU Berlin",
+    "irc": "Emily3403",
+    "asn": "680"
+  },
+  {
+    "name": "Fiona Weber",
+    "company": "Wobcom / WDZ / DENOG",
+    "irc": "vidister",
+    "asn": "9136"
+  },
+  {
+    "name": "Georg Haas",
+    "company": null,
+    "irc": "hax404",
+    "asn": null
+  },
+  {
+    "name": "Hannes Witt",
+    "company": "EXA Infrastructure",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Janek Gál",
+    "company": "freescale.de",
+    "irc": "janek",
+    "asn": null
+  },
+  {
+    "name": "Jan Gilla",
+    "company": "level66.network",
+    "irc": "netaviator",
+    "asn": "56381"
+  },
+  {
+    "name": "Janik Haag",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Janina Faßbender",
+    "company": "DENOG e.V. / Deutsche Telekom AG",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
+    "name": "Jan Koppe",
+    "company": "BurdaForward GmbH",
+    "irc": "thunfisch",
+    "asn": null
+  },
+  {
+    "name": "Jannik Berges",
+    "company": "WEBDISCOUNT GmbH & Co. KG",
+    "irc": null,
+    "asn": "24637"
+  },
+  {
+    "name": "Jannis Walter",
+    "company": "Walter IT-Solutions",
+    "irc": "Drag_and_Drop",
+    "asn": null
+  },
+  {
+    "name": "Johannes Jakob",
+    "company": null,
+    "irc": "irrwitzer",
+    "asn": "56997"
+  },
+  {
+    "name": "Johannes Rohde",
+    "company": "MOA Group GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Julia Sontag",
+    "company": "Eurofiber Netz GmbH",
+    "irc": null,
+    "asn": "211752"
+  },
+  {
+    "name": "Kai Kriegel",
+    "company": null,
+    "irc": "@kjk:nop.systems",
+    "asn": null
+  },
+  {
+    "name": "Lara Hallaczek",
+    "company": "Robert Bosch GmbH",
+    "irc": "error",
+    "asn": null
+  },
+  {
+    "name": "Leon Weber",
+    "company": "Eurofiber Netz GmbH",
+    "irc": "leon",
+    "asn": "211762"
+  },
+  {
+    "name": "Luiz Amaral",
+    "company": "InnoGames GmbH",
+    "irc": null,
+    "asn": "208058"
+  },
+  {
+    "name": "Marc Korthaus",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
+    "name": "Marco Firsching",
+    "company": "Rechenzentrum Haßfurt",
+    "irc": null,
+    "asn": "44973"
+  },
+  {
+    "name": "Marc Peters",
+    "company": "RTL Deutschland",
+    "irc": "marpet",
+    "asn": "42312"
+  },
+  {
+    "name": "Marcus Weiner",
+    "company": "DeepL SE",
+    "irc": "@mraerino@systemli.social",
+    "asn": "60550"
+  },
+  {
+    "name": "Markus Berthold",
+    "company": "ADESTIS",
+    "irc": null,
+    "asn": "204053"
+  },
+  {
+    "name": "Markus Krieger",
+    "company": "Uni Würzburg",
+    "irc": "@imp:matrix.nerd2nerd.org",
+    "asn": "680"
+  },
+  {
+    "name": "Markus Schmelter",
+    "company": null,
+    "irc": null,
+    "asn": "210941"
+  },
+  {
+    "name": "Maximilian Sesterhenn",
+    "company": "EPX Ehrhardt + Partner Xtended GmbH",
+    "irc": "msesterhenn",
+    "asn": "208206"
+  },
+  {
+    "name": "Michael Böhme",
+    "company": "Webdiscount GmbH & Co. KG",
+    "irc": null,
+    "asn": "24637"
+  },
+  {
+    "name": "Michael Hayler",
+    "company": "noris networks",
+    "irc": "raider",
+    "asn": "12337"
+  },
+  {
+    "name": "Molly Miller",
+    "company": "Flying Circus Internet Operations GmbH",
+    "irc": "molly / @molly:matrix.flyingcircus.io",
+    "asn": null
+  },
+  {
+    "name": "Moritz Frenzel",
+    "company": "DENOG e.V. / Zayo Europe / Stuttgart-IX",
+    "irc": "momorientes",
+    "asn": "48918.41139"
+  },
+  {
+    "name": "Nico Boehr",
+    "company": "Freifunk Stuttgart e.V.",
+    "irc": null,
+    "asn": "208772"
+  },
+  {
+    "name": "Nicolas Berens",
+    "company": "Planet Labs",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Niels Häußler",
+    "company": "Student HTWK Leipzig",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Oliver Horscht",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "44486"
+  },
+  {
+    "name": "Richard Mueller",
+    "company": "Brandl Services",
+    "irc": "tiffy",
+    "asn": "39090"
+  },
+  {
+    "name": "Robert Bruhm",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "44486"
+  },
+  {
+    "name": "Robin Därmann",
+    "company": "Ruhr-Universität Bochum",
+    "irc": "schrorg",
+    "asn": "29484"
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "DENOG e.V. / Deutsche Telekom AG",
+    "irc": "_sb_",
+    "asn": "3320"
+  },
+  {
+    "name": "Sebastian Oleinik",
+    "company": "Eurofiber",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "SImon Marquardt",
     "company": null,
     "irc": "smrqdt",
