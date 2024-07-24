@@ -168,6 +168,12 @@
     "asn": null
   },
   {
+    "name": "Leon Kramer",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
+  },
+  {
     "name": "Leon Weber",
     "company": "Eurofiber Netz GmbH",
     "irc": "leon",
@@ -220,6 +226,12 @@
     "company": null,
     "irc": null,
     "asn": "210941"
+  },
+  {
+    "name": "Marvin Haerdtlein",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
   },
   {
     "name": "Maximilian Krohn",
@@ -316,6 +328,12 @@
     "company": "DENOG e.V. / Deutsche Telekom AG",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Sebastian Gerner",
+    "company": "fírstcolo",
+    "irc": null,
+    "asn": "44066"
   },
   {
     "name": "Sebastian Oleinik",
