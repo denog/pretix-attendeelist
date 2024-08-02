@@ -48,6 +48,12 @@
     "asn": "41981"
   },
   {
+    "name": "Christof Rüdiger",
+    "company": "OVIS IT Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Berkemeier",
     "company": "Weyland-Yutani",
     "irc": null,
@@ -238,6 +244,12 @@
     "company": "Rechenzentrum Haßfurt",
     "irc": null,
     "asn": "44973"
+  },
+  {
+    "name": "Marco Herrmann",
+    "company": "OVIS IT Consulting GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Marc Peters",
@@ -452,6 +464,12 @@
   {
     "name": "Thomas Schäfer",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Thomas Wiese",
+    "company": "OVIS IT Consulting GmbH",
     "irc": null,
     "asn": null
   },
