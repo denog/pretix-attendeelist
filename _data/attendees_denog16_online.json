@@ -46670,3 +46670,59 @@
     "asn": null
   }
 ]
+[
+  {
+    "name": "Christian Deckelmann",
+    "company": null,
+    "irc": null,
+    "asn": "82"
+  },
+  {
+    "name": "Christian Hacker",
+    "company": "ScaleUp Technologies GmbH & Co. KG",
+    "irc": "christian29014",
+    "asn": "29014"
+  },
+  {
+    "name": "Dirk Meyer",
+    "company": "Dinoex",
+    "irc": "dinoex",
+    "asn": "205376"
+  },
+  {
+    "name": "Marco Hegenberg",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Maximilian Sesterhenn",
+    "company": null,
+    "irc": "msesterhenn",
+    "asn": "204624"
+  },
+  {
+    "name": "Paul Sütterlin",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Rainer Fuchs",
+    "company": "DATEV eG",
+    "irc": null,
+    "asn": "15451"
+  },
+  {
+    "name": "Stefan Behte",
+    "company": "Babiel GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Werner Fischer",
+    "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": null
+  }
+]
