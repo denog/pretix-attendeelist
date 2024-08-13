@@ -252,6 +252,12 @@
     "asn": "211762"
   },
   {
+    "name": "Luca Vornheder",
+    "company": "primeLine Group (Systemhaus)",
+    "irc": null,
+    "asn": "204704"
+  },
+  {
     "name": "Luiz Amaral",
     "company": "InnoGames GmbH",
     "irc": null,
@@ -292,6 +298,12 @@
     "company": "DeepL SE",
     "irc": "@mraerino@systemli.social",
     "asn": "60550"
+  },
+  {
+    "name": "Marius Höhn",
+    "company": "primeLine Group (partimus)",
+    "irc": null,
+    "asn": "204704"
   },
   {
     "name": "Markus Berthold",
