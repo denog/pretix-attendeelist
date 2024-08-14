@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Zagler",
+    "company": "Green IT Solution GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Beck",
     "company": "ROETH & BECK",
     "irc": null,
@@ -58,6 +64,18 @@
     "company": "TNG Stadtnetz GmbH",
     "irc": null,
     "asn": "13101"
+  },
+  {
+    "name": "Christian Burk",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christian Lehmann",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Christian Theune",
@@ -124,6 +142,12 @@
     "company": "TU Berlin",
     "irc": "Emily3403",
     "asn": "680"
+  },
+  {
+    "name": "Enrico Aderhold",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Fiona Weber",
@@ -210,6 +234,12 @@
     "asn": null
   },
   {
+    "name": "Joey Julian König",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Johannes Erwerle",
     "company": "BelWü",
     "irc": "_992jo",
@@ -243,6 +273,12 @@
     "name": "Kai Kriegel",
     "company": null,
     "irc": "@kjk:nop.systems",
+    "asn": null
+  },
+  {
+    "name": "Katharina Hupe",
+    "company": "Green IT Solution GmbH",
+    "irc": null,
     "asn": null
   },
   {
@@ -488,6 +524,12 @@
   {
     "name": "Sebastian Oleinik",
     "company": "Eurofiber",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sebastian Wiedemann",
+    "company": "HCD Consulting GmbH",
     "irc": null,
     "asn": null
   },
