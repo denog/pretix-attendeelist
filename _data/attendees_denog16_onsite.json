@@ -180,6 +180,12 @@
     "asn": null
   },
   {
+    "name": "Istvan Ruzman",
+    "company": null,
+    "irc": null,
+    "asn": "51324"
+  },
+  {
     "name": "Jacek Topolski",
     "company": "Netflix",
     "irc": null,
@@ -322,6 +328,12 @@
     "company": "InnoGames GmbH",
     "irc": null,
     "asn": "208058"
+  },
+  {
+    "name": "Lukas Gerhold",
+    "company": "EXARING",
+    "irc": "lukas-",
+    "asn": "51324"
   },
   {
     "name": "Lukas Grams",
@@ -622,6 +634,12 @@
     "company": "DENOG e.V.",
     "irc": "TimKleefass",
     "asn": null
+  },
+  {
+    "name": "Tobias Krischer",
+    "company": "Exaring AG",
+    "irc": "tobikris",
+    "asn": "51324"
   },
   {
     "name": "Tom Siewert",
