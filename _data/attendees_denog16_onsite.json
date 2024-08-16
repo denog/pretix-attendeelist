@@ -186,6 +186,12 @@
     "asn": "2906"
   },
   {
+    "name": "Jafar Azizi",
+    "company": "htp GmbH",
+    "irc": null,
+    "asn": "13045"
+  },
+  {
     "name": "Janek Gál",
     "company": "freescale.de",
     "irc": "janek",
@@ -450,6 +456,12 @@
     "asn": "48918.41139"
   },
   {
+    "name": "Moritz Krause",
+    "company": "htp GmbH",
+    "irc": "_mrplow",
+    "asn": "13045"
+  },
+  {
     "name": "Nico Boehr",
     "company": "Freifunk Stuttgart e.V.",
     "irc": null,
@@ -508,6 +520,12 @@
     "company": "SYNLINQ",
     "irc": null,
     "asn": "44486"
+  },
+  {
+    "name": "Robert Remenyi",
+    "company": "htp GmbH",
+    "irc": "robrem",
+    "asn": "13045"
   },
   {
     "name": "Robin Därmann",
