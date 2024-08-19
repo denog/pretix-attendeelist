@@ -108,6 +108,12 @@
     "asn": "680"
   },
   {
+    "name": "Dennis Diehm",
+    "company": "Hetzner Online GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Denys Korotkyi",
     "company": "DeepL",
     "irc": null,
@@ -118,6 +124,12 @@
     "company": "Netcom Kassel GmbH",
     "irc": "dinoex",
     "asn": "20810"
+  },
+  {
+    "name": "Dominik Grüber",
+    "company": "Hetzner Online GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Dustin Lampe",
