@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Votteler",
+    "company": "RelAix Networks",
+    "irc": "v0tti",
+    "asn": "34953"
+  },
+  {
     "name": "Alexander Zagler",
     "company": "Green IT Solution GmbH",
     "irc": null,
@@ -262,6 +268,12 @@
     "company": "HILOTEC E+C AG",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Jennifer Graul",
+    "company": "RelAix Networks",
+    "irc": "netali",
+    "asn": "34953"
   },
   {
     "name": "Joey Julian König",
