@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Lobodzinski",
+    "company": "DTGK",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alexander Votteler",
     "company": "RelAix Networks",
     "irc": "v0tti",
@@ -82,6 +88,12 @@
     "company": "HCD Consulting GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Christian Seitz",
+    "company": "system.de / IN-Berlin / Community-IX",
+    "irc": "gizzmo",
+    "asn": "50030"
   },
   {
     "name": "Christian Theune",
