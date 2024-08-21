@@ -42,6 +42,12 @@
     "asn": "15830"
   },
   {
+    "name": "Andreas Kimpfler",
+    "company": "Kimpfler Software + Consulting GmbH & Co. KG",
+    "irc": "Tiberian",
+    "asn": null
+  },
+  {
     "name": "Andreas Pfeifer",
     "company": "Equinix",
     "irc": null,
@@ -398,6 +404,12 @@
   {
     "name": "Maarten Withofs",
     "company": "Circular IT group",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Maíra Wollenhaupt",
+    "company": "Route128 GmbH",
     "irc": null,
     "asn": null
   },
