@@ -420,6 +420,12 @@
     "asn": null
   },
   {
+    "name": "Marcel Fest",
+    "company": "Deutsche Telekom AG",
+    "irc": "cellebyte",
+    "asn": "3320"
+  },
+  {
     "name": "Marc Korthaus",
     "company": "Inter.link",
     "irc": null,
