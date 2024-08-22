@@ -96,6 +96,12 @@
     "asn": null
   },
   {
+    "name": "Christian Knauer",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Lehmann",
     "company": "HCD Consulting GmbH",
     "irc": null,
@@ -292,12 +298,6 @@
     "company": "level66.network",
     "irc": "netaviator",
     "asn": "56381"
-  },
-  {
-    "name": "Janik Haag",
-    "company": null,
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Janik Haag",
