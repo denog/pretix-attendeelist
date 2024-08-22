@@ -138,6 +138,12 @@
     "asn": null
   },
   {
+    "name": "David Große-Siestrup",
+    "company": "TKRZ Stdtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
+  },
+  {
     "name": "Denis Klimek",
     "company": "wilhelm.tel GmbH",
     "irc": null,
@@ -354,6 +360,12 @@
     "asn": "211752"
   },
   {
+    "name": "Justus Berning",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
+  },
+  {
     "name": "Kai Kriegel",
     "company": null,
     "irc": "@kjk:nop.systems",
@@ -448,6 +460,12 @@
     "company": "RTL Deutschland",
     "irc": "marpet",
     "asn": "42312"
+  },
+  {
+    "name": "Marcus Scholz",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": "Commander1024",
+    "asn": "42184"
   },
   {
     "name": "Marcus Weiner",
@@ -592,6 +610,12 @@
     "company": "Student HTWK Leipzig",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Niklas Plugge",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
   },
   {
     "name": "Noelle Massar",
