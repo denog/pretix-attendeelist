@@ -318,6 +318,12 @@
     "asn": "13045"
   },
   {
+    "name": "Jan Dirnberger",
+    "company": "noris network AG",
+    "irc": "solis",
+    "asn": "12337"
+  },
+  {
     "name": "Janek Gál",
     "company": "freescale.de",
     "irc": "janek",
@@ -408,6 +414,12 @@
     "asn": null
   },
   {
+    "name": "Jonas Mutschler",
+    "company": "system.De – System & Project GmbH",
+    "irc": null,
+    "asn": "50030"
+  },
+  {
     "name": "Jörg Lauwigi",
     "company": null,
     "irc": null,
@@ -448,6 +460,12 @@
     "company": "Equinix",
     "irc": null,
     "asn": "15830"
+  },
+  {
+    "name": "Klara Grziwok",
+    "company": "WOBcom",
+    "irc": null,
+    "asn": "9136"
   },
   {
     "name": "Lara Hallaczek",
@@ -862,6 +880,12 @@
     "company": "HCD Consulting GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sebastian Wiesinger",
+    "company": "noris network AG",
+    "irc": "GPF",
+    "asn": "12337"
   },
   {
     "name": "SImon Marquardt",
