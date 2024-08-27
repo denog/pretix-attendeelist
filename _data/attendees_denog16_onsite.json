@@ -276,6 +276,12 @@
     "asn": "60550"
   },
   {
+    "name": "Hannes Jacobi",
+    "company": "UPONU GmbH",
+    "irc": null,
+    "asn": "208500"
+  },
+  {
     "name": "Hannes Witt",
     "company": "EXA Infrastructure",
     "irc": null,
@@ -340,6 +346,12 @@
     "company": "BurdaForward GmbH",
     "irc": "thunfisch",
     "asn": null
+  },
+  {
+    "name": "Jan Mußmann",
+    "company": "UPONU GmbH",
+    "irc": null,
+    "asn": "208500"
   },
   {
     "name": "Jannik Berges",
@@ -508,6 +520,12 @@
     "company": "Deutsche Telekom AG",
     "irc": "cellebyte",
     "asn": "3320"
+  },
+  {
+    "name": "Marcel Link",
+    "company": "UPONU GmbH",
+    "irc": null,
+    "asn": "208500"
   },
   {
     "name": "Marc Korthaus",
