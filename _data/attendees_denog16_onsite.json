@@ -234,10 +234,22 @@
     "asn": null
   },
   {
+    "name": "Felix Menge",
+    "company": "INWX / InterNetworX",
+    "irc": null,
+    "asn": "48596"
+  },
+  {
     "name": "Fiona Weber",
     "company": "Wobcom / WDZ / DENOG",
     "irc": "vidister",
     "asn": "9136"
+  },
+  {
+    "name": "Frank Hebold",
+    "company": "INWX / InterNetworX",
+    "irc": null,
+    "asn": "48596"
   },
   {
     "name": "Frederic Bregiel",
@@ -442,6 +454,12 @@
     "company": "Eurofiber Netz GmbH",
     "irc": "leon",
     "asn": "211762"
+  },
+  {
+    "name": "Lilian Roller",
+    "company": "INWX / InterNetworX",
+    "irc": null,
+    "asn": "48596"
   },
   {
     "name": "Luca Vornheder",
@@ -760,6 +778,12 @@
     "company": "conova communications GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Pierre Kroschewsky",
+    "company": "INWX / InterNetworX",
+    "irc": null,
+    "asn": "48596"
   },
   {
     "name": "Richard Mueller",
