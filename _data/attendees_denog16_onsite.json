@@ -132,6 +132,12 @@
     "asn": null
   },
   {
+    "name": "Christoph Knörr",
+    "company": "komro GmbH",
+    "irc": null,
+    "asn": "29413"
+  },
+  {
     "name": "Clara Riese",
     "company": "sipgate",
     "irc": "clerie",
@@ -612,6 +618,12 @@
     "asn": null
   },
   {
+    "name": "Michael Angerer",
+    "company": "komro GmbH",
+    "irc": null,
+    "asn": "29413"
+  },
+  {
     "name": "Michael Böhme",
     "company": "Webdiscount GmbH & Co. KG",
     "irc": null,
@@ -670,6 +682,12 @@
     "company": "Planet Labs",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Nicolas Korten",
+    "company": "komro GmbH",
+    "irc": null,
+    "asn": "29413"
   },
   {
     "name": "Niels Graupe",
