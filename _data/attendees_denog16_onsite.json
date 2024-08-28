@@ -60,6 +60,12 @@
     "asn": "15830"
   },
   {
+    "name": "Andreas Worbs",
+    "company": "Artfiles GmbH",
+    "irc": "laxxie",
+    "asn": "8893"
+  },
+  {
     "name": "André Niemann",
     "company": null,
     "irc": "strohalm",
@@ -970,6 +976,12 @@
     "company": "TU Dortmund",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sven Ellingen",
+    "company": "CANCOM Managed Services GmbH",
+    "irc": "SE",
+    "asn": "8469"
   },
   {
     "name": "Tasso Mulzer",
