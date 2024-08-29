@@ -48,6 +48,12 @@
     "asn": "33891"
   },
   {
+    "name": "Andreas John",
+    "company": "net-lab GmbH",
+    "irc": "derjohn",
+    "asn": "20755"
+  },
+  {
     "name": "Andreas Kimpfler",
     "company": "Kimpfler Software + Consulting GmbH & Co. KG",
     "irc": "Tiberian",
@@ -1010,6 +1016,12 @@
   {
     "name": "Stephanie Althoff",
     "company": "TU Dortmund",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Svend Andersen",
+    "company": "Axians Networks & Solutions",
     "irc": null,
     "asn": null
   },
