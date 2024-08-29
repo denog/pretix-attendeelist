@@ -42,6 +42,12 @@
     "asn": "15830"
   },
   {
+    "name": "Andreas Götz",
+    "company": "Core-Backbone GmbH",
+    "irc": "Andy",
+    "asn": "33891"
+  },
+  {
     "name": "Andreas Kimpfler",
     "company": "Kimpfler Software + Consulting GmbH & Co. KG",
     "irc": "Tiberian",
@@ -190,6 +196,12 @@
     "company": "Hetzner Online GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Dennis Hofem",
+    "company": "Core-Backbone GmbH",
+    "irc": "Dennis",
+    "asn": "33891"
   },
   {
     "name": "Denys Korotkyi",
@@ -1036,6 +1048,12 @@
     "company": "Hetzner Cloud GmbH",
     "irc": "@tom:siewert.io",
     "asn": "24940"
+  },
+  {
+    "name": "Ulrich Köhler",
+    "company": "Core-Backbone GmbH",
+    "irc": "Ulli",
+    "asn": "33891"
   },
   {
     "name": "Ursin Filli",
