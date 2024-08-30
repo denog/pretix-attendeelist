@@ -144,6 +144,12 @@
     "asn": null
   },
   {
+    "name": "Christian Klaeren",
+    "company": "TELE AG",
+    "irc": null,
+    "asn": "58243"
+  },
+  {
     "name": "Christian Knauer",
     "company": null,
     "irc": null,
@@ -750,10 +756,22 @@
     "asn": "20755"
   },
   {
+    "name": "Martin Weigelt",
+    "company": "TELE AG",
+    "irc": "GigaStorm",
+    "asn": "58243"
+  },
+  {
     "name": "Marvin Haerdtlein",
     "company": "firstcolo",
     "irc": null,
     "asn": "44066"
+  },
+  {
+    "name": "Matthias Kämmerer",
+    "company": "TELE AG",
+    "irc": null,
+    "asn": "58243"
   },
   {
     "name": "Maximilian Fischer",
