@@ -24,6 +24,12 @@
     "asn": null
   },
   {
+    "name": "Amy Chudalla",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Beck",
     "company": "ROETH & BECK",
     "irc": null,
@@ -114,6 +120,12 @@
     "asn": null
   },
   {
+    "name": "Bernhard Giese",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Bernhard Steinert",
     "company": "Brandl Services",
     "irc": null,
@@ -122,6 +134,12 @@
   {
     "name": "Bilal Aliov",
     "company": "Nomios Germany GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Birgit Schönborn",
+    "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
     "asn": null
   },
@@ -364,6 +382,12 @@
     "company": null,
     "irc": "Sh3ph3rd",
     "asn": "702"
+  },
+  {
+    "name": "Ilja Gräf",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Irshad Ali",
@@ -774,6 +798,12 @@
     "asn": "58243"
   },
   {
+    "name": "Matthias Wiltz",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Maximilian Fischer",
     "company": null,
     "irc": "luciusf",
@@ -807,6 +837,12 @@
     "name": "Maximilian Wilhelm",
     "company": "Hetzner Cloud",
     "irc": "Barbarossa",
+    "asn": null
+  },
+  {
+    "name": "Melanie Knauer",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
     "asn": null
   },
   {
@@ -1072,6 +1108,12 @@
     "company": "Baader Bank AG",
     "irc": null,
     "asn": "60799"
+  },
+  {
+    "name": "Steffen David",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Stephanie Althoff",
