@@ -684,6 +684,12 @@
     "asn": "60799"
   },
   {
+    "name": "Marcel Edler",
+    "company": "SkyLink Data Center GmbH",
+    "irc": null,
+    "asn": "44592"
+  },
+  {
     "name": "Marcel Fest",
     "company": "Deutsche Telekom AG",
     "irc": "cellebyte",
@@ -1018,6 +1024,12 @@
     "company": "INWX / InterNetworX",
     "irc": null,
     "asn": "48596"
+  },
+  {
+    "name": "René Spellerberg",
+    "company": "SkyLink Data Center GmbH",
+    "irc": null,
+    "asn": "44592"
   },
   {
     "name": "Richard Mueller",
