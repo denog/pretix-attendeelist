@@ -330,6 +330,12 @@
     "asn": null
   },
   {
+    "name": "Florian Mai",
+    "company": "sipgate / netzquadrat",
+    "irc": null,
+    "asn": "15594"
+  },
+  {
     "name": "Frank Hebold",
     "company": "INWX / InterNetworX",
     "irc": null,
@@ -1030,6 +1036,12 @@
     "company": "Ruhr-Universität Bochum",
     "irc": "schrorg",
     "asn": "29484"
+  },
+  {
+    "name": "Rudolph Bott",
+    "company": "sipgate / netzquadrat",
+    "irc": "rbott",
+    "asn": "15594"
   },
   {
     "name": "Sascha Hoppe",
