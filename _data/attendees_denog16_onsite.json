@@ -6,6 +6,12 @@
     "asn": null
   },
   {
+    "name": "Alban David Becker",
+    "company": "DD-IX e.V. | Accenture",
+    "irc": "@adb:adb.sh",
+    "asn": "57328"
+  },
+  {
     "name": "Alexander Kiontke",
     "company": "TU Dresden",
     "irc": "Alek464d:tu-dresden.de",
@@ -930,6 +936,12 @@
     "asn": null
   },
   {
+    "name": "Melody Sofia Eroshevich",
+    "company": "DD-IX e.V. | Cloudeteer GmbH",
+    "irc": "@melodythecat:matrix.org",
+    "asn": "57328"
+  },
+  {
     "name": "Michael Angerer",
     "company": "komro GmbH",
     "irc": null,
@@ -1281,6 +1293,12 @@
     "name": "Thomas Wiese",
     "company": "OVIS IT Consulting GmbH",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tig3rch3n .",
+    "company": null,
+    "irc": "@tig3rch3n:matrix.org",
     "asn": null
   },
   {
