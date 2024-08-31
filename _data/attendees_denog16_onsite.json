@@ -150,6 +150,12 @@
     "asn": null
   },
   {
+    "name": "Björn Dobe",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Carsten Schiefner",
     "company": null,
     "irc": null,
@@ -976,6 +982,12 @@
     "company": "komro GmbH",
     "irc": null,
     "asn": "29413"
+  },
+  {
+    "name": "Nico Schümann",
+    "company": "44pt Digital GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Niels Graupe",
