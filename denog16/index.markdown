@@ -10,7 +10,7 @@ layout: liste
       <th>Name</th>
       <th>Company</th>
       <th>ASN</th>
-      <th>IRC nick</th>
+      <th>IRC / matrix nick</th>
     </tr>
   </thead>
   <tbody>
