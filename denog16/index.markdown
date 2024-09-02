@@ -60,7 +60,7 @@ document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() =
       <th>Name</th>
       <th>Company</th>
       <th>ASN</th>
-      <th>IRC nick</th>
+      <th>IRC / matrix nick</th>
     </tr>
   </thead>
   <tbody>
