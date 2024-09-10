@@ -42,6 +42,12 @@
     "asn": null
   },
   {
+    "name": "Alex Senderkin",
+    "company": "BCIX",
+    "irc": null,
+    "asn": "16374"
+  },
+  {
     "name": "Alison Jaina",
     "company": "Open Systems",
     "irc": null,
@@ -250,6 +256,12 @@
     "company": "Weyland-Yutani",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Christopher Rössler",
+    "company": "BCIX",
+    "irc": null,
+    "asn": "16374"
   },
   {
     "name": "Christoph Knörr",
@@ -586,6 +598,12 @@
     "company": "RelAix Networks",
     "irc": "netali",
     "asn": "34953"
+  },
+  {
+    "name": "Jens Lietzmann",
+    "company": "BCIX",
+    "irc": null,
+    "asn": "16374"
   },
   {
     "name": "Jochen Langenbach",
