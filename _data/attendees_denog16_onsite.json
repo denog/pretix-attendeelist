@@ -132,6 +132,12 @@
     "asn": null
   },
   {
+    "name": "Audrius Masiulionis",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Barbara Szöke",
     "company": "Core-Backbone GmbH",
     "irc": "Babsi",
@@ -282,6 +288,12 @@
     "asn": "3320"
   },
   {
+    "name": "Dainius Sakalinskas",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Darwin Schrader",
     "company": "TU Berlin",
     "irc": null,
@@ -344,6 +356,12 @@
   {
     "name": "Dominik Strobel",
     "company": "conova communications GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Donatas Abraitis",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -942,6 +960,12 @@
     "asn": "58243"
   },
   {
+    "name": "Matthias Kayser",
+    "company": "Smartoptics AS",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Wiltz",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -1410,6 +1434,12 @@
     "asn": "51324"
   },
   {
+    "name": "Tomas Vilemaitis",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tom Siewert",
     "company": "Hetzner Cloud GmbH",
     "irc": "@tom:siewert.io",
@@ -1432,6 +1462,12 @@
     "company": "DENOG e.V. / IPB Internet Provider in Berlin GmbH",
     "irc": "odaswelt",
     "asn": "20647"
+  },
+  {
+    "name": "Vitalijus Lisnicuk",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Werner Brand",
