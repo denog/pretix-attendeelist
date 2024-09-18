@@ -1272,6 +1272,12 @@
     "asn": "29484"
   },
   {
+    "name": "Rose Jacobsen",
+    "company": "PFALZKOM",
+    "irc": null,
+    "asn": "21473"
+  },
+  {
     "name": "Rudolph Bott",
     "company": "sipgate / netzquadrat",
     "irc": "rbott",
@@ -1500,12 +1506,6 @@
     "asn": "202427"
   },
   {
-    "name": "Ursin Filli",
-    "company": null,
-    "irc": "ursinn",
-    "asn": "202427"
-  },
-  {
     "name": "Ute Wolf",
     "company": "DENOG e.V. / IPB Internet Provider in Berlin GmbH",
     "irc": "odaswelt",
@@ -1540,5 +1540,11 @@
     "company": "RETN",
     "irc": null,
     "asn": "9002"
+  },
+  {
+    "name": "Yvonne Krienke",
+    "company": null,
+    "irc": null,
+    "asn": null
   }
 ]
