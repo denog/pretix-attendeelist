@@ -558,6 +558,12 @@
     "asn": null
   },
   {
+    "name": "Jakob Müller",
+    "company": "AG Dresdner Studentennetz / CLOUD & HEAT",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jan Dirnberger",
     "company": "noris network AG",
     "irc": "solis",
@@ -998,6 +1004,12 @@
   {
     "name": "Matthias Wiltz",
     "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Maximilian Brandt",
+    "company": "AG Dresdner Studentennetz / CLOUD & HEAT",
     "irc": null,
     "asn": null
   },
