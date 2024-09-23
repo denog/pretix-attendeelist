@@ -102,6 +102,12 @@
     "asn": "13101"
   },
   {
+    "name": "Luca Lutz",
+    "company": null,
+    "irc": "@luca:aalen.space",
+    "asn": null
+  },
+  {
     "name": "Lukas Liebig",
     "company": "arvato systems GmbH",
     "irc": "lldp",
