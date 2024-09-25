@@ -1230,6 +1230,12 @@
     "asn": "42184"
   },
   {
+    "name": "Niklas Polte",
+    "company": "MDCC Magdeburg-City-Com GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nils Beyrle",
     "company": "DFN-Verein",
     "irc": null,
@@ -1526,6 +1532,12 @@
   {
     "name": "Thomas Schäfer",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Thomas Walla",
+    "company": "MDCC Magdeburg-City-Com GmbH",
     "irc": null,
     "asn": null
   },
