@@ -264,6 +264,12 @@
     "asn": null
   },
   {
+    "name": "Christian Schmidt",
+    "company": "LWLcom GmbH",
+    "irc": "chrische",
+    "asn": "50629"
+  },
+  {
     "name": "Christian Seitz",
     "company": "system.de / IN-Berlin / Community-IX",
     "irc": "gizzmo",
@@ -1128,6 +1134,12 @@
     "asn": null
   },
   {
+    "name": "Max Urban",
+    "company": "EWERK Digital GmbH",
+    "irc": null,
+    "asn": "204924"
+  },
+  {
     "name": "Melanie Knauer",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -1456,6 +1468,12 @@
     "company": "noris network AG",
     "irc": "GPF",
     "asn": "12337"
+  },
+  {
+    "name": "Simon Frerichs",
+    "company": "LWLcom GmbH",
+    "irc": "morpheus",
+    "asn": "50629"
   },
   {
     "name": "SImon Marquardt",
