@@ -834,6 +834,12 @@
     "asn": "54113"
   },
   {
+    "name": "Keno Rademaker",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
+  },
+  {
     "name": "Kevin Schmidt",
     "company": "WobCom",
     "irc": null,
@@ -1216,6 +1222,12 @@
     "company": "RIPE",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Mirko Dettmann",
+    "company": "Mirko Dettmann",
+    "irc": null,
+    "asn": "50629"
   },
   {
     "name": "Molly Miller",
