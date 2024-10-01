@@ -1146,6 +1146,12 @@
     "asn": "204924"
   },
   {
+    "name": "Mehdi Yazdanifard",
+    "company": "Glasfaser Nordwest",
+    "irc": null,
+    "asn": "62253"
+  },
+  {
     "name": "Melanie Knauer",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -1492,6 +1498,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sören Busse",
+    "company": "Glasfaser Nordwest",
+    "irc": null,
+    "asn": "62253"
   },
   {
     "name": "Stefan Behte",
