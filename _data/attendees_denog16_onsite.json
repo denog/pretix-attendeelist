@@ -1644,6 +1644,12 @@
     "asn": "8469"
   },
   {
+    "name": "Tan Siewert",
+    "company": "Hetzner Cloud GmbH",
+    "irc": "@tom:siewert.io",
+    "asn": "24940"
+  },
+  {
     "name": "Tasso Mulzer",
     "company": null,
     "irc": "Knurps",
@@ -1726,12 +1732,6 @@
     "company": null,
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Tom Siewert",
-    "company": "Hetzner Cloud GmbH",
-    "irc": "@tom:siewert.io",
-    "asn": "24940"
   },
   {
     "name": "Ulf Fischer",
