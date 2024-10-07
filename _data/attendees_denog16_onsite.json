@@ -222,6 +222,12 @@
     "asn": null
   },
   {
+    "name": "Carl Michels",
+    "company": "GWDG",
+    "irc": "tancyke",
+    "asn": "207592"
+  },
+  {
     "name": "Carsten Markmann",
     "company": "Heinrich-Heine-Universität Düsseldorf",
     "irc": null,
@@ -1408,6 +1414,12 @@
     "company": "DENOG e.V. // AKAMAI TECHNOLOGIES",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Patrick Hurrelmann",
+    "company": "NFON AG",
+    "irc": null,
+    "asn": "8878"
   },
   {
     "name": "Peter György",
