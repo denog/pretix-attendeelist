@@ -498,6 +498,12 @@
     "asn": null
   },
   {
+    "name": "Erik van den Akker",
+    "company": "TU Dortmund",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Evgeniy Ramich",
     "company": "VoiceON Telecom Services GmbH",
     "irc": null,
@@ -688,6 +694,12 @@
     "company": "AG Dresdner Studentennetz / CLOUD & HEAT",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Jan Ackerstaff",
+    "company": "imos GmbH",
+    "irc": null,
+    "asn": "20677"
   },
   {
     "name": "Jan Dirnberger",
@@ -1540,6 +1552,12 @@
     "company": "Ruhr-Universität Bochum",
     "irc": "schrorg",
     "asn": "29484"
+  },
+  {
+    "name": "Robyn Bachofer",
+    "company": "imos GmbH",
+    "irc": "pyco",
+    "asn": "20677"
   },
   {
     "name": "Rose Jacobsen",
