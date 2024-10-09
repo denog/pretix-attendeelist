@@ -438,6 +438,12 @@
     "asn": null
   },
   {
+    "name": "Dominik Rimpf",
+    "company": "Karlsruhe Institute of Technology (KIT)",
+    "irc": "@ha2931:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Dominik Strobel",
     "company": "conova communications GmbH",
     "irc": null,
@@ -856,6 +862,12 @@
     "company": null,
     "irc": null,
     "asn": "215236"
+  },
+  {
+    "name": "Julian Schuh",
+    "company": "Karlsruhe Institute of Technology (KIT)",
+    "irc": "@zd8187:kit.edu",
+    "asn": "34878"
   },
   {
     "name": "Julian von Paris",
