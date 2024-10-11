@@ -516,6 +516,12 @@
     "asn": "200209"
   },
   {
+    "name": "Falk Storkebaum",
+    "company": "netrio GmbH",
+    "irc": null,
+    "asn": "3209"
+  },
+  {
     "name": "Felix Menge",
     "company": "INWX / InterNetworX",
     "irc": null,
@@ -808,6 +814,12 @@
     "company": "BCIX",
     "irc": null,
     "asn": "16374"
+  },
+  {
+    "name": "Joachim Knauer",
+    "company": "netrio GmbH",
+    "irc": null,
+    "asn": "3209"
   },
   {
     "name": "Jochen Langenbach",
