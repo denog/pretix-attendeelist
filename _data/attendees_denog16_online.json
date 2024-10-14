@@ -156,6 +156,12 @@
     "asn": "48596"
   },
   {
+    "name": "Markus Hauschild",
+    "company": "Freifunk Regensburg e.V.",
+    "irc": "MoepMan",
+    "asn": "212989"
+  },
+  {
     "name": "Markus Winkler",
     "company": null,
     "irc": "csmacd",
@@ -178,6 +184,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Matthias Ordner",
+    "company": "EXARING AG",
+    "irc": "mordner",
+    "asn": "51324"
   },
   {
     "name": "Maximilian Sesterhenn",
