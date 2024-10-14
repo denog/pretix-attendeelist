@@ -1308,6 +1308,12 @@
     "asn": "58243"
   },
   {
+    "name": "Marvin Bönkel",
+    "company": "NETMOUNTAINS® Group",
+    "irc": null,
+    "asn": "57575"
+  },
+  {
     "name": "Marvin Haerdtlein",
     "company": "firstcolo",
     "irc": null,
@@ -1806,6 +1812,12 @@
     "asn": "12337"
   },
   {
+    "name": "Silas Scholz",
+    "company": "NETMOUNTAINS® Group",
+    "irc": null,
+    "asn": "57575"
+  },
+  {
     "name": "Simon Frerichs",
     "company": "LWLcom GmbH",
     "irc": "morpheus",
@@ -1882,6 +1894,12 @@
     "company": "TU Dortmund",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Stephan Reugels",
+    "company": "NETMOUNTAINS® Group",
+    "irc": "stereu",
+    "asn": "57575"
   },
   {
     "name": "Stephan Schroeder",
