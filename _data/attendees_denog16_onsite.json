@@ -18,6 +18,12 @@
     "asn": null
   },
   {
+    "name": "Ainura Sydygalieva",
+    "company": "next layer",
+    "irc": null,
+    "asn": "1764"
+  },
+  {
     "name": "Alban David Becker",
     "company": "DD-IX e.V. | Accenture",
     "irc": "@adb:adb.sh",
@@ -1668,6 +1674,12 @@
     "asn": "8878"
   },
   {
+    "name": "Paul Kleinlercher",
+    "company": "next layer",
+    "irc": null,
+    "asn": "1764"
+  },
+  {
     "name": "Peter Geiger",
     "company": "OakHost - Services",
     "irc": null,
@@ -1690,6 +1702,12 @@
     "company": "Zayo Europe",
     "irc": "phessler",
     "asn": "6461"
+  },
+  {
+    "name": "Peter Kowalsky",
+    "company": "next layer",
+    "irc": null,
+    "asn": "1764"
   },
   {
     "name": "Philip Berndroth",
