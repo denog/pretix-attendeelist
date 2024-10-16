@@ -624,10 +624,22 @@
     "asn": null
   },
   {
+    "name": "Florian Kruschel",
+    "company": "Trivago N.V.",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Florian Mai",
     "company": "sipgate / netzquadrat",
     "irc": null,
     "asn": "15594"
+  },
+  {
+    "name": "Florian Schuerfeld",
+    "company": "Trivago N.V.",
+    "irc": null,
+    "asn": "0"
   },
   {
     "name": "Frank Hebold",
