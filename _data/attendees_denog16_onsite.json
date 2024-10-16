@@ -1614,6 +1614,12 @@
     "asn": "9033"
   },
   {
+    "name": "Noel Bastijans",
+    "company": "Odlo Logistik GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Noelle Massar",
     "company": "RPTU Kaiserslautern-Landau",
     "irc": "Hotaru",
@@ -1640,6 +1646,12 @@
   {
     "name": "Pascal Knoll",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Pascal Lehmeier",
+    "company": "Lehmeier IT",
     "irc": null,
     "asn": null
   },
