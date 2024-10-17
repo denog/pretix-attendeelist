@@ -330,6 +330,12 @@
     "asn": null
   },
   {
+    "name": "Christian Giese",
+    "company": "RtBrick",
+    "irc": "GIC",
+    "asn": null
+  },
+  {
     "name": "Christian Klaeren",
     "company": "TELE AG",
     "irc": null,
@@ -1180,6 +1186,12 @@
     "company": "IKS Service GmbH",
     "irc": "Donner",
     "asn": "15725"
+  },
+  {
+    "name": "Lyn Volkmann",
+    "company": null,
+    "irc": "@lynatic:catgirl.cloud",
+    "asn": null
   },
   {
     "name": "Maarten Withofs",
