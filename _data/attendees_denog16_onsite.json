@@ -1236,6 +1236,12 @@
     "asn": "15725"
   },
   {
+    "name": "Lydia Steffenhagen",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": "20647"
+  },
+  {
     "name": "Lyn Volkmann",
     "company": null,
     "irc": "@lynatic:catgirl.cloud",
@@ -2118,6 +2124,12 @@
     "asn": "209039"
   },
   {
+    "name": "Susann Böhme",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": "20647"
+  },
+  {
     "name": "Susi Bauer",
     "company": "Freelance Trainer & Coach",
     "irc": null,
@@ -2254,6 +2266,12 @@
     "company": "Plusnet",
     "irc": "izemaen",
     "asn": "20676"
+  },
+  {
+    "name": "Tobias Just",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": "20647"
   },
   {
     "name": "Tobias Krischer",
