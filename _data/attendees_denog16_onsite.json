@@ -996,6 +996,12 @@
     "asn": null
   },
   {
+    "name": "Johannes Viertel",
+    "company": "Juniper Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jonas Mutschler",
     "company": "system.De – System & Project GmbH",
     "irc": null,
@@ -1420,6 +1426,12 @@
     "company": "EWE TEL",
     "irc": null,
     "asn": "9145"
+  },
+  {
+    "name": "Matthias Detsch",
+    "company": "EXARING AG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Matthias Hahn",
