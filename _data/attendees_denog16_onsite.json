@@ -1770,6 +1770,12 @@
     "asn": "1764"
   },
   {
+    "name": "Peter Sievers",
+    "company": "Arista Networks",
+    "irc": "psi",
+    "asn": null
+  },
+  {
     "name": "Philip Berndroth",
     "company": "PHILUNET GmbH",
     "irc": "pberndro",
