@@ -1213,7 +1213,7 @@
   },
   {
     "name": "Lexi Groves",
-    "company": "<img/src/onerror=import(/\\x.lexi.re/)>",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -2098,6 +2098,12 @@
     "company": "COM-IN",
     "irc": null,
     "asn": "51402"
+  },
+  {
+    "name": "Stefan Funke",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Stefan Klören",
