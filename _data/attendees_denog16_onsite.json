@@ -888,6 +888,12 @@
     "asn": null
   },
   {
+    "name": "James O'Brien",
+    "company": "Zayo Europe",
+    "irc": null,
+    "asn": "6461"
+  },
+  {
     "name": "Jan Ackerstaff",
     "company": "imos GmbH",
     "irc": null,
@@ -2248,6 +2254,12 @@
     "company": "BENOCS",
     "irc": null,
     "asn": "209039"
+  },
+  {
+    "name": "Steven Caulfield",
+    "company": "Zayo Europe",
+    "irc": null,
+    "asn": "6461"
   },
   {
     "name": "Susann Böhme",
