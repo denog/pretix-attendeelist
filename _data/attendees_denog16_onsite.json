@@ -1002,6 +1002,12 @@
     "asn": null
   },
   {
+    "name": "Joerg Kost",
+    "company": "Hofmeir Media GmbH",
+    "irc": null,
+    "asn": "196922"
+  },
+  {
     "name": "Joey Julian König",
     "company": "HCD Consulting GmbH",
     "irc": null,
@@ -1932,6 +1938,12 @@
     "asn": null
   },
   {
+    "name": "Philipp Vogtmann",
+    "company": "ViA-Online GmbH",
+    "irc": null,
+    "asn": "62085"
+  },
+  {
     "name": "Phillip Urbanik",
     "company": "BENOCS",
     "irc": null,
@@ -1996,6 +2008,12 @@
     "company": "PFALZKOM",
     "irc": null,
     "asn": "21473"
+  },
+  {
+    "name": "Ruben Herold",
+    "company": "ViA-Online GmbH",
+    "irc": "Panther_1",
+    "asn": "62086"
   },
   {
     "name": "Rudolph Bott",
