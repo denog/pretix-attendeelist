@@ -708,6 +708,12 @@
     "asn": "211752"
   },
   {
+    "name": "Fredy Künzler",
+    "company": "Init7",
+    "irc": null,
+    "asn": "13030"
+  },
+  {
     "name": "Gavin Tweedie",
     "company": "Megaport",
     "irc": null,
@@ -784,6 +790,12 @@
     "company": "SWU TeleNet GmbH",
     "irc": null,
     "asn": "48284"
+  },
+  {
+    "name": "Heiko Reese",
+    "company": "KIT-CERT",
+    "irc": "@ge3242:kit.edu",
+    "asn": "34878"
   },
   {
     "name": "Henry Schaefer",
