@@ -1836,6 +1836,12 @@
     "asn": "1764"
   },
   {
+    "name": "Pepe Rosam",
+    "company": "Babiel GmbH",
+    "irc": null,
+    "asn": "198913"
+  },
+  {
     "name": "Peter Geiger",
     "company": "OakHost - Services",
     "irc": null,
@@ -2398,6 +2404,12 @@
     "company": "Deepl",
     "irc": null,
     "asn": "60550"
+  },
+  {
+    "name": "Vincentz Petzholtz",
+    "company": "Arista Networks",
+    "irc": null,
+    "asn": "55064"
   },
   {
     "name": "Vitalijus Lisnicuk",
