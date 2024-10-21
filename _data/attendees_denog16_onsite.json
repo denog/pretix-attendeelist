@@ -468,6 +468,12 @@
     "asn": null
   },
   {
+    "name": "Danjela Mica",
+    "company": "MainStreaming",
+    "irc": null,
+    "asn": "51185"
+  },
+  {
     "name": "Darwin Schrader",
     "company": "TU Berlin",
     "irc": null,
@@ -1264,6 +1270,12 @@
     "company": "INWX / InterNetworX",
     "irc": null,
     "asn": "48596"
+  },
+  {
+    "name": "Lorenzo Cori",
+    "company": "MainStreaming",
+    "irc": null,
+    "asn": "51185"
   },
   {
     "name": "Luca Vornheder",
