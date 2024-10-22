@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Adrian Gerbig",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Adrian Nöthlich",
     "company": null,
     "irc": "promasu",
@@ -892,6 +898,12 @@
     "company": "AG Dresdner Studentennetz / CLOUD & HEAT",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "James Bensley",
+    "company": "Inter.link",
+    "irc": "jwbensley",
+    "asn": "5405"
   },
   {
     "name": "James O'Brien",
@@ -2010,6 +2022,12 @@
     "asn": "8298"
   },
   {
+    "name": "Poh Chiat Koh",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
+  },
+  {
     "name": "Rene Neumann",
     "company": "ZPE Systems",
     "irc": null,
@@ -2062,6 +2080,12 @@
     "company": "PFALZKOM",
     "irc": null,
     "asn": "21473"
+  },
+  {
+    "name": "Ruban Johnson",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Ruben Herold",
