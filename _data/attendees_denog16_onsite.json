@@ -36,6 +36,12 @@
     "asn": "1764"
   },
   {
+    "name": "Ákos Vajda",
+    "company": "BE Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alban David Becker",
     "company": "DD-IX e.V. | Accenture",
     "irc": "@adb:adb.sh",
@@ -2360,6 +2366,12 @@
   {
     "name": "Takaya Nakagawa",
     "company": "NTT Advanced Technology Corp.",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tamás Tóth",
+    "company": "BE Networks",
     "irc": null,
     "asn": null
   },
