@@ -1830,6 +1830,12 @@
     "asn": "208772"
   },
   {
+    "name": "Nicola Nikolic",
+    "company": "Nokia Solutions and Networks GmbH & Co. KG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nicolas Berens",
     "company": "Planet Labs // freifunk.net",
     "irc": null,
@@ -2674,12 +2680,6 @@
     "company": "RETN",
     "irc": null,
     "asn": "9002"
-  },
-  {
-    "name": "Yannik Eichel",
-    "company": "NetDev UG (haftungsbeschränkt)",
-    "irc": null,
-    "asn": "216333"
   },
   {
     "name": "Yvonne Krienke",
