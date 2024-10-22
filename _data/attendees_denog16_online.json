@@ -1,9 +1,39 @@
 [
   {
+    "name": "Mic Szillat",
+    "company": "Freifunk Düsseldorf  e.V.",
+    "irc": "nomaster",
+    "asn": "207871"
+  },
+  {
+    "name": "Nils Steinger",
+    "company": null,
+    "irc": "voidptr",
+    "asn": "206161"
+  },
+  {
+    "name": "Pascal Falkinger",
+    "company": "Datacenter One (DC1)",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Paul Sütterlin",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Peter Hurtenbach",
     "company": null,
     "irc": null,
     "asn": "211671"
+  },
+  {
+    "name": "Philipp Scharfenberg",
+    "company": "Mittwald CM Service GmbH & Co. KG",
+    "irc": null,
+    "asn": "15817"
   },
   {
     "name": "Rainer Fuchs",
@@ -72,6 +102,12 @@
     "asn": "198913"
   },
   {
+    "name": "Stefan Hofmeir",
+    "company": "Hofmeir Media GmbH",
+    "irc": null,
+    "asn": "196922"
+  },
+  {
     "name": "Stephan Schreiber",
     "company": null,
     "irc": null,
@@ -88,6 +124,12 @@
     "company": "Zayo Europe",
     "irc": null,
     "asn": "6461"
+  },
+  {
+    "name": "Thomas Döpke",
+    "company": "Mittwald CM Service GmbH & Co. KG",
+    "irc": null,
+    "asn": "15817"
   },
   {
     "name": "Timo Stamm",
