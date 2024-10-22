@@ -234,6 +234,12 @@
     "asn": "49544"
   },
   {
+    "name": "Arne Heitmann",
+    "company": "NVIDIA",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Audrius Masiulionis",
     "company": null,
     "irc": null,
@@ -340,6 +346,12 @@
     "company": "DT Technik",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Christian Auer",
+    "company": "siticom",
+    "irc": null,
+    "asn": "200768"
   },
   {
     "name": "Christian Baumann",
