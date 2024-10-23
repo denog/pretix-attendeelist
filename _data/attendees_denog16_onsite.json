@@ -1512,6 +1512,12 @@
     "asn": "42312"
   },
   {
+    "name": "Marc Ruberg",
+    "company": "Universität Stuttgart",
+    "irc": "ruby7",
+    "asn": "553"
+  },
+  {
     "name": "Marcus Brauckmann",
     "company": "DE-CIX Management GmbH",
     "irc": null,
