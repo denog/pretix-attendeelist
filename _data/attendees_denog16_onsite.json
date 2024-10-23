@@ -1128,6 +1128,12 @@
     "asn": "553"
   },
   {
+    "name": "Johannes Hauke",
+    "company": "EWE TEL GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Johannes Jakob",
     "company": null,
     "irc": "irrwitzer",
@@ -1420,6 +1426,12 @@
     "company": "Deutsche Telekom Technik",
     "irc": "skorpy",
     "asn": "3320"
+  },
+  {
+    "name": "Maik Schwamberger",
+    "company": "NTT DATA Global IP Network",
+    "irc": null,
+    "asn": "2914"
   },
   {
     "name": "Maíra Wollenhaupt",
@@ -2172,6 +2184,12 @@
     "asn": "20677"
   },
   {
+    "name": "Ronny Belitz",
+    "company": "IPHH Internet Port Hamburg GmbH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Rose Jacobsen",
     "company": "PFALZKOM",
     "irc": null,
@@ -2196,6 +2214,12 @@
     "asn": "15594"
   },
   {
+    "name": "Sabrina Mikolon",
+    "company": "IPHH Internet Port Hamburg GmbH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Sara Abulajras",
     "company": "NL-ix",
     "irc": null,
@@ -2218,6 +2242,12 @@
     "company": "TAG Immobilien AG",
     "irc": "Kn0rki",
     "asn": null
+  },
+  {
+    "name": "Sascha Pollok",
+    "company": "IPHH Internet Port Hamburg GmbH",
+    "irc": "Dockmaster",
+    "asn": "12731"
   },
   {
     "name": "Sascha Schmidt",
