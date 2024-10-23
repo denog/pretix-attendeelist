@@ -468,6 +468,12 @@
     "asn": "29413"
   },
   {
+    "name": "Christoph Neukirch",
+    "company": "IPHH Internet Port Hamburg GmbH",
+    "irc": null,
+    "asn": "12731"
+  },
+  {
     "name": "Clara Riese",
     "company": "sipgate",
     "irc": "clerie",
@@ -1326,6 +1332,12 @@
     "asn": null
   },
   {
+    "name": "Lars Bußmann",
+    "company": "Arvato Systems GmbH",
+    "irc": "LarsB",
+    "asn": null
+  },
+  {
     "name": "Lars Gierth",
     "company": "Freifunk Berlin / Stadtfunk gGmbH",
     "irc": null,
@@ -1612,6 +1624,12 @@
     "company": "i3D.net",
     "irc": null,
     "asn": "49544"
+  },
+  {
+    "name": "Martin Hay",
+    "company": "IPHH Internet Port Hamburg GmbH",
+    "irc": null,
+    "asn": "12731"
   },
   {
     "name": "Martin Leucht",
