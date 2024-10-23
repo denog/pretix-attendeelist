@@ -1638,6 +1638,12 @@
     "asn": "9145"
   },
   {
+    "name": "Matteo Tietz",
+    "company": "TU Berlin",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Matthias Detsch",
     "company": "EXARING AG",
     "irc": null,
@@ -2590,6 +2596,12 @@
     "company": "Kuehne + Nagel",
     "irc": "ulf",
     "asn": "211656"
+  },
+  {
+    "name": "Ulf Kieber",
+    "company": "NL-ix",
+    "irc": null,
+    "asn": "34307"
   },
   {
     "name": "Ulf Weikert",
