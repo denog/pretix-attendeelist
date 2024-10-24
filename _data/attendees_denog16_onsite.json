@@ -690,6 +690,12 @@
     "asn": "680"
   },
   {
+    "name": "Enis Yorulmaz",
+    "company": "IP Infusion",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Enrico Aderhold",
     "company": "HCD Consulting GmbH",
     "irc": null,
@@ -2744,6 +2750,12 @@
   {
     "name": "Viktor Lennert",
     "company": "ANEXIA Internetdienstleistungs GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Vincent Schuele",
+    "company": "IP Infusion",
     "irc": null,
     "asn": null
   },
