@@ -1,5 +1,11 @@
 [
   {
+    "name": "Martin Kedziora",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Martin Poppen",
     "company": "LWLcom GmbH",
     "irc": null,
@@ -148,6 +154,12 @@
     "company": "Broadcom",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sascha Lenz",
+    "company": "s-lz.net - System- und Netzwerkberatung Sascha Lenz",
+    "irc": "master",
+    "asn": "29317"
   },
   {
     "name": "Sebastian Bönning",
