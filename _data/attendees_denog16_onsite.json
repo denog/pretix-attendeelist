@@ -132,12 +132,6 @@
     "asn": null
   },
   {
-    "name": "Andreas Beck",
-    "company": "ROETH & BECK",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Andreas Boesen",
     "company": "BelWü",
     "irc": "Happy",
@@ -1960,6 +1954,12 @@
     "company": "Planet Labs // freifunk.net",
     "irc": null,
     "asn": "44194"
+  },
+  {
+    "name": "Nicolas Janzen",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Nicolas Korten",
