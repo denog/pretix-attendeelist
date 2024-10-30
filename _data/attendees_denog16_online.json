@@ -1,5 +1,11 @@
 [
   {
+    "name": "Markus Hauschild",
+    "company": "Freifunk Regensburg e.V.",
+    "irc": "MoepMan",
+    "asn": "212989"
+  },
+  {
     "name": "Markus Winkler",
     "company": null,
     "irc": "csmacd",
