@@ -390,6 +390,12 @@
     "asn": "3320"
   },
   {
+    "name": "Christian Anagonou",
+    "company": "Colt Technology Services",
+    "irc": null,
+    "asn": "3356"
+  },
+  {
     "name": "Christian Auer",
     "company": "siticom",
     "irc": null,
@@ -2806,6 +2812,12 @@
     "company": "STRATO",
     "irc": null,
     "asn": "6724"
+  },
+  {
+    "name": "Thomas Trede",
+    "company": "purtel.com GmbH",
+    "irc": null,
+    "asn": "62336"
   },
   {
     "name": "Thomas Walla",
