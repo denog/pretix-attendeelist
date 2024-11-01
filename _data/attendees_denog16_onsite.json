@@ -462,6 +462,12 @@
     "asn": "41981"
   },
   {
+    "name": "Christian Waeder",
+    "company": "Bundesdruckerei GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christina Münch",
     "company": "Equinix",
     "irc": null,
@@ -2684,6 +2690,12 @@
   {
     "name": "Svend Andersen",
     "company": "Axians Networks & Solutions",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sven Döbel",
+    "company": "Bundesdruckerei GmbH",
     "irc": null,
     "asn": null
   },
