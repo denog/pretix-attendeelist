@@ -462,6 +462,12 @@
     "asn": "41981"
   },
   {
+    "name": "Christina Münch",
+    "company": "Equinix",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christof Rüdiger",
     "company": "OVIS IT Consulting GmbH",
     "irc": null,
@@ -2924,6 +2930,12 @@
   {
     "name": "Vaibhav Bajpai",
     "company": "Hasso Plattner Institute",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Valentin Aurich",
+    "company": "Freelancer Network Engineer - TSystems",
     "irc": null,
     "asn": null
   },
