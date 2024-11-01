@@ -294,6 +294,12 @@
     "asn": "211488"
   },
   {
+    "name": "Benedikt Neuffer",
+    "company": "KIT",
+    "irc": "@iv4011:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Benedikt Stockebrand",
     "company": "Stepladder IT Training+Consulting GmbH",
     "irc": null,
@@ -388,6 +394,12 @@
     "company": "siticom",
     "irc": null,
     "asn": "200768"
+  },
+  {
+    "name": "Christian Backe",
+    "company": null,
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Christian Baumann",
@@ -909,6 +921,12 @@
     "name": "Giulia Potikha",
     "company": "VOLDETA",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Gordon Gidofalvy",
+    "company": "Looking for Work!",
+    "irc": "vista",
     "asn": null
   },
   {
