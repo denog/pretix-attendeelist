@@ -240,6 +240,12 @@
     "asn": null
   },
   {
+    "name": "Stefan Schmidt",
+    "company": "Wavecon GmbH",
+    "irc": "ZaphodB",
+    "asn": "60955"
+  },
+  {
     "name": "Stephan Schreiber",
     "company": null,
     "irc": null,
@@ -279,6 +285,12 @@
     "name": "Timo Stamm",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tom Herbers",
+    "company": null,
+    "irc": "tomh",
     "asn": null
   },
   {
