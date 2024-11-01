@@ -90,6 +90,12 @@
     "asn": "34953"
   },
   {
+    "name": "Alexander Wiesenmüller",
+    "company": "STRATO",
+    "irc": null,
+    "asn": "6724"
+  },
+  {
     "name": "Alexander Zagler",
     "company": "Green IT Solution GmbH",
     "irc": null,
@@ -100,6 +106,12 @@
     "company": "BCIX",
     "irc": null,
     "asn": "16374"
+  },
+  {
+    "name": "Alice Boeddinghaus",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Alina Kaun",
@@ -228,6 +240,12 @@
     "asn": "13030"
   },
   {
+    "name": "Anja Staufenberg",
+    "company": "Arista Networks GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Antonius Frie",
     "company": null,
     "irc": null,
@@ -262,6 +280,12 @@
     "company": "Core-Backbone GmbH",
     "irc": "Babsi",
     "asn": "33891"
+  },
+  {
+    "name": "Benedikt Heine",
+    "company": "3Q GmbH",
+    "irc": "bebehei",
+    "asn": "62359"
   },
   {
     "name": "Benedikt Merkl",
@@ -558,6 +582,12 @@
     "asn": null
   },
   {
+    "name": "David Meyer",
+    "company": "Arista Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "David Tatlisu",
     "company": null,
     "irc": null,
@@ -690,6 +720,12 @@
     "asn": null
   },
   {
+    "name": "Enno Gröper",
+    "company": "Charité - Universitätsmedizin Berlin",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Enrico Aderhold",
     "company": "HCD Consulting GmbH",
     "irc": null,
@@ -706,6 +742,12 @@
     "company": "VoiceON Telecom Services GmbH",
     "irc": null,
     "asn": "200209"
+  },
+  {
+    "name": "Fabian Rosenhoff",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Falk Storkebaum",
@@ -834,6 +876,18 @@
     "asn": null
   },
   {
+    "name": "Gerardo Pérez Rojas",
+    "company": "Telstra GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Gerhard Botsch",
+    "company": "RtBrick Inc",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Gerrit Mester",
     "company": "NFON AG",
     "irc": null,
@@ -912,6 +966,12 @@
     "asn": "34878"
   },
   {
+    "name": "Heiko Stahlke",
+    "company": "XENIA Systems GmbH",
+    "irc": null,
+    "asn": "57780"
+  },
+  {
     "name": "Heiner Aldag",
     "company": "Arista Networks GmbH",
     "irc": null,
@@ -922,6 +982,12 @@
     "company": null,
     "irc": "Sh3ph3rd",
     "asn": "702"
+  },
+  {
+    "name": "Hernán Martínez",
+    "company": "Edgecore Networks",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Hideki Asano",
@@ -1120,6 +1186,12 @@
     "company": "RelAix Networks",
     "irc": "netali",
     "asn": "34953"
+  },
+  {
+    "name": "Jens Deistung",
+    "company": "Syseleveen GmbH",
+    "irc": null,
+    "asn": "25291"
   },
   {
     "name": "Jens Lietzmann",
@@ -1380,6 +1452,12 @@
     "asn": "33171"
   },
   {
+    "name": "Leonard Wagner",
+    "company": "IN-Berlin e.V / Community-IX",
+    "irc": "Gordon",
+    "asn": "29670.57555"
+  },
+  {
     "name": "Leonie Bluett",
     "company": "BCIX Management GmbH",
     "irc": null,
@@ -1390,6 +1468,12 @@
     "company": "firstcolo",
     "irc": null,
     "asn": "44066"
+  },
+  {
+    "name": "Leon Löbnitz",
+    "company": "IKS Service GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Leon Weber",
@@ -1668,6 +1752,12 @@
     "asn": "49544"
   },
   {
+    "name": "Martin Beckert",
+    "company": "STRATO AG",
+    "irc": null,
+    "asn": "8560"
+  },
+  {
     "name": "Martin Hay",
     "company": "IPHH Internet Port Hamburg GmbH",
     "irc": null,
@@ -1938,6 +2028,12 @@
     "asn": "1985330"
   },
   {
+    "name": "Nick Wiecha",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": "n1cn0c",
+    "asn": "203520"
+  },
+  {
     "name": "Nico Boehr",
     "company": "Freifunk Stuttgart e.V.",
     "irc": null,
@@ -1972,6 +2068,12 @@
     "company": "PFALZKOM",
     "irc": "nicoduck",
     "asn": "21473"
+  },
+  {
+    "name": "Nico Plich",
+    "company": "TNG Stadtnetz GmbH",
+    "irc": null,
+    "asn": "13101"
   },
   {
     "name": "Nico Schümann",
@@ -2108,6 +2210,12 @@
   {
     "name": "Peter Geiger",
     "company": "OakHost - Services",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Peter Gerbig",
+    "company": "ARISTA Networks GmbH",
     "irc": null,
     "asn": null
   },
@@ -2292,6 +2400,12 @@
     "asn": "15594"
   },
   {
+    "name": "Sabrina Lorbschat",
+    "company": "Zayo Europe",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Sabrina Mikolon",
     "company": "IPHH Internet Port Hamburg GmbH",
     "irc": null,
@@ -2404,6 +2518,12 @@
     "company": "NETMOUNTAINS® Group",
     "irc": null,
     "asn": "57575"
+  },
+  {
+    "name": "Silvan Gebhardt",
+    "company": "Openfactory GmbH",
+    "irc": "@pcdog",
+    "asn": "58299"
   },
   {
     "name": "Simon Frerichs",
@@ -2628,6 +2748,12 @@
     "asn": null
   },
   {
+    "name": "Thomas Schrank",
+    "company": "STRATO",
+    "irc": null,
+    "asn": "6724"
+  },
+  {
     "name": "Thomas Walla",
     "company": "MDCC Magdeburg-City-Com GmbH",
     "irc": null,
@@ -2636,6 +2762,12 @@
   {
     "name": "Thomas Wiese",
     "company": "OVIS IT Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tim Arlt",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -2722,6 +2854,12 @@
     "company": "MK Netzdienste GmbH&Co. KG",
     "irc": "toBee",
     "asn": "25394"
+  },
+  {
+    "name": "Torsten Peuckert",
+    "company": "Alturna Networks N.V.",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ulf Fischer",
@@ -2866,5 +3004,11 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Zentraler Rechnungseingang",
+    "company": "TU Dresden",
+    "irc": "shreyder",
+    "asn": "215797"
   }
 ]
