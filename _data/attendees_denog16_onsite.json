@@ -2430,6 +2430,12 @@
     "asn": "5405"
   },
   {
+    "name": "Raphael Schaub",
+    "company": "DATA-NG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Rene Neumann",
     "company": "ZPE Systems",
     "irc": null,
@@ -2458,6 +2464,12 @@
     "company": "SYNLINQ",
     "irc": null,
     "asn": "44486"
+  },
+  {
+    "name": "Robert Kühn",
+    "company": "SysEleven GmbH",
+    "irc": null,
+    "asn": "25291"
   },
   {
     "name": "Robert Remenyi",
