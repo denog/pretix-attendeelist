@@ -427,7 +427,7 @@
   },
   {
     "name": "Christian Backe",
-    "company": null,
+    "company": "inter.link GmbH",
     "irc": null,
     "asn": "5405"
   },
@@ -634,6 +634,12 @@
     "company": "TKRZ Stdtwerke GmbH",
     "irc": null,
     "asn": "42184"
+  },
+  {
+    "name": "David Lamparter",
+    "company": "FRRouting",
+    "irc": "equinox",
+    "asn": "202261"
   },
   {
     "name": "David Lloyd",
