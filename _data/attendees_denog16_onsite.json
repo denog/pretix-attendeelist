@@ -900,6 +900,12 @@
     "asn": "25291"
   },
   {
+    "name": "Florian Wrage",
+    "company": "akquinet business service GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Frank Hebold",
     "company": "INWX / InterNetworX",
     "irc": null,
@@ -2659,9 +2665,9 @@
   },
   {
     "name": "Simon Couball",
-    "company": null,
-    "irc": null,
-    "asn": null
+    "company": "Akquinet",
+    "irc": "kuhball",
+    "asn": "35258"
   },
   {
     "name": "Simon Frerichs",
