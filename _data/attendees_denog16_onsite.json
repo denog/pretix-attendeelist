@@ -264,6 +264,12 @@
     "asn": null
   },
   {
+    "name": "Annika Hannig",
+    "company": "Alice-LG",
+    "irc": "@annika:infra.run",
+    "asn": "208230"
+  },
+  {
     "name": "Antonius Frie",
     "company": null,
     "irc": null,
