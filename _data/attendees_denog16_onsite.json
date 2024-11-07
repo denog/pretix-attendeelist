@@ -2676,6 +2676,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Schrader",
+    "company": "TU Dresden",
+    "irc": "shreyder",
+    "asn": "215797"
+  },
+  {
     "name": "Sebastian Wiedemann",
     "company": "HCD Consulting GmbH",
     "irc": null,
@@ -3214,11 +3220,5 @@
     "company": null,
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Zentraler Rechnungseingang",
-    "company": "TU Dresden",
-    "irc": "shreyder",
-    "asn": "215797"
   }
 ]
