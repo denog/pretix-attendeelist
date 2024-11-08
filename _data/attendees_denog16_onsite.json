@@ -708,6 +708,12 @@
     "asn": "0"
   },
   {
+    "name": "Dominik Bay",
+    "company": "rrbone",
+    "irc": null,
+    "asn": "39138"
+  },
+  {
     "name": "Dominik Grüber",
     "company": "Hetzner Online GmbH",
     "irc": null,
@@ -1660,6 +1666,12 @@
     "company": "MainStreaming",
     "irc": null,
     "asn": "51185"
+  },
+  {
+    "name": "Luca Appel",
+    "company": "rrbone",
+    "irc": null,
+    "asn": "39138"
   },
   {
     "name": "Luca Vornheder",
@@ -2662,6 +2674,12 @@
     "company": "NFON AG",
     "irc": null,
     "asn": "8878"
+  },
+  {
+    "name": "Saskia Schindler",
+    "company": "rrbone",
+    "irc": null,
+    "asn": "39138"
   },
   {
     "name": "Sebastian Becker",
