@@ -1213,7 +1213,7 @@
   },
   {
     "name": "James Evans",
-    "company": "Zayo",
+    "company": "Zayo Europe",
     "irc": null,
     "asn": "6461"
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "name": "Moritz Geist",
-    "company": "<your_company_name_here?>",
+    "company": null,
     "irc": null,
     "asn": null
   },
@@ -2649,7 +2649,7 @@
     "name": "Sabrina Lorbschat",
     "company": "Zayo Europe",
     "irc": null,
-    "asn": null
+    "asn": "6461"
   },
   {
     "name": "Sabrina Mikolon",
