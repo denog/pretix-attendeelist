@@ -1512,6 +1512,12 @@
     "asn": "211752"
   },
   {
+    "name": "Julius Rickert",
+    "company": "Hetzner Cloud",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jürgen Keck",
     "company": "Smartoptics",
     "irc": null,
@@ -2074,12 +2080,6 @@
     "company": "NetPlans GmbH",
     "irc": null,
     "asn": "202661"
-  },
-  {
-    "name": "Maximilian Wilhelm",
-    "company": "Hetzner Cloud",
-    "irc": "Barbarossa",
-    "asn": null
   },
   {
     "name": "Max Urban",
