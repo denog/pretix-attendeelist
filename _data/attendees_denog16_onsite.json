@@ -390,6 +390,12 @@
     "asn": "207592"
   },
   {
+    "name": "Carlos Labraña A.",
+    "company": "Openfactorz GmbH",
+    "irc": null,
+    "asn": "58299"
+  },
+  {
     "name": "Carsten Markmann",
     "company": "Heinrich-Heine-Universität Düsseldorf",
     "irc": null,
@@ -2566,12 +2572,6 @@
     "company": "ZPE Systems",
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "René Spellerberg",
-    "company": "SkyLink Data Center GmbH",
-    "irc": null,
-    "asn": "44592"
   },
   {
     "name": "Richard Irving",
