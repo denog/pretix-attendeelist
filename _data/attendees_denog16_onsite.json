@@ -870,12 +870,6 @@
     "asn": null
   },
   {
-    "name": "Ferdinand Zink",
-    "company": "Tube-Hosting",
-    "irc": null,
-    "asn": "49581"
-  },
-  {
     "name": "Fiona Weber",
     "company": "Wobcom / WDZ / DENOG",
     "irc": "vidister",
@@ -1180,6 +1174,12 @@
     "company": null,
     "irc": null,
     "asn": "51324"
+  },
+  {
+    "name": "Ivan Spina",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Jacek Topolski",
