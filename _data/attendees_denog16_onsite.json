@@ -690,6 +690,12 @@
     "asn": "33891"
   },
   {
+    "name": "Dennis Thomas",
+    "company": "Amazon Web Services",
+    "irc": "dth",
+    "asn": "16509"
+  },
+  {
     "name": "Denys Korotkyi",
     "company": "DeepL",
     "irc": null,
@@ -3091,7 +3097,7 @@
   },
   {
     "name": "Tim Arlt",
-    "company": null,
+    "company": "Nokia",
     "irc": null,
     "asn": null
   },
