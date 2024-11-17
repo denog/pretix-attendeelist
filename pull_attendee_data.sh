@@ -89,7 +89,7 @@ cat ${tempfileslug} | while read event; do
       company: ((.answers[] | select(.question_identifier=="COMPANY").answer)//null),
       irc: ((.answers[] | select(.question_identifier=="IRC").answer)//null),
       asn: ((.answers[] | select(.question_identifier=="ASN").answer)//null),
-  })' "$datafile" > "_data/$output"
+  })' "$datafile" >> "_data/$output"
   rm -f "$datafile"
 
   # Create html page
