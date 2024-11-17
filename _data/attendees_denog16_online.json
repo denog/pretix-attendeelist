@@ -182,3 +182,29 @@
     "asn": null
   }
 ]
+[
+  {
+    "name": "Tom Herbers",
+    "company": null,
+    "irc": "tomh",
+    "asn": null
+  },
+  {
+    "name": "Urim Spahiu",
+    "company": "Deutsche Glasfaser",
+    "irc": null,
+    "asn": "60294"
+  },
+  {
+    "name": "Waqas Ahmad",
+    "company": "Godaddy",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Werner Fischer",
+    "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": null
+  }
+]
