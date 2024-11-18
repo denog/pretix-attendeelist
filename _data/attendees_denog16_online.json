@@ -2466,3 +2466,119 @@
     "asn": null
   }
 ]
+[
+  {
+    "name": "Stefan Hofmeir",
+    "company": "Hofmeir Media GmbH",
+    "irc": null,
+    "asn": "196922"
+  },
+  {
+    "name": "Stefan Jakob",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Stefan Reinhold",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Stefan Schmidt",
+    "company": "Wavecon GmbH",
+    "irc": "ZaphodB",
+    "asn": "60955"
+  },
+  {
+    "name": "Steffen Gebert",
+    "company": "emnify",
+    "irc": null,
+    "asn": "60044"
+  },
+  {
+    "name": "Stephan Jäkel",
+    "company": "rrbone",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Stephan Schreiber",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Sven Prötel",
+    "company": "questnet GmbH",
+    "irc": null,
+    "asn": "202566"
+  },
+  {
+    "name": "Sylvia Pudimar",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tema Hassan",
+    "company": "Zayo Europe",
+    "irc": null,
+    "asn": "6461"
+  },
+  {
+    "name": "Thomas Döpke",
+    "company": "Mittwald CM Service GmbH & Co. KG",
+    "irc": null,
+    "asn": "15817"
+  },
+  {
+    "name": "Thomas Maurer",
+    "company": "CANCOM Austria",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Thomas Trede",
+    "company": "purtel.com GmbH",
+    "irc": null,
+    "asn": "62336"
+  },
+  {
+    "name": "Timo Stamm",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tom Herbers",
+    "company": null,
+    "irc": "tomh",
+    "asn": null
+  },
+  {
+    "name": "Urim Spahiu",
+    "company": "Deutsche Glasfaser",
+    "irc": null,
+    "asn": "60294"
+  },
+  {
+    "name": "Waqas Ahmad",
+    "company": "Godaddy",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Werner Fischer",
+    "company": "Thomas-Krenn.AG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Wulf-Burkhard Göhmann",
+    "company": "private individual",
+    "irc": "wbg",
+    "asn": null
+  }
+]
