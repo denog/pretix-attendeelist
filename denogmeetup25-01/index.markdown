@@ -14,7 +14,7 @@ layout: liste
     </tr>
   </thead>
   <tbody>
-  {% assign sorted = site.data.member2025_onsite | sort_natural: 'name' %}
+  {% assign sorted = site.data.denogmeetup25-01_onsite | sort_natural: 'name' %}
   {% for entry in sorted %}
     <tr>
       <td>{{ entry.name }}</td>
@@ -64,7 +64,7 @@ document.querySelectorAll('th').forEach(th => th.addEventListener('click', (() =
     </tr>
   </thead>
   <tbody>
-  {% assign sorted = site.data.member2025_online | sort_natural: 'name' %}
+  {% assign sorted = site.data.denogmeetup25-01_online | sort_natural: 'name' %}
   {% for entry in sorted %}
     <tr>
       <td>{{ entry.name }}</td>
