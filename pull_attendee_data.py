@@ -79,15 +79,6 @@ for event in events['results']:
   print( "---------" )
   event_slug = event['slug']
   print( event_slug ) 
-  # Create html page
-  os.makedirs( event_slug, exist_ok=True)
-  outfile = "%s/index.markdown" % event_slug
-  with open( outfile, 'w', encoding='utf-8') as myfile: 
-    f = open( "template.index_online.markdown", 'r')
-    lines = f.readlines()
-    nlines = [l.replace('EVENT', event_slug) for l in lines]
-    myfile.writelines( nlines )
-  myfile.close()
   # Get orders from Checkinlist
   checkinlists_url="%s%s/checkinlists/" % (events_url, event_slug)
   response = requests.get(checkinlists_url, headers=headers)
@@ -111,11 +102,22 @@ for event in events['results']:
     # this is an onsite event
     output_filename = "_data/attendees_%s.json" % event_slug
     checkinlist_to_file( headers, checkinlists_url, checkinlist_onsite_id, event_slug, output_filename )
+    template = "template.index.markdown"
   else: 
     # onsite and online checkin-list
     output_filename = "_data/attendees_%s_online.json" % event_slug
     checkinlist_to_file( headers, checkinlists_url, checkinlist_online_id, event_slug, output_filename )
     output_filename = "_data/attendees_%s_onsite.json" % event_slug
     checkinlist_to_file( headers, checkinlists_url, checkinlist_onsite_id, event_slug, output_filename )
+    template = "template.index_online.markdown"
+  # Create html page
+  os.makedirs( event_slug, exist_ok=True)
+  outfile = "%s/index.markdown" % event_slug
+  with open( outfile, 'w', encoding='utf-8') as myfile: 
+    f = open( template, 'r')
+    lines = f.readlines()
+    nlines = [l.replace('EVENT', event_slug) for l in lines]
+    myfile.writelines( nlines )
+  myfile.close()
 
 
