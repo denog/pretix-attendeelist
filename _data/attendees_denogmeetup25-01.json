@@ -6,10 +6,34 @@
     "asn": "9002"
   },
   {
+    "name": "Felix Schüren",
+    "company": "Plusnet GmbH",
+    "irc": null,
+    "asn": "20676"
+  },
+  {
     "name": "Matthias Hahn",
     "company": "Nokia",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Michael Schumann",
+    "company": "GGEW net GmbH",
+    "irc": "mulix",
+    "asn": "30766"
+  },
+  {
+    "name": "Nina Saidi",
+    "company": "Megaport",
+    "irc": null,
+    "asn": "9033"
+  },
+  {
+    "name": "Sebastian Graf",
+    "company": "Xantaro",
+    "irc": null,
+    "asn": "203520"
   },
   {
     "name": "Tim Kleefass",
