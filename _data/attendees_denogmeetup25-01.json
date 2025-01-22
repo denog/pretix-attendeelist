@@ -52,5 +52,11 @@
     "company": "DENOG / DE-CIX / Stuttgart-IX",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Tom Herbers",
+    "company": "Freie Netze Südhessen e.V.",
+    "irc": "tomh",
+    "asn": null
   }
 ]
