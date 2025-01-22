@@ -24,6 +24,12 @@
     "asn": null
   },
   {
+    "name": "Magnus Frühling",
+    "company": "Freifunk Frankfurt am Main e.V.",
+    "irc": "skorpy",
+    "asn": "64475"
+  },
+  {
     "name": "Matthias Hahn",
     "company": "Nokia",
     "irc": null,
@@ -64,5 +70,11 @@
     "company": "Freie Netze Südhessen e.V.",
     "irc": "tomh",
     "asn": null
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "DE-CIX",
+    "irc": "Garf",
+    "asn": "196610"
   }
 ]
