@@ -10,5 +10,11 @@
     "company": null,
     "irc": null,
     "asn": "215236"
+  },
+  {
+    "name": "Lars Bußmann",
+    "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
+    "irc": "LarsB",
+    "asn": null
   }
 ]
