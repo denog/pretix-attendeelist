@@ -11,7 +11,7 @@ layout: liste
     </tr>
   </thead>
   <tbody>
-  {% assign sorted = site.data.denogmeetup25-02 | sort_natural: 'name' %}
+  {% assign sorted = site.data.attendees_denogmeetup25-02 | sort_natural: 'name' %}
   {% for entry in sorted %}
     <tr>
       <td>{{ entry.name }}</td>

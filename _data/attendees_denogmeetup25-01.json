@@ -1,5 +1,17 @@
 [
   {
+    "name": "Alexei Agueev",
+    "company": "Arista Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Anja Staufenberg",
+    "company": "Arista Networks",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christoph Grössl",
     "company": "RETN GmbH",
     "irc": null,
@@ -30,6 +42,12 @@
     "asn": "64475"
   },
   {
+    "name": "Markus Jungbluth",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": "203520"
+  },
+  {
     "name": "Matthias Hahn",
     "company": "Nokia",
     "irc": null,
@@ -46,6 +64,12 @@
     "company": "Megaport",
     "irc": null,
     "asn": "9033"
+  },
+  {
+    "name": "Philipp Glaser",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Graf",
