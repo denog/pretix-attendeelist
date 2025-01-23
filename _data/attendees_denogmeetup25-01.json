@@ -12,6 +12,12 @@
     "asn": "20755"
   },
   {
+    "name": "Andreas Stein",
+    "company": "NetBrain Technologies GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Anja Staufenberg",
     "company": "Arista Networks",
     "irc": null,
@@ -130,6 +136,12 @@
     "company": "Megaport",
     "irc": null,
     "asn": "9033"
+  },
+  {
+    "name": "Norbert Methe",
+    "company": "NetBrain Technologies GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Philipp Glaser",
