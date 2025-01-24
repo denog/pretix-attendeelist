@@ -114,6 +114,12 @@
     "asn": "64475"
   },
   {
+    "name": "Magnus Kaiser",
+    "company": "Exaring AG",
+    "irc": null,
+    "asn": "51324"
+  },
+  {
     "name": "Marie Brücher-Herpel",
     "company": null,
     "irc": null,
@@ -178,6 +184,12 @@
     "company": "DENOG / DE-CIX / Stuttgart-IX",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Tobias Krischer",
+    "company": "Exaring AG",
+    "irc": "tobikris",
+    "asn": "51324"
   },
   {
     "name": "Tom Herbers",
