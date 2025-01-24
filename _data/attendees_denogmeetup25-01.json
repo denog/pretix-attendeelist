@@ -1,5 +1,11 @@
 [
   {
+    "name": "Adrian Nöthlich",
+    "company": "Verein zur Förderung freier Netze Region Mittler Oberrhein",
+    "irc": "promasu",
+    "asn": "202329"
+  },
+  {
     "name": "Alexei Agueev",
     "company": "Arista Networks",
     "irc": null,
@@ -172,6 +178,12 @@
     "company": "Xantaro Deutschland GmbH",
     "irc": null,
     "asn": "203520"
+  },
+  {
+    "name": "Rose Jacobsen",
+    "company": "PFALZKOM",
+    "irc": "avara",
+    "asn": "21473"
   },
   {
     "name": "Sebastian Graf",
