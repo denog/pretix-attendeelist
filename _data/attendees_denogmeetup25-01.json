@@ -66,6 +66,12 @@
     "asn": "8763"
   },
   {
+    "name": "Holger Bielefeld",
+    "company": "UPONU GmbH",
+    "irc": null,
+    "asn": "208500"
+  },
+  {
     "name": "Istvan Ruzman",
     "company": "Exaring AG",
     "irc": null,
@@ -82,6 +88,12 @@
     "company": "level66.network UG",
     "irc": "netaviator / MrXermon",
     "asn": "56381"
+  },
+  {
+    "name": "Jan Mußmann",
+    "company": "UPONU GmbH",
+    "irc": null,
+    "asn": "208500"
   },
   {
     "name": "Johannes Erwerle",
