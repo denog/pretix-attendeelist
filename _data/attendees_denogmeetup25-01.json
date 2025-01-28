@@ -48,6 +48,12 @@
     "asn": null
   },
   {
+    "name": "Bernhard Hahn",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Bernhard Steinert",
     "company": "Brandl Services",
     "irc": null,
@@ -58,6 +64,12 @@
     "company": "RETN GmbH",
     "irc": null,
     "asn": "9002"
+  },
+  {
+    "name": "Elana Bartsits",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Felix Schüren",
@@ -240,16 +252,34 @@
     "asn": null
   },
   {
+    "name": "Robert Finze",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Rose Jacobsen",
     "company": "PFALZKOM",
     "irc": "avara",
     "asn": "21473"
   },
   {
+    "name": "Sara Fink",
+    "company": "TWL-KOM GmbH",
+    "irc": null,
+    "asn": "9022"
+  },
+  {
     "name": "Sebastian Graf",
     "company": "Xantaro",
     "irc": null,
     "asn": "203520"
+  },
+  {
+    "name": "Thomas King",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tim Arlt",
