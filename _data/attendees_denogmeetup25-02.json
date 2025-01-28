@@ -1,5 +1,11 @@
 [
   {
+    "name": "Gregor Winert",
+    "company": "KultiKom GmbH & Co. KG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Janina Faßbender",
     "company": "DENOG e.V. / Deutsche Telekom AG",
     "irc": null,
@@ -15,6 +21,18 @@
     "name": "Lars Bußmann",
     "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
     "irc": "LarsB",
+    "asn": null
+  },
+  {
+    "name": "Michael Schulte-Eickholt",
+    "company": "KultiKom GmbH & Co. KG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Torsten Sommer",
+    "company": "REMONDIS IT Services GmbH",
+    "irc": null,
     "asn": null
   }
 ]
