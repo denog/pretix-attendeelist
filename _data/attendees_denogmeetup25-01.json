@@ -186,6 +186,12 @@
     "asn": "51324"
   },
   {
+    "name": "Marco Zietz",
+    "company": "DE-CIX",
+    "irc": "Camro",
+    "asn": null
+  },
+  {
     "name": "Marie Brücher-Herpel",
     "company": null,
     "irc": null,
@@ -250,12 +256,6 @@
     "company": "Xantaro Deutschland GmbH",
     "irc": null,
     "asn": "203520"
-  },
-  {
-    "name": "Richard Mueller",
-    "company": null,
-    "irc": "tiffy",
-    "asn": null
   },
   {
     "name": "Robert Finze",
