@@ -6,6 +6,18 @@
     "asn": null
   },
   {
+    "name": "Annika Sieth",
+    "company": "rrbone",
+    "irc": "anni",
+    "asn": "39138"
+  },
+  {
+    "name": "Armin Dzogovic",
+    "company": "rrbone",
+    "irc": "amko",
+    "asn": "39138"
+  },
+  {
     "name": "Daniel Melzer",
     "company": "miriquidi networks GmbH",
     "irc": null,
@@ -114,6 +126,12 @@
     "asn": null
   },
   {
+    "name": "Luca Appel",
+    "company": "rrbone",
+    "irc": "luca_apfel",
+    "asn": "39138"
+  },
+  {
     "name": "Matthias Hahn",
     "company": "Nokia",
     "irc": null,
@@ -130,6 +148,12 @@
     "company": "Hetzner Cloud",
     "irc": "Barbarossa",
     "asn": null
+  },
+  {
+    "name": "Melissa Buschmann",
+    "company": "rrbone",
+    "irc": "melissa",
+    "asn": "39138"
   },
   {
     "name": "Michael Frey",
@@ -180,6 +204,12 @@
     "asn": "9033"
   },
   {
+    "name": "Paul Heidenreich",
+    "company": "rrbone",
+    "irc": "paulomart",
+    "asn": "39138"
+  },
+  {
     "name": "Paul Nokel",
     "company": "REMONDIS IT Services GmbH",
     "irc": null,
@@ -196,6 +226,12 @@
     "company": "Ruhr-Uni Bochum",
     "irc": "schrorg",
     "asn": "29484"
+  },
+  {
+    "name": "Saskia Schindler",
+    "company": "rrbone",
+    "irc": "sassi",
+    "asn": "39138"
   },
   {
     "name": "Sebastian Becker",
