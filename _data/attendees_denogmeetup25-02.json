@@ -30,6 +30,12 @@
     "asn": "24961"
   },
   {
+    "name": "Dominik Bay",
+    "company": "rrbone",
+    "irc": null,
+    "asn": "39138"
+  },
+  {
     "name": "Felix Schüren",
     "company": "Plusnet GmbH",
     "irc": null,
@@ -186,10 +192,28 @@
     "asn": null
   },
   {
+    "name": "Peter Sievers",
+    "company": "Arista Networks",
+    "irc": "PSI",
+    "asn": null
+  },
+  {
+    "name": "Peter Sievers",
+    "company": "Arista Networks",
+    "irc": "PSI",
+    "asn": null
+  },
+  {
     "name": "Robin Därmann",
     "company": "Ruhr-Uni Bochum",
     "irc": "schrorg",
     "asn": "29484"
+  },
+  {
+    "name": "Sebastian Becker",
+    "company": "DENOG e.V. / DTAG",
+    "irc": "_sb_",
+    "asn": "3320"
   },
   {
     "name": "Sebastian Graf",
@@ -202,6 +226,12 @@
     "company": "enthus GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Stephan Jäkel",
+    "company": "rrbone GmbH",
+    "irc": "stephrdev",
+    "asn": "39138"
   },
   {
     "name": "Thorben Schnittger",
