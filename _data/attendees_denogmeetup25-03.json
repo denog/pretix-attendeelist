@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Dustin Sanders",
+    "company": "Campus Hofnetz & Events",
+    "irc": null,
+    "asn": "50324"
+  },
+  {
+    "name": "Sebastian Kulich",
+    "company": null,
+    "irc": "skblnx",
+    "asn": null
+  }
+]
