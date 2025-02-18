@@ -12,6 +12,12 @@
     "asn": null
   },
   {
+    "name": "Klara Grziwok",
+    "company": "Wobcom",
+    "irc": "@klara:catgirl.cloud",
+    "asn": "9136"
+  },
+  {
     "name": "Peter György",
     "company": "BENOCS",
     "irc": null,
@@ -21,6 +27,12 @@
     "name": "Sebastian Kulich",
     "company": null,
     "irc": "skblnx",
+    "asn": null
+  },
+  {
+    "name": "Tim Arlt",
+    "company": "Nokia",
+    "irc": null,
     "asn": null
   }
 ]
