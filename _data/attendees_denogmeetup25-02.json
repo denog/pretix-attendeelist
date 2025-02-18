@@ -1,5 +1,11 @@
 [
   {
+    "name": "Adrian Krause",
+    "company": "DOKOM Gesellschaft für Telekommunikation mbH",
+    "irc": null,
+    "asn": "15763"
+  },
+  {
     "name": "Anja Staufenberg",
     "company": "Arista Networks",
     "irc": null,
@@ -88,6 +94,12 @@
     "company": "UPONU GmbH",
     "irc": null,
     "asn": "208500"
+  },
+  {
+    "name": "Jochen Blechstein",
+    "company": "DOKOM Gesellschaft für Telekommunikation mbH",
+    "irc": null,
+    "asn": "15763"
   },
   {
     "name": "Julian Huhn",
