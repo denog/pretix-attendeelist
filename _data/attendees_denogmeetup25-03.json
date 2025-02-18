@@ -6,10 +6,28 @@
     "asn": "3320"
   },
   {
+    "name": "Alice Boeddinghaus",
+    "company": "Student HTW Berlin",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alina Kaun",
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Amy Chudalla",
+    "company": "Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Clara Riese",
+    "company": "sipgate",
+    "irc": "clerie",
+    "asn": "15594"
   },
   {
     "name": "Dustin Sanders",
@@ -62,6 +80,12 @@
   {
     "name": "Wilhelm Boeddinghaus",
     "company": "Route 128 GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Wilhelm Christian Boeddinghaus",
+    "company": "Student FU Berlin",
     "irc": null,
     "asn": null
   }
