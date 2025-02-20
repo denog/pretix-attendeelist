@@ -36,6 +36,12 @@
     "asn": null
   },
   {
+    "name": "bernhard giese",
+    "company": "ipb",
+    "irc": "be_g",
+    "asn": "20647"
+  },
+  {
     "name": "Birgit Schönborn",
     "company": "IPB",
     "irc": null,
@@ -112,6 +118,12 @@
     "company": "Freifunk Berlin",
     "irc": null,
     "asn": "44194"
+  },
+  {
+    "name": "Nicol Nogradi",
+    "company": "Denog e.V./ Inter.link GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Oliver Krüger",
