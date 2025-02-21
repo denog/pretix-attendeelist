@@ -114,6 +114,12 @@
     "asn": null
   },
   {
+    "name": "Melanie Knauer",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nicolas Berens",
     "company": "Freifunk Berlin",
     "irc": null,
@@ -168,6 +174,12 @@
     "asn": null
   },
   {
+    "name": "Sebastian Wels",
+    "company": "I/P/B/",
+    "irc": null,
+    "asn": "20647"
+  },
+  {
     "name": "Stefan Hofmann",
     "company": "xamira networks GmbH",
     "irc": null,
@@ -178,6 +190,12 @@
     "company": "open 7 / route 128",
     "irc": "swaio",
     "asn": "208262"
+  },
+  {
+    "name": "Susann Böhme",
+    "company": "DENOG / I/P/B/",
+    "irc": null,
+    "asn": "20647"
   },
   {
     "name": "Tasso Mulzer",
