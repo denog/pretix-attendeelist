@@ -104,7 +104,7 @@
   {
     "name": "Julian Huhn",
     "company": null,
-    "irc": null,
+    "irc": "jhuhn",
     "asn": "215236"
   },
   {
@@ -268,6 +268,12 @@
     "company": "rrbone GmbH",
     "irc": "stephrdev",
     "asn": "39138"
+  },
+  {
+    "name": "Stephan Reugels",
+    "company": "NETMOUNTAINS",
+    "irc": "p3rf3ct10n",
+    "asn": "57575"
   },
   {
     "name": "Thorben Schnittger",
