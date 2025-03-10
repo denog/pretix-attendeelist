@@ -6,6 +6,12 @@
     "asn": "15763"
   },
   {
+    "name": "Alexander Hanke",
+    "company": "NETMOUNTAINS Group GmbH",
+    "irc": null,
+    "asn": "57575"
+  },
+  {
     "name": "Anja Staufenberg",
     "company": "Arista Networks",
     "irc": null,
@@ -298,12 +304,6 @@
     "company": "Monogon SE",
     "irc": "fionera",
     "asn": null
-  },
-  {
-    "name": "Tobias Heister",
-    "company": "Plusnet GmbH",
-    "irc": "izemaen",
-    "asn": "20676"
   },
   {
     "name": "Torsten Sommer",
