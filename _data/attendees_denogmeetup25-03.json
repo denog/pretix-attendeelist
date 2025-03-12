@@ -102,6 +102,12 @@
     "asn": null
   },
   {
+    "name": "Frederic Jung",
+    "company": "GitHub, Inc.",
+    "irc": "jchome",
+    "asn": "36459"
+  },
+  {
     "name": "Jens Link",
     "company": null,
     "irc": "snej",
@@ -201,6 +207,12 @@
     "name": "Sebastian Kulich",
     "company": null,
     "irc": "skblnx",
+    "asn": null
+  },
+  {
+    "name": "Sebastian Posner",
+    "company": "DTAG",
+    "irc": "snaeqe",
     "asn": null
   },
   {
