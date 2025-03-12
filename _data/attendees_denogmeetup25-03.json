@@ -30,10 +30,22 @@
     "asn": "20647"
   },
   {
+    "name": "Andreas Bräu",
+    "company": "freifunk",
+    "irc": "@andibraeu",
+    "asn": null
+  },
+  {
     "name": "Andreas Henning",
     "company": "BENOCS",
     "irc": null,
     "asn": "209039"
+  },
+  {
+    "name": "andre niemann",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Antonia Pérez-Cerezo",
