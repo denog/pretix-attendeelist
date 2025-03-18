@@ -132,6 +132,12 @@
     "asn": null
   },
   {
+    "name": "Julian Fölsch",
+    "company": "IBH IT-Service GmbH // AG DSN",
+    "irc": "paktosan",
+    "asn": "15372"
+  },
+  {
     "name": "Klara Grziwok",
     "company": "Wobcom",
     "irc": "@klara:catgirl.cloud",
@@ -238,6 +244,12 @@
     "company": "Glauca Digital",
     "irc": "TheEnbyperor",
     "asn": "207960"
+  },
+  {
+    "name": "Rouven Seifert",
+    "company": "Arbeitsgemeinschaft Dresdner Studentennetz (AG DSN)",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Sebastian Kulich",
