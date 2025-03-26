@@ -54,6 +54,12 @@
     "asn": null
   },
   {
+    "name": "Armin Hessler",
+    "company": "SAP SE",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "bernhard giese",
     "company": "ipb",
     "irc": "be_g",
@@ -144,6 +150,12 @@
     "asn": null
   },
   {
+    "name": "Franziska Lichtblau",
+    "company": "SAP Cloud Infrastructure",
+    "irc": "rhalina",
+    "asn": null
+  },
+  {
     "name": "Frederic Jung",
     "company": "GitHub, Inc.",
     "irc": "jchome",
@@ -230,6 +242,12 @@
   {
     "name": "Michael Prinzinger",
     "company": "Port Zero",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Michael Schmidt",
+    "company": "SAP SE",
     "irc": null,
     "asn": null
   },
