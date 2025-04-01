@@ -1,11 +1,5 @@
 [
   {
-    "name": "Alexander Lobodzinski",
-    "company": "Deutsche Telekom",
-    "irc": null,
-    "asn": "3320"
-  },
-  {
     "name": "Alex Senderkin",
     "company": "BCIX Management GmbH",
     "irc": "icebreak",
@@ -154,6 +148,12 @@
     "company": "GitHub, Inc.",
     "irc": "jchome",
     "asn": "36459"
+  },
+  {
+    "name": "Giulia Potikha",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Hendrik Wolff",
