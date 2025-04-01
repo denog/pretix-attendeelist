@@ -376,5 +376,11 @@
     "company": "Student FU Berlin",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Wulf-Burkhard Göhmann",
+    "company": null,
+    "irc": "wbg",
+    "asn": "680"
   }
 ]
