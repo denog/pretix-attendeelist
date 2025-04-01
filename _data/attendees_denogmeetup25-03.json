@@ -234,6 +234,12 @@
     "asn": null
   },
   {
+    "name": "Michael Krahe",
+    "company": "BENOCS",
+    "irc": null,
+    "asn": "203039"
+  },
+  {
     "name": "Michael Prinzinger",
     "company": "Port Zero",
     "irc": null,
@@ -340,12 +346,6 @@
     "company": "Nokia",
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Tizian Maxime Weigt",
-    "company": "TMW Global Networks",
-    "irc": "Tizian156",
-    "asn": "215828"
   },
   {
     "name": "Tobias Just",
