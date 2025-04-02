@@ -24,9 +24,27 @@
     "asn": "13045"
   },
   {
+    "name": "Klara Grziwok",
+    "company": "WOBCOM",
+    "irc": null,
+    "asn": "9136"
+  },
+  {
+    "name": "Lukas Grams",
+    "company": "Wobcom",
+    "irc": null,
+    "asn": "9136"
+  },
+  {
     "name": "Sebastian Kulich",
     "company": null,
     "irc": "skblnx",
     "asn": null
+  },
+  {
+    "name": "Willow Schmidt",
+    "company": "WOBCOM GmbH",
+    "irc": null,
+    "asn": "9136"
   }
 ]
