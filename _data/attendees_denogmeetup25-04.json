@@ -6,6 +6,12 @@
     "asn": "20647"
   },
   {
+    "name": "Clara Riese",
+    "company": "sipgate",
+    "irc": "clerie",
+    "asn": "15594"
+  },
+  {
     "name": "Fereshteh Gharibi",
     "company": "HTP GmbH",
     "irc": null,
@@ -22,6 +28,12 @@
     "company": "htp GmbH",
     "irc": null,
     "asn": "13045"
+  },
+  {
+    "name": "Jennifer Graul",
+    "company": "RelAix Networks",
+    "irc": "netali",
+    "asn": "34953"
   },
   {
     "name": "Klara Grziwok",
