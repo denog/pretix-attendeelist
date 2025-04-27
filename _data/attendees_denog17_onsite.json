@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Moritz Frenzel",
+    "company": "DENOG e.V. / EdgeOps GmbH / Stuttgart-IX",
+    "irc": "momorientes",
+    "asn": "41139"
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "DENOG e.V. / DE-CIX / Stuttgart-IX",
+    "irc": "@tim:haitabu.net",
+    "asn": null
+  }
+]
