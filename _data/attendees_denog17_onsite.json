@@ -12,9 +12,21 @@
     "asn": "3320"
   },
   {
+    "name": "Jan Koppe",
+    "company": null,
+    "irc": "thunfisch",
+    "asn": null
+  },
+  {
     "name": "Lars Bußmann",
     "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
     "irc": "LarsB",
+    "asn": null
+  },
+  {
+    "name": "Maximilian Wilhelm",
+    "company": "Hetzner Cloud",
+    "irc": "Barbarossa",
     "asn": null
   },
   {
@@ -28,6 +40,12 @@
     "company": "DENOG e.V. / EdgeOps GmbH / Stuttgart-IX",
     "irc": "momorientes",
     "asn": "41139"
+  },
+  {
+    "name": "Peter Gyoergy",
+    "company": "BENOCS",
+    "irc": null,
+    "asn": "209039"
   },
   {
     "name": "Sebastian Becker",
