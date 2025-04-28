@@ -1,5 +1,11 @@
 [
   {
+    "name": "Lars Bußmann",
+    "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
+    "irc": "LarsB",
+    "asn": null
+  },
+  {
     "name": "Michael Schneider",
     "company": null,
     "irc": null,
@@ -16,6 +22,12 @@
     "company": "Deutsche Telekom AG / DENOG e.V.",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Tan Siewert",
+    "company": null,
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tim Kleefass",
