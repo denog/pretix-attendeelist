@@ -1,9 +1,27 @@
 [
   {
+    "name": "Alina Kaun",
+    "company": null,
+    "irc": null,
+    "asn": "212744"
+  },
+  {
+    "name": "Amy Chudalla",
+    "company": "IPB Internet Provider in Berlin GmbH",
+    "irc": null,
+    "asn": "20647"
+  },
+  {
     "name": "Emily Kooistra",
     "company": "NIKHEF",
     "irc": "Evey",
     "asn": "1104"
+  },
+  {
+    "name": "Gabor Reich",
+    "company": "Inter.link",
+    "irc": null,
+    "asn": "5405"
   },
   {
     "name": "Janina Faßbender",
