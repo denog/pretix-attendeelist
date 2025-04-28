@@ -42,6 +42,12 @@
     "asn": null
   },
   {
+    "name": "Joachim Knauer",
+    "company": "netrio GmbH / Vodafone DE",
+    "irc": null,
+    "asn": "3209"
+  },
+  {
     "name": "Karim Geiger",
     "company": "OakHost",
     "irc": null,
@@ -87,6 +93,12 @@
     "name": "Tan Siewert",
     "company": null,
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Tasso Mulzer",
+    "company": "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS)",
+    "irc": "Knurps",
     "asn": null
   },
   {
