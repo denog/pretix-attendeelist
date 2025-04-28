@@ -1,5 +1,11 @@
 [
   {
+    "name": "Michael Schneider",
+    "company": null,
+    "irc": null,
+    "asn": "60799"
+  },
+  {
     "name": "Moritz Frenzel",
     "company": "DENOG e.V. / EdgeOps GmbH / Stuttgart-IX",
     "irc": "momorientes",
