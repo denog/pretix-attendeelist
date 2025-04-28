@@ -124,5 +124,11 @@
     "company": "Ute Wolf",
     "irc": "odaswelt",
     "asn": "20647"
+  },
+  {
+    "name": "Yannik Eichel",
+    "company": "NetDev UG",
+    "irc": null,
+    "asn": "216333"
   }
 ]
