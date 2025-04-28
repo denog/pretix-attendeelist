@@ -1,5 +1,17 @@
 [
   {
+    "name": "Emily Kooistra",
+    "company": "NIKHEF",
+    "irc": "Evey",
+    "asn": "1104"
+  },
+  {
+    "name": "Janina Faßbender",
+    "company": "DENOG e.V. / Deutsche Telekom AG",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
     "name": "Lars Bußmann",
     "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
     "irc": "LarsB",
