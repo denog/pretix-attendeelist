@@ -24,6 +24,12 @@
     "asn": "20647"
   },
   {
+    "name": "Andreas John",
+    "company": "net-lab",
+    "irc": null,
+    "asn": "20755"
+  },
+  {
     "name": "Andreas Sturm",
     "company": "DE-CIX",
     "irc": null,
@@ -232,6 +238,12 @@
     "company": "Inter.link / DENOG",
     "irc": "tvberlin",
     "asn": "5405"
+  },
+  {
+    "name": "Thomas King",
+    "company": "DE-CIX Group AG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tim Kleefass",
