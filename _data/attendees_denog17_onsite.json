@@ -144,6 +144,12 @@
     "asn": "6695"
   },
   {
+    "name": "Marian Putala",
+    "company": "Juniper",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Markus Berthold",
     "company": "ADESTIS",
     "irc": null,
@@ -178,6 +184,12 @@
     "company": "DENOG e.V. / EdgeOps GmbH / Stuttgart-IX",
     "irc": "momorientes",
     "asn": "41139"
+  },
+  {
+    "name": "Nico Boehr",
+    "company": "Freifunk Stuttgart",
+    "irc": "@nrb:gelaber.org / nrb",
+    "asn": "208772"
   },
   {
     "name": "Niklas Vogel",
