@@ -60,6 +60,12 @@
     "asn": "5405"
   },
   {
+    "name": "Hannes Witt",
+    "company": "Exa Infrastructure",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Janik Haag",
     "company": null,
     "irc": null,
@@ -130,6 +136,12 @@
     "company": "Hetzner Cloud",
     "irc": "Barbarossa",
     "asn": null
+  },
+  {
+    "name": "Michael Hayler",
+    "company": "noris networks",
+    "irc": "raider",
+    "asn": "12337"
   },
   {
     "name": "Michael Prinzinger",
