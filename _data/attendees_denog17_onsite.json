@@ -132,6 +132,12 @@
     "asn": "6695"
   },
   {
+    "name": "Markus Berthold",
+    "company": "ADESTIS",
+    "irc": null,
+    "asn": "204053"
+  },
+  {
     "name": "Maximilian Wilhelm",
     "company": "Hetzner Cloud",
     "irc": "Barbarossa",
@@ -178,6 +184,12 @@
     "company": "BENOCS",
     "irc": null,
     "asn": "209039"
+  },
+  {
+    "name": "Rene Inzenhofer",
+    "company": "ADESTIS",
+    "irc": null,
+    "asn": "204053"
   },
   {
     "name": "Richard Müller",
