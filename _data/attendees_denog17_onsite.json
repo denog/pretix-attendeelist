@@ -42,6 +42,12 @@
     "asn": "6695"
   },
   {
+    "name": "Arne Bäumler",
+    "company": "R-KOM GmbH",
+    "irc": null,
+    "asn": "12611"
+  },
+  {
     "name": "Christian Dieckhoff",
     "company": "WDZ / WOBCOM",
     "irc": "chrisd",
@@ -204,6 +210,12 @@
     "asn": "208772"
   },
   {
+    "name": "Nico Linde",
+    "company": "Gerresheimer AG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Niklas Vogel",
     "company": "Hetzner Cloud",
     "irc": null,
@@ -250,6 +262,12 @@
     "company": "BelWü",
     "irc": "neuner",
     "asn": "553"
+  },
+  {
+    "name": "Stefan Brandl",
+    "company": "R-KOM GmbH",
+    "irc": null,
+    "asn": "12611"
   },
   {
     "name": "Stefan Funke",
