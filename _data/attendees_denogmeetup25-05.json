@@ -1,5 +1,11 @@
 [
   {
+    "name": "Julius Rickert",
+    "company": "Hetzner Cloud",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Markus Witt",
     "company": "sipgate",
     "irc": "feuerrot",
