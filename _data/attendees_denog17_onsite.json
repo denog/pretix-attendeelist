@@ -126,6 +126,12 @@
     "asn": "3209"
   },
   {
+    "name": "Johanna Reichmann",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jörn Meisel",
     "company": "TNG Stadtnetz GmbH",
     "irc": "jmeisel",
@@ -153,6 +159,12 @@
     "name": "Lars Bußmann",
     "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
     "irc": "LarsB",
+    "asn": null
+  },
+  {
+    "name": "Leona Maroni",
+    "company": null,
+    "irc": null,
     "asn": null
   },
   {
