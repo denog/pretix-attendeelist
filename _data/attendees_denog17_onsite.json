@@ -90,6 +90,12 @@
     "asn": null
   },
   {
+    "name": "Jan Dirnberger",
+    "company": "noris network AG",
+    "irc": "solis",
+    "asn": "12337"
+  },
+  {
     "name": "Jan Gilla",
     "company": "level66.network",
     "irc": "netaviator",
@@ -298,6 +304,12 @@
     "company": "BelWü",
     "irc": "neuner",
     "asn": "553"
+  },
+  {
+    "name": "Sebastian Wiesinger",
+    "company": "noris network AG",
+    "irc": "GPF",
+    "asn": "12337"
   },
   {
     "name": "Stefan Behte",
