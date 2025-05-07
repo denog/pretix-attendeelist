@@ -354,6 +354,12 @@
     "asn": null
   },
   {
+    "name": "Tizian Cardinal von Widdern",
+    "company": "TeleData GmbH",
+    "irc": "twiddern",
+    "asn": "21263"
+  },
+  {
     "name": "Ursin Filli",
     "company": null,
     "irc": "ursinn",
@@ -364,6 +370,12 @@
     "company": "Ute Wolf",
     "irc": "odaswelt",
     "asn": "20647"
+  },
+  {
+    "name": "Werner Brand",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
   },
   {
     "name": "Yannik Eichel",
