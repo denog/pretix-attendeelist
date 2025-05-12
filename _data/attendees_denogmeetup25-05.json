@@ -42,6 +42,12 @@
     "asn": "34936"
   },
   {
+    "name": "David Große Siestrup",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": "davgro",
+    "asn": "42184"
+  },
+  {
     "name": "Janina Fassbender",
     "company": "DENOG e.V. / Deutsche Telekom AG",
     "irc": null,
@@ -52,6 +58,12 @@
     "company": "Hetzner Cloud",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Justus Berning",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
   },
   {
     "name": "Lukas Schauer",
