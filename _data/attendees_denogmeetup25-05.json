@@ -6,6 +6,12 @@
     "asn": "20647"
   },
   {
+    "name": "Andreas Tarp",
+    "company": "sipgate GmbH",
+    "irc": null,
+    "asn": "15594"
+  },
+  {
     "name": "Arne Bayer",
     "company": "RelAix Networks",
     "irc": null,
@@ -22,6 +28,12 @@
     "company": "Deutsche Telekom AG",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Daniel Melzer",
+    "company": "miriquidi networks GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Janina Fassbender",
