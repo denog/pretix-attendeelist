@@ -54,6 +54,12 @@
     "asn": "9136"
   },
   {
+    "name": "Christopher Dziomba",
+    "company": "Deutsche Telekom AG",
+    "irc": null,
+    "asn": "3320"
+  },
+  {
     "name": "Elmar Bins",
     "company": "F-Root",
     "irc": "KnockandO",
@@ -148,6 +154,12 @@
     "company": "netrio GmbH / Vodafone DE",
     "irc": null,
     "asn": "3209"
+  },
+  {
+    "name": "Joey Julian König",
+    "company": "PathConnect GmbH",
+    "irc": null,
+    "asn": "47536"
   },
   {
     "name": "Johanna Reichmann",
