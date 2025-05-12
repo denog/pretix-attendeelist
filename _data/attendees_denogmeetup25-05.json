@@ -54,6 +54,12 @@
     "asn": null
   },
   {
+    "name": "Julian Huhn",
+    "company": null,
+    "irc": "jhuhn",
+    "asn": "215236"
+  },
+  {
     "name": "Julius Rickert",
     "company": "Hetzner Cloud",
     "irc": null,
@@ -78,6 +84,12 @@
     "asn": null
   },
   {
+    "name": "Marcus Scholz",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": "Commander1024",
+    "asn": "42184"
+  },
+  {
     "name": "Markus Witt",
     "company": "sipgate",
     "irc": "feuerrot",
@@ -94,6 +106,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Niklas Plugge",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
   },
   {
     "name": "Pepe Rosam",
