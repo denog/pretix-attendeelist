@@ -54,6 +54,12 @@
     "asn": null
   },
   {
+    "name": "Jan Schnurpfeil",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Julian Huhn",
     "company": null,
     "irc": "jhuhn",
@@ -136,5 +142,11 @@
     "company": "Korves.Net USA LLC",
     "irc": "Der-Tim",
     "asn": "207439"
+  },
+  {
+    "name": "Tobias Heister",
+    "company": "Plusnet Gmbh",
+    "irc": "izemaen",
+    "asn": "20676"
   }
 ]
