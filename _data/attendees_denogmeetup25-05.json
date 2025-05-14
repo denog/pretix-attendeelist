@@ -12,6 +12,12 @@
     "asn": "15594"
   },
   {
+    "name": "Anja Staufenberg",
+    "company": "Arista Networks GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Arne Bayer",
     "company": "RelAix Networks",
     "irc": null,
@@ -28,6 +34,12 @@
     "company": "Deutsche Telekom AG",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Christoph Plum",
+    "company": "Arista Networks",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Daniel Melzer",
