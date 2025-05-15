@@ -96,6 +96,12 @@
     "asn": "42184"
   },
   {
+    "name": "Lars Bußmann",
+    "company": "arvato systems GmbH / Freifunk Rheinland e.V.",
+    "irc": "LarsB",
+    "asn": null
+  },
+  {
     "name": "Luca Strick",
     "company": "Factory Campus GmbH & Co. KG",
     "irc": null,
