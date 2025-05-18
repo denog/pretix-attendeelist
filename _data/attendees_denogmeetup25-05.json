@@ -18,6 +18,12 @@
     "asn": null
   },
   {
+    "name": "April Faye John",
+    "company": "Servfail e.V. / DENIC eG",
+    "irc": "@aprl:estrogen.jetzt",
+    "asn": "208709"
+  },
+  {
     "name": "Arne Bayer",
     "company": "RelAix Networks",
     "irc": null,
@@ -58,6 +64,12 @@
     "company": "TKRZ Stadtwerke GmbH",
     "irc": "davgro",
     "asn": "42184"
+  },
+  {
+    "name": "Dominique Liberda",
+    "company": "Servfail e.V.",
+    "irc": "sdomi",
+    "asn": "208709"
   },
   {
     "name": "Evelyn Alicke",
