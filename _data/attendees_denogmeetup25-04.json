@@ -126,6 +126,12 @@
     "asn": "48314"
   },
   {
+    "name": "Karsten Fischer",
+    "company": "EWE TEL",
+    "irc": null,
+    "asn": "9145"
+  },
+  {
     "name": "Klara Grziwok",
     "company": "WOBCOM",
     "irc": null,
@@ -160,6 +166,12 @@
     "company": "Flying Circus Internet Operations GmbH",
     "irc": "molly",
     "asn": "41981"
+  },
+  {
+    "name": "Moritz Frenzel",
+    "company": "DENOG e.V. / EdgeOps GmbH / Stuttgart-IX",
+    "irc": "momorientes",
+    "asn": "41139"
   },
   {
     "name": "Nicol Nogradi",
