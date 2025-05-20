@@ -48,6 +48,12 @@
     "asn": "15594"
   },
   {
+    "name": "Dalibor Dreznjak",
+    "company": "WOBCOM GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Elmar Kirchner",
     "company": "RtBrick Inc",
     "irc": null,
@@ -100,6 +106,12 @@
     "company": "RelAix Networks GmbH",
     "irc": "netali",
     "asn": "34953"
+  },
+  {
+    "name": "Jens Hofschröer",
+    "company": "Stadt Wolfsburg",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Johann Wagner",
