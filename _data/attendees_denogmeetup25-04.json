@@ -108,6 +108,12 @@
     "asn": "34953"
   },
   {
+    "name": "Jens Griesemann",
+    "company": "WOBCOM GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Jens Hofschröer",
     "company": "Stadt Wolfsburg",
     "irc": null,
@@ -220,6 +226,12 @@
     "company": "WOBcom",
     "irc": null,
     "asn": "9136"
+  },
+  {
+    "name": "Thomas Schulz",
+    "company": "WOBCOM GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tim-Gerrit Bieber",
