@@ -234,6 +234,12 @@
     "asn": null
   },
   {
+    "name": "Leon Kramer",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
+  },
+  {
     "name": "Lukas Hagen",
     "company": "Haitse",
     "irc": "haktron",
@@ -298,6 +304,12 @@
     "company": "cloud related GmbH",
     "irc": "nitram",
     "asn": "20755"
+  },
+  {
+    "name": "Marvin Härdtlein",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
   },
   {
     "name": "Maximilian Wilhelm",
@@ -418,6 +430,12 @@
     "company": "Deutsche Telekom AG / DENOG e.V.",
     "irc": "_sb_",
     "asn": "3320"
+  },
+  {
+    "name": "Sebastian Gerner",
+    "company": "firstcolo",
+    "irc": null,
+    "asn": "44066"
   },
   {
     "name": "Sebastian Neuner",
