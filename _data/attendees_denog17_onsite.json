@@ -54,6 +54,18 @@
     "asn": "3320"
   },
   {
+    "name": "Dennis Diehm",
+    "company": "Hetzner Online GmbH",
+    "irc": "dendie",
+    "asn": "24940"
+  },
+  {
+    "name": "Dominik Grüber",
+    "company": "Hetzner Online GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Elmar Bins",
     "company": "F-Root",
     "irc": "KnockandO",
