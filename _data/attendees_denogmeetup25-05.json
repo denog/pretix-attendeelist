@@ -138,6 +138,12 @@
     "asn": null
   },
   {
+    "name": "Luca Breuer",
+    "company": "NETMOUNTAINS",
+    "irc": null,
+    "asn": "57575"
+  },
+  {
     "name": "Luca Strick",
     "company": "Factory Campus GmbH & Co. KG",
     "irc": null,
@@ -234,6 +240,12 @@
     "asn": null
   },
   {
+    "name": "Stephan Reugels",
+    "company": "NETMOUNTAINS",
+    "irc": null,
+    "asn": "57575"
+  },
+  {
     "name": "Sven Heim",
     "company": null,
     "irc": null,
@@ -244,6 +256,12 @@
     "company": "Korves.Net USA LLC",
     "irc": "Der-Tim",
     "asn": "207439"
+  },
+  {
+    "name": "Tim Windelschmidt",
+    "company": "Monogon SE",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tobias Heister",
