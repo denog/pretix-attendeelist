@@ -24,6 +24,12 @@
     "asn": "20647"
   },
   {
+    "name": "Andreas Beck",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Andreas Boesen",
     "company": "BelWü",
     "irc": "Happy",
@@ -408,6 +414,12 @@
     "asn": "680"
   },
   {
+    "name": "Oliver Horscht",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "44486"
+  },
+  {
     "name": "Peter Geiger",
     "company": "OakHost-Services",
     "irc": null,
@@ -436,6 +448,12 @@
     "company": null,
     "irc": "tiffy",
     "asn": null
+  },
+  {
+    "name": "Robert Bruhm",
+    "company": "SYNLINQ",
+    "irc": null,
+    "asn": "44486"
   },
   {
     "name": "Robin Christ",
