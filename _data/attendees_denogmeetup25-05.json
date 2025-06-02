@@ -96,6 +96,12 @@
     "asn": "20676"
   },
   {
+    "name": "Filip Wolf",
+    "company": "wifi-wolf.de",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Gero Gerke",
     "company": "Gero Gerke IT Dienstleistungen",
     "irc": null,
@@ -189,12 +195,6 @@
     "name": "Merlin Scholz",
     "company": "SERVFAIL e.V.",
     "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Merlin Wolf",
-    "company": "wifi-wolf.de",
-    "irc": "lupo",
     "asn": null
   },
   {
