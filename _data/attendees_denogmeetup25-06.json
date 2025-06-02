@@ -102,6 +102,12 @@
     "asn": "553"
   },
   {
+    "name": "Tim Arlt",
+    "company": "Nokia",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Tom Merlin Eichhorn",
     "company": "DE-CIX",
     "irc": "MrTux",
