@@ -72,6 +72,12 @@
     "asn": "3320"
   },
   {
+    "name": "Daniel Sluzewski",
+    "company": "BRITA SE",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dennis Diehm",
     "company": "Hetzner Online GmbH",
     "irc": "dendie",
@@ -140,6 +146,12 @@
   {
     "name": "Götz Görisch",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Haitham Afifi",
+    "company": "BRITA SE",
     "irc": null,
     "asn": null
   },
@@ -554,6 +566,12 @@
   {
     "name": "Thomas Schäfer",
     "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Thomas Seip",
+    "company": "BRITA SE",
     "irc": null,
     "asn": null
   },
