@@ -178,5 +178,11 @@
     "company": "DE-CIX",
     "irc": "MrTux",
     "asn": "6695"
+  },
+  {
+    "name": "Yannick Huber",
+    "company": "BelWü",
+    "irc": null,
+    "asn": "553"
   }
 ]
