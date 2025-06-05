@@ -18,6 +18,12 @@
     "asn": "197634"
   },
   {
+    "name": "Alexander Kriechbaum",
+    "company": "conova communications GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Amy Chudalla",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -46,6 +52,12 @@
     "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Armin Fisslthaler",
+    "company": "conova communications GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Arne Bäumler",
@@ -466,6 +478,12 @@
     "company": "Globalways by zayo Europe",
     "irc": "dritter",
     "asn": "48918"
+  },
+  {
+    "name": "Philipp Krivanec",
+    "company": "conova communications GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Philipp Woldach",
