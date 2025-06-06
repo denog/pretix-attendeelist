@@ -1,5 +1,11 @@
 [
   {
+    "name": "Alexander Votteler",
+    "company": "RelAix Networks",
+    "irc": "v0tti",
+    "asn": "34953"
+  },
+  {
     "name": "Amy Chudalla",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -236,6 +242,12 @@
   {
     "name": "Niklas Vogel",
     "company": "Hetzner Cloud",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Pascal Weiland",
+    "company": "ÖRR",
     "irc": null,
     "asn": null
   },
