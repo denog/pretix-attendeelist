@@ -322,5 +322,11 @@
     "company": "Plusnet Gmbh",
     "irc": "izemaen",
     "asn": "20676"
+  },
+  {
+    "name": "Urim Spahiu",
+    "company": "Deutsche Glasfaser",
+    "irc": null,
+    "asn": "60294"
   }
 ]
