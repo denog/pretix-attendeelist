@@ -1,5 +1,11 @@
 [
   {
+    "name": "Alexander Fabian",
+    "company": "KIT",
+    "irc": "@nc6401:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Amy Chudalla",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
