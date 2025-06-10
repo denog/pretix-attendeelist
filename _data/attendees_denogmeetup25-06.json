@@ -54,8 +54,20 @@
     "asn": "20292"
   },
   {
+    "name": "Dominik Rimpf",
+    "company": "KIT",
+    "irc": null,
+    "asn": "34878"
+  },
+  {
     "name": "Emre Cinar",
     "company": "Nokia",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Erik Zeiske",
+    "company": "Selfnet e.V.",
     "irc": null,
     "asn": null
   },
@@ -114,6 +126,12 @@
     "asn": null
   },
   {
+    "name": "Leon Amtmann",
+    "company": "IBM Deutschland GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Magnus Frühling",
     "company": "Freifunk Frankfurt am Main e.V.",
     "irc": "skorpy",
@@ -129,6 +147,12 @@
     "name": "Marc Haber",
     "company": "incluesion",
     "irc": "Zugschlus",
+    "asn": null
+  },
+  {
+    "name": "Marco von Rosenberg",
+    "company": "Selfnet e.V.",
+    "irc": "@codingmarco@famhahn.xyz",
     "asn": null
   },
   {
