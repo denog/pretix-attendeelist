@@ -1,5 +1,11 @@
 [
   {
+    "name": "Alexander Hanke",
+    "company": "NETMOUNTAINS",
+    "irc": null,
+    "asn": "57575"
+  },
+  {
     "name": "Alexander Votteler",
     "company": "RelAix Networks",
     "irc": "v0tti",
@@ -82,12 +88,6 @@
     "company": "Servfail e.V.",
     "irc": "sdomi",
     "asn": "208709"
-  },
-  {
-    "name": "Evelyn Alicke",
-    "company": null,
-    "irc": null,
-    "asn": "208696"
   },
   {
     "name": "fam fo",
