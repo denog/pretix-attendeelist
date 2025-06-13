@@ -366,12 +366,6 @@
     "asn": "60799"
   },
   {
-    "name": "Manuel Hachtkemper",
-    "company": "Universität Bonn",
-    "irc": "hacman",
-    "asn": "207611"
-  },
-  {
     "name": "Marco Hegenberg",
     "company": null,
     "irc": null,
@@ -692,12 +686,6 @@
   {
     "name": "Tim Arlt",
     "company": "Nokia",
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Tim Bayer",
-    "company": "Universität Bonn",
     "irc": null,
     "asn": null
   },
