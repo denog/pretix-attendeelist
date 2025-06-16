@@ -102,12 +102,6 @@
     "asn": "15594"
   },
   {
-    "name": "Florian Mai",
-    "company": "sipgate GmbH",
-    "irc": null,
-    "asn": "15594"
-  },
-  {
     "name": "Gero Gerke",
     "company": "Gero Gerke IT Dienstleistungen",
     "irc": null,
@@ -268,6 +262,12 @@
     "company": "Max-Planck-Institut für Informatik",
     "irc": "TheEnbyperor",
     "asn": "207960"
+  },
+  {
+    "name": "Ruben Herold",
+    "company": "ViA-Online GmbH",
+    "irc": "Panther_1",
+    "asn": "62086"
   },
   {
     "name": "Rudolph Bott",
