@@ -336,6 +336,12 @@
     "asn": null
   },
   {
+    "name": "Kai Kriegel",
+    "company": "OVIS IT Consulting GmbH",
+    "irc": null,
+    "asn": "48303"
+  },
+  {
     "name": "Karim Geiger",
     "company": "OakHost",
     "irc": null,
@@ -418,6 +424,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Marco Herrmann",
+    "company": "OVIS IT Consulting GmbH",
+    "irc": null,
+    "asn": "48303"
   },
   {
     "name": "Marcus Brauckmann",
@@ -748,6 +760,12 @@
     "company": "BRITA SE",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Thomas Wiese",
+    "company": "OVIS IT Consulting GmbH",
+    "irc": null,
+    "asn": "48303"
   },
   {
     "name": "Tim Arlt",
