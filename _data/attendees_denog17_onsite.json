@@ -426,6 +426,12 @@
     "asn": "207611"
   },
   {
+    "name": "Marco Firsching",
+    "company": "Rechenzentrum Haßfurt GmbH",
+    "irc": null,
+    "asn": "44973"
+  },
+  {
     "name": "Marco Hegenberg",
     "company": null,
     "irc": null,
@@ -844,5 +850,11 @@
     "company": "NetDev UG",
     "irc": null,
     "asn": "216333"
+  },
+  {
+    "name": "Yvonne Krienke",
+    "company": "Rechenzentrum Haßfurt GmbH",
+    "irc": null,
+    "asn": "44973"
   }
 ]
