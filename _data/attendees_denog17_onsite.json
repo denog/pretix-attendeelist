@@ -306,6 +306,12 @@
     "asn": "3320"
   },
   {
+    "name": "Jan-Tristan Kruse",
+    "company": "net.DE AG",
+    "irc": null,
+    "asn": "15743"
+  },
+  {
     "name": "Jean-Pierre Schwickerath",
     "company": "HILOTEC E+C AG",
     "irc": null,
@@ -394,6 +400,12 @@
     "company": "TelemaxX Telekommunikation GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Lennart Bösche",
+    "company": "net.DE AG",
+    "irc": null,
+    "asn": "15743"
   },
   {
     "name": "Leona Maroni",
@@ -678,6 +690,12 @@
     "asn": "209039"
   },
   {
+    "name": "Peter Sager",
+    "company": "net.DE AG",
+    "irc": null,
+    "asn": "15743"
+  },
+  {
     "name": "Philip Berndroth",
     "company": "PHILUNET GmbH",
     "irc": null,
@@ -796,6 +814,12 @@
     "company": "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS)",
     "irc": "Knurps",
     "asn": null
+  },
+  {
+    "name": "Theis Abben",
+    "company": "net.DE AG",
+    "irc": null,
+    "asn": "15743"
   },
   {
     "name": "Theo Voss",
