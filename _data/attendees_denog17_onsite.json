@@ -183,7 +183,7 @@
     "name": "Felix Menge",
     "company": "INWX",
     "irc": null,
-    "asn": null
+    "asn": "48596"
   },
   {
     "name": "Florian Hibler",
@@ -213,7 +213,7 @@
     "name": "Frank Hebold",
     "company": "INWX",
     "irc": null,
-    "asn": null
+    "asn": "48596"
   },
   {
     "name": "Gabor Reich",
@@ -410,8 +410,8 @@
   {
     "name": "Lilian Roller",
     "company": "INWX",
-    "irc": null,
-    "asn": null
+    "irc": "L3D",
+    "asn": "48596"
   },
   {
     "name": "Luiz Amaral",
