@@ -24,6 +24,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Wiesenmüller",
+    "company": "STRATO GmbH",
+    "irc": null,
+    "asn": "8560"
+  },
+  {
     "name": "Amy Chudalla",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -856,6 +862,12 @@
     "company": null,
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Thomas Schrank",
+    "company": "STRATO GmbH",
+    "irc": null,
+    "asn": "8560"
   },
   {
     "name": "Thomas Seip",
