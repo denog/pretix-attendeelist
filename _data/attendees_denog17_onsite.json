@@ -234,6 +234,12 @@
     "asn": "48596"
   },
   {
+    "name": "Franz-Josef Fink",
+    "company": "SWU TeleNet GmbH",
+    "irc": null,
+    "asn": "48284"
+  },
+  {
     "name": "Gabor Reich",
     "company": "Inter.link",
     "irc": null,
@@ -270,6 +276,12 @@
     "asn": "1299"
   },
   {
+    "name": "Harald Singer",
+    "company": "SWU TeleNet GmbH",
+    "irc": null,
+    "asn": "48284"
+  },
+  {
     "name": "Helmut Ammon",
     "company": "Juniper Networks GmbH",
     "irc": null,
@@ -292,6 +304,12 @@
     "company": "Inter.link",
     "irc": "jwbensley",
     "asn": "5405"
+  },
+  {
+    "name": "Jan Braitinger",
+    "company": "SWU TeleNet GmbH",
+    "irc": null,
+    "asn": "48284"
   },
   {
     "name": "Jan Dirnberger",
