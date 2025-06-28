@@ -288,6 +288,12 @@
     "asn": "203579"
   },
   {
+    "name": "Tizian Cardinal von Widdern",
+    "company": "TeleData GmbH",
+    "irc": "twiddern",
+    "asn": "21263"
+  },
+  {
     "name": "Tobias Franz",
     "company": "Deutsche Telekom",
     "irc": null,
@@ -298,6 +304,12 @@
     "company": "DE-CIX",
     "irc": "MrTux",
     "asn": "6695"
+  },
+  {
+    "name": "Werner Brand",
+    "company": "TeleData GmbH",
+    "irc": null,
+    "asn": "21263"
   },
   {
     "name": "Yannick Huber",
