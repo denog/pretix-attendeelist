@@ -30,6 +30,12 @@
     "asn": "8560"
   },
   {
+    "name": "Alina Kaun",
+    "company": "Amazon Web Services",
+    "irc": "@alina:catgirl.cloud",
+    "asn": "212744"
+  },
+  {
     "name": "Amy Chudalla",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -819,6 +825,12 @@
     "name": "Rose Turing",
     "company": null,
     "irc": "@juneegbert:matrix.org",
+    "asn": null
+  },
+  {
+    "name": "Sabrina Lorbschat",
+    "company": "Zayo Europe",
+    "irc": null,
     "asn": null
   },
   {
