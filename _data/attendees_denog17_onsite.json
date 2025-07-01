@@ -222,6 +222,12 @@
     "asn": "48596"
   },
   {
+    "name": "Fereshteh Gharibi",
+    "company": "htp GmbH",
+    "irc": "Feri",
+    "asn": "13045"
+  },
+  {
     "name": "Florian Hibler",
     "company": "Arista Networks / DENOG e.V.",
     "irc": "florian",
@@ -310,6 +316,12 @@
     "company": "Netflix",
     "irc": null,
     "asn": "2906"
+  },
+  {
+    "name": "Jafar Azizi",
+    "company": "htp GmbH",
+    "irc": null,
+    "asn": "13045"
   },
   {
     "name": "Jakob Müller",
@@ -726,6 +738,12 @@
     "asn": "41139"
   },
   {
+    "name": "Moritz Krause",
+    "company": "htp GmbH",
+    "irc": "_mrplow",
+    "asn": "13045"
+  },
+  {
     "name": "Nico Boehr",
     "company": "Freifunk Stuttgart",
     "irc": "@nrb:gelaber.org / nrb",
@@ -826,6 +844,12 @@
     "company": "SYNLINQ",
     "irc": null,
     "asn": "44486"
+  },
+  {
+    "name": "Robert Remenyi",
+    "company": "htp GmbH",
+    "irc": "robgerm",
+    "asn": "13045"
   },
   {
     "name": "Robin Christ",
