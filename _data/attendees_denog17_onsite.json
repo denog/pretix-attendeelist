@@ -42,6 +42,12 @@
     "asn": "212744"
   },
   {
+    "name": "Alper Altuntas",
+    "company": "ViA-Online GmbH",
+    "irc": null,
+    "asn": "62086"
+  },
+  {
     "name": "Amy Chudalla",
     "company": "IPB Internet Provider in Berlin GmbH",
     "irc": null,
@@ -184,6 +190,12 @@
     "company": "Hetzner Online GmbH",
     "irc": "dendie",
     "asn": "24940"
+  },
+  {
+    "name": "Detlef Wegener",
+    "company": "ViA-Online GmbH",
+    "irc": null,
+    "asn": "62086"
   },
   {
     "name": "Dirk Steingaesser",
@@ -840,6 +852,12 @@
     "asn": null
   },
   {
+    "name": "Philipp Vogtmann",
+    "company": "ViA-Online GmbH",
+    "irc": null,
+    "asn": "62086"
+  },
+  {
     "name": "Philipp Woldach",
     "company": "Aljo ' ever wanted!",
     "irc": null,
@@ -880,6 +898,12 @@
     "company": null,
     "irc": "@juneegbert:matrix.org",
     "asn": null
+  },
+  {
+    "name": "Ruben Herold",
+    "company": "ViA-Online GmbH",
+    "irc": "Panther_1",
+    "asn": "62086"
   },
   {
     "name": "Sabrina Lorbschat",
