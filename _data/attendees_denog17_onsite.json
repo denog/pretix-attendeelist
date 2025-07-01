@@ -84,6 +84,12 @@
     "asn": null
   },
   {
+    "name": "Anna Frühling",
+    "company": "Freifunk Frankfurt am Main e.V.",
+    "irc": "skorpy",
+    "asn": "64475"
+  },
+  {
     "name": "Armin Fisslthaler",
     "company": "conova communications GmbH",
     "irc": null,
