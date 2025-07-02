@@ -216,6 +216,12 @@
     "asn": null
   },
   {
+    "name": "Dittmar Schäpke",
+    "company": "TWL-KOM GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dmytro Shypovalov",
     "company": null,
     "irc": null,
@@ -450,6 +456,12 @@
     "asn": "216351"
   },
   {
+    "name": "Johannes Brauch",
+    "company": "TWL-KOM GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Johannes Erwerle",
     "company": "BelWü",
     "irc": "@jerwerle:belwue.chat",
@@ -508,6 +520,12 @@
     "company": "OakHost",
     "irc": null,
     "asn": "213410"
+  },
+  {
+    "name": "Klaas Mertens",
+    "company": "Equinix",
+    "irc": null,
+    "asn": "15830"
   },
   {
     "name": "Klaus Thielking-Riechert",
