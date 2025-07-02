@@ -84,6 +84,12 @@
     "asn": null
   },
   {
+    "name": "Anita Meyer",
+    "company": "Init7",
+    "irc": null,
+    "asn": "13030"
+  },
+  {
     "name": "Anna Frühling",
     "company": "Freifunk Frankfurt am Main e.V.",
     "irc": "skorpy",
@@ -292,6 +298,12 @@
     "company": "SWU TeleNet GmbH",
     "irc": null,
     "asn": "48284"
+  },
+  {
+    "name": "Fredy Künzler",
+    "company": "Init7",
+    "irc": null,
+    "asn": "13030"
   },
   {
     "name": "Gabor Reich",
