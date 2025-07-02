@@ -120,6 +120,12 @@
     "asn": null
   },
   {
+    "name": "Björn Erichsen",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Carl Michels",
     "company": "GWDG",
     "irc": null,
@@ -150,10 +156,22 @@
     "asn": "5405"
   },
   {
+    "name": "Christian Burk",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Christian Dieckhoff",
     "company": "WDZ / WOBCOM",
     "irc": "chrisd",
     "asn": "9136"
+  },
+  {
+    "name": "Christian Lehmann",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Christian Seitz",
@@ -256,6 +274,12 @@
     "company": "NIKHEF",
     "irc": "Evey",
     "asn": "1104"
+  },
+  {
+    "name": "Enrico Aderhold",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Felix Menge",
@@ -528,6 +552,12 @@
     "asn": "213410"
   },
   {
+    "name": "Katharina Hupe",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Klaas Mertens",
     "company": "Equinix",
     "irc": null,
@@ -748,6 +778,12 @@
     "company": "Cloud&Heat Technologies GmbH",
     "irc": null,
     "asn": "203592"
+  },
+  {
+    "name": "Maximilian Kürzel",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Maximilian Rink",
@@ -1143,6 +1179,18 @@
     "name": "Vanessa Hollmeier",
     "company": null,
     "irc": "@cyclopentane:aidoskyneen.eu",
+    "asn": null
+  },
+  {
+    "name": "Vithuschan Kirupakaran-Eikemper",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Vladimir Pavlovic",
+    "company": "HCD Consuting GmbH",
+    "irc": null,
     "asn": null
   },
   {
