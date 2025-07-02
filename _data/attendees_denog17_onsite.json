@@ -108,6 +108,12 @@
     "asn": "12611"
   },
   {
+    "name": "Arnold Nipper",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Attila Kovács",
     "company": "Inter.link",
     "irc": null,
@@ -580,6 +586,12 @@
     "company": "HCD Consulting GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Kevin Schmitz",
+    "company": "Freifunk Rheinland e.V.",
+    "irc": null,
+    "asn": "201701"
   },
   {
     "name": "Klaas Mertens",
