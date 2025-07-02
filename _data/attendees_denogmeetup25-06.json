@@ -186,6 +186,12 @@
     "asn": "30766"
   },
   {
+    "name": "Moritz Frenzel",
+    "company": "DENOG e.V. / Stuttgart-IX / EdgeOps GmbH",
+    "irc": "momorientes",
+    "asn": "41139"
+  },
+  {
     "name": "Morris Görke",
     "company": "iternas GmbH",
     "irc": null,
@@ -268,6 +274,12 @@
     "company": "DFN-Verein",
     "irc": "TS680",
     "asn": "680"
+  },
+  {
+    "name": "Tim Kleefass",
+    "company": "DENOG e.V. / Stuttgart-IX / DE-CIX",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Tim Weippert",
