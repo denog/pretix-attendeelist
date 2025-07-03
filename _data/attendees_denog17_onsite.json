@@ -156,6 +156,12 @@
     "asn": null
   },
   {
+    "name": "Birgit Schönborn",
+    "company": "IPB Internet Provider in Berlin",
+    "irc": null,
+    "asn": "20647"
+  },
+  {
     "name": "Björn Erichsen",
     "company": "HCD Consulting GmbH",
     "irc": null,
@@ -600,6 +606,12 @@
     "asn": null
   },
   {
+    "name": "Jonas Mutschler",
+    "company": "system.de - System & Project GmbH",
+    "irc": null,
+    "asn": "50030"
+  },
+  {
     "name": "Jon Morgan",
     "company": "Recorded Future",
     "irc": null,
@@ -634,6 +646,12 @@
     "company": "Hetzner Cloud",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Justin Gutsche",
+    "company": "IPB Internet Provider in Berlin",
+    "irc": null,
+    "asn": "20647"
   },
   {
     "name": "Kai Kriegel",
@@ -1320,6 +1338,18 @@
     "asn": "21263"
   },
   {
+    "name": "Tobias Just",
+    "company": "IPB Internet Provider in Berlin",
+    "irc": null,
+    "asn": "20647"
+  },
+  {
+    "name": "Tom Merlin Eichhorn",
+    "company": "DE-CIX",
+    "irc": "MrTux",
+    "asn": "6695"
+  },
+  {
     "name": "Ulf Kieber",
     "company": "xoo networks consulting",
     "irc": "kieber",
@@ -1378,6 +1408,12 @@
     "company": "TeleData GmbH",
     "irc": null,
     "asn": "21263"
+  },
+  {
+    "name": "Wolfgang Tremmel",
+    "company": "DE-CIX",
+    "irc": "Garf",
+    "asn": "196610"
   },
   {
     "name": "Yannik Eichel",
