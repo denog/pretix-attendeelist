@@ -126,6 +126,12 @@
     "asn": "5405"
   },
   {
+    "name": "Benedikt Heine",
+    "company": "3Q GmbH",
+    "irc": "bebehei",
+    "asn": "62359"
+  },
+  {
     "name": "Benedikt Merkl",
     "company": "SAP",
     "irc": null,
@@ -1264,6 +1270,12 @@
     "company": "Aljo ' ever wanted!",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Ulrich Köhler",
+    "company": "Core-Backbone GmbH",
+    "irc": "Ulli",
+    "asn": "33891"
   },
   {
     "name": "Ursin Filli",
