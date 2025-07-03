@@ -18,6 +18,12 @@
     "asn": "197634"
   },
   {
+    "name": "Alexander Beck",
+    "company": "Core-Backbone GmbH",
+    "irc": null,
+    "asn": "33891"
+  },
+  {
     "name": "Alexander Kriechbaum",
     "company": "conova communications GmbH",
     "irc": null,
@@ -376,6 +382,12 @@
     "company": "SWU TeleNet GmbH",
     "irc": null,
     "asn": "48284"
+  },
+  {
+    "name": "Frauke Beckert",
+    "company": "Strukturpiloten oHG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Frederic Bregiel",
@@ -820,6 +832,12 @@
     "company": null,
     "irc": null,
     "asn": "210941"
+  },
+  {
+    "name": "Martin Beckert",
+    "company": "Strukturpiloten oHG",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Martin Sofaru",
