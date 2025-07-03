@@ -162,6 +162,12 @@
     "asn": null
   },
   {
+    "name": "Canberk Kaya",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Carl Michels",
     "company": "GWDG",
     "irc": null,
@@ -304,6 +310,12 @@
     "company": "Hetzner Online GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Dorian Arnouts",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "205530"
   },
   {
     "name": "Dustin Sanders",
@@ -964,6 +976,12 @@
     "company": "DENOG e.V. / EdgeOps GmbH / Stuttgart-IX",
     "irc": "momorientes",
     "asn": "41139"
+  },
+  {
+    "name": "Moritz Jordan",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "205530"
   },
   {
     "name": "Moritz Krause",
