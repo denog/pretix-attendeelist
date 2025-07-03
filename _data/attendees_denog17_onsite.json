@@ -816,6 +816,12 @@
     "asn": "48303"
   },
   {
+    "name": "Marco Zietz",
+    "company": "DE-CIX",
+    "irc": null,
+    "asn": "6695"
+  },
+  {
     "name": "Marc Peters",
     "company": "RTL Technology GmbH",
     "irc": "mapet",
@@ -1024,6 +1030,12 @@
     "company": "Gerresheimer AG",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Niels de Vries",
+    "company": "system.de",
+    "irc": "langoor",
+    "asn": "50030"
   },
   {
     "name": "Niklas Vogel",
