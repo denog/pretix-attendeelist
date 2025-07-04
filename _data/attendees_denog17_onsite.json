@@ -894,6 +894,12 @@
     "asn": "204053"
   },
   {
+    "name": "Markus Jungbluth",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": "203520"
+  },
+  {
     "name": "Markus Krieger",
     "company": "Uni Würzburg",
     "irc": null,
@@ -1156,6 +1162,12 @@
     "company": "Globalways by zayo Europe",
     "irc": "dritter",
     "asn": "48918"
+  },
+  {
+    "name": "Philipp Glaser",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": "203520"
   },
   {
     "name": "Philipp Krivanec",
