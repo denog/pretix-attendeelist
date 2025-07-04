@@ -300,6 +300,12 @@
     "asn": null
   },
   {
+    "name": "David Große Siestrup",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
+  },
+  {
     "name": "Dennis Diehm",
     "company": "Hetzner Online GmbH",
     "irc": "dendie",
@@ -696,6 +702,12 @@
     "asn": "20647"
   },
   {
+    "name": "Justus Berning",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
+  },
+  {
     "name": "Kai Kriegel",
     "company": "OVIS IT Consulting GmbH",
     "irc": null,
@@ -874,6 +886,12 @@
     "company": "DE-CIX Management GmbH",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Marcus Scholz",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": "Commander1024",
+    "asn": "42184"
   },
   {
     "name": "Marcus Wichelmann",
@@ -1090,6 +1108,12 @@
     "company": "system.de",
     "irc": "langoor",
     "asn": "50030"
+  },
+  {
+    "name": "Niklas Plugge",
+    "company": "TKRZ Stadtwerke GmbH",
+    "irc": null,
+    "asn": "42184"
   },
   {
     "name": "Niklas Vogel",
