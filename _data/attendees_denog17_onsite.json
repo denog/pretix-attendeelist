@@ -120,6 +120,12 @@
     "asn": null
   },
   {
+    "name": "Andrew Molloy",
+    "company": "EXA Infrastructure Germany GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Anita Meyer",
     "company": "Init7",
     "irc": null,
@@ -1462,6 +1468,12 @@
     "company": "DENOG e.V. / DE-CIX / Stuttgart-IX",
     "irc": "@tim:haitabu.net",
     "asn": null
+  },
+  {
+    "name": "Tim Korves",
+    "company": "Korves.Net",
+    "irc": null,
+    "asn": "207439"
   },
   {
     "name": "Tim Windelschmidt",
