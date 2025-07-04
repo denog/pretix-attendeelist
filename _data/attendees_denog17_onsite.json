@@ -900,6 +900,12 @@
     "asn": "48303"
   },
   {
+    "name": "Marco Kain",
+    "company": "Portus Data Centers Muenchen GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marco Zietz",
     "company": "DE-CIX",
     "irc": null,
@@ -1010,6 +1016,12 @@
   {
     "name": "Mathias Handsche",
     "company": "nGENn GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Mathis Clermont",
+    "company": "Portus Data Centers Muenchen GmbH",
     "irc": null,
     "asn": null
   },
