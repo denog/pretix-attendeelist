@@ -978,6 +978,12 @@
     "asn": "6695"
   },
   {
+    "name": "Merlin Wolf",
+    "company": "wifi-wolf.de",
+    "irc": "lupo",
+    "asn": null
+  },
+  {
     "name": "Michael Fischer",
     "company": "nscon",
     "irc": "fischi",
