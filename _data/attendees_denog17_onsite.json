@@ -942,6 +942,12 @@
     "asn": "214958"
   },
   {
+    "name": "Marius Hellmann",
+    "company": "FFI e.V. / Freifunk Münsterland",
+    "irc": "@corny456:matrix.warpzone.ms",
+    "asn": "209894"
+  },
+  {
     "name": "Markus Berthold",
     "company": "ADESTIS",
     "irc": null,
@@ -1282,6 +1288,12 @@
     "company": "DTec Innovation GmbH & Co. KG / TU Darmstadt",
     "irc": "@greenstheorem:matrix.org",
     "asn": null
+  },
+  {
+    "name": "Robin Weiligmann",
+    "company": "Foerderverein Freie Infrastruktur e. V.",
+    "irc": "RobWei",
+    "asn": "209894"
   },
   {
     "name": "Rose Turing",
