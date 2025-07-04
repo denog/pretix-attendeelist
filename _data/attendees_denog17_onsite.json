@@ -48,6 +48,12 @@
     "asn": "8560"
   },
   {
+    "name": "Alex Senderkin",
+    "company": "BCIX",
+    "irc": "icebreak",
+    "asn": "16374"
+  },
+  {
     "name": "Alina Kaun",
     "company": "Amazon Web Services",
     "irc": "@alina:catgirl.cloud",
@@ -100,6 +106,12 @@
     "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "André Grüneberg",
+    "company": "BCIX",
+    "irc": "green525",
+    "asn": "16374"
   },
   {
     "name": "André Niemann",
