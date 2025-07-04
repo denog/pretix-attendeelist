@@ -612,6 +612,12 @@
     "asn": "3320"
   },
   {
+    "name": "Jannik Berges",
+    "company": "WEBDISCOUNT",
+    "irc": null,
+    "asn": "24637"
+  },
+  {
     "name": "Jan-Tristan Kruse",
     "company": "net.DE AG",
     "irc": null,
@@ -1072,6 +1078,12 @@
     "company": "wifi-wolf.de",
     "irc": "lupo",
     "asn": null
+  },
+  {
+    "name": "Michael Böhme",
+    "company": "WEBDISCOUNT",
+    "irc": null,
+    "asn": "24637"
   },
   {
     "name": "Michael Fischer",
