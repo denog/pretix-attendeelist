@@ -462,6 +462,12 @@
     "asn": null
   },
   {
+    "name": "Gregor von Stangen",
+    "company": "CANCOM Managed Services GmbH",
+    "irc": null,
+    "asn": "8469"
+  },
+  {
     "name": "Haitham Afifi",
     "company": "BRITA SE",
     "irc": null,
@@ -1450,12 +1456,6 @@
     "company": "HCD Consuting GmbH",
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "von Stangen Gregor",
-    "company": "CANCOM Managed Services GmbH",
-    "irc": null,
-    "asn": "8469"
   },
   {
     "name": "Werner Brand",
