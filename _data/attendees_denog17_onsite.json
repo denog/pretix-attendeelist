@@ -366,6 +366,12 @@
     "asn": null
   },
   {
+    "name": "Dominik Gutjahr",
+    "company": "BITel Gesellschaft für Telekommunikation mbH",
+    "irc": null,
+    "asn": "198967"
+  },
+  {
     "name": "Dorian Arnouts",
     "company": "DE-CIX",
     "irc": null,
@@ -634,6 +640,12 @@
     "company": "iSystems",
     "irc": "Scientress",
     "asn": null
+  },
+  {
+    "name": "Jens Richter",
+    "company": "BITel Gesellschaft für Telekommunikation mbH",
+    "irc": null,
+    "asn": "198967"
   },
   {
     "name": "Jens Vogler",
