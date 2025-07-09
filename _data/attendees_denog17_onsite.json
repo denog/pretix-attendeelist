@@ -294,6 +294,12 @@
     "asn": null
   },
   {
+    "name": "Clara Riese",
+    "company": "sipgate",
+    "irc": "clerie",
+    "asn": "15594"
+  },
+  {
     "name": "Costas Drogos",
     "company": "bunny.net",
     "irc": null,
@@ -430,6 +436,12 @@
     "company": "Arista Networks / DENOG e.V.",
     "irc": "florian",
     "asn": "55064"
+  },
+  {
+    "name": "Florian Jerusalem",
+    "company": "sipgate GmbH",
+    "irc": null,
+    "asn": "15594"
   },
   {
     "name": "Florian Kasper",
