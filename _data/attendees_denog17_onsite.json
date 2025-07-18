@@ -204,6 +204,12 @@
     "asn": "6695"
   },
   {
+    "name": "Carl Michels",
+    "company": "GWDG",
+    "irc": null,
+    "asn": "207592"
+  },
+  {
     "name": "Carsten Schiefner",
     "company": null,
     "irc": null,
@@ -1432,6 +1438,12 @@
     "company": "Arista Networks",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sebastian Klamt",
+    "company": "GWDG",
+    "irc": null,
+    "asn": "207592"
   },
   {
     "name": "Sebastian Klamt",
