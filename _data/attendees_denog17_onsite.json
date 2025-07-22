@@ -36,12 +36,6 @@
     "asn": null
   },
   {
-    "name": "Alexander Sauer",
-    "company": "EWERK DIGITAL GmbH",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Alexander Wiesenmüller",
     "company": "STRATO GmbH",
     "irc": null,
@@ -212,12 +206,6 @@
   {
     "name": "Carsten Schiefner",
     "company": null,
-    "irc": null,
-    "asn": null
-  },
-  {
-    "name": "Carsten Tardi",
-    "company": "EWERK DIGITAL GmbH",
     "irc": null,
     "asn": null
   },
@@ -814,12 +802,6 @@
     "company": "Equinix",
     "irc": null,
     "asn": "15830"
-  },
-  {
-    "name": "Klaus Thielking-Riechert",
-    "company": "EWERK DIGITAL GmbH",
-    "irc": null,
-    "asn": null
   },
   {
     "name": "Konstantin Marinovich",
