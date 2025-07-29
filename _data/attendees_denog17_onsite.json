@@ -1146,6 +1146,12 @@
     "asn": null
   },
   {
+    "name": "Mehdi Yazdanifard",
+    "company": "Glasfaser Nordwest",
+    "irc": null,
+    "asn": "62253"
+  },
+  {
     "name": "Melanie Großmann",
     "company": "DE-CIX",
     "irc": null,
@@ -1498,6 +1504,12 @@
     "company": "Universität Duisburg-Essen",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Sören Busse",
+    "company": "Glasfaser Nordwest",
+    "irc": null,
+    "asn": "62253"
   },
   {
     "name": "Stefan Behte",
