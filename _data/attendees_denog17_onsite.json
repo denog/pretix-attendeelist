@@ -168,6 +168,12 @@
     "asn": "5405"
   },
   {
+    "name": "Audrius Masiulionis",
+    "company": "Hostinger",
+    "irc": null,
+    "asn": "47583"
+  },
+  {
     "name": "Benedikt Heine",
     "company": "3Q GmbH",
     "irc": "bebehei",
@@ -784,6 +790,12 @@
     "company": "Hetzner Cloud",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Justinas Truncė",
+    "company": "Hostinger",
+    "irc": null,
+    "asn": "47583"
   },
   {
     "name": "Justin Gutsche",
@@ -1660,6 +1672,12 @@
     "company": "IPB Internet Provider in Berlin",
     "irc": null,
     "asn": "20647"
+  },
+  {
+    "name": "Tomas Vilemaitis",
+    "company": "Hostinger",
+    "irc": null,
+    "asn": "47583"
   },
   {
     "name": "Tom Merlin Eichhorn",
