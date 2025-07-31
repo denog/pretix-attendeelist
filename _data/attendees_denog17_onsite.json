@@ -438,6 +438,12 @@
     "asn": "48596"
   },
   {
+    "name": "Felix Meyer",
+    "company": "CLOUDETEER GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Fereshteh Gharibi",
     "company": "htp GmbH",
     "irc": "Feri",
@@ -1168,6 +1174,12 @@
     "company": "DE-CIX",
     "irc": null,
     "asn": "6695"
+  },
+  {
+    "name": "Melody Sofia Eroshevich",
+    "company": "DD-IX e.V. || CLOUDETEER GmbH",
+    "irc": null,
+    "asn": "57328"
   },
   {
     "name": "Merlin Wolf",
