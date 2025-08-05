@@ -432,6 +432,12 @@
     "asn": null
   },
   {
+    "name": "Emil Brücher-Herpel",
+    "company": "Freifunk Darmstadt",
+    "irc": null,
+    "asn": "214958"
+  },
+  {
     "name": "Emily Kooistra",
     "company": "NIKHEF",
     "irc": "Evey",
@@ -1060,12 +1066,6 @@
     "company": "Juniper",
     "irc": null,
     "asn": null
-  },
-  {
-    "name": "Marie Brücher-Herpel",
-    "company": "Freifunk Darmstadt",
-    "irc": null,
-    "asn": "214958"
   },
   {
     "name": "Marius Hellmann",
