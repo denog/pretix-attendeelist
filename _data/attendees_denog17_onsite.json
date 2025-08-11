@@ -30,6 +30,12 @@
     "asn": null
   },
   {
+    "name": "Alexander Leefmann",
+    "company": "DFN e.V.",
+    "irc": "arl",
+    "asn": "680"
+  },
+  {
     "name": "Alexander Martin Dethof",
     "company": "AVEQ",
     "irc": null,
@@ -952,6 +958,12 @@
     "company": "INWX",
     "irc": "L3D",
     "asn": "48596"
+  },
+  {
+    "name": "Luca Strick",
+    "company": null,
+    "irc": "strifel",
+    "asn": "207510"
   },
   {
     "name": "Luiz Amaral",
