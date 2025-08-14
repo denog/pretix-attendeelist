@@ -108,6 +108,12 @@
     "asn": null
   },
   {
+    "name": "Andreas Schaible",
+    "company": "raebbit networks GmbH",
+    "irc": null,
+    "asn": "214778"
+  },
+  {
     "name": "Andreas Sturm",
     "company": "DE-CIX",
     "irc": null,
@@ -298,6 +304,12 @@
     "company": "Deutsche Telekom AG",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Christoph Heinecke",
+    "company": "raebbit networks GmbH",
+    "irc": null,
+    "asn": "214778"
   },
   {
     "name": "Christoph Knörr",
