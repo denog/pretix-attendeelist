@@ -474,6 +474,12 @@
     "asn": null
   },
   {
+    "name": "Falk Storkebaum",
+    "company": "Netrio GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Felix Menge",
     "company": "INWX",
     "irc": null,
@@ -712,6 +718,12 @@
     "company": "Deutsche Telekom Technik GmbH",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Jan Neymanns",
+    "company": "SysEleven",
+    "irc": null,
+    "asn": "25291"
   },
   {
     "name": "Jannik Berges",
