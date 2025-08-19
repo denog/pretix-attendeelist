@@ -468,12 +468,6 @@
     "asn": "1104"
   },
   {
-    "name": "Enrico Aderhold",
-    "company": "HCD Consulting GmbH",
-    "irc": null,
-    "asn": null
-  },
-  {
     "name": "Falk Storkebaum",
     "company": "Netrio GmbH",
     "irc": null,
@@ -1456,6 +1450,12 @@
     "company": "man-da.de GmbH",
     "irc": "nojus on hackint.org",
     "asn": "8365"
+  },
+  {
+    "name": "Norbert Böttcher",
+    "company": "HCD Consulting GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Oliver Horscht",
