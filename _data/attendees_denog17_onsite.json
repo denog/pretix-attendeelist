@@ -24,6 +24,12 @@
     "asn": "33891"
   },
   {
+    "name": "Alexander Fabian",
+    "company": "Karlsruhe Institute of Technology",
+    "irc": "@nc6401:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Alexander Kriechbaum",
     "company": "conova communications GmbH",
     "irc": null,
@@ -214,6 +220,12 @@
     "company": "SAP",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Benedikt Neuffer",
+    "company": "Karlsruhe Institute of Technology",
+    "irc": "@iv4011:kit.edu",
+    "asn": "34878"
   },
   {
     "name": "Benjamin Knaus",
@@ -432,6 +444,12 @@
     "asn": "198967"
   },
   {
+    "name": "Dominik Rimpf",
+    "company": "Karlsruhe Institute of Technology",
+    "irc": "@ha2931:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Dorian Arnouts",
     "company": "DE-CIX",
     "irc": null,
@@ -630,6 +648,12 @@
     "asn": "48284"
   },
   {
+    "name": "Heiko Reese",
+    "company": "Karlsruhe Institute of Technology",
+    "irc": "@ge3242:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Helmut Ammon",
     "company": "Juniper Networks GmbH",
     "irc": null,
@@ -724,6 +748,12 @@
     "company": "DENOG e.V. / Deutsche Telekom AG",
     "irc": null,
     "asn": "3320"
+  },
+  {
+    "name": "Janis Streib",
+    "company": "Karlsruhe Institute of Technology",
+    "irc": "@xe4704:kit.edu",
+    "asn": "34878"
   },
   {
     "name": "Jan Koppe",
@@ -894,6 +924,12 @@
     "asn": null
   },
   {
+    "name": "Julian Schuh",
+    "company": "Karlsruhe Institute of Technology",
+    "irc": "@zd8187:kit.edu",
+    "asn": "34878"
+  },
+  {
     "name": "Julian von Paris",
     "company": "TNG Stadtnetz GmbH",
     "irc": null,
@@ -970,6 +1006,12 @@
     "company": "WOBCOM",
     "irc": "@klara:catgirl.cloud",
     "asn": "9136"
+  },
+  {
+    "name": "Klara Mall",
+    "company": "Karlsruhe Institute of Technology",
+    "irc": "@se7337:kit.edu",
+    "asn": "34878"
   },
   {
     "name": "Klaus Thielking-Riechert",
