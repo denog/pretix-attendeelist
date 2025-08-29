@@ -1746,6 +1746,12 @@
     "asn": "209894"
   },
   {
+    "name": "Ronald Capella",
+    "company": "Alturna Networks/Solid Optics",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Rose Turing",
     "company": null,
     "irc": "@juneegbert:matrix.org",
@@ -2014,6 +2020,12 @@
     "company": "DE-CIX",
     "irc": "MrTux",
     "asn": "6695"
+  },
+  {
+    "name": "Torsten Peuckert",
+    "company": "Alturna Networks/Solid Optics",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Ulf Kieber",
