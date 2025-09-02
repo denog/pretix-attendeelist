@@ -1050,6 +1050,12 @@
     "asn": null
   },
   {
+    "name": "Keno Rademaker",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
+  },
+  {
     "name": "Keyvan Ghadimi",
     "company": "NFON AG",
     "irc": null,
@@ -1510,6 +1516,12 @@
     "company": "GGEW net GmbH",
     "irc": "mulix",
     "asn": "30766"
+  },
+  {
+    "name": "Mirko Dettmann",
+    "company": "LWLcom GmbH",
+    "irc": null,
+    "asn": "50629"
   },
   {
     "name": "Molly Miller",
