@@ -318,6 +318,12 @@
     "asn": "9136"
   },
   {
+    "name": "Christian Frömmel",
+    "company": "Charité Berlin",
+    "irc": "blownaway",
+    "asn": null
+  },
+  {
     "name": "Christian Lehmann",
     "company": "HCD Consulting GmbH",
     "irc": null,
@@ -538,6 +544,12 @@
     "company": "TU Berlin | INET",
     "irc": null,
     "asn": "680"
+  },
+  {
+    "name": "Enno Gröper",
+    "company": "Charité Berlin",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Eugen Schwarz",
