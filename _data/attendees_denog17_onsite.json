@@ -1752,6 +1752,12 @@
     "asn": "60550"
   },
   {
+    "name": "Oliver Graf",
+    "company": "KEVAG Telekom GmbH",
+    "irc": null,
+    "asn": "12360"
+  },
+  {
     "name": "Oliver Horscht",
     "company": "SYNLINQ",
     "irc": null,
@@ -2212,6 +2218,12 @@
     "company": "DE-CIX",
     "irc": "MrTux",
     "asn": "6695"
+  },
+  {
+    "name": "Torsten Alt",
+    "company": "KEVAG Telekom GmbH",
+    "irc": null,
+    "asn": "12360"
   },
   {
     "name": "Torsten Peuckert",
