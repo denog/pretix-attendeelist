@@ -95,7 +95,7 @@ for event in events['results']:
       checkinlist_online_id = checkinlist['id']
   print( "Checkin-list IDs:", checkinlist_onsite_id, checkinlist_online_id )
   if checkinlist_onsite_id == 0:
-    print( "Didn't find >Public Attendees List< for event %s" % slug )
+    print( "Didn't find >Public Attendees List< for event %s" % event_slug )
     continue
   # 
   if checkinlist_online_id == 0:
