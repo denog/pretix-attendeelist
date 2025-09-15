@@ -222,6 +222,12 @@
     "asn": "47583"
   },
   {
+    "name": "Bastian Hoss",
+    "company": "Xantaro Deutschland GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Benedikt Heine",
     "company": "3Q GmbH",
     "irc": "bebehei",
@@ -958,6 +964,12 @@
     "company": "BCIX",
     "irc": null,
     "asn": "16374"
+  },
+  {
+    "name": "Jens Link",
+    "company": null,
+    "irc": "snej",
+    "asn": null
   },
   {
     "name": "Jens Richter",
