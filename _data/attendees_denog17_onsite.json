@@ -1086,6 +1086,12 @@
     "asn": null
   },
   {
+    "name": "Julia Munday",
+    "company": "SG.GS / PTX / NetUK",
+    "irc": null,
+    "asn": "24482"
+  },
+  {
     "name": "Julian Huhn",
     "company": null,
     "irc": "jhuhn",
@@ -1540,6 +1546,12 @@
     "company": "SysEleven GmbH",
     "irc": null,
     "asn": "25291"
+  },
+  {
+    "name": "Matt Jepp",
+    "company": "SG.GS / NetUK",
+    "irc": "MattJepp",
+    "asn": "24482"
   },
   {
     "name": "Matt Peterson",
