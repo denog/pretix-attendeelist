@@ -1446,6 +1446,12 @@
     "asn": null
   },
   {
+    "name": "Mario Kohl",
+    "company": "EXA Infrastructure",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Marius Hellmann",
     "company": "Förderverein freie Infrastruktur e. V.",
     "irc": "@corny456:matrix.warpzone.ms",
@@ -1546,6 +1552,12 @@
     "company": "Smartoptics AS",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Matthias Kluth",
+    "company": "HeLi NET Telekommunikation",
+    "irc": null,
+    "asn": "12355"
   },
   {
     "name": "Matthias Krause",
