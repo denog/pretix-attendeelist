@@ -2238,6 +2238,12 @@
     "asn": "62253"
   },
   {
+    "name": "Stefan Alfers",
+    "company": "23M",
+    "irc": null,
+    "asn": "47447"
+  },
+  {
     "name": "Stefan Behte",
     "company": "Babiel GmbH",
     "irc": "craig",
@@ -2404,6 +2410,12 @@
     "company": "IPB Internet Provider in Berlin",
     "irc": null,
     "asn": "20647"
+  },
+  {
+    "name": "Tobias Rehn",
+    "company": "23M",
+    "irc": "tr",
+    "asn": "47447"
   },
   {
     "name": "Tomas Vilemaitis",
