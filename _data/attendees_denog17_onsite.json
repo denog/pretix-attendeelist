@@ -24,6 +24,12 @@
     "asn": "33891"
   },
   {
+    "name": "Alexander Dube",
+    "company": "plusserver GmbH",
+    "irc": null,
+    "asn": "0"
+  },
+  {
     "name": "Alexander Fabian",
     "company": "Karlsruhe Institute of Technology",
     "irc": "@nc6401:kit.edu",
@@ -326,6 +332,12 @@
   {
     "name": "Chase Clowser",
     "company": "Recorded Future",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Christian Adler",
+    "company": "plusserver GmbH",
     "irc": null,
     "asn": null
   },
@@ -2050,6 +2062,12 @@
     "company": "Arelion",
     "irc": null,
     "asn": "1299"
+  },
+  {
+    "name": "Pierre Neumann",
+    "company": "plusserver GmbH",
+    "irc": null,
+    "asn": null
   },
   {
     "name": "Poh Chiat Koh",
