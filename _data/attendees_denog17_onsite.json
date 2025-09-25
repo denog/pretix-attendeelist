@@ -27,7 +27,7 @@
     "name": "Alexander Dube",
     "company": "plusserver GmbH",
     "irc": null,
-    "asn": "0"
+    "asn": "61157"
   },
   {
     "name": "Alexander Fabian",
@@ -339,7 +339,7 @@
     "name": "Christian Adler",
     "company": "plusserver GmbH",
     "irc": null,
-    "asn": null
+    "asn": "61157"
   },
   {
     "name": "Christian Backe",
@@ -1890,6 +1890,12 @@
     "asn": "680"
   },
   {
+    "name": "Nils Thesing",
+    "company": null,
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Nils Trampel",
     "company": "Chemnitzer StudentenNetz",
     "irc": "camelusferus",
@@ -2073,7 +2079,7 @@
     "name": "Pierre Neumann",
     "company": "plusserver GmbH",
     "irc": null,
-    "asn": null
+    "asn": "61157"
   },
   {
     "name": "Poh Chiat Koh",
