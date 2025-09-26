@@ -1458,6 +1458,12 @@
     "asn": "207611"
   },
   {
+    "name": "Manuel Schlusche",
+    "company": "Schlusche Consulting GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Manuel Tschager",
     "company": "Init7",
     "irc": null,
@@ -2415,6 +2421,12 @@
     "name": "Thomas King",
     "company": "DE-CIX Group AG",
     "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Thomas Lohninger",
+    "company": "epicenter.works",
+    "irc": "socialhack",
     "asn": null
   },
   {
