@@ -618,6 +618,12 @@
     "asn": "680"
   },
   {
+    "name": "Emre Cinar",
+    "company": "Nokia",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Enno Gröper",
     "company": "Charité Berlin",
     "irc": null,
@@ -1834,6 +1840,12 @@
     "company": "Zyxel Deutschland GmbH",
     "irc": null,
     "asn": null
+  },
+  {
+    "name": "Michael Rosero Littwin",
+    "company": "wilhelm.tel",
+    "irc": null,
+    "asn": "15943"
   },
   {
     "name": "Michael Schneider",
