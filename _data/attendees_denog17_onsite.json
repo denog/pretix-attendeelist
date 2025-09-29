@@ -1,5 +1,11 @@
 [
   {
+    "name": "Adora Laura Kalb",
+    "company": "DATEV eG",
+    "irc": "adora",
+    "asn": "15451"
+  },
+  {
     "name": "Adrian Bönde",
     "company": "HELDELE GmbH",
     "irc": null,
@@ -1750,6 +1756,12 @@
     "company": "noris network AG",
     "irc": "luciusf",
     "asn": "12337"
+  },
+  {
+    "name": "Maximilian Krohn",
+    "company": "Wilhelm.tel",
+    "irc": null,
+    "asn": "15943"
   },
   {
     "name": "Maximilian Kürzel",
