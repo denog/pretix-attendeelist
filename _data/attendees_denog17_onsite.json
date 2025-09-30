@@ -264,6 +264,12 @@
     "asn": null
   },
   {
+    "name": "Bastian Triller",
+    "company": "Gamma Placetel",
+    "irc": null,
+    "asn": "200561"
+  },
+  {
     "name": "Benedikt Heine",
     "company": "3Q GmbH",
     "irc": "bebehei",
@@ -1322,6 +1328,12 @@
   {
     "name": "Kay Laese",
     "company": "Mahr-EDV",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Kenichi Watanabe",
+    "company": "NTT Advanced Technology Cooperation",
     "irc": null,
     "asn": null
   },
