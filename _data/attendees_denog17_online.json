@@ -220,5 +220,11 @@
     "company": null,
     "irc": "TobsA",
     "asn": "24940"
+  },
+  {
+    "name": "Tom Herbers",
+    "company": null,
+    "irc": "tomh",
+    "asn": null
   }
 ]
