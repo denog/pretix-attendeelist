@@ -174,6 +174,12 @@
     "asn": "6695"
   },
   {
+    "name": "Andreas Weigand",
+    "company": "TU Dresden",
+    "irc": null,
+    "asn": "215797"
+  },
+  {
     "name": "André Grüneberg",
     "company": "BCIX",
     "irc": "green525",
@@ -1736,6 +1742,12 @@
   {
     "name": "Matthias Detsch",
     "company": "Exaring AG",
+    "irc": null,
+    "asn": null
+  },
+  {
+    "name": "Matthias Hahn",
+    "company": "NOKIA",
     "irc": null,
     "asn": null
   },
