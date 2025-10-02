@@ -18,6 +18,12 @@
     "asn": null
   },
   {
+    "name": "Ahmad Cheikh-Moussa",
+    "company": "Axians Networks & Solutions GmbH",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Alec Höfler",
     "company": null,
     "irc": "@ha:alech.cc",
@@ -1408,6 +1414,12 @@
     "company": "Exaring AG - waipu.tv",
     "irc": null,
     "asn": "51324"
+  },
+  {
+    "name": "Kurt Kayser",
+    "company": "Kurt Kayser Konsultation",
+    "irc": null,
+    "asn": "23456"
   },
   {
     "name": "Lara Hallaczek",
