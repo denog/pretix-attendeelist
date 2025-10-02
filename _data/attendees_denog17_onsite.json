@@ -486,6 +486,12 @@
     "asn": "200325"
   },
   {
+    "name": "Dagmar Cords",
+    "company": "Goethe Universität Frankfurt",
+    "irc": null,
+    "asn": "20633"
+  },
+  {
     "name": "Daniel Melzer",
     "company": "miriquidi networks GmbH",
     "irc": null,
@@ -742,6 +748,12 @@
     "company": "htp GmbH",
     "irc": "Feri",
     "asn": "13045"
+  },
+  {
+    "name": "Fiona Ganzinger",
+    "company": "WDZ GmbH",
+    "irc": null,
+    "asn": "9136"
   },
   {
     "name": "Florian Brenner",
