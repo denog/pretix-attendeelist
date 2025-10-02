@@ -516,6 +516,12 @@
     "asn": "48111"
   },
   {
+    "name": "DEDIS KG",
+    "company": "DEDIS CON GmbH & Co. KG",
+    "irc": null,
+    "asn": null
+  },
+  {
     "name": "Dennis Diehm",
     "company": "Hetzner Online GmbH",
     "irc": "dendie",
