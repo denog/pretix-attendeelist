@@ -522,6 +522,12 @@
     "asn": null
   },
   {
+    "name": "Danjela Mica",
+    "company": "MainStreaming SPA",
+    "irc": null,
+    "asn": "51185"
+  },
+  {
     "name": "David Abel",
     "company": "TelemaxX Telekommunikation GmbH",
     "irc": null,
@@ -2338,6 +2344,12 @@
     "company": "SYNLINQ",
     "irc": null,
     "asn": "44486"
+  },
+  {
+    "name": "Roberto Cancellara",
+    "company": "MainStreaming SPA",
+    "irc": "dicearcha",
+    "asn": "51185"
   },
   {
     "name": "Robert Remenyi",
