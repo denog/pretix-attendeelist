@@ -1200,6 +1200,12 @@
     "asn": null
   },
   {
+    "name": "Jerry Grondel",
+    "company": "AMS-IX",
+    "irc": null,
+    "asn": "1200"
+  },
+  {
     "name": "Joachim Ernst",
     "company": null,
     "irc": "0x4A6F",
